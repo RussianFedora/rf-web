@@ -26,7 +26,7 @@ SITE_URL = "https://ru.fedoracommunity.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://ru.fedoracommunity.org/"
 BLOG_EMAIL = "admin@russianfedora.pro"
-BLOG_DESCRIPTION = "Сообщество русскоязычных участников международного проекта Fedora"  # (translatable)
+BLOG_DESCRIPTION = "cообщество русскоязычных участников<br> международного проекта Fedora"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -284,11 +284,11 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+LOGO_URL = '/assets/images/rf-logo.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
-# SHOW_BLOG_TITLE = True
+SHOW_BLOG_TITLE = True
 
 # Writes tag cloud data in form of tag_cloud_data.json.
 # Warning: this option will change its default value to False in v8!
@@ -1008,10 +1008,10 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
@@ -1215,7 +1215,29 @@ UNSLUGIFY_TITLES = True
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+    'blog_sidebar': """\
+    <div class="sidebar-module">
+    <h3>О проекте</h3>
+    <p>
+    <ul class="list-unstyled">
+    <li>Мы собираем и поддерживаем пакеты в рамках Fedora. Это наши пять копеек в развитие открытых технологий.</li>
+    <li>Мы переводим дистрибутив на русский язык, собираем документацию к нему, организуем мероприятия. Это наш вклад в то, чтобы Fedora стала ближе для российских пользователей.</li>
+    <li>Мы помогаем включиться в мировые открытые проекты тем, кто хочет расти и быть на переднем краю разработки. Это непросто, но оно стоит потраченных усилий.</li>
+    </p>
+    </div>
+    <div class="sidebar-module">
+    <h4>Links</h4>
+    <ol class="list-unstyled">
+    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
+    <li><a href="https://getnikola.com/">Nikola</a></li>
+    <li><a ref="https://twitter.com/mdo">@mdo</a></li>
+    <li><a ref="https://twitter.com/Kwpolska">@Kwpolska</a></li>
+    <li><a ref="https://twitter.com/GetNikola">@GetNikola</a></li>
+    </ol>
+    </div>
+    """
+}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be

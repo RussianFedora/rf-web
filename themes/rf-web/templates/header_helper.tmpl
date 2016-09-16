@@ -1,0 +1,50 @@
+{% macro html_logo() %}
+{% if logo_url %}
+<div id="logo">
+    <a href="/" title="Главная" rel="home" id="logo"><img src="{{ logo_url }}" alt="Главная" />
+    </a>
+</div>
+{% endif %}
+
+{% endmacro %}
+
+{% macro menubar() %}
+<!-- Menubar -->
+
+<div class="blog-masthead">
+    <div class="container"><!-- This keeps the margins nice -->
+        <nav class="blog-nav" role="navigation">
+            {{ base.html_navigation_links() }}
+            {{ template_hooks['menu']() }}
+            {% if search_form %}
+                {{ search_form }}
+            {% endif %}
+
+                {% block belowtitle %}
+                {% if translations|length > 1 %}
+                    {{ base.html_translations() }}
+                {% endif %}
+                {% endblock %}
+                {% if show_sourcelink %}
+                    {% block sourcelink %}{% endblock %}
+                {% endif %}
+                {{ template_hooks['menu_alt']() }}
+            </ul>
+        </nav>
+    </div><!-- /.container -->
+</div>
+<!-- End of Menubar -->
+{% endmacro %}
+
+{% macro slogan() %}
+<div class="blog-header">
+  <div id="description">
+    {% if show_blog_title %}
+    <span id="blog-title">{{ blog_title }}</span>
+    {% endif %}
+    <p class="lead blog-description">{{ blog_description }}</p>
+    {{ template_hooks['page_header']() }}
+  </div>
+</div>
+
+{% endmacro %}

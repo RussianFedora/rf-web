@@ -20,8 +20,17 @@
  */
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  color: #555;
+  font-family: "Liberation Sans", "Droid Sans", sans-serif;
+}
+
+#content {
+    box-shadow: 5px 0 20px 0px #888, -5px 0 20px 0px #888;
+    padding: 0;
+}
+
+.body-content {
+    padding: 15px;
+
 }
 
 h1, .h1,
@@ -31,7 +40,7 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   margin-top: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Comfortaa", "Liberation Sans", "Droid Sans", sans-serif;
   font-weight: normal;
   color: #333;
 }
@@ -96,34 +105,55 @@ h6, .h6 {
  */
 
 .blog-header {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../images/background-blue.png");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-color: #294172;
+  color: #ffffff;
 }
-.blog-title {
-  margin-top: 30px;
-  margin-bottom: 0;
-  font-size: 60px;
+#blog-title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 30px;
   font-weight: normal;
 }
 .blog-description {
   font-size: 20px;
-  color: #999;
+  color: inherit;
 }
 
+#description {
+    margin: 0 20px;
+}
+
+/*
+ * Logo
+ */
+
+#logo {
+    background-image: url("../images/background-white.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
 
 /*
  * Main column and sidebar layout
  */
 
 .blog-main {
-  font-size: 18px;
-  line-height: 1.5;
+    line-height: 1.5;
+    margin-right: -5px;
 }
+
 
 /* Sidebar modules for boxing content */
 .sidebar-module {
   padding: 15px;
-  margin: 0 -15px 15px;
+  margin: 0 0 15px;
+  color: #ffffff;
+  background-color: #3c6eb4;
 }
 .sidebar-module-inset {
   padding: 15px;
@@ -136,6 +166,9 @@ h6, .h6 {
   margin-bottom: 0;
 }
 
+.sidebar-module > ol > li > a {
+    color: #ffffff;
+}
 
 /* Pagination */
 .pager {
@@ -155,11 +188,13 @@ h6, .h6 {
  */
 
 .blog-post {
-  margin-bottom: 60px;
+  margin-bottom: 5px;
+  padding: 20px;
+  background-color: #efefef;
 }
 .blog-post-title {
   margin-bottom: 5px;
-  font-size: 40px;
+  font-size: 26px;
 }
 .blog-post-meta {
   margin-bottom: 20px;
