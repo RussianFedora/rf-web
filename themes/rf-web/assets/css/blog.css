@@ -231,3 +231,12 @@ h6, .h6 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+.social-buttons {
+    float: right;
+    padding: 15px;
+}
+
+.social-buttons > div {
+    margin: 5px;
+}
