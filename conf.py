@@ -132,9 +132,13 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/", "Пульс"),
+        ("/stories/rfremix/", "RFRemix"),
+        ("/stories/skachat/", "Скачать"),
         ("/archive.html", "Архив"),
         ("/categories/", "Тэги"),
         ("/rss.xml", "RSS лента"),
+        ("http://wiki.russianfedora.pro/", "Вики"),
     ),
 }
 
