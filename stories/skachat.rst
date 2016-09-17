@@ -18,12 +18,13 @@
 Для Windows:
 ------------
 
-* Russian Fedora Live USB Creator - небольшая графическая утилита для
-  записи iso-образов на флешку.  Отличается от `Fedora LiveUSB Creator
+* `Russian Fedora Live USB Creator
+  <http://russianfedora.pro/sites/default/files/RF-liveusb-creator-3.11.8-setup.exe>`__ -
+  небольшая графическая утилита для записи iso-образов на флешку.
+  Отличается от `Fedora LiveUSB Creator
   <https://fedorahosted.org/liveusb-creator>`_ тем, что умеет
   автоматически скачивать образы RFRemix из интернета, в остальном
-  функционал идентичен. См. подробности `в вики
-  <http://wiki.russianfedora.ru/index.php?title=Russian_Fedora_LiveUSB_Creator>`_.
+  функционал идентичен.
 
 Fedora
 ======
