@@ -830,7 +830,20 @@ FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+LICENSE = """
+<p>
+<span xmlns:dct="http://purl.org/dc/terms/"
+ href="http://purl.org/dc/dcmitype/Dataset"
+ property="dct:title"
+ rel="dct:type">
+  Материалы сайта
+</span>
+доступны на условиях лицензии
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная
+</a>.
+</p>
+"""
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
 # LICENSE = """
