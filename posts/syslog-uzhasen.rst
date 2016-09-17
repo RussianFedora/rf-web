@@ -10,7 +10,7 @@
 
 `Justin Azoff`_, безопасник из `National Center for Supercomputing
 Applications`_, также решил рассказать `киборгам-любителям читать логи
-глазами </content/И-опять-про-бинарные-логи>`_ про `объективные
+глазами <http://russianfedora.pro/content/И-опять-про-бинарные-логи>`_ про `объективные
 недостатки syslog
 <https://www.bouncybouncy.net/blog/syslog-is-terrible/>`_.
 
