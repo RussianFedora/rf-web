@@ -12,6 +12,11 @@
     color: #999;
 }
 
+#pre-footer {
+    padding-top: 70px;
+    background-image: url("../images/background-light-blue.png");
+}
+
 
 /*! SOURCE: http://getbootstrap.com/examples/blog/blog.css !*/
 
