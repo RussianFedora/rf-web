@@ -184,6 +184,28 @@ h6, .h6 {
       color: inherit;
   }
 
+.sidebar-module::before {
+    content: "";
+    background-image: url(../images/block-top.png);
+    width: 213px;
+    height: 60px;
+    display: block;
+    background-color: #ffffff;
+    margin-left: -15px;
+    margin-top: -15px;
+}
+
+.sidebar-module::after {
+    content: "";
+    background-image: url(../images/block-bottom.png);
+    width: 213px;
+    height: 60px;
+    display: block;
+    background-color: #ffffff;
+    margin-left: -15px;
+    margin-bottom: -15px;
+}
+
 
 /* Pagination */
 .pager {
@@ -240,3 +262,5 @@ h6, .h6 {
 .social-buttons > div {
     margin: 5px;
 }
+
+
