@@ -159,6 +159,7 @@ h6, .h6 {
   margin: 0 0 15px;
   color: #ffffff;
   background-color: #3c6eb4;
+  width: 212px;
 }
 .sidebar-module-inset {
   padding: 15px;
@@ -187,7 +188,7 @@ h6, .h6 {
 .sidebar-module::before {
     content: "";
     background-image: url(../images/block-top.png);
-    width: 213px;
+    width: 212px;
     height: 60px;
     display: block;
     background-color: #ffffff;
@@ -198,7 +199,7 @@ h6, .h6 {
 .sidebar-module::after {
     content: "";
     background-image: url(../images/block-bottom.png);
-    width: 213px;
+    width: 212px;
     height: 60px;
     display: block;
     background-color: #ffffff;
