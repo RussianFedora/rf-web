@@ -1,7 +1,7 @@
 Russian Fedora website
 ======================
 
-Based on [Nikola](http://getkikola.com) static generator with customized [Bootblog-Jinja](https://themes.getnikola.com/#bootblog-jinja) theme.
+Based on [Nikola](http://getnikola.com) static generator with customized [Bootblog-Jinja](https://themes.getnikola.com/#bootblog-jinja) theme.
 
 Build
 -----
