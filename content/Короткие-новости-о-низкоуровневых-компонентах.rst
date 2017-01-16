@@ -1,0 +1,84 @@
+.. title: Короткие новости о низкоуровневых компонентах
+.. slug: Короткие-новости-о-низкоуровневых-компонентах
+.. date: 2014-08-22 17:08:34
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Dracut поддерживает загрузку по протоколу
+torrent <https://git.kernel.org/cgit/boot/dracut/dracut.git/commit/?id=338bad6>`__.
+
+Нам очень радостно, что продолжается демилитаризация протокола, и
+появляются новые применения. В initrd требуется наличие утилиты
+ctorrent. Коллеги-аналитики уже `обсуждают на
+OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40422>`__.
+
+`Теперь и лэптоп Toshiba научился определять не падает-ли
+он <http://thread.gmane.org/gmane.linux.drivers.platform.x86.devel/5697>`__.
+
+Незаметное на первый взгляд изменение "Toshiba HDD Active Protection
+Sensor", внесенное независимым разработчиком Azael Avalos в Linux 3.17 и
+одобренное нашим товарищем, Matthew Garrett, теперь позволит повесить
+какие-нибудь скрипты на это событие. Но, наверное, поддержка паркующихся
+головок при падении будет добавлена прямо в systemd. Кстати, `В 3.16 был
+включен аналогичный
+патч <http://thread.gmane.org/gmane.linux.kernel/1722535>`__, под
+названием "Dell Latitude freefall driver (ACPI SMO8800/SMO8810)".
+Новости от проекта Coreboot на этой неделе были просто
+сногсшибательными. `Vladimir 'φ-coder/phcoder'
+Serbinenko <https://plus.google.com/112827970881526000673/about>`__,
+активный участник проекта GRUB, опять заставил нас завидовать. Вслед за
+поддержкой ноутбуков `Lenovo Thinkpad
+X230 </content/Личный-опыт-установки-coreboot>`__, на этой неделе он
+добавил `Lenovo Thinkpad
+X200 <http://review.coreboot.org/gitweb?p=coreboot.git;a=commit;h=61ffb4c>`__
+(причем даже `без использования блоба VGA
+BIOS <http://review.coreboot.org/gitweb?p=coreboot.git;a=commitdiff;h=8801011>`__),
+а затем добавил `Apple MacBook модель
+2,1 <http://review.coreboot.org/gitweb?p=coreboot.git;a=commit;h=9b90824>`__
+(с `поддержкой Embedded
+Controller <http://review.coreboot.org/gitweb?p=coreboot.git;a=commit;h=bd146e0>`__)
+и `Apple MacBook модель
+1,1 <http://review.coreboot.org/gitweb?p=coreboot.git;a=commitdiff;h=e71928c>`__.
+
+В очередной раз поздравляем соотечественника с достижениями!
+`Собрали вместе все статьи <https://lwn.net/Articles/604609/>`__,
+которые написал инженер SUSE, `Neil
+Brown <http://blog.neil.brown.name/about/>`__, про CGroups. По мере
+выхода новых статей, они будут добавляться.
+
+Кстати, недавно Neil Brown `нашел и исправил серьезную проблему в Linux
+RAID <http://thread.gmane.org/gmane.linux.kernel.stable/103323>`__. `При
+определённых условиях может быть потеря данных в хранилище RAID6.
+
+Проблема проявляется начиная с ядра Linux
+2.6.32 <http://www.opennet.ru/opennews/art.shtml?num=40412>`__. Кто то
+скажет "решето", а мы молча прикинем, сколько же таких хитрых глюков
+содержат проприетарные firmware дорогостоящих железячных
+RAID-контроллеров.
+
+Файловая система btrfs `теперь рекомендуется
+Google <http://www.phoronix.com/scan.php?page=news_item&px=MTc2Njk>`__,
+которые ее используют для апгрейдов. Вообще, интересное кино.
+
+Наш коллега, участник Fedora и сисадмин kernel.org, `Konstantin
+Ryabitsev <https://plus.google.com/114752601290767897172/about>`__,
+объявил, что `все Git-репозитории Linux Foundation теперь поддерживают
+двухфакторную
+аутентификацию <http://www.linux.com/news/featured-blogs/203-konstantin-ryabitsev/784544-linux-kernel-git-repositories-add-2-factor-authentication>`__.
+
+Для "хардверного" решения предлагается использовать ключи Yubico, уже
+давно нам знакомые в т.ч. и по инфраструктуре Fedora. Они продаются в
+России примерно по три тысячи рублей, так что пробуйте. Новость уже
+обсуждается на
+`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40405>`__.
+
+Ну и напоследок, `к Linux Foundation присоединился
+GitHub <http://www.linuxfoundation.org/news-media/announcements/2014/08/linux-foundation-welcomes-newest-members-semiconductor-and-storage>`__.
+

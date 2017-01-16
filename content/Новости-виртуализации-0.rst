@@ -1,0 +1,55 @@
+.. title: Новости виртуализации
+.. slug: Новости-виртуализации-0
+.. date: 2014-02-17 15:03:52
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Отгремел второй `Moscow Virtualization
+Meetup <http://tech.yandex.ru/events/yagosti/msk-feb-2014/>`__ (первый
+был `летом 2013 года </content/Итоги-fedora-virtualization-day>`__), и
+теперь мы ждем, когда Yandex выложит видеозаписи и слайды.
+
+Михаил Кулемин в `своем
+докладе <http://tech.yandex.ru/events/yagosti/msk-feb-2014/talks/1660/>`__
+вкратце упоминал о проекте Rich WM Jones,
+`nbdkit <https://github.com/libguestfs/nbdkit>`__, о котором `мы уже
+рассказывали </content/Новый-проект-rich-wm-jones-nbdkit>`__, и почти
+синхронно Rich объявил о новой функциональности в тулките. Вообще,
+архитектурно nbdkit спроектирован настолько хорошо, что легко позволяет
+расширять его функционал (Rich `сразу начал писать к нему
+плагины </content/Новый-фронтэнд-для-libvirt>`__). Теперь же Rich
+упростил процесс расширения nbdkit еще, `добавив возможность создавать
+плагины на
+python <http://rwmj.wordpress.com/2014/02/15/new-in-nbdkit-write-plugins-in-python/>`__.
+
+Кроме расширения возможностей по созданию плугинов, Rich добавил
+интересную возможность - `запуск nbdkit, как связанного
+процесса <http://rwmj.wordpress.com/2014/02/16/new-in-nbdkit-run-nbdkit-as-a-captive-process/>`__.
+
+Теперь можно передать nbdkit строчку запуска другого процесса, который
+будет запущен, и к которому nbdkit будет "привязан". Как только этот
+другой процесс будет завершен, то nbdkit будет остановлен. Синтаксис
+выглядит вот так:
+`` $ nbdkit file file=fedora-20.img --run 'qemu-kvm -m 1024 -drive file=$nbd,if=virtio' ... $ nbdkit file file=fedora-20.img --run 'guestfish --format=raw -a $nbd -i'``
+Вместо *$nbd* будет подставлен правильный адрес NBD-сервера.
+
+Одновременно, `Cole
+Robinson <https://fedoraproject.org/wiki/User:Crobinso>`__ объявил о
+`выходе virt-manager
+1.0.0 <http://blog.wikichoon.com/2014/02/virt-manager-100-released.html>`__.
+
+Из больших изменений - появился функционал создания снапшотов, и
+появилась возможность для использования GlusterFS. И если уж заговорили
+о Red Hat Storage / GlusterFS, то говорят, что `GlusterFS обгоняет Ceph
+от трех
+раз <http://redhatstorage.redhat.com/2013/11/07/red-hat-storage-outperforms-ceph-by-more-than-3x-for-openstack-cloud-environments/>`__,
+хотя, конечно, `у Ceph есть свои
+use-case <http://www.mirantis.com/blog/ceph-mirantis-openstack/>`__.
+

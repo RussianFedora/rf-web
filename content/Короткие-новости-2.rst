@@ -1,0 +1,120 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-2
+.. date: 2013-03-18 14:13:04
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Устав гуглить каждый раз аналоги команд yum/rpm в дистрибутивах,
+основанных на Debian, наш товарищ, разработчик ядра, участник проектов
+Coreboot и Fedora, `Scott
+Tsai <https://plus.google.com/100338462782014493617/about>`__ создал еще
+одну `таблицу аналогов RPM и DEB
+команд <http://itrs.tw/wiki/RPM_DPKG_Rosetta_Stone>`__.
+
+В Евросоюзе изучили RestrictedBoot (т.н. "SecureBoot") и `не нашли в его
+продвижении нарушений антимонопольного
+законодательства <http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2013-000162&language=EN>`__.
+
+Так что требуйте от ваших дистрибутивов поддержки SecureBoot из коробки,
+как это уже сделано в ряде ведущих дистрибутивов, в числе которых есть и
+Fedora.
+
+Начали выкладывать `видео с
+DevConf.cz <https://www.youtube.com/user/RedHatCzech/videos?view=0&flow=grid>`__.
+
+Очередная пачка новостей про Wayland (похоже, все нам пошло на пользу
+то, что Mark Shuttleworth объявил о переходе на Mir - работа по
+внедрению Wayland просто закипела).
+
+Во-1 объявили о своей поддержке Wayland представители проектов по
+созданию таких окружений рабочего стола, как
+`Enlightenment <http://www.opennet.ru/opennews/art.shtml?num=36399>`__,
+`GNOME <http://thread.gmane.org/gmane.comp.gnome.release-team/1765>`__
+(и уже `составили план по переходу <https://live.gnome.org/Wayland>`__),
+`KDE <http://www.thepowerbase.com/2013/03/two-major-kde-developers-weigh-in-on-mir-wayland/>`__.
+
+С KDE пока что-то непонятное, т.к. они решили `заменить Display
+Manager <http://www.thepowerbase.com/2013/03/plasma-workspaces-2-coming-to-wayland-kdm-not-invited/>`__
+и выбирают из нескольких вариантов, среди которых LightDM. А вот с
+LightDM, создаваемым участниками стремительно сжимающегося коммьюнити
+разработчиков Ubuntu сложилась удивительно странная ситуация - `David
+Edmundson <https://www.ohloh.net/accounts/d_ed>`__, один из
+разработчиков LightDM, `сообщил, что они планировали переход на Wayland,
+и Canonical не уведомило их о своих изменившихся
+планах <http://www.sharpley.org.uk/blog/lightdm-mir-wayland>`__.
+
+Неудивительно, что он (и некоторые его коллеги) очень недовольны.
+
+Сказывается `переход Canonical на закрытую модель
+разработки <https://www.linux.org.ru/news/ubuntu/8361248>`__ (которую на
+Linux.org.ru стыдливо переименовали в "соборную"), когда коммьюнити и
+понятия не имеет о векторе развития продукта. Сравните с понятным и
+прозрачным процессом развития дистрибутива у нас. Интересно и то, что
+этот разработчик отвечает за поддержку LightDM в Qt, на чем основывается
+в т.ч. и Unity - давно известно, что Canonical умеет раздражать
+разработчиков, но не очень дальновидно портить прямо сейчас отношения с
+именно этим человеком.
+
+Во-2 в Weston `появились всплывающие
+уведомления <http://www.phoronix.com/scan.php?page=news_item&px=MTMyNzk>`__
+и `доделали client-side декорации в
+GTK <http://www.phoronix.com/scan.php?page=news_item&px=MTMyOTk>`__.
+
+В-3 `Canonical рассорились и с Sam
+Spilsbury <http://www.phoronix.com/scan.php?page=news_item&px=MTMyMTc>`__,
+который был сильно разочарован, что из-за закрытой модели Canonical он
+потратил впустую несколько месяцев своего времени. Теперь он работает
+над `XBMC для
+Wayland <http://smspillaz.wordpress.com/2013/02/27/hello-from-xbmc-on-wayland/>`__,
+присоединившись к Kristian Høgsberg (о чьих инициативах мы `уже
+говорили </content/Короткие-новости-1>`__). Мы внимательно следим за
+этим перспективным и активным, но еще очень молодым и не очень опытным
+разработчиком, и по-товарищески хотели бы предупредить его, что
+hate-driven development, это не лучшая методология разработки, и
+позорный конец шумно стартовавшего проекта eudev (форк udev) является
+хорошей иллюстрацией этому.
+
+`Вышла новая версия языка
+Ceylon <http://ceylon-lang.org/blog/2013/03/14/ceylon-m5-nesa-pong/>`__,
+языка программирования со статической типизацией для платформ JVM и
+JavaScript, разрабатываемого Red Hat. Новость уже `обсуждают на
+Linux.org.ru <http://www.linux.org.ru/news/java/8964248>`__.
+
+Участник проектов Fedora и GCC `Jakub
+Jelínek <http://www.ohloh.net/accounts/Jakub_Jelinek>`__ объявил о
+`выходе Release Candidate GCC
+4.8.0 <http://www.phoronix.com/scan.php?page=news_item&px=MTMyOTM>`__.
+
+Это - `одна из фич будущей Fedora
+19 <http://fedoraproject.org/wiki/Features/GCC48>`__. Напоминаю, `в
+отличие от ряда других дистрибутивов, с выходом новой версии GCC мы
+обязательно пересобираем им все дерево пакетов </content/gcc-470>`__.
+
+Это - серьезная инженерная задача, т.к. каждый раз не проходят
+пересборку примерно 5-10% пакетов. Все патчи, необходимые для сборки с
+новым GCC мы обязательно отправляем в апстрим, а это, между прочим,
+почти тысяча патчей каждые полгода.
+
+Участник проектов Fedora и LibreOffice, `Caolán
+McNamara <http://www.ohloh.net/accounts/caolan>`__ сообщает о новом
+рубеже в деле конвертации интерфейсов LibreOffice с самописного формата
+описаний виджетов на язык `GLADE <http://glade.gnome.org/>`__. Они
+достигли `отметки в 150
+диалогов <http://blogs.linux.ie/caolan/2013/03/13/converting-libreoffice-dialogs-to-ui-format-150-conversions-milestone/>`__
+(ранее вы уже могли `слышать о том, что они взяли планку в 100
+диалогов </content/Короткие-новости>`__). Обратите внимание, как
+рациональнее теперь расходуется место на экране:
+|image0|
+Осталось `конвертировать еще 600 диалоговых
+окон <http://www.iloveubuntu.net/libreoffice-shift-old-fixed-size-dialogs-ui-based-dialogs-150-dialog-conversions-already-reached>`__.
+
+
+.. |image0| image:: http://stingr.net/pictures/libreoffice%20ui%20dialogs%20before%20after.jpg
+

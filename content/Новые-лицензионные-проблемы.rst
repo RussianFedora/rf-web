@@ -1,0 +1,26 @@
+.. title: Новые лицензионные проблемы.
+.. slug: Новые-лицензионные-проблемы
+.. date: 2012-09-15 23:16:26
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Fedora Legal Team `забраковала
+лицензию <https://bugzilla.redhat.com/show_bug.cgi?id=832853#c6>`__ на
+`Java3d <http://java3d.java.net/>`__ из-за следующего дополнения:
+*\* You acknowledge that this software is not designed, licensed or
+\* intended for use in the design, construction, operation or
+\* maintenance of any nuclear facility.*
+Подобная лицензия отнимает у простого пользователя свободу запустить
+Fedora, чтоб управлять небольшим ядерным реактором для обогрева
+хозяйства на своих шести сотках. Такое грубое ограничение свободы
+недопустимо. А учитывая, что и Fedora, и RHEL работают в т.ч. и в таких
+местах, как атомные субмарины военно-морских сил США, то есть и более
+реалистичные use case.
+

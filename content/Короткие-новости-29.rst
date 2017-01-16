@@ -1,0 +1,64 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-29
+.. date: 2014-07-31 17:57:47
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+| Создали и такую команду - `Fedora Security
+  Team <https://fedoraproject.org/wiki/Security_Team>`__.
+
+  Коллеги-аналитики уже `обсуждают новость на
+  OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40305>`__.
+
+  Уже состоялось учредительное собрание, на котором `раздали
+  задачи <http://meetbot.fedoraproject.org/fedora-meeting-1/2014-07-30/fedora_security_team.2014-07-30-19.00.html>`__:
+
+#. Sparks to send a message to the list asking people to add themselves
+   to the roster
+#. ignatenkobrain to write a script to somehow get stats from BZ and use
+   them for the badge system
+#. ignatenkobrain to write a script to somehow get stats from BZ and use
+   them for "hall of fame" FST wiki page
+#. ignatenkobrain to request git repo for FST scripts﻿
+
+| 
+| Вышел `LibreOffice
+  4.3 <https://wiki.documentfoundation.org/ReleaseNotes/4.3>`__. Новость
+  уже обсуждают на
+  `Linux.org.ru <https://www.linux.org.ru/news/openoffice/10719350>`__.
+
+  Хотелось бы добавить, что к этому релизу компания `VRT
+  Systems <http://www.vrt.com.au/>`__ приурочила `выход версии
+  1.2.0 <https://plus.google.com/+VRTau/posts/aL6peYSb4bB>`__ их
+  `свободного клип-арта для рисования схем сетей в
+  LibreOffice/OpenOffice.org <http://www.vrt.com.au/downloads/vrt-network-equipment>`__.
+
+| Martin Pitt, один из немногих разработчиков Canonical, `начал работу
+  по интеграции LXC и
+  systemd <https://plus.google.com/107564545827215425270/posts/EgbsoJSwVpb>`__.
+
+| Кто пропустил 10-летие Ceph, почитайте `пост про его
+  историю <http://community.redhat.com/blog/2014/06/ceph-turns-10-a-look-back/>`__.
+
+  Кстати, недавно `Red Hat выпустила первый коммерческий продукт на базе
+  Ceph <http://www.eweek.com/print/storage/red-hat-delivers-enterprise-grade-ceph-storage.html>`__
+  после `покупки
+  Inktank </content/red-hat-покупает-компанию-inktank>`__.
+
+| Появилась первая хаутушка, как запустить
+  `Kubernetes </content/Короткие-новости-о-контейнерах-и-виртуализации>`__
+  на CoreOS - `первая
+  часть <https://coreos.com/blog/running-kubernetes-example-on-CoreOS-part-1/>`__
+  и
+  `вторая <https://coreos.com/blog/running-kubernetes-example-on-CoreOS-part-2/>`__.
+
+  Кстати, `Kubernetes теперь умеет управлять кластерами
+  Vagrant <http://www.projectatomic.io/blog/2014/07/upstream-atomic-vagrant-support-for-kubernetes/>`__.
+

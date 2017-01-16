@@ -1,0 +1,77 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-12
+.. date: 2013-09-12 11:04:52
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Начат процесс включения в
+Fedora <https://bugzilla.redhat.com/1005504>`__ еще одного ключевого
+компонента принципиально нового "облачного" дистрибутива Linux, CoreOS
+(`о котором мы уже вскользь
+упомянули </content/coreos-новый-дистрибутив-на-базе-chromeos>`__) -
+`etcd <https://github.com/coreos/etcd>`__.
+
+У известного хулигана и матершинника, Линуса Торвальдса, сразу после
+того, как он пожелал мучительной смерти ARM-разработчикам, `поломался
+SSD <http://thread.gmane.org/gmane.linux.kernel/1559486>`__. Разработка
+Linux идет по оригинальной методологии, когда `разработчики верят друг
+другу на слово <http://anticopyright.ru/wiki/Wait4%28%29>`__,
+`тестирование не
+проводится </content/Молния-В-ядре-linux-появились-тесты>`__, а бэкапы
+не делаются (все есть в распределенном гите, и если надо, то за
+неделю-другую можно все заново восстановить из разных репозиториев), и
+это событие, как бы это глупо ни звучало, может серьезно сказаться на
+сроках выхода версии 3.12. Мы будем следить за развитием событий!
+`В OpenStack появилась поддержка
+Docker <https://review.openstack.org/#/c/32960/>`__. Напомним, что `идет
+процесс включения Docker в Fedora </content/Короткие-новости-10>`__.
+
+Уже не новость, но забавно - `компания Intel показала палец
+Canonical <http://cgit.freedesktop.org/xorg/driver/xf86-video-intel/commit/?id=58a761>`__.
+
+Участник Fedora и разработчик LibreOffice `David
+Tardon <https://www.ohloh.net/accounts/dtardon>`__ в своей ленте Google+
+`описал увлекательный процесс участия в разработке
+re-lab <https://plus.google.com/109896341870720226179/posts/HegVF6ZpSf9>`__,
+пакета для реверс-инжиниринга проприетарных форматов файлов. Ему это
+было нужно для добавления поддержки еще одного проприетарного формата в
+LibreOffice. Нам особенно приятно, что re-lab, это продукт,
+разрабатываемый нашими соотечественниками.
+
+|image0|
+*На фото - `типичный разработчик
+re-lab <https://plus.google.com/108983215764171548842/photos>`__*.
+Участник Fedora, Lukáš Tinkl, `анонсировал Plasma
+NM <http://ltinkl.blogspot.ru/2013/09/first-plasma-nm-release.html>`__,
+новый апплет для управления NetworkManager в KDE. `Новость уже
+обсуждается на
+OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=37889>`__.
+
+`Интересная новость <https://lwn.net/Articles/566169/>`__ (внимание,
+paywall!) - с запозданием почти на 15 лет в Linux *могут появиться*
+`securelevel из
+BSD <http://www.freebsd.org/doc/en/books/faq/security.html#idp76767408>`__.
+
+В свете появления SecureBoot стали видны критические ошибки реализации
+`capabilities <http://linux.die.net/man/7/capabilities>`__. Пытаясь их
+исправить наш товарищ Matthew Garrett `написал
+то <http://thread.gmane.org/gmane.linux.kernel/1558442>`__, что с
+первого взгляда очень похоже на BSD securelevel. 15 лет жизни с
+подсистемой, не выдержавшей первого серьезного использования, так что
+подождем пока закапывать, может еще что-то окажется нужным для Linux.
+
+Daniel Berrange `выступит с двумя
+докладами <https://plus.google.com/103866178509451949283/posts/5KgCXRnnM8r>`__
+на `KVM Forum в
+Эдинбурге <http://events.linuxfoundation.org/events/kvm-forum>`__.
+
+
+.. |image0| image:: https://lh5.googleusercontent.com/-uS7uzSC6u6w/TiLjDT59-0I/AAAAAAAABN0/4M5KL1Ahdxo/w208-h207-p-no/vf.jpg
+

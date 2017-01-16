@@ -1,0 +1,17 @@
+.. title: Пульс проекта
+.. slug: пульс-проекта-5
+.. date: 2011-12-20 11:30:05
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: mama-sun
+
+**Это архивная статья**
+
+
+Сайт проекта Russian Fedora теперь можно найти в официальном списке
+локальных комьюнити-сайтов Fedora по адресу
+`fedoracommunity.org <http://fedoracommunity.org/>`__.
+

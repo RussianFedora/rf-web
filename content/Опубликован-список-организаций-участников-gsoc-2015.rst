@@ -1,0 +1,31 @@
+.. title: Опубликован список организаций-участников GSoC 2015
+.. slug: Опубликован-список-организаций-участников-gsoc-2015
+.. date: 2015-03-03 11:59:26
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Некоторые организации загодя готовились к этому
+дню </content/Приближается-google-summer-code-2015>`__, и в общем особых
+неожиданностей не произошло - в списке организаций все те же названия,
+`столпы движения открытого
+ПО <https://www.google-melange.com/gsoc/org/list/public/google/gsoc2015>`__.
+
+Мы, как и многие дружественные нам организации, традиционно участвуем.
+
+Если вы студент, то самое время подумать над вариантом летнего
+заработка. И полезно, и приятно!
+Из забавностей -
+`оказывается <https://plus.google.com/+MartinGräßlin/posts/XLsR6tSyb6T>`__,
+в менторы GSoC можно записаться только если имя и фамилия содержат лишь
+US-ASCII символы. Google не умеет работать с Unicode?
+|image0|
+
+.. |image0| image:: https://lh4.googleusercontent.com/-6FU_qVYN0t0/VPVwd-JcWjI/AAAAAAAAC6o/3a6lAfwd3hk/missing-tasks-applet1.png
+

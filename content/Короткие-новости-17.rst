@@ -1,0 +1,101 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-17
+.. date: 2013-11-10 21:21:50
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Инженер Red Hat, `Ben
+Skeggs <https://www.ohloh.net/accounts/darktama>`__, добавил `поддержку
+регуляторов частоты и напряжения в драйвер
+nouveau <http://www.phoronix.com/scan.php?page=news_item&px=MTUwNzk>`__.
+
+Новость уже обсуждается на
+`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38384>`__ и
+`Linux.org.ru <http://www.linux.org.ru/forum/talks/9796268>`__.
+
+Коллеги-аналитики недоумевают, как же так - что ни хорошая новость про
+Linux и Open Source, то обязательно про Red Hat. Ну, на самом деле не
+все хорошее в мире открытого ПО делается в Red Hat - например, еще в
+Apple, Google, Facebook, Intel, Parallels, и многих других больших и
+маленьких компаниях. Возвращаясь к nouveau, `David
+Airlie <https://www.ohloh.net/accounts/airlied>`__ недавно `выпустил
+версию
+1.0.10 <http://thread.gmane.org/gmane.comp.freedesktop.xorg.nouveau/14840>`__.
+
+ARM переходит на ACPI, `ну вы про это уже
+знаете </content/Опубликованы-рекомендации-для-разработчиков-оборудования-на-базе-aarch64-64-битный-arm>`__.
+
+Инженер Google, Olof Johansson, обращает наше внимание, что в процессе
+перехода исходники ядра начали наполняться `простым и понятным кодом для
+работы с
+ACPI <https://plus.google.com/+OlofJohansson/posts/JLgGcQ4SXud>`__.
+
+Участник проектов Fedora и LibreOffice, инженер Red Hat, `Caolán
+McNamara <http://www.ohloh.net/accounts/caolan>`__, объявил о `полном
+переходе с устаревшего класса строк в LibreOffice на
+новый <http://caolanm.blogspot.ru/2013/11/unistring.html>`__. В
+OpenOffice было аж два класса для строк, "старый" (совсем старый) и
+"новый" (которому более 13 лет). Из интересных ограничений,
+накладываемых использованием этим "новым" классом было ограничение в 64
+килобайта на максимальный размер параграфа в документах, испортированных
+из MS Office. В общем, теперь LibreOffice полностью перешел на третий,
+современный класс.
+
+`David Herrmann <http://dvdhrm.github.io/>`__ `начал работу над
+реализацией Wifi-Display /
+Miracast <http://www.opennet.ru/opennews/art.shtml?num=38353>`__.
+
+Инженер Red Hat и мэйнтейнер libssh, `Andreas
+Schneider <https://www.ohloh.net/accounts/asn>`__, обращает наше
+внимание, что `в библиотеке libssh сменился метод обмена ключами
+(kex) <http://blog.cryptomilk.org/2013/11/03/curve25519-sha512-is-the-default-kex-in-openssh-too-now/>`__
+с предложенного NSA на разработанный в коммьюнити.
+
+`Все фичи безопасности RHEL / Fedora теперь оформлены в виде
+таблицы <https://fedoraproject.org/wiki/Security_Features_Matrix>`__.
+
+Теперь видно, какие фичи когда и куда были добавлены.
+
+`Вышел SystemTap
+2.4 <http://thread.gmane.org/gmane.linux.kernel/1590886>`__. Из новостей
+- теперь с помощью libvirt им можно анализировать виртуальные машины.
+
+Начали анонсироваться и обсуждаться фичи будущей Fedora 21. Уже
+анонсировали `поддержку OpenCL в
+Fedora <http://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1197>`__,
+и `обновление Python3 до версии
+3.4 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1196>`__.
+
+`Продолжаются дебаты вокруг архитектуры
+Phonon </content/Выбросят-ли-из-phonon-поддержку-alsaoss-в-пользу-pulseaudio>`__.
+
+Недавно вышедший Phonon 4.7.0 `теперь использует VLC по
+умолчанию <http://www.phoronix.com/scan.php?page=news_item&px=MTUwNDM>`__,
+если в системе есть несколько бэкендов, и пользователь не указал явно,
+какой из них использовать.
+
+Alexander Larrson `рассказал об изменениях в способе отрисовки в GTK
+3.10 <https://blogs.gnome.org/alexl/2013/11/04/the-modern-gtk-drawing-model/>`__.
+
+Наши друзья из `Kolab Systems <https://kolabsys.com/>`__ объявили о
+выходе `Kolab
+3.1 <http://kolab.org/news/2013/11/07/kolab-3.1-released-new-cloud-storage-feature-and-irony>`__.
+
+Новость уже `обсуждается на
+Linux.org.ru <http://www.linux.org.ru/news/opensource/9792765>`__
+Бдительные участники коммьюнити Fedora заметили, что `разработчики GNOME
+втихую сделали все обновления, устанавливаемые с помощью графической
+утилиты, требующими
+перезагрузки <https://fedorahosted.org/fesco/ticket/1193>`__. Раньше все
+вроде-бы договорились, что перезагрузка потребуется лишь в случае т.н.
+"системных" обновлений, затрагивающих компоненты Base OS, а они сделали
+так, что любое обновление уведет машину в reboot. За разработчиками
+GNOME нужен глаз да глаз! Мы будем следить за развитием событий.
+

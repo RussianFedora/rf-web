@@ -1,0 +1,42 @@
+.. title: Немного облачных новостей
+.. slug: Немного-облачных-новостей
+.. date: 2013-10-15 13:55:25
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Участник Fedora и член технического комитета OpenStack, `Mark
+McLoughlin <https://www.ohloh.net/accounts/markmc>`__ опубликовал
+`очередной отчет об октябрьском OpenStack Foundation Board
+Meeting <http://blogs.gnome.org/markmc/2013/10/03/oct-3rd-openstack-foundation-board-meeting/>`__.
+
+На собрании обсуждались оргвопросы предстоящих ивентов (на очереди в
+Гонконге), бюджет OpenStack Foundation на следующий год, и вопросы по
+избранию в комитет.
+
+После `появления в Fedora переименованного
+JBoss </content/Вышел-ovirt-версии-33-и-другие-новости>`__ (теперь это
+WildFly) и `появления Docker </content/Короткие-новости-12>`__, наш
+коллега `Marek
+Goldmann <https://plus.google.com/115621539802871403766/about>`__
+написал очередную хаутушку про то, `как настроить и запустить WildFly /
+JBoss в контейнере с помощью
+Docker <http://goldmann.pl/blog/2013/10/07/wildfly-cluster-using-docker-on-fedora/>`__.
+
+Вышло `очередное сравнение облачных
+платформ <http://www.informationweek.com/cloud-computing/infrastructure/private-cloud-wars-os-wars-the-sequel/240161558>`__,
+на этот раз совсем уж неформальное (автор пытается указать на параллели
+между облачными решениями и операционными системами). Наш участник,
+инженер Eucaliptus, `Greg
+DeKoenigsberg <http://www.linkedin.com/in/gregdek>`__ остался недоволен
+сравнением платформы Eucaliptus с OS/2, и написал `пост с критикой этого
+неформального
+обзора <http://gregdekspeaks.wordpress.com/2013/09/27/being-on-the-napkin/>`__.
+
+

@@ -1,0 +1,29 @@
+.. title: С праздником!
+.. slug: С-праздником
+.. date: 2016-04-12 16:02:24
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Мы поздравляем всех с днем космонавтики (или `международным днем полета
+человека в
+космос <https://en.wikipedia.org/wiki/International_Day_of_Human_Space_Flight>`__,
+как его называют в ряде стран)!
+|image0|
+Fedora и основанная на ней операционная система RHEL, это хорошо
+известные платформы для научных и инженерных проектов, и, разумеется, их
+активно используют `в космической
+индустрии </content/Еще-одна-типичная-система-под-управлением-red-hat>`__
+и `астрономии </content/Типичная-система-под-управлением-fedora>`__.
+
+Присоединяйтесь и вы!
+
+.. |image0| image:: http://www.fresher.ru/manager_content/images2/yurij-alekseevich-gagarin-pervyj-kosmonavt/5.jpg
+   :width: 25.0%
+   :target: https://ru.wikipedia.org/wiki/Гагарин,_Юрий_Алексеевич

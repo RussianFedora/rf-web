@@ -1,0 +1,142 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-11
+.. date: 2013-09-04 14:25:44
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Наши друзья из Parallels выпустили `CRIU версии
+0.7 <https://plus.google.com/103175467322423551911/posts/1kATzYWzQYQ>`__.
+
+В этот раз удалось включить в ядро 3.11 все, что нужно для работы.
+
+Однако это же и повысило требование к ядру до 3.11. `Андрей
+Вагин <https://plus.google.com/115065910381489598519/about>`__,
+`мэйнтейнер crtools и vzctl в
+Fedora <https://admin.fedoraproject.org/pkgdb/users/packages/avagin?acls=owner&acls=approveacls>`__,
+планирует обновить пакеты сразу, как только ядро 3.11 будет доступно в
+Fedora (на данный момент `собрано лишь для Fedora 20 и
+старше <http://koji.fedoraproject.org/koji/packageinfo?packageID=8>`__).
+
+У наших друзей из `хакспейса Neúron <http://neuronspace.ru/>`__
+новоселье. Они переехали почти в самый центр столицы, в
+"Мануфактуры"/"ДО Оригинал" на Хохловском пер на Китай городе. В эту
+субботу они приглашают всех друзей на праздник (не пропустите анонсы в
+коммьюнити хакспейса в
+`G+ <https://plus.google.com/communities/108255189568036477008>`__ и на
+FB). А мы от всего нашего коммьюнити поздравляем с успешным переездом
+без существенных потерь!
+В инфраструктуре Fedora пополнение. `Nick
+Bebout <https://fedoraproject.org/wiki/User:Nb>`__
+`объявил <http://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2905>`__
+о вводе в строй `сервера
+GPG-ключей <https://keys.fedoraproject.org/>`__, интерфейс для которого
+создала `Maria Leandro <http://tatica.org/en/about/>`__. Если кто не в
+курсе, что такое GPG-ключи, и как ими пользоваться с помощью этого
+сервиса, то прочитайте `вот эту
+заметку <http://liquidat.wordpress.com/2013/09/03/howto-using-sks-key-server-pool-for-managing-gpg-signatures/>`__.
+
+Greg Kroah-Hartman `написал HOWTO по подписыванию ядра Linux своим
+ключом и использованию его в UEFI
+SecureBoot <http://kroah.com/log/blog/2013/09/02/booting-a-self-signed-linux-kernel/>`__
+и выложил в своей ленте G+ `видео процесса загрузки CoreOS с
+самоподписанным
+ядром <https://plus.google.com/111049168280159033135/posts/C125gZL7vEn>`__.
+
+Наш товарищ, `Jan
+Wildeboer <https://plus.google.com/112648813199640203443/about>`__
+справедливо подмечает, что `фанбои маргинальных дистрибутивов теперь
+начали хвалить SecureBoot почти с тем-же
+энтузиазмом <https://plus.google.com/112648813199640203443/posts/LRFDgmSqcSP>`__,
+как ранее облыжно хаяли нас за продажность Майкрософту. То ли еще будет,
+когда фанбои разберутся в преимуществах systemd!
+Участник ArchLinux `David
+Herrmann <http://dvdhrm.wordpress.com/about-me/>`__ опубликовал `статью
+о технологии "Render
+Nodes" <http://dvdhrm.wordpress.com/2013/09/01/splitting-drm-and-kms-device-nodes/>`__,
+которую включают в ядро 3.12. Заметку уже обсуждают аналитики
+`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=37797>`__.
+
+`Команда разработчиков LibreOffice из SUSE целиком переходит к нашим
+друзьям, в компанию
+Collabora <https://people.gnome.org/~michael/blog/2013-09-03-collabora.html>`__.
+
+Мы с интересом следим за перемещением коллектива, ответственного за
+четверть коммитов в LibreOffice в
+`2011 <http://blogs.computerworlduk.com/simon-says/2011/10/libreoffice-is-one/index.htm>`__
+и в
+`2012 <http://arstechnica.com/business/2012/02/libreoffice-stats-400-total-contributors-thousands-of-code-commits-every-month/>`__
+годах, что даже превосходит вклад разработчиков Red Hat (чуть больше 20%
+изменений в LibreOffice).
+
+Rich W.M. Jones обращает наше внимание, что `в Fedora 20 наконец-то
+реализовали возможность запускать гостевые ARM-системы с помощью
+libvirt <http://rwmj.wordpress.com/2013/09/03/an-arm-libvirt-guest-on-an-x86-64-host/>`__.
+
+Теперь можно разрабатывать ARM-системы без использования физического
+железа с небывалым доселе уровнем комфорта. [STRIKEOUT:Учитывая, что ARM
+дико тормозит, будет даже лучше, чем на физических ARM-машинах].
+Еще одна новость о Fedora Infrastructure. Недавно введенный в строй
+сервис `Fedora Badges <https://badges.fedoraproject.org/>`__ получил
+интеграцию с Fedora Wiki, о чем `нам
+сообщает <http://blog.elrod.me/blog/2013/09/01/how-to-not-look-like-a-fool-due-to-haproxy/>`__
+`Ricky Elrod <http://elrod.me/>`__. Будет выглядеть примерно `вот
+так <https://fedoraproject.org/wiki/User:Peter#Bragging_Rights>`__.
+
+Возвращаясь к новостям графической подсистемы. `Weston адаптируют для
+IVI-систем <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10493>`__.
+
+Мы уже рассказывали, что системы IVI будут строиться на базе
+`Wayland </content/Короткие-новости-6>`__ и
+`systemd </content/systemd-теперь-и-в-вашем-bmw>`__, так что это не
+такая уж и неожиданная новость. Интересно, что компании Canonical так и
+не удалось влезть на этот рынок, и их продукт `Ubuntu
+IVI <https://launchpad.net/ivi-remix>`__ пополнил начинающий опасно
+удлиняться список неудач компании. Для сертификации GENIVI им пришлось
+бы перейти на systemd, но т.к. сейчас Upstart процентов на 80 из systemd
+и состоит, то может пора реанимировать идею? Конечно, помешает Mir, но
+Wayland из Ubuntu никто выбрасывать пока не планирует, так что на
+присутствие Mir можно не обращать внимание.
+
+Продолжается работа по повышению совместимости GTK3 и Wayland. Конечно,
+звучит это как "немного беременна", но вот так складывается ситуация с
+GTK, `об удивительной ситуации с кроссплатформенностью которого мы уже
+говорили </content/Короткие-новости-6>`__. В этот раз `пофиксили меню
+приложений и добавили поддержку протокола
+gtk-shell <http://www.phoronix.com/scan.php?page=news_item&px=MTQ1MjM>`__.
+
+Готов ли для десктопа, сказать сложно, но, как минимум, `галочек
+"сделано" становится больше, а TODO
+меньше <https://wiki.gnome.org/ThreePointNine/Features/WaylandSupport>`__.
+
+Не совсем о Fedora, но наверное будет интересно почитать. Разработчик
+KDE `Aaron Seigo <http://www.ohloh.net/accounts/aseigo>`__ в своей ленте
+G+ вновь задает вопрос `есть ли у сообщества ресурсы на несколько
+DE <https://plus.google.com/107555540696571114069/posts/Bt4kY2yNyxy>`__?
+Он высказывает свое `оценочное
+суждение <http://tvrain.ru/articles/zhuliki_i_vory_otsenochnye_suzhdenija-328536/>`__,
+что нет, не хватит ресурсов. Он полагает, что `двух DE должно быть
+достаточно каждому <http://lurkmore.to/640_килобайт>`__, чем несколько
+недоделанных из-за нехватки разработчиков вариантов.
+
+`На OpenNET.ru собирают
+вопросы <http://www.opennet.ru/opennews/art.shtml?num=37802>`__
+известному разработчику Linux, нынешнему fellow Parallels (уж не знаем,
+как перевести эту должность на русский), Алексею Кузнецову. Кстати,
+недавно `проскочило интервью с
+ним <http://lifehacker.ru/2013/08/01/ank/>`__.
+
+И совсем не о Fedora, но все-равно интересная новость - бывший инженер
+Novell и участник проектов X.org, Debian и Coreboot, `Luc
+Verhaegen <https://www.ohloh.net/accounts/libv>`__, продолжает работу
+над открытым видеодрайвером для для Mali (мы `уже рассказывали о его
+успехах </content/Новости-fedora-arm-sig-0>`__). `Теперь в его драйвере
+работает es2gears <http://libv.livejournal.com/24870.html>`__, что в
+т.ч. значит совместимость с Wayland (и Mir, раз уж начали говорить).
+

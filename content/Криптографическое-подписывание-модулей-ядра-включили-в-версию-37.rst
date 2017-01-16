@@ -1,0 +1,19 @@
+.. title: Криптографическое подписывание модулей ядра включили в версию 3.7
+.. slug: Криптографическое-подписывание-модулей-ядра-включили-в-версию-37
+.. date: 2012-10-16 14:03:25
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Продолжается переход на UEFI и Secure Boot - `в ядро включили
+криптографическое подписывание
+модулей <http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commit;h=d25282d1c9b9bc4cda7f9d3c0205108e99aa7a9d>`__.
+
+Основную работу провел инженер Red Hat и участник Fedora, David Howells.
+

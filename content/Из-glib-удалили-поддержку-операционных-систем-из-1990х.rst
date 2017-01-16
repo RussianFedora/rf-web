@@ -1,0 +1,34 @@
+.. title: Из Glib удалили поддержку операционных систем из 1990х
+.. slug: Из-glib-удалили-поддержку-операционных-систем-из-1990х
+.. date: 2013-12-18 14:07:01
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Тяжелые новости для любителей ретрокомпьютинга. Инженер Red Hat и
+участник проектов GNOME и Fedora, `Dan
+Winship <https://fedoraproject.org/wiki/User:Danw>`__, одним махом
+удалил поддержку
+`OS/2 <https://git.gnome.org/browse/glib/commit/?id=57969f4>`__,
+`BeOS <https://git.gnome.org/browse/glib/commit/?id=51a917b>`__ (и
+возможно, что и Haiku), и `NeXTStep, SunOS, HP-UX 9.x и 10.x, OSF/1 /
+Digital UNIX / Tru64 UNIX 4.x, AIX
+4.x <https://git.gnome.org/browse/glib/commit/?id=7f5b290>`__ из Glib.
+
+Одновременно с этим он повысил минимальные требования к платформе до
+`C90 <https://git.gnome.org/browse/glib/commit/?id=6e4a7fc>`__ и
+`POSIX.1
+(1990) <https://git.gnome.org/browse/glib/commit/?id=3981cdd>`__ (если
+платформа Unix-подобная).
+
+Немногочисленное сообщество любителей заниматься юниксвэем вздрогнуло от
+боли утраты! Ведь теперь уже ни за что не получится запустить GNOME 3 на
+NeXTStep. А мы думаем, что хорошо бы теперь проредить список
+поддерживаемых платформ в Autotools.
+

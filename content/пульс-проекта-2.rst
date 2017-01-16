@@ -1,0 +1,18 @@
+.. title: Пульс проекта
+.. slug: пульс-проекта-2
+.. date: 2011-12-16 12:53:32
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Участник проекта Fedora и по совместительству разработчик RedHat, Peter
+Hutterer, представил первый вариант патчей, добавляющих multitouch в
+X.org. С подробностями `можно ознакомиться на
+Opennet.ru <http://www.opennet.ru/opennews/art.shtml?num=32570>`__.
+

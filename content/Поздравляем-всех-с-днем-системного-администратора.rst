@@ -1,0 +1,18 @@
+.. title: Поздравляем всех с днем системного администратора!
+.. slug: Поздравляем-всех-с-днем-системного-администратора
+.. date: 2015-07-31 13:05:01
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+|image0|
+
+.. |image0| image:: http://thedude.com/wp/wp-content/uploads/2009/07/jims_office.jpg
+   :width: 500px
+   :target: http://thedude.com/wp/wp-content/uploads/2009/07/jims_office.jpg

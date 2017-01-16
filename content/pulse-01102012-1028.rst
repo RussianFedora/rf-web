@@ -1,0 +1,51 @@
+.. title: Pulse at 01/10/2012 - 10:28
+.. slug: pulse-01102012-1028
+.. date: 2012-01-10 10:28:12
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+На очередном собрании FESCo, прошедшем 9 января 2012 года,
+`одобрили <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/157950>`__
+еще несколько новых `"фич" <http://fedoraproject.org/wiki/Features>`__
+для Fedora 17:
+
+-  `Обновление Erlang до версии
+   R15 <http://fedoraproject.org/wiki/Features/Erlang_R15>`__
+-  `Переход на ветку GCC
+   4.7.x <http://fedoraproject.org/wiki/Features/GCC47>`__
+-  `Обновление Glasgow Haskell Compiler до
+   7.4.1 <https://fedoraproject.org/wiki/Features/GHC74>`__
+-  `Обновление Gimp до версии
+   2.8 <https://fedoraproject.org/wiki/Features/GIMP_2.8>`__
+-  `Обновление GNOME до версии
+   3.4 <https://fedoraproject.org/wiki/Features/Gnome3.4>`__
+-  `Обновление серии шрифтов Lohit до Unicode 6 (с улучшенной поддержкой
+   индийских
+   раскладок) <https://fedoraproject.org/wiki/Features/IndicUnicode6>`__
+-  `Улучшение iSCSI
+   функциональности <https://fedoraproject.org/wiki/Features/KernelTarget>`__
+-  `Более полная поддержка образов виртуальных дисков в OpenStack с
+   помощью
+   libguestfs <https://fedoraproject.org/wiki/Features/OpenStack_using_libguestfs>`__
+-  `Предустановленные профили включения системных сервисов в
+   systemd <https://fedoraproject.org/wiki/Features/PackagePresets>`__
+-  `Обновление PHP до версии
+   5.4 <https://fedoraproject.org/wiki/Features/Php54>`__
+-  `Включение в репозиторий NoSQL базы данных
+   Riak <https://fedoraproject.org/wiki/Features/Riak>`__
+-  `Улучшение подсистемы ввода для китайских
+   языков <https://fedoraproject.org/wiki/Features/libpinyin>`__
+-  `Включение в репозиторий открытой системы управления виртуализацией
+   oVirt <https://fedoraproject.org/wiki/Features/oVirt>`__
+
+Это только намерение о включении, а в течении времени перед релизом
+Fedora 17 некоторые "фичи" могут сойти с дистанции совсем или быть
+отложены на другой релиз.
+

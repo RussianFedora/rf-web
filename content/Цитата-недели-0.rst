@@ -1,0 +1,22 @@
+.. title: Цитата недели
+.. slug: Цитата-недели-0
+.. date: 2015-08-21 12:35:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+|image0|
+**"I'm sorry to everybody involved here in containers, I'm so happy that
+the kernel tends to be fairly far removed from all of these issues, all
+of the buzzwords and all the new technologies."** (`Linus Torvalds на
+прошедшем LinuxCon
+2015 <http://www.theregister.co.uk/2015/08/19/linuxcon_torvalds_qa/>`__)
+
+.. |image0| image:: https://regmedia.co.uk/2015/08/19/jim_zemlin_linus_torvalds_2015.jpg
+   :width: 80.0%

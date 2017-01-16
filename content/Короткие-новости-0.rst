@@ -1,0 +1,65 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-0
+.. date: 2013-02-23 19:35:14
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Инженер Red Hat и участник Fedora, `Dan
+Williams <https://www.ohloh.net/accounts/dcbw>`__ выпустил `новую версию
+NetworkManager -
+0.9.8 <http://www.phoronix.com/scan.php?page=news_item&px=MTMwNzY>`__.
+
+Новость уже обсуждается на
+`Linux.org.ru <https://www.linux.org.ru/news/opensource/8876618>`__.
+
+После выхода `бета-версии в декабре 2012
+года </content/Вышла-бета-rhel-64>`__, Red Hat анонсировало `RHEL
+6.4 <https://www.redhat.com/about/news/press-archive/2013/2/red-hat-announces-general-availability-of-next-minor-release-of-red-hat-enterprise-linux-6>`__.
+
+Ждем новостей и от проектов CentOS и Scientific Linux!
+`Опубликовано
+интервью <http://adam.younglogic.com/2013/02/meet-rhos-team-adam-young/>`__
+с `Adam Young <http://adam.younglogic.com/>`__, одним из команды Red Hat
+OpenStack, участником Fedora и бывшим представителем натовской военщины.
+
+`Red Hat догнал лидеров по вкладу в проект
+OpenStack </content/Статистика-по-вкладу-компаний-в-разработку-openstack>`__,
+а кто этим занят - почти никому неизвестно, поэтому было решено
+познакомить общественности с неизвестными героями. Ждите - будут и еще
+интервью. Кстати, раз уж заговорили об облаках,
+`пишут <http://www.zdnet.com/red-hat-embraces-hadoop-and-big-data-7000011572/>`__,
+что планируется более тесная интеграция `Red Hat Storage
+Server <http://www.redhat.com/products/storage-server/>`__ и
+`Hadoop <http://hadoop.apache.org/>`__.
+
+`Keith Packard <http://en.wikipedia.org/wiki/Keith_Packard>`__
+опубликовал заметку о `DRI3 / DRI-Next /
+DRI3000 <http://keithp.com/blogs/DRI3000/>`__, следующей версии Direct
+Rendering. В ней произойдет дальнейший отход от устаревшей модели
+X-Window в пользу управления ресурсами на стороне клиента (читай,
+Wayland), о чем вы можете более подробно прочитать в `статье на
+LWN <https://lwn.net/Articles/536484/>`__. Теперь-то уж всем понятно,
+что неспроста X.org Foundation объявило, что `2013 год будет годом
+"мобильного"
+Wayland <http://www.phoronix.com/scan.php?page=news_item&px=MTMwOTI>`__.
+
+`Постепенно определяются даты тестовых дней Fedora
+19 <https://fedoraproject.org/wiki/QA/Fedora_19_test_days>`__. Некоторые
+даты еще не определены, но не волнуйтесь - мы еще напомним вам о них,
+ближе к событиям.
+
+И главное - прямо сейчас идет `DevConf.cz <http://devconf.cz/>`__, о
+котором `мы вам уже
+говорили </content/Десант-russian-fedora-в-Чехию-присоединяйтесь>`__. За
+событиями можно следить в Twitter, по хэш-тэгу
+`**#devconf** <https://twitter.com/search?q=%23devconf>`__, а фотки
+начали выкладывать `на странице события в
+Google+ <https://plus.google.com/events/c6ugufll8imrv18574ljmmldf9s>`__.
+

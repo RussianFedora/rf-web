@@ -1,0 +1,20 @@
+.. title: Фото дня
+.. slug: Фото-дня-0
+.. date: 2016-02-16 16:34:36
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+|image0|
+**Импортозамещение! Национальная (насколько это возможно) ОС
+устанавливается на национальный (насколько это возможно) компьютер!**
+
+.. |image0| image:: https://lh3.googleusercontent.com/-3H88V7F5cAQ/VsL2GmRN4CI/AAAAAAAAR-U/XK9SfMWrqpc/w1205-h678-no/20160216_130939.jpg
+   :width: 80.0%
+   :target: https://plus.google.com/photos/+ArkadyShane/albums/6251829826251400273/6251829825956077602

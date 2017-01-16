@@ -1,0 +1,20 @@
+.. title: GSoC 2015 официально объявил о приеме заявок от студентов!
+.. slug: gsoc-2015-официально-объявил-о-приеме-заявок-от-студентов
+.. date: 2015-03-16 22:27:29
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Народ,
+`началось <http://google-opensource.blogspot.com/2015/03/gsoc-2015-student-applications.html>`__!
+|image0|
+**Студенты уже спешат занять свои места**
+
+.. |image0| image:: http://cdn.meme.am/images/300x/1969441.jpg
+

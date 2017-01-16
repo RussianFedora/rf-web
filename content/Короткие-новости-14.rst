@@ -1,0 +1,86 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-14
+.. date: 2013-10-20 11:14:54
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+| Официально объявили о `выходе альфа-версии Fedora 20 для
+  PowerPC <https://fedoraproject.org/wiki/PowerPC/F20_PPC_Alpha_Release_Announcement>`__.
+
+  Из особенностей - в ISO-образ больше не включают пакеты для 32-битного
+  ppc, и yaboot официально объявлен устаревшим в пользу grub2.
+
+| `Dan Walsh <http://people.redhat.com/dwalsh/>`__ продолжает `серию
+  постов о безопасности Fedora
+  20 </content/dan-walsh-представил-интеграцию-journald-и-selinux>`__:
+
+-  `New Security Feature in Fedora 20 Part 1: Setroubleshoot - Journald
+   integration <http://danwalsh.livejournal.com/65777.html>`__ - об этой
+   заметке `мы уже
+   рассказывали </content/dan-walsh-представил-интеграцию-journald-и-selinux>`__,
+   и просто упомянем ее еще раз, чтоб все было в одном месте.
+
+-  `Setroubleshoot does a nice job nowadays but do people read
+   it? <http://danwalsh.livejournal.com/66379.html>`__
+-  `Difference between a Confined User (staff\_u) and a Confined
+   Administrator. <http://danwalsh.livejournal.com/66587.html>`__
+-  `Mistaking a Process label type for a File label
+   type. <http://danwalsh.livejournal.com/67007.html>`__
+
+| 
+| Если вы сисадмин или девопс, то обязательно ознакомьтесь.
+
+| Продолжается рост интереса к Kolab, открытому интегрированному решению
+  для электронной почты, развиваемому нашими друзьями из `Kolab
+  Systems <http://kolabsys.com/>`__. В прессе стали появляться
+  `хаутушки, как сбежать из прослушиваемого NSA, ФСБ и бог весть еще
+  кем, Google, в
+  Kolab <http://techwirenews.com/2013/10/15/how-to-migrating-from-gmail-to-mykolab-part-1/>`__.
+
+  Почитайте, если интересно. Kolab расположен в Швейцарии, стране,
+  обогнавшей многих своих европейских соседей по степени прозрачности и
+  открытости, не говоря уж про США и РФ, так что тайна переписки там
+  теоретически будет в большей безопасности.
+
+| Инженер Red Hat и участник проектов Fedora и GCC, `Jakub
+  Jelinek <https://www.ohloh.net/accounts/Jakub_Jelinek>`__, анонсировал
+  `GCC 4.8.2 <http://thread.gmane.org/gmane.comp.gcc.devel/132910>`__.
+
+  Его уже `собрали для Fedora 19 и
+  выше <http://koji.fedoraproject.org/koji/packageinfo?packageID=40>`__.
+
+  Это минорный релиз, и полной пересборки не потребуется. Одной из
+  интересных фич релиза заявлена поддержка golang 1.1.2, что для нас
+  очень интересно, учитывая рост количества проектов на golang в
+  последнее время. Мы проверили - действительно,
+  `etcd </content/Короткие-новости-12>`__ им собирается и работает!
+| На базе функций, предоставляемых systemd, продолжают расти все новые и
+  новые проекты. Участник коммьюнити ArchLinux, `Olivier
+  Brunel <http://jjacky.com/>`__ представил свой последний проект -
+  `journal-triggerd <http://jjacky.com/journal-triggerd/>`__, демон,
+  совершающий некие указанные пользователем действия по появлению
+  определенной записи в системном журнале Journald (например, при
+  `ошибке
+  сети <http://jjacky.com/2013-10-06-run-triggers-on-systemd-journal-messages/>`__).
+
+  `Исходные коды доступны на
+  GitHub <https://github.com/jjk-jacky/journal-triggerd>`__, ну где же
+  еще им быть?
+| Lennart Poettering в своей ленте Google+ `обращает наше внимание на
+  очень интересное расширение GCC для языка
+  C <https://plus.google.com/115547683951727699051/posts/jHPAdLJiw23>`__
+  -
+  `\_\_attribute\_\_(cleanup) <http://gcc.gnu.org/onlinedocs/gcc/Variable-Attributes.html>`__.
+
+  Это GCC-специфичное расширение позволяет укорачивать лапшу из
+  обработчиков ошибок, предоставляя функциональность "деструкторов" в
+  ANSI C, и уже вовсю используется в таких проектах, как GNOME 3,
+  Upstart, и теперь в systemd. Опять же, возникает вопрос - а в вашем
+  LLVM такое есть?

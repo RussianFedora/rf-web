@@ -1,0 +1,100 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-9
+.. date: 2013-08-13 11:24:17
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Sabayon окончательно перешел на
+systemd <http://www.opennet.ru/opennews/art.shtml?num=37649>`__.
+
+Мэйнтейнер Sabayon, Fabio Erculiani, считает, что `OpenRC движется в
+никуда <https://plus.google.com/u/0/115547683951727699051/posts/Vdpy3K4XLD4>`__,
+и хотя OpenRC какое-то время еще будет поддерживаться, в будущем
+произойдет полный переход на systemd. Пожелаем разработчикам OpenRC
+побыстрее сообразить, что происходит, т.к. очень жаль, что их работа
+будет выброшена OSS-коммьюнити на свалку истории. Между прочим,
+сложилась интересная ситуация - на SysVinit остался лишь Debian, а все
+остальные крупные дистрибутивы перешли либо на systemd, либо на Upstart
+(RHEL 6, Ubuntu), либо на OpenRC (gentoo и некоторые производные), либо
+используют иной декларативный init-демон (Android). Так что Lennart
+Poettering уже добился успеха, и декларативный подход к системе
+инициализации побеждает императивный (SysV).
+
+Участник Fedora, инженер Red Hat, `David
+Miller <http://en.wikipedia.org/wiki/David_S._Miller>`__, анонсировал
+выход `GLIBC
+2.18 <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/34237>`__.
+
+Инженер Red Hat, создатель формата Ogg и аудиокодека Vorbis, участник
+Fedora, `Christopher “Monty”
+Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__ выложил
+презентацию в трех частях разрабатываемого им вместе с коллегами по
+проекту Xiph перспективного `видеокодека
+Daala <http://en.wikipedia.org/wiki/Daala_%28video_codec%29>`__ -
+`первая
+часть <https://people.xiph.org/~xiphmont/demo/daala/demo1.shtml>`__,
+`вторая
+часть <https://people.xiph.org/~xiphmont/demo/daala/demo2.shtml>`__,
+`третья
+часть <https://people.xiph.org/~xiphmont/demo/daala/demo3.shtml>`__.
+
+`Giovanni
+Campagna <https://plus.google.com/112529497463297468627/about>`__,
+нынешний интерн Red Hat, `добился работы Weston на нескольких
+мониторах <https://plus.google.com/112529497463297468627/posts/2LriQ6qRUL6>`__.
+
+Готов для десктопа!
+Еще о Wayland, `в Weston недавно включили базовую поддержку
+touch-устройств <http://www.phoronix.com/scan.php?page=news_item&px=MTQzNDY>`__
+(touchscreen, touchpad).
+
+И еще о Wayland - `вышла новая версия Hawaii
+Shell <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10228>`__,
+перспективного DE, разрабатываемого специально для Wayland с нуля (не
+форкая GNOME, например).
+
+Пока выглядит аскетично, но потенциал проекта уже просматривается, и в
+будущем это DE может составить конкуренцию легковесным альтернативным
+системам, таким как LXDE и XFCE. `Pier Luigi
+Fiorini <https://plus.google.com/117319527836202971314/about>`__,
+основной разработчик Maui и Hawaii, обычный пользователь ArchLinux, уже
+`начал сравнивать потребление памяти с
+XFCE <http://plfiorini.blogspot.ru/2013/08/hawaii-memory-usage.html>`__.
+
+Конечно стоит подождать, пока претендент будет обладать тем же набором
+возможностей, что и его соперник, но ведь есть и обратный тренд -
+оптимизация нынешних результатов, так что будем с интересом следить за
+проектом. Кстати, как и все разработчики Pier Luigi `тепло отзывается о
+возможностях, предоставляемых разработчику проектом
+Fedora <https://plus.google.com/117319527836202971314/posts/DvrAeW8YvRN>`__.
+
+Особенно его расстроила непригодность Ubuntu для его задач, что
+неудивительно, т.к. у Fedora и Ubuntu принципиально разные аудитории.
+
+Инженер Red Hat, `Daniel P.
+Berrangé <https://www.ohloh.net/accounts/berrange>`__ рассказывает об
+`использовании polkit в
+libvirt <https://www.berrange.com/posts/2013/08/12/fine-grained-access-control-in-libvirt-using-polkit/>`__
+и дальнейших планах.
+
+В еще одном посте `Daniel P.
+Berrangé <https://www.ohloh.net/accounts/berrange>`__ рассказывает о
+том, как `запустить Fedora в LXC с помощью
+libvirt <https://www.berrange.com/posts/2013/08/12/running-a-full-fedora-os-inside-a-libvirt-lxc-guest/>`__.
+
+И напоследок, новость совершенно не о Fedora - `проект GNUstep занялся
+краудфандингом через
+Kickstarter <http://www.kickstarter.com/projects/203272607/gnustep-project>`__.
+
+Обещают добиться ссовместимости с Mac OS X 10.6, более тесной интеграции
+с проектом `Darling <http://darling.dolezel.info/en/Darling>`__. Если у
+кого есть желание помочь открытому проекту, то цели и суммы выглядят
+реалистичными.
+

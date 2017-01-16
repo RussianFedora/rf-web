@@ -1,0 +1,39 @@
+.. title: Облачные новости
+.. slug: Облачные-новости-0
+.. date: 2014-08-22 17:35:13
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+OpenShift - лучший вариант для PaaS, OpenStack - лучший открытый
+облачный проект, KVM - лучший гипервизор, Puppet - лучшее средство
+управления, Ceph - лучшее хранилище, и другие результаты последнего
+`анкетирования от New Stack и Linux
+Foundation <http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects/>`__.
+
+В опросе приняло участие 550 человек. Ну ура, раз так.
+
+К разработке CRIU подключились Google и Canonical, и, как результат, `в
+CRIU теперь есть поддержка
+CGroups <https://plus.google.com/+CriuOrg/posts/4ohsXktufKV>`__. Но вот
+интересно, что объединяет этих двоих?
+`Julien Danjou <https://www.ohloh.net/accounts/jdanjou>`__, разработчик
+Awesome и OpenStack, детально рассказывает про то, `как исправить
+архитектурную ошибку
+Ceilometer <https://julien.danjou.info/blog/2014/openstack-ceilometer-the-gnocchi-experiment>`__.
+
+Вкратце, закончилось созданием аналогичного компонента, который сейчас
+активно разрабатывается. Ceilometer был спроектирован неправильно, и
+плохо масштабировался. Это неприемлемо.
+
+|image0|
+**Пользователи недовольны тем, как масштабируется Ceilometer**
+
+.. |image0| image:: https://julien.danjou.info/media/images/blog/2014/unacceptable.jpg
+

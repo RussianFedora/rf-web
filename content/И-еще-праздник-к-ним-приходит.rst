@@ -1,0 +1,23 @@
+.. title: И еще праздник к ним приходит!
+.. slug: И-еще-праздник-к-ним-приходит
+.. date: 2014-10-19 19:23:18
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`**** <http://debianfork.org/>`__
+
+Roll up your sleeves, we may need to fork Debian
+================================================
+
+| .
+| |image0|
+
+.. |image0| image:: http://memesmix.net/media/created/ukmo9n.jpg
+

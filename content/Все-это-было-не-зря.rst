@@ -1,0 +1,23 @@
+.. title: Все это было не зря!
+.. slug: Все-это-было-не-зря
+.. date: 2014-08-09 14:12:46
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Наши участники, посетившие Flock 2014, с удивлением узнали, что мы
+необычно популярны в узких кругах:
+|image0|
+На фотографии не очень хорошо видно, но почти четверть багрепортов в
+Fedora Bugzilla, посланных с помощью ABRT, пришла от пользователей
+Russian Fedora! Теперь надо подумать, хорошо это или плохо.
+
+
+.. |image0| image:: https://lh3.googleusercontent.com/-sxcQ-eChclg/U-Xat6GxmyI/AAAAAAAAAmU/lc5xnIuiQn4/w600-h450-no/2014-08-09
+   :target: https://plus.google.com/106519095760339600726/posts/6YjNTf4T14Y
