@@ -854,7 +854,17 @@ Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = '''
+Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>
+{license}
+<p>
+Сайт поддерживается российским сообществом Fedora, Red Hat не несет ответственности за его содержимое.<br>
+<a href="http://wiki.russianfedora.pro/index.php?title=Благодарности">Благодарности</a> |
+<a href="http://fedoraproject.org/wiki/Legal:Main">Правовые положения Fedora</a> |
+<a href="http://fedoraproject.org/wiki/Legal:Trademark_guidelines">Торговые марки Fedora</a>
+</p>
+<p>Хостинг для проекта предоставлен компанией <a href="http://fastvps.ru">FastVPS</a></p>
+'''
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
