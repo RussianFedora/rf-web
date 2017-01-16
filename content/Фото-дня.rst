@@ -1,0 +1,24 @@
+.. title: Фото дня
+.. slug: Фото-дня
+.. date: 2015-11-20 14:47:39
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Наши коллеги посетили `PyCon CZ 2015 <https://cz.pycon.org/2015/>`__:
+|image0|
+|image1|
+**NA ZDOROVIE!**
+
+.. |image0| image:: https://scontent-fra3-1.xx.fbcdn.net/hphotos-xpa1/t31.0-8/12247784_10153106880826805_3593079155899694581_o.jpg
+   :width: 40.0%
+   :target: https://scontent-fra3-1.xx.fbcdn.net/hphotos-xpa1/t31.0-8/12247784_10153106880826805_3593079155899694581_o.jpg
+.. |image1| image:: https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfa1/t31.0-0/11124524_10153106880866805_5993828662297754727_o.jpg
+   :width: 40.0%
+   :target: https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfa1/t31.0-0/11124524_10153106880866805_5993828662297754727_o.jpg

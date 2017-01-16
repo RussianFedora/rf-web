@@ -1,0 +1,23 @@
+.. title: 8192!
+.. slug: 8192
+.. date: 2013-12-19 12:27:24
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+|image0|
+С радостью сообщаем, что этот известный комикс XKCD больше нельзя
+считать правдивым. Нет, Flash все так же глючит в разных конфигурациях,
+но наш коллега `Josh
+Boyer <https://fedoraproject.org/wiki/User:Jwboyer>`__ `поднял
+ограничение на количество микропроцессоров в Linux до
+8192 <http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=b53b5ed>`__!
+
+.. |image0| image:: http://imgs.xkcd.com/comics/supported_features.png
+   :target: http://xkcd.com/619/

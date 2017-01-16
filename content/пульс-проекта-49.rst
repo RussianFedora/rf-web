@@ -1,0 +1,19 @@
+.. title: Пульс проекта 49
+.. slug: пульс-проекта-49
+.. date: 2012-01-04 17:28:07
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+В то время, как экономики многих государств, ранее уверенно себя
+чувствовавших, трещат от безответственности финансовых спекулянтов, Red
+Hat с оптимизмом смотрит в будущее и планирует нанять еще 1000
+сотрудников в наступившем 2012 году. Это увеличит численность
+сотрудников компании на 24%.
+`http://www.itworld.com/cloud-computing/237419/cloud-drives-red-hat-hire-1000-more-employees-2012 <%20http://www.itworld.com/cloud-computing/237419/cloud-drives-red-hat-hire-1000-more-employees-2012>`__

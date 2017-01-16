@@ -1,0 +1,36 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-31
+.. date: 2014-09-07 14:24:34
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Aleksander Morgado <https://aleksander.es/about/>`__, теперь уже бывший
+инженер дружественной нам компании Lanedo, `выпустил ModemManager
+1.4 <http://lists.freedesktop.org/archives/modemmanager-devel/2014-August/001485.html>`__.
+
+Новость уже обсуждают на
+`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40531>`__.
+
+`Digital Ocean официально начал предлагать использовать
+CoreOS <https://coreos.com/blog/digital-ocean-supports-coreos/>`__. Мы
+рады за очередной успех платформы systemd/Linux, на которой и построена
+CoreOS.
+
+`Начались тестовые дни Fedora
+21 <https://apps.fedoraproject.org/calendar/list/QA/?subject=Test+Day>`__.
+
+К сожалению их даты еще изменяются на лету. Например, `Fedora 21
+Virtualization Test
+Day <https://fedoraproject.org/wiki/Test_Day:2014-09-25_Virtualization>`__,
+возможно один из самых интересных тестовых дней, `был перенесен на 25
+сентября <http://blog.wikichoon.com/2014/09/fedora-21-virt-test-day-moved-yet-again.html>`__.
+
+Но дальше его переносить не будут.
+

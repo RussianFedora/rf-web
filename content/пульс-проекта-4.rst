@@ -1,0 +1,18 @@
+.. title: Пульс проекта
+.. slug: пульс-проекта-4
+.. date: 2011-12-16 13:44:54
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: anganar
+
+**Это архивная статья**
+
+
+Для счастливых (или не очень) обладателей мейнфреймов. Вышла сборка
+Fedora 16 для s390x (IBM System z). Анонс и подробности - `в письме Dan
+Horák в
+рассылке <http://lists.fedoraproject.org/pipermail/devel/2011-December/160514.html>`__.
+

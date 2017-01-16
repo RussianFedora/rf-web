@@ -1,0 +1,73 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-25
+.. date: 2014-04-09 14:50:42
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+После `очередного грома <http://heartbleed.com/>`__, мужик в очередной
+раз перекрестился - на Y-combinator в который раз
+`заметили <https://news.ycombinator.com/item?id=7557635>`__
+разрабатываемый нашими коллегами проект
+`nss\_compat\_ossl <https://fedoraproject.org/wiki/Nss_compat_ossl>`__.
+
+Это прослойка совместимости для приложений, использующих OpenSSL,
+позволяющая с минимальными затратами перевести их на использование
+`NSS <https://developer.mozilla.org/ru/docs/NSS>`__. Как вы могли уже
+слышать, участники Fedora Project `работают над глобальной
+унифицированной криптоархитектурой на базе
+NSS <https://fedoraproject.org/wiki/FedoraCryptoConsolidation>`__,
+переводя приложения с OpenSSL на библиотеку NSS, которая `выглядит более
+привлекательно <https://fedoraproject.org/wiki/CryptoConsolidationEval>`__.
+
+В рамках этого проекта и используется эта библиотека, когда прямой
+переход на использование NSS выглядит непросто.
+
+David Strauss, CTO компании Pantheon,
+`рассказывает <https://www.getpantheon.com/heartbleed-fix>`__, как они
+пропатчили 60 тысяч сайтов за 12 часов, и чем им в этом помогли
+контейнеры, cgroups и systemd.
+
+В Google Cloud Platform теперь `доступна
+RHEL <http://googlecloudplatform.blogspot.ru/2014/04/announcing-red-hat-enterprise-linux.html>`__,
+присоединившись к SUSE и Microsoft Windows. Конечно, все так же будут
+доступны `Debian и
+CentOS <https://developers.google.com/compute/docs/images#availableimages>`__.
+
+Печальная новость - `ЗАО Роса и Роса-Лаб
+банкротятся <http://roem.ru/2014/04/09/reyman96500/>`__. Не знаем, чем
+это обернется для одноименного дистрибутива, но вряд-ли чем-то хорошим.
+
+Что бы ни случилось с дистрибутивом или целой операционной системой,
+разработчики-то остаются. Некоторые из них приходят к нам, причем порой
+официально анонсируя это в нашем `списке
+рассылки <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/>`__.
+
+За последние недели к нам присоединилось довольно много народу, среди
+которых можно особенно выделить `Guy
+Streeter <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/194351>`__,
+занимающегося Unix-системами с конца 1970х, и последние 14 лет
+работающего в Red Hat, и `Michael
+McCune <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/194442>`__,
+разработчика с 15-летним стажем, принимавшего участие в разработке
+`Katello <http://www.katello.org/>`__ и
+`Spacewalk <http://spacewalk.redhat.com/>`__. Но особенно нас обрадовала
+новость о том, что `Oden
+Eriksson <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/194345>`__,
+хорошо известный пользователям дистрибутивов семейства Mandriva,
+присоединяется к нашему коммьюнити.
+
+Новая статья от безопасников Red Hat - `systemd, как security-фича RHEL
+7 <https://securityblog.redhat.com/2014/04/08/new-red-hat-enterprise-linux-7-security-feature-systemd-starting-daemons/>`__.
+
+OSv, `совершенно новая облачная операционная
+система <content/Еще-одна-совершенно-новая-облачная-система-osv>`__,
+`доросла до версии
+0.06 <https://groups.google.com/forum/#!topic/osv-dev/D1FCvVGWGaM>`__.
+

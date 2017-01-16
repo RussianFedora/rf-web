@@ -1,0 +1,111 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-18
+.. date: 2013-12-17 17:17:38
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`CRIU теперь использует systemd socket
+activation <https://plus.google.com/+CriuOrg/posts/MTpwmXDh9p5>`__. В
+Upstart недавно реализовали аналогичную функциональность, правда с
+несколько несовместимой реализацией, но теоретически CRIU можно будет
+использовать с socket activation и там.
+
+The Document Foundation
+`анонсировала <http://blog.documentfoundation.org/2013/12/13/the-document-foundation-appoints-15-certified-developers-in-2013/>`__
+пополнение списка сертифицированных разработчиков LibreOffice. В этот
+раз в список попало еще несколько инженеров дружественных нам компаний
+Collabora и Lanedo. Если вам будет нужно доработать LibreOffice под ваши
+нужды, то обращайтесь к сертифицированным профессионалам.
+
+Участник проектов Fedora и LibreOffice, `Caolán
+McNamara <http://www.ohloh.net/accounts/caolan>`__ вновь объявил о
+взятом новом рубеже - `500 диалоговых окон переведено в новый формат
+GtkBuilder <http://caolanm.blogspot.ru/2013/11/converting-libreoffice-dialogs-to.html>`__.
+
+Совсем недавно `было сконвертировано всего лишь 300
+диалогов </content/И-опять-новые-фичи-fedora-20>`__.
+
+Cоздатель формата Ogg и аудиокодека Vorbis, участник Fedora, инженер
+Mozilla Foundation, `Christopher “Monty”
+Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__
+`анонсировал выход версии 1.1 аудиокодека
+Opus <http://xiphmont.livejournal.com/62366.html>`__. Новость
+обсуждается на
+`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38601>`__.
+
+Участник проектов Fedora и GNOME, инженер Red Hat, `Dan
+Winship <https://fedoraproject.org/wiki/User:Danw>`__, разработал `новый
+CLI для
+NetworkManager <http://cgit.freedesktop.org/NetworkManager/NetworkManager/commit/?id=3bda3fb>`__,
+основанный на curses.
+
+Дружественная нам компания Igalia, разрабочтики GNOME, объявила, что
+`присоединяется к разработке проекта
+Tizen <http://www.igalia.com/nc/igalia-247/news/item/igalia-joins-the-tizen-association-partner-program/>`__.
+
+Tizen, кстати, `в 2014 полностью переходит на
+Wayland <http://www.tizenexperts.com/2013/11/tizen-3-0-features/>`__.
+
+Анонсированный `переход KDE на SDDM </content/Новые-фичи-fedora-20>`__
+`пришлось отложить с Fedora 20 на Fedora
+21 <http://rdieter.blogspot.ru/2013/11/sddm-change-pushed-back-to-fedora-21.html>`__.
+
+Уж слишком много проблем и регрессий вылезло.
+
+Функциональность Upstream Tracker, проекта отечественных разработчиков
+из `Rosa Lab <http://www.rosalab.com/>`__, `расширена мониторингом API
+kernel <http://upstream-tracker.org/kernel/>`__. Вообще, проект обладает
+очевидным потенциалом, и лично нам очень непонятно, почему проект не
+используется дистрибутивами Linux активно. Нам, конечно, больше всего
+интересно, почему он не используется в инфраструктуре Fedora. Вообще,
+надо признать, что хотя мы видим позитивную динамику, возможности нашей
+инфраструктуры, изменения в ней сильно отстают от наших планов. Мы с
+завистью смотрим на инфраструктуры других проектов, где внедряются
+совершенно прекрасные фичи, наподобие `автоматической пересборки пакета
+по появлению git tag на
+GitHub <http://openbuildservice.org/2013/11/22/Source-Update-Via_Token/>`__,
+внедренной в Open Build Service. Однако, надо учесть, что отсутствие
+каких-то фич в нашей инфраструктуре можно также рассматривать, как
+отличную возможность проявить себя. Кстати, скоро начнется и следующий
+Google Summer of Code, так что учтите это.
+
+За ноябрь было довольно много новостей о языках программирования.
+
+Ceylon, язык для JVM, разрабатываемый Red Hat, `наконец-то дорос до
+версии 1.0.0 <http://ceylon-lang.org/blog/2013/11/12/ceylon-1/>`__. Что
+характерно, в Fedora язык еще не включен. Не готов, что ли? Ну так или
+иначе, но на этом новости о компиляторах не закончились. Наш коллега,
+инженер Red Hat, `Jeff Law <https://www.ohloh.net/accounts/JeffLaw>`__
+предложил `отключить сборку Java в GCC, а взамен включить
+Golang <http://thread.gmane.org/gmane.comp.gcc.devel/133244>`__ (его
+предложение `уже обсуждается аналитиками
+OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38396>`__).
+
+Честно говоря, не припоминается что-то, когда последний раз был нужен
+GCJ.
+
+Проект gummiboot получил долгожданную фичу - `возможность показывания
+картинки при
+запуске <https://plus.google.com/+KaySievers/posts/N3iEKUVUzw4>`__.
+
+Готов для десктопа!
+Участник коммьюнити Fedora, разработчик kernel и bitcoin, инженер
+BitPay, `Jeff
+Garzik <https://plus.google.com/105424721218711536033/about>`__,
+объявил, что `запустит в космос несколько микроспутников, на которых
+будут работать узлы сети
+Bitcoin <http://www.coindesk.com/core-developer-bitcoin-node-space/>`__.
+
+В то время, как в цивилизованных странах программисты с GitHub ездят на
+Tesla, запускают спутники, и платят биткойнами, в РФ "Единая Россия"
+`постепенно уничтожает интернет <http://rublacklist.net/history/>`__, и
+уже `[STRIKEOUT:упразднила] реформировала Академию
+Наук <http://www.kommersant.ru/theme/415>`__.
+

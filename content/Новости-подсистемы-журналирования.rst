@@ -1,0 +1,61 @@
+.. title: Новости подсистемы журналирования
+.. slug: Новости-подсистемы-журналирования
+.. date: 2016-04-18 15:56:20
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Участник коммьюнити Debian, `Jorgen
+Schäfer <https://github.com/jorgenschaefer>`__, начал публиковать в
+блоке стартапа `Loggly <https://www.loggly.com/>`__ свои заметки про
+подходы к журналированию, ориентированные на начинающих системных
+администраторов. Начал он с разъяснений того, `почему надо использовать
+Journald <https://www.loggly.com/blog/why-journald/>`__ (вкратце, потому
+что Journald хранит логи в бинарном хорошо структурированном виде).
+
+Продолжил по `актуальной теме надежности и верифицируемости
+журнала <https://www.loggly.com/blog/can-you-trust-your-logs/>`__ и о
+том, `как добавлять журналирование в
+приложения <https://www.loggly.com/blog/logging-in-new-style-daemons-with-systemd/>`__
+используя средства systemd.
+
+На самом деле, структурированное журналирование теперь есть и в
+традиционных syslog-серверах (`в
+rsyslog </content/Все-плагины-к-rsyslog>`__ и `в
+syslog-ng </content/Новости-systemdlinux-платформы>`__). Другое дело,
+что подавляющее большинство ПО не использует пока возможность systemd,
+полагаясь либо на syslog-протокол, либо и вовсе ведя журнал
+самостоятельно, в файлы. Это, конечно, проблема.
+
+Интересно, что Journald уже довольно давно по меркам systemd не
+меняется. И пока серверное ПО только начинает переписываться используя
+функционал systemd, и, в частности, Journald, традиционные
+syslog-серверы не стоят на месте. Все идет к тому, что любой из двух
+наиболее популярных (syslog-ng и rsyslog) вскоре может быть использован,
+как drop-in replacement для Journald, который, в общем-то, ничего
+особенного не умеет. А вот, например, syslog-ng быстро разрабатывается,
+и его основной разработчик, `Péter
+Czanik <https://fedoraproject.org/wiki/User:Czanik>`__, регулярно пишет
+об изменениях и принимает участия в мероприятиях, например, `участвует в
+DevConf.cz <https://czanik.blogs.balabit.com/2016/02/devconf-2016-community-and-containers/>`__.
+
+Недавно он опубликовал заметки о `новой функциональности группировки
+сообщений, дедупликации и поиска простейших
+корреляций <https://czanik.blogs.balabit.com/2016/04/the-grouping_by-parser-in-syslog-ng-3-8/>`__
+в журнале событий. А до этого он рассказывал, как использовать для
+структурированного хранилища бинарных логов
+`Kafka <https://czanik.blogs.balabit.com/2015/11/kafka-and-syslog-ng/>`__
+(т.е. сообщения перенаправляются в Kafka, а там уж кто-то их должен
+читать и записывать),
+`ElasticSearch <https://czanik.blogs.balabit.com/2015/12/elasticsearch-and-syslog-ng-fast-and-simple/>`__
+и
+`Hadoop <https://czanik.blogs.balabit.com/2016/02/filling-your-data-lake-with-log-messages-the-syslog-ng-hadoop-hdfs-destination/>`__.
+
+Конечно, читать логи из HDFS глазами не получится.
+

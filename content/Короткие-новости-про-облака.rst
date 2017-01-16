@@ -1,0 +1,88 @@
+.. title: Короткие новости про облака
+.. slug: Короткие-новости-про-облака
+.. date: 2013-10-07 11:26:39
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Red Hat запустил программу по сертификации по
+OpenStack <http://www.redhat.com/training/certifications/rhcoe-openstack-iaas/>`__.
+
+Если хотите нанять девопса, кто действительно умеет работать с
+OpenStack, то выбирайте из тех, кто сертифицирован. Ну а если вы хотите
+его получить, то предварительно походите на `курсы, рекомендованные
+OpenStack
+Foundation <http://www.openstack.org/marketplace/training/>`__.
+
+`Red Hat объявил о доступности JBoss в своем PaaS решении,
+OpenShift <http://www.redhat.com/about/news/press-archive/2013/9/red-hat-doubles-down-on-enterprise-paas>`__.
+
+Black Duck Software, компания, владеющая проектом
+`Ohloh.net <https://www.ohloh.net/>`__, приглашает на `вебминар по
+OpenStack <http://www.blackducksoftware.com/openstack’s-secrets-success-igniting-rapid-innovation-and-growth-through-community>`__,
+запланированный на 10е октября. На нем будут рассмотрены секреты
+быстрого роста популярности решения, то, как устроено OpenStack изнутри,
+и как заинтересованным лицам или заинтересованной компании
+присоединиться к проекты.
+
+GigaOM `выложили видео <http://vimeo.com/76184557>`__ с состоявшегося 1
+октября `другого вебминара по
+OpenStack <http://pro.gigaom.com/webinar/openstack-step-by-step-evolution-and-adoption-strategies/>`__,
+также посвященного его развитию и тому, как компаниям получить выгоду от
+сотрудничества с коммьюнити OpenStack.
+
+Продолжается победное наступление systemd на облака. Наши друзья из
+Pantheon сообщили, что `их одноименное облачное решение включает в себя
+более полумиллиона unit-файлов
+systemd <https://www.getpantheon.com/blog/pantheon-running-over-500000-systemd-units>`__,
+и обеспечивает работу 150 тысяч контейнеров. А в это время нерадивые
+админы, застрявшие в 1990х все еще не осиливают прочитать документацию
+по systemd, чем мешают компаниям, в которых они работают получать
+прибыль и экономить ресурсы.
+
+`MongoDB получило еще 150 миллионов долларов инвестиций от пула
+инвесторов <http://www.opennet.ru/opennews/art.shtml?num=38084>`__,
+среди которых и Red Hat. В отличие от других полузакрытых коммерческих
+компаний, те инвестиции, что делаются Red Hat, идут на пользу всему
+коммьюнити, так что новость позитивная! Этот подход и является одной из
+причин, почему `доход компании растет, а клиенты массово переходят с
+проприетарных Unix-систем и Linux-решений от
+конкурентов <http://www.datamation.com/data-center/red-hat-grows-linux-revenues-displacing-unix-and-suse.html>`__.
+
+И в это время всем уроком будет то, что одна Linux-компания,
+оторвавшаяся от коммьюнити, тщетно пытается выйти на безубыточность,
+плодя провальный проект за провальным проектом.
+
+`Даже Oracle пытается впрыгнуть в поезд
+OpenStack <http://www.theregister.co.uk/2013/09/24/oracle_openstack/>`__.
+
+Будет ли от них нам всем толк, это еще неизвестно, может хотя-бы никого
+из коллег по коммьюнити не будут судить?
+`Novell тоже объявил, что предлагает решение на базе
+OpenStack <http://www.eweek.com/cloud/suse-cloud-2.0-improves-openstack-deployments.html>`__.
+
+Как и было сказано, OpenStack для облачных технологий, это все равно,
+что Linux в свое время для операционных систем.
+
+Наши друзья из Cloudius Systems создали `страничку в
+Google+ <https://plus.google.com/107787008629542080430/posts>`__,
+посвященную OSv, новой облачной операционной системе, `о которой мы уже
+рассказывали </content/Еще-одна-совершенно-новая-облачная-система-osv>`__.
+
+Добавляйте в свои круги Google+, чтоб не пропустить новых статей о
+системе.
+
+Как вы уже знаете, `в Fedora недавно добавили
+Docker </content/Короткие-новости-12>`__. И наш коллега, `Marek
+Goldmann <https://plus.google.com/115621539802871403766/about>`__,
+`написал хаутушку о том, как им
+пользоваться <http://goldmann.pl/blog/2013/09/25/docker-and-fedora/>`__.
+
+Пробуйте.
+

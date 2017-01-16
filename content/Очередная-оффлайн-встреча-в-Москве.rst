@@ -1,0 +1,26 @@
+.. title: Очередная оффлайн-встреча в Москве
+.. slug: Очередная-оффлайн-встреча-в-Москве
+.. date: 2013-08-16 13:44:30
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Мы собираемся 17 августа, в эту субботу, в 14.00, в `Жан-Жак на
+Никитском бульваре <http://www.afisha.ru/msk/restaurant/map/20387/>`__.
+
+Планируем обсудить поездку `нашей делегации на
+FrOSCon </content/russian-fedora-на-froscon-2013-24-25-августа>`__,
+`предстоящее облачное
+мероприятие <https://fedoraproject.org/wiki/Road_to_the_Clouds#When_and_Where>`__,
+обсудим новости Fedora 20, возможность проведения встреч в Питере и
+Саратове, `день рождения
+Debian <http://www.linux.org.ru/news/debian/9472700>`__. Ну и еще будем
+просто так общаться.
+
+`Присоединяйтесь <https://plus.google.com/events/cr8efvtsmsilnk3cmd49ckdvbio>`__!

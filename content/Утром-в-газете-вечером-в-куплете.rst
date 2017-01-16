@@ -1,0 +1,18 @@
+.. title: Утром в газете, вечером в куплете
+.. slug: Утром-в-газете-вечером-в-куплете
+.. date: 2014-12-02 16:12:02
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+|image0|
+**Ждем дальнейших новостей!**
+
+.. |image0| image:: https://lh3.googleusercontent.com/-j2FQERC9w6o/VH2JGxOf1-I/AAAAAAAANww/EG-qyRpNta4/w650-h595-no/Strip-SystmeD-650-finalenglish3.jpg
+   :target: https://plus.google.com/+CybercitiBiz/posts/7N8SD2WF4CW

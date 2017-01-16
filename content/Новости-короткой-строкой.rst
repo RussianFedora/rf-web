@@ -1,0 +1,67 @@
+.. title: Новости короткой строкой
+.. slug: Новости-короткой-строкой
+.. date: 2012-10-13 14:45:35
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Ubuntu переходит на XZ, как формат сжатия для пакетов. `Основной
+причиной <http://summit.ubuntu.com/uds-r/meeting/21073/foundations-r-dpkg-xz/>`__
+является то, что "Fedora уже делает это". Заодно они собрались "помочь"
+сообществу Debian сделать правильный выбор в преддверии выхода следующей
+версии. Мы одобряем, конечно, хотя удивительно, что дебиановцев
+приходится так настойчиво подталкивать в правильном направлении.
+
+После новости о том, что `Linux якобы получит универсальное решение
+безопасной загрузки
+UEFI <https://www.linux.org.ru/news/linux-general/8330938>`__, многие
+юзеры заразились странным энтузиазмом ("не надо платить сто долларов
+Microsoft, как сделали в Fedora"). Хотелось бы сказать, что при
+использовании этого "универсального" решения, ваш Linux потеряет
+возможность перезагружаться без помощи оператора, о чем пишет Matthew
+Garrett `на Hacker
+News <https://news.ycombinator.com/item?id=4643820>`__. Ну и понятно,
+что в Microsoft никогда не разрешат загрузчик, который будет загружать
+все подряд, о чем мечтают некоторые комментаторы - вчитывайтесь в
+детали, пожалуйста. Пока что единственно разумный вариант работы с
+Restricted Boot (т.н. "Secure Boot"), это подход Fedora,
+модифицированный в лучшую сторону инженерами SUSE (о текущем статусе
+`можно почитать в блоке
+Matthew <http://mjg59.dreamwidth.org/18149.html>`__).
+
+Fedora для s390x машин `получила работающий
+инсталлятор <http://installer-land.blogspot.com/2012/10/just-in-case-you-were-wondering.html>`__.
+
+Для тех, кто хочет попробовать Fedora ARM на Raspberry Pi, но кого
+останавливало отсутствие инсталлятора, `типичный пользователь
+Fedora <http://graphitefriction.com/images/avatar.png>`__, `Sarah
+White <https://plus.google.com/117676046064764850842/about>`__ написала
+`подробную
+инструкцию <http://graphitefriction.com/blog/2012/10/11/how-to-install-and-configure-fedora-17-remix-on-your-raspberry-pi/>`__.
+
+Dan Walsh продолжает серию заметок о новых security-фичах Fedora 18 -
+`раз <http://danwalsh.livejournal.com/57377.html>`__,
+`два <http://danwalsh.livejournal.com/58032.html>`__,
+`три <http://danwalsh.livejournal.com/58178.html>`__,
+`четыре <http://danwalsh.livejournal.com/58508.html>`__,
+`пять <http://danwalsh.livejournal.com/58647.html>`__.
+
+Jeff Layton описывает `ситуацию с NFS-серверами в пространстве
+пользователя <http://jtlayton.wordpress.com/2012/10/08/activeactive-nfsv4-serving-userspace-nfs-servers/>`__.
+
+Rich W.M. Jones сообщает, что `в libguestfs появилось горячее
+подключение
+дисков <http://rwmj.wordpress.com/2012/10/08/hotplugging-in-libguestfs/>`__.
+
+Matthias Clasen пишет об итогах GNOME Summit, где он `присутствовал на
+секции по
+GLib <http://blogs.gnome.org/mclasen/2012/10/08/gnome-summit-sunday/>`__,
+на которой закрыли `десятилетний
+баг <https://bugzilla.gnome.org/show_bug.cgi?id=118536>`__.
+

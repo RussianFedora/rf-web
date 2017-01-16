@@ -1,0 +1,71 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-13
+.. date: 2013-09-16 11:08:52
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`КамАЗ выбрал
+Tizen <https://ru.intel.com/business/community/index.php?automodule=blog&blogid=7605&showentry=4318>`__,
+т.е. systemd и Wayland. Поздравляем разработчиков и инженеров с
+правильным выбором! Кстати, `в Нижнем Новгороде 2 октября состоится
+тренинг по Tizen <http://www.fruct.org/tizen3>`__, который проведут с
+участием специалистов Intel - приходите.
+
+Участник Debian Community, разработчик GNOME из дружественной нам
+компании Igalia, `Carlos Garcia
+Campos <https://www.ohloh.net/accounts/carlosgc>`__, объявил о выходе
+новой версии WebKitGTK+, `который теперь может работать на
+Wayland <http://thread.gmane.org/gmane.os.opendarwin.webkit.gtk/1561>`__,
+без X11. Это очень важный шаг вперед, к GNOME без зависимости от иксов.
+
+В полном соответствии с `ранее анонсированным
+планом </content/Большое-обновление-wayland-в-fedora>`__ в Fedora
+включается `сборка Mutter для работы с
+Wayland <https://bugzilla.redhat.com/1007445>`__. Мы не экспериментируем
+над пользователями, как некоторые другие дистрибутивы, и у нас будет в
+параллель доступны как версия GNOME для X11, так и технологическое
+превью GNOME для Wayland.
+
+`Вышел очередной, августовский
+отчет <http://www.pixelbeat.org/patches/coreutils/inbox_aug_2013.html>`__
+по разработке проекта наших участников, coreutils. Мы уже `обращали ваше
+внимание </content/Короткие-новости-7>`__ на предыдущий, апрельский
+отчет. Открытость и гласность процесса разработки проектов наших
+участников - одна из причин (не единственная, разумеется), почему
+коммерчески успешные компании выбирают стандарты, развиваемые в нашем
+коммьюнити, вместо конкурирующих стандартов и решений.
+
+`Red hat Software Collections вышли из
+беты <http://developerblog.redhat.com/2013/09/12/rhscl1-ga/>`__.
+
+Уже известный вам участник Fedora ARM SIG, Rob Clark, `еще больше
+разогнал
+freedreno <http://bloggingthemonkey.blogspot.ru/2013/09/freedreno-update-moar-fps.html>`__.
+
+Rich W.M. Jones объявил, что `обновляет Ocaml в Fedora до недавно
+вышедшей версии
+4.01.0 <http://rwmj.wordpress.com/2013/09/14/ocaml-4-01-0-entering-rawhide/>`__.
+
+Danel Pocock, недавно пришедший к нам из коммьюнити Debian, `написал
+статью о существующих стандартах для адресной книги и
+контакт-листов <http://danielpocock.com/mastering-calendar-and-contact-data-with-free-software-in-the-smartphone-era>`__.
+
+Máirín Duffy продолжает рассказывать о дизайне узла инфраструктуры
+Fedora,
+`Hyperkitty <http://blog.linuxgrrl.com/2013/09/11/hyperkitty-categories/>`__.
+
+Из-за большого количества зарегистрированных участников, пришлось
+закрыть регистрацию на `мини-конференцию «Дорога в
+облака» </content/Конференция-«Дорога-в-облака»-посвященная-облачным-технологиям>`__.
+
+Но не расстраивайтесь - будет видеотрансляция. Также мы выложим
+видеозаписи с докладами участников и их презентации. Ну и не пропускайте
+наших будущих анонсов.
+

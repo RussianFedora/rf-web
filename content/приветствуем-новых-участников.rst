@@ -1,0 +1,25 @@
+.. title: Приветствуем новых участников
+.. slug: приветствуем-новых-участников
+.. date: 2012-02-20 13:24:51
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: mama-sun
+
+**Это архивная статья**
+
+
+В полку команды локализации прибыло! Несколько дней назад к нам
+присоединились сразу трое новых участников:
+
+-  `Александр Брежнев
+   (brezhnev) <http://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001398.html>`__
+-  `Артем Кунев
+   (ArtKun) <http://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001400.html>`__
+-  `Гущин Андрей
+   (neogan74) <http://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001404.html>`__
+
+Приветствуем, благодарим за энтузиазм (главное, чтобы он не угасал :) и
+желаем успехов в переводе!

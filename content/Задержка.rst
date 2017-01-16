@@ -1,0 +1,20 @@
+.. title: Задержка.
+.. slug: Задержка
+.. date: 2012-11-08 11:37:41
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+|image0|
+Ну, добавить особо нечего - релиз задерживается до 2013 года. Пока (если
+не сдвинут еще) планируется выпуститься восьмого января 2013 года.
+
+
+.. |image0| image:: http://peter.fedorapeople.org/stuff/pics/delay.jpg
+

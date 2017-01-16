@@ -1,0 +1,110 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-22
+.. date: 2014-03-07 15:20:59
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Ну вот, хоть какая-то определенность - `пока ориентировочно Fedora 21
+выйдет в середине октября 2014
+года <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/193274/focus=193306>`__.
+
+Наши участники пишут не только разные глубинные компоненты вроде ядра,
+glibc, криптобиблиотек, и т.п., но и просто утилиты для развлечения. Наш
+коллега, участник Fedora Project и GNOME, инженер Red Hat, недавно
+уволившийся из Canonical, `David
+King <https://www.ohloh.net/accounts/amigadave>`__, анонсировал выход
+`EasyTag
+2.1.10 <http://thread.gmane.org/gmane.comp.gnome.announce/11471>`__,
+наверное наиболее продвинутой утилиты для редактирования тэгов в
+аудиофайлах. С удовольствием отметим, что в новой версии включены
+исправления нескольких багов, найденные с помощью Fedora ABRT.
+
+Продолжая тему кадровых изменений - наш товарищ, `Pavel
+Zhukov <https://fedoraproject.org/wiki/User:Landgraf>`__ покидает Red
+Hat и будет работать в компании из авиационной индустрии Европы. Мы
+желаем ему удачи на новом месте!
+Дела юридические - Red Hat в очередной раз выступил в роли `amicus
+curiae <https://en.wikipedia.org/wiki/Amicus_curiae>`__. На этот раз по
+делу `Alice Corp. v. CLS Bank
+International <https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International>`__,
+которое имеет большое значение для изменения законодательства США по
+отношению к патентам на ПО, идеи и бизнес-процессы, в стотысячный раз
+`подробно объяснив, почему софтверные патенты, это зло
+(PDF) <http://www.redhat.com/rhecm/rest-rhecm/jcr/repository/collaboration/jcr:system/jcr:versionStorage/6eff79b30a05260115bb4f75f6034f5e/2/jcr:frozenNode/rh:resourceFile>`__.
+
+Помимо Red Hat в роли добровольного помошника суда выступили также FSF и
+Software Freedom Law Center, `опубликовав совместный документ на ту же
+тему <https://www.softwarefreedom.org/resources/2014/alice_v_cls-sflc_amicus.pdf>`__.
+
+Red Hat представила свое средство для обновления ядра без перезагрузки -
+`kpatch <http://rhelblog.redhat.com/2014/02/26/kpatch/>`__. Для 6
+девяток (30 секунд простоя в год) и больше, вероятно, будет полезно в
+ряде случав, но надо напомнить, что это уже не первая система обновления
+ядра без перезагрузки, и предыдущие особого успеха не снискали.
+
+Продолжается `работа по удалению консолей из
+ядра </content/Идет-работа-по-удалению-виртуальных-терминалов-из-ядра-configvtn>`__.
+
+`David Herrmann <http://dvdhrm.wordpress.com/about-me/>`__ предложил к
+включению в ядро последний кирпичик - `kernel log
+renderer <http://thread.gmane.org/gmane.comp.video.dri.devel/101446>`__.
+
+Если в ядре не будет консолей, то некуда вывести сообщение об ошибке на
+раннем этапе загрузки. С этим патчем в ядре появится возможность вывести
+ошибку на экран. Таким образов в Linux наконец-то появится
+`BSoD <https://ru.wikipedia.org/wiki/Синий_экран_смерти>`__.
+
+И вновь новости от Red Hat. `OpenShift теперь поддерживает запуск
+приложений
+.Net <https://www.openshift.com/blogs/microsoft-dot-net-on-openshift>`__,
+а `RHEL теперь доступна в AWS GovCloud
+(US) <http://www.redhat.com/about/news/press-archive/2014/3/red-hat-brings-enterprise-linux-platform-to-aws-govcloud>`__,
+облаке для американских правительственных организаций.
+
+`DNF дорос до версии
+0.4.17 <http://dnf.baseurl.org/2014/03/05/dnf-0-4-17-released/>`__, и,
+видимо, `заменит Yum в Fedora
+22 <https://fedoraproject.org/wiki/Changes/ReplaceYumWithDNF>`__. До
+F-22 еще примерно год, так что всякое может произойти.
+
+`Tim Waugh <https://www.ohloh.net/accounts/twaugh>`__, участник Fedora и
+инженер Red Hat, `рассказывает о текущем состоянии печати в user
+session <http://cyberelk.net/tim/2014/03/04/network-printing/>`__. Идея
+в том, что для печати на сетевом принтере права пользователя должны
+проверяться на том конце, а не на рабочей машине, как это делается при
+работе с локально присоединенным устройством. Любой пользователь должен
+иметь возможность отправить что угодно на удаленный принтер, иначе это
+какая-то глупость получается - почему мы должны приравнивать их к
+локальным принтерам и накладывать ограничения на пользователя, если он
+может записывать что угодно в открытый на удаленном устройстве сокет?
+Шина сообщений `fedmsg <http://www.fedmsg.com/en/latest/>`__
+используется теперь не только в Fedora (например, `ее начали
+использовать в Debian <https://wiki.debian.org/FedMsg>`__), что
+открывает совершенно новые возможности для взаимодействия между
+различными коммьюнити. С ростом интереса, возникают и различные вопросы,
+на которые время от времени отвечает `Ralph
+Bean <https://www.ohloh.net/accounts/ralphbean>`__. Недавно ему задали
+вопрос о том, можно ли прикрутить шифрование к сообщениям, которые
+сейчас передаются в незашифрованном, хотя и подписанном виде? Ralph
+отвечает, что `нет, шифрования сообщений в fedmsg скорее всего не
+будет <http://threebean.org/blog/kerberized-fedmsg/>`__, и поясняет,
+почему так.
+
+И наконец, новость от наших друзей из Parallels. На прошедшем `Moscow
+Virtualization
+Meetup </content/moscow-virtualization-meetup-fosdem-after-party>`__
+(вы, кстати, уже посмотрили `видеозаписи
+выступлений </content/Появились-видеозаписи-с-moscow-virtualization-meetup>`__?)
+они упоминали об одном секретном проекте, исходники которого скоро
+выложат. И вот, свершилось - в ленте Google+ CRIU `появился анонс
+P.Haul <https://plus.google.com/+CriuOrg/posts/6euEXcczfnE>`__,
+приложения для live-миграции с помощью CRIU. `Исходники выложены на
+GitHub <https://github.com/xemul/p.haul>`__.
+

@@ -1,0 +1,46 @@
+.. title: Короткие новости о контейнерах и виртуализации
+.. slug: Короткие-новости-о-контейнерах-и-виртуализации-0
+.. date: 2014-11-07 19:07:26
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+К `дискуссии о безопасности контейнеров </content/Облачные-новости-2>`__
+подключился `James
+Bottomley <http://www.linkedin.com/pub/james-bottomley/9/902/725>`__,
+CTO компании "Parallels". Он считает, что `такой проблемы, как
+безопасность контейнеров,
+нет <http://www.infoworld.com/article/2840223/application-virtualization/parallels-cto-linux-container-security-isnt-the-problem.html>`__.
+
+`Выложили видеозаписи прошедшего KVM
+Forum <https://www.youtube.com/channel/UCRCSQmAOh7yzgheq-emy1xA>`__.
+
+`IDC выпустила подробный доклад о текущем состоянии
+KVM <https://openvirtualizationalliance.org/sites/ova/files/resources/files/251810.pdf>`__.
+
+Rich WM Jones написал пару новых хаутушек по libguestfs и сопутствующим
+программам - `как собрать загрузочный ISO-образ c помощью
+virt-builder <https://rwmj.wordpress.com/2014/10/28/making-a-bootable-cd-romiso-from-virt-builder/>`__,
+`как читать диски гостевых систем из VMware vCenter с помощью
+libguestfs <https://rwmj.wordpress.com/2014/11/05/tip-read-guest-disks-from-vmware-vcenter-using-libguestfs/>`__.
+
+К сожалению, с прошедшего YaC мы поняли, что возможности libguestfs
+остаются неизвестными многим любителям контейнеров, так что думаем, что
+чтиво будет интересным.
+
+`Статья из блога Red Hat Stack о том, почему NFV
+важен <http://redhatstackblog.redhat.com/2014/11/06/openstack-summit-why-nfv-really-matters/>`__.
+
+Интересно, что термин SDN постепенно заменяется более общим Network
+Function Virtualization. Мы еще части слышали термины Software-defined
+Everything/Economy, и Everything-As-A-Service.
+
+И напоследок `отличная статья про OSv, но не
+только <https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e>`__.
+

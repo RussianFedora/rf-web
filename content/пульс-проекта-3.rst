@@ -1,0 +1,28 @@
+.. title: Пульс проекта
+.. slug: пульс-проекта-3
+.. date: 2012-01-06 23:02:07
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Очередной раунд отключения неактивных мэйнтейнеров в Fedora. Те, кто не
+сменили пароль и ssh-ключ за несколько отведенных на это месяцев, будут
+признаны неактивными. Их заблокируют окончательно 10 января.
+
+`Подробности <https://fedorahosted.org/fedora-infrastructure/ticket/3046>`__,
+где можно увидеть `список тех, кто не сменил
+пароль, <https://fedorahosted.org/fedora-infrastructure/attachment/ticket/3046/unchg-pw>`__
+и `список тех, кто не сменил
+ssh-ключ, <https://fedorahosted.org/fedora-infrastructure/attachment/ticket/3046/unchg-ssh>`__
+(списки частично пересекаются), а также `список
+пакетов <https://fedorahosted.org/fedora-infrastructure/attachment/ticket/3046/packages-to-orphan.txt>`__,
+которые теряют мэйнтейнеров и могут быть выброшены (если не появятся
+новые мэйнтейнеры). На самом деле подавляющее большинство пакетов уже
+имеют ко-мэйнтейнеров, так-что выброшены будут далеко не все из них.
+

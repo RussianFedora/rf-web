@@ -1,0 +1,36 @@
+.. title: И еще немного коротких новостей
+.. slug: И-еще-немного-коротких-новостей
+.. date: 2013-10-28 12:41:24
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Инженер Parallels, Pavel Emelyanov, `выпустил CRIU версии
+0.8 <http://thread.gmane.org/gmane.linux.kernel.containers/26942>`__ (в
+Fedora уже собрана).
+
+Участник Fedora, инженер Red Hat, Karel Zak, `выпустил util-linux версии
+2.24 <http://thread.gmane.org/gmane.linux.file-systems/79302>`__.
+
+Наши друзья в Eucaliptus `выпустили версию 3.4 своей одноименной
+облачной
+системы <http://www.opennet.ru/opennews/art.shtml?num=38268>`__. Из
+новых фич релиза, хотелось бы отметить интеграцию с `Riak
+CS </content/Вышел-riak-14-cs-с-поддержкой-openstack>`__.
+
+Инженер Red Hat, `Jim
+Meyering <https://www.ohloh.net/accounts/meyering>`__, `объявил о выходе
+grep 2.15 <http://thread.gmane.org/gmane.org.fsf.announce/2047>`__. В
+этом релизе особенно хочется отметить опциональное использование
+JIT-компилятора из PCRE, что сильно ускорит работу.
+
+`Maksim Melnikau <https://github.com/max-posedon>`__, инженер Wargaming,
+побывал на LinuxCon Europe 2013 и `изложил запомнившееся в виде
+презентации <http://www.slideshare.net/max_posedon/linuxcon-europe-2013>`__.
+

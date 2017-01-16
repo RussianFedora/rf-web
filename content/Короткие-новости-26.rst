@@ -1,0 +1,77 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-26
+.. date: 2014-06-25 11:03:56
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Участник Fedora ARM SIG, `Rob Clark <https://github.com/robclark>`__,
+продолжает работу над проектом freedreno. В последнее время он не только
+реализовал
+`XA-ускорение <http://thread.gmane.org/gmane.comp.freedesktop.xorg.announce/2157>`__
+(2D-ускорение EXA, реализованное на базе Gallium3D), `OpenGL
+2.0 <http://bloggingthemonkey.blogspot.com/2014/05/freedreno-turns-gl-20-today.html>`__,
+`поддержку sRGB текстур и OpenGL
+2.1 <http://cgit.freedesktop.org/mesa/mesa/commit/?id=5646319>`__, но и
+`нашел ошибку безопасности в (полу)проприетарном
+видеодрайвере <http://bloggingthemonkey.blogspot.com/2014/06/fire-in-root-hole.html>`__,
+позволившую ему `установить Fedora на Amazon Fire
+TV </content/fedora-20-на-amazon-fire-tv>`__. Он даже хотел сделать
+утилиту для jailbreak, использующую эту ошибку, но уже появились и
+другие варианты.
+
+Интересно, что freedreno оказался полезным не только владельцам
+оборудования. `Eric Anholt <https://github.com/anholt>`__ недавно
+`уволился из Intel и перешел в
+Broadcom <https://anholt.livejournal.com/44239.html>`__, где теперь
+разрабатывает открытый видеодрайвер для VideoCore VC4, использующегося в
+Raspberry Pi. Примечательно, что `за основу для своего драйвера он решил
+взять именно
+freedreno <https://anholt.livejournal.com/44312.html?nojs=1>`__.
+
+Dan Williams выпустил `NetworkManager
+0.9.10 <http://blogs.gnome.org/dcbw/2014/06/20/well-build-a-dream-house-of-net/>`__
+(новость уже `обсуждают на
+Linux.org.ru <https://www.linux.org.ru/news/opensource/10604299>`__). Из
+нового, это `продолжающееся добавление Enterprise-grade
+функционала </content/networkmanager-обрастает-enterprise-grade-функционалом>`__,
+например `Data Center
+Bridging <https://en.wikipedia.org/wiki/Data_center_bridging>`__.
+
+Наш коллега, `Karel Zak <https://www.ohloh.net/accounts/kzak>`__,
+`полностью переписал
+cfdisk <http://karelzak.blogspot.ru/2014/06/new-cfdisk-util-linux-v225.html>`__,
+утилиту из состава util-linux. Получилось неплохо! [STRIKEOUT:Надо
+попробовать на жестком диске, который не жалко].
+Еще один наш коллега, Jim Meyering
+`ускорял <https://savannah.gnu.org/forum/forum.php?forum_id=7988>`__ (в
+версии 2.19) grep. Правда почти сразу же пришлось `исправлять
+ускоренное <https://savannah.gnu.org/forum/forum.php?forum_id=7995>`__
+(в версии 2.20). Бывает, чего уж.
+
+Измучавшись с `libexpect <http://linux.die.net/man/3/libexpect>`__ Rich
+WM Jones `написал
+miniexpect <https://rwmj.wordpress.com/2014/04/25/miniexpect-a-small-expect-library-for-c/>`__,
+небольшую замену (500 строк кода + pcre в зависимостях).
+
+`Инженеры Google сумели скомпилировать coreutils в единый
+бинарник <https://plus.google.com/+DavidZeuthen/posts/9arrkYLLihd>`__
+(см. `busybox <https://ru.wikipedia.org/wiki/BusyBox>`__). К идее
+необычное внимание проявил Lennart Poettering.
+
+`Тревожно! <https://www.linux.org.ru/news/linux-general/7646275#comment-7646591>`__
+И напоследок, новости айти-науки. `Galois inc. открыли
+Cryptol <https://news.ycombinator.com/item?id=7642434>`__, DSL для
+криптографии, разработанный для американской военщины. Хоть уже и не
+новость, но как-то прошла незамеченной по российским айти-сайтам. А на
+днях было анонсировано, что защищенное и математически проверенное
+`микроядро seLK <http://sel4.systems/>`__ будет вскоре открыто. Новость
+уже `обсуждается на
+OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40075>`__.
+

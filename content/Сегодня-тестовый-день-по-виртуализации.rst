@@ -1,0 +1,17 @@
+.. title: Сегодня тестовый день по виртуализации
+.. slug: Сегодня-тестовый-день-по-виртуализации
+.. date: 2015-02-17 09:17:35
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+На подходе еще один тестовый день Fedora 22 -
+`виртуализация <https://fedoraproject.org/wiki/Test_Day:2015-04-16_Virtualization>`__.
+
+Присоединяйтесь!

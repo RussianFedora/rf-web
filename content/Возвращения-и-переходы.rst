@@ -1,0 +1,55 @@
+.. title: Возвращения и переходы
+.. slug: Возвращения-и-переходы
+.. date: 2014-06-19 23:03:48
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Debian вернулся на GLIBC c EGLIBC <http://blog.aurel32.net/175>`__
+(правда пока не решился вернуть ffmpeg).
+
+Skype, который не нужен, `отказался от поддержки ALSA в пользу
+PulseAudio <http://blogs.skype.com/2014/06/18/skype-4-3-for-linux/>`__.
+
+HP перешла в своем облачном решении на основе OpenStack `с Ubuntu на
+самосборный дистрибутив на базе
+Debian <http://www.serverwatch.com/server-trends/which-linux-distribution-powers-hp-helion-cloud-video.html>`__.
+
+Честно говоря, нас эта новость удивила. Понятно почему ушли с Ubuntu -
+`не они первые, не они
+последние </content/valve-раздает-бесплатно-свои-игры-разработчикам-debian>`__,
+но почему на Linux-дистрибутив из прошлого тысячеления, а не на,
+например, `недавно вышедшую RHEL
+7 <http://www.redhat.com/about/news/press-archive/2014/6/red-hat-unveils-rhel-7>`__?
+Конечно, Debian `вовсю переходит на
+systemd <http://thread.gmane.org/gmane.linux.debian.devel.announce/1920>`__
+и внедряет прочие улучшения, но до первых результатов еще довольно
+далеко. Ну да хозяин-барин. Зато разрешился `давно мучавший нас
+вопрос <https://www.linux.org.ru/forum/talks/9345007/page1?#comment-9346281>`__
+- что HP использует внутри своих облаков?
+LG `переходит на Wayland
+(QtWayland) <https://plus.google.com/+KristianHøgsberg/posts/CWXFUQEnZ7v>`__.
+
+Разработчики LG `уже отправляют патчи в
+апстрим <https://plus.google.com/+AaronSeigo/posts/ioNpQJbfKiW>`__. По
+слухам там используется Yocto, в который недавно
+`добавили <https://www.yoctoproject.org/download/yocto-project-16>`__
+поддержку `cute embedded nonsense
+hacks </content/cute-embedded-nonsense-hacks>`__.
+
+Наши коллеги с удовольствием ознакомились с очередной драмой - участники
+коммьюнити Gentoo обнаружили, что `Upower больше не поддерживает
+pm-utils <https://plus.google.com/+OlavVitters/posts/XGrWJqpL542>`__.
+
+Интересно, что несмотря на предупреждения почти за год, что pm-utils
+будет удален, для `многих аналитиков эта новость была
+неожиданной <https://www.linux.org.ru/forum/talks/10546568>`__. Еще раз
+повторимся, изучайте нововведения в Fedora, т.к. через полгодика-год они
+будут и в вашем дистрибутиве.
+

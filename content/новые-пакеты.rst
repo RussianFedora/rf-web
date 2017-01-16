@@ -1,0 +1,18 @@
+.. title: Новые пакеты
+.. slug: новые-пакеты
+.. date: 2012-03-09 01:00:36
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Tigro
+
+**Это архивная статья**
+
+
+В репозитории Russian Fedora для RERemix/SL/Centos доступны новые
+пакеты: gcompris 12, krusader, eiskaltdcpp, kino. Так же для всех
+дистрибутивов доступны обновления браузера Chromium, v8, flash-plugin и
+Adobe Reader (acroread).
+

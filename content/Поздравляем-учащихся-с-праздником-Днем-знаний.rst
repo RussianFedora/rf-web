@@ -1,0 +1,61 @@
+.. title: Поздравляем учащихся с праздником - Днем знаний!
+.. slug: Поздравляем-учащихся-с-праздником-Днем-знаний
+.. date: 2012-09-01 20:31:21
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Сегодня, первого сентября, праздник у многих линуксоидов - начало
+учебного года. Команда Russian Fedora поздравляет школьников, студентов,
+аспирантов и тех, кто занимается самообразованием - учитесь, углубляйте
+знания и шлифуйте навыки. Напоминаем, что учиться проще, когда под рукой
+открытое научное ПО, установленное на открытой операционной системе.
+
+Конечно, мы считаем, что наилучший выбор открытой операционной системы,
+это Fedora, но вам могут подойти и другие системы, в т.ч. и от наших
+"конкурентов" (насколько это можно сказать об открытых системах и
+сообществе вокруг открытого ПО).
+
+В рамках проекта Fedora сформированы рабочие группы, которые могут быть
+интересны учащимся -
+`SciTech <http://fedoraproject.org/wiki/Category:SciTech_SIG>`__,
+`Astronomy <http://fedoraproject.org/wiki/Category:Astronomy_SIG>`__,
+`Education <http://fedoraproject.org/wiki/SIGs/Education>`__
+(посвященная учебному процессу в целом), `Formal
+Methods <http://fedoraproject.org/wiki/FormalMethods>`__,
+`GIS <http://fedoraproject.org/wiki/GIS>`__,
+`Medical <http://fedoraproject.org/wiki/SIGs/FedoraMedical>`__,
+`Robotics <http://fedoraproject.org/wiki/SIGs/Robotics>`__ и другие.
+
+В общем пробуйте, изучайте, сравнивайте, задавайте вопросы на форумах -
+пока есть время на учебу (дальше будет гораздо сложнее). Не стесняйтесь
+своего статуса - ведь школота, это звучит гордо. И лучше быть школотой,
+чем закостеневшим в невежестве дикарем.
+
+
+.. raw:: html
+
+   <div align="center">
+
+|image0|
+|image1|
+|image2|
+|image3|
+
+.. raw:: html
+
+   </div>
+
+.. |image0| image:: http://sovphoto.ru/regular/77-11/77_11_science_duel.jpg
+   :target: http://sov-photo.livejournal.com/35278.html
+.. |image1| image:: http://d24w6bsrhbeh9d.cloudfront.net/photo/4336200_700b.jpg
+   :target: http://9gag.com/gag/4336200
+.. |image2| image:: http://img3.joyreactor.com/pics/post/auto-they-said-197713.jpeg
+.. |image3| image:: http://d24w6bsrhbeh9d.cloudfront.net/photo/4105054_700b_v1.jpg
+   :target: http://9gag.com/gag/4105054

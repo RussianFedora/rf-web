@@ -1,0 +1,186 @@
+.. title: Короткие новости о контейнерах и виртуализации
+.. slug: Короткие-новости-о-контейнерах-и-виртуализации
+.. date: 2014-07-13 15:23:14
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+В последнее время было огромное количество новостей про виртуализацию и
+контейнеры - тема-то очень горячая! Из-за недостатка времени мы просто
+кратко упомянем ту часть из них, которая показалась нам интересной.
+
+Инженер Red Hat, `Daniel P.
+Berrangé <https://www.ohloh.net/accounts/berrange>`__, продолжает
+улучшать и облагораживать libvirt. Еще в мае он последовательно `улучшил
+производительность ведения журнала событий в
+libvirt <https://www.berrange.com/posts/2014/05/02/improving-libvirt-logging-performance/>`__
+и `ускорил создание правил iptables/firewalld в
+libvirt <https://www.berrange.com/posts/2014/05/02/improving-libvirt-firewall-performance/>`__.
+
+Уже, конечно, не новость, но как то прошла мимо внимания
+коллег-аналитиков.
+
+Все больше внимания получает связка systemd и контейнеров. Lennart
+Poettering со своей командой постоянно улучшает возможности для
+управления контейнерами прямо из systemd. Скорость выпуска его версий
+довольно впечатляющая, и если кто-то пропустил, то в одной из последних
+версий systemd `была добавлена возможность дополнительной изоляции /usr
+и
+/home <https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/GVfoDwhRdie>`__
+(монтировать их и сопутствующие директории FHS в режиме только для
+чтения).
+
+В рамках проекта OpenShift `была
+анонсирована <https://www.openshift.com/blogs/geard-the-intersection-of-paas-docker-and-project-atomic>`__
+интересная утилита - `geard <https://github.com/openshift/geard>`__. Она
+упрощает запуск и взаимодействие контейнеров Docker в системе с systemd,
+создавая все необходимое, в т.ч. `настраивая сеть между контейнерами в
+пределах
+кластера <https://www.openshift.com/blogs/how-geard-uses-iptables-for-networking-between-containers>`__.
+
+Людям интересно не только запускать Docker на systemd, но и наоборот -
+запускать systemd внутри Docker. Обычно рекомендуют запускать лишь одно
+приложение в контейнере, но как нам кажется логичнее оперировать не
+отдельными демонами, а логическими сервисами (один сервис может
+требовать запуска нескольких демонов, и не всегда есть смысл раскидывать
+их на несколько контейнеров, особенно если надо придерживаться строгого
+порядка в их запуске). Опять же надо учесть тот факт, игнорируемый
+многими, что действительно, даже популярные системные демоны порой
+падают, и нужно чем то их поднимать. Разработчики Docker советуют
+использовать `supervisord <http://supervisord.org/>`__, но мы полагаем,
+что это неправильно, т.к. есть же systemd. Многие приходили к такому же
+выводу, но `запустить systemd внутри контейнера с помощью Docker у них
+не получалось <https://github.com/dotcloud/docker/issues/3629>`__. К
+задаче наконец-то приступил наш коллега, `Dan
+Walsh <http://people.redhat.com/dwalsh/>`__. Он провел исследовательскую
+работу и `добился работы systemd в контейере
+Docker <http://rhatdan.wordpress.com/2014/04/30/running-systemd-within-a-docker-container/>`__!
+Его рецепт пока выглядит длинновато, но в ближайшее время и в systemd, и
+в Docker будут внесены изменения, которые позволят сократить количество
+требуемых операций.
+
+Раз уж говорим о Docker, недавно `Docker запустили внутри Hadoop
+YARN <http://www.theregister.co.uk/2014/05/02/docker_hadoop/>`__, и
+результаты очень хорошие.
+
+`YARN <https://hadoop.apache.org/docs/r2.3.0/hadoop-yarn/hadoop-yarn-site/YARN.html>`__
+предназначается для запуска заданий внутри Hadoop, и раз заданиями могут
+быть, например, контейнеры Docker, то не превратить ли Hadoop в
+полноценное решение для манипуляции заданиями и процессами в кластере?
+Не просто Map-Reduce + хранилище, а целая облачная система общего
+пользования. Посмотрим, чем это закончится, а пока напомним, что `в
+Fedora 21 из коробки будет доступно очень много компонентов
+Hadoop </content/Итоговая-пачка-фич-fedora-21>`__.
+
+На днях завершилось еще одно интересное мероприятие -
+`DockerCon <http://dockercon.com/agenda.html>`__. Рекап событий можно
+`найти
+тут <https://www.openshift.com/blogs/dockercon-2014-a-red-hat-recap>`__,
+но нам особенно приятно, что на этом мероприятии не только выступил Dan
+Walsh `с докладом на тему Docker и
+SELinux <http://people.fedoraproject.org/~dwalsh/SELinux/Presentations/DockerSecurity/#/>`__,
+но и было
+`анонсировано <http://blog.docker.com/2014/06/docker-governance-advisory-board-next-steps/>`__,
+что он включен в состав Docker Governance Advisory Board, как
+представитель Red Hat. Помимо него из корпоративных участников заявлены
+следующие компании-пользователи Docker - Google (да, они используют
+Docker, но них чуть ниже), IBM, Rackspace. `Доклад про SELinux Walsh
+сделал очень вовремя - в Docker нашли какую-то
+дыру <https://www.openshift.com/blogs/securing-docker’s-future-with-selinux-and-the-open-source-way>`__.
+
+|image0|
+**Бывший американский кэгэбэшник Dan Walsh рекомендует Docker и
+SELinux.**.
+Но не только серверные задачи будут решаться с помощью Docker. Наши
+коллеги активно работают над широким использованием контейнерных
+технологий на десктопе. Участник Fedora, `Christian
+Schaller <https://www.ohloh.net/accounts/Uraeus>`__, разработчик
+gstreamer и GNOME, `рассказал о текущем состоянии
+дел <http://blogs.gnome.org/uraeus/2014/07/10/desktop-containers-the-way-forward/>`__
+(`заметка уже обсуждается на
+OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40176>`__).
+
+Сделано уже довольно много, и пока мы идем по роадмапу, который составил
+давным давно Lennart Poettering, в очередной раз обогнав время.
+
+Вообще, контейнеры так радикально изменяют все подходы к управлению
+приложениями, что возникает вопрос - не сделал ли Docker и новые
+технологии, типа `Project
+Atomic </content/Еще-одна-облачная-операционная-система>`__ системы
+управления пакетами ненужными? Наш коллега, `Colin
+Walters <https://www.ohloh.net/accounts/colinwalters>`__, считает, что
+`нет, не
+сделал <http://blog.verbum.org/2014/07/10/project-atomic-docker-a-post-package-world/>`__.
+
+Много новостей и от разработчиков CoreOS. Для начала скажем, что
+пользователи уже начали развертывать тестовые окружения на базе CoreOS
+(например, `заметка
+раз <http://marceldegraaf.net/2014/04/24/experimenting-with-coreos-confd-etcd-fleet-and-cloudformation.html>`__,
+`заметка
+два <http://marceldegraaf.net/2014/05/05/coreos-follow-up-sinatra-logstash-elasticsearch-kibana.html>`__).
+
+Рост интереса к CoreOS закономерно сконвертировался в золотые дублоны и
+пиастры - `проект CoreOS получил 8 миллионов USD
+инвестиций <http://www.prnewswire.com/news-releases/265191691.html>`__
+(это почти 13 тысяч биткойнов по текущему курсу). И инвесторы получили
+не только полупустой проект, интересный девопсам, но проект в рамках
+которого все чаще рождаются интересные технологии -
+`CoreUpdate <https://coreos.com/products/coreupdate/>`__ и etcd,
+`неторопливо движущийся к версии
+1.0 <https://coreos.com/blog/etcd-The-Road-to-1.0/>`__. На базе этих
+технологий уже строятся работающие коммерческие решения, например,
+недавно компания `Mailgun <http://www.mailgun.com/>`__ разработала
+`Vulcand <https://github.com/mailgun/vulcand>`__, HTTP-прокси и
+балансировщик, о чем нам рассказал `Rob
+Szumski <https://github.com/robszumski>`__ в `своем
+блог-посте <http://coreos.com/blog/zero-downtime-frontend-deploys-vulcand/>`__.
+
+Но о гораздо более интересном пользователе etcd мы расскажем чуть ниже.
+
+В последнее время еще один вопрос, регулярно поднимаемый на
+мероприятиях, это чем отличаются архитектурно CoreOS и Project Atomic.
+
+Наш коллега, `Major Hayden <http://majorhayden.com/>`__, попытался
+ответить на этот вопрос `в своем
+блог-посте <http://major.io/2014/05/13/coreos-vs-project-atomic-a-review/>`__.
+
+В итоге, Major сделал вывод, что CoreOS уже готов к реальному
+использованию, в то время, как Project Atomic еще требует полировки.
+
+И наконец, очень интересная новость! Google
+`анонсировал <http://googlecloudplatform.blogspot.ru/2014/07/welcome-microsoft-redhat-ibm-docker-and-more-to-the-kubernetes-community.html>`__
+проект
+`Kubernetes <https://github.com/GoogleCloudPlatform/kubernetes>`__
+(анонс `обсуждают на
+OpenNET.ru <http://opennet.ru/opennews/art.shtml?num=40181>`__). Это
+система управления контейнерами в кластере, построенная на базе
+`etcd <http://thenewstack.io/about-etcd-the-distributed-key-value-store-used-for-kubernetes-googles-cluster-container-manager/>`__
+и systemd. В проекте принимают участие такие компании, как Microsoft,
+Red Hat (`почитайте
+анонс <http://www.redhat.com/about/news/archive/2014/7/red-hat-and-google-collaborate-on-kubernetes-to-manage-docker-containers-at-scale>`__),
+IBM, Docker, Mesosphere, CoreOS и SaltStack. Для нас эта новость
+наконец-то ответила на вопрос, почему в последнее время инженеры Google
+присоединились к разработке systemd. Пока доступно лишь управление
+контейнерами Docker в кластере виртуальных машин KVM в облаке `Google
+Cloud Platform <https://cloud.google.com/>`__, но очень вероятно, что
+возможности вскоре будут серьезно расширены.
+
+Кстати, если вы будете с 15 по 17 октября 2014 в Дюссельдорфе, в
+Германии, то обязательно зайдите на `Linux Plumbers
+Conference <http://www.linuxplumbersconf.org/2014/>`__, где будут
+микроконференции по
+`контейнерам <http://www.linuxplumbersconf.org/2014/an-in-depth-look-containers-microconference/>`__
+и `виртуализации сети
+(SDN) <http://www.linuxplumbersconf.org/2014/an-in-depth-look-network-virtualization-and-security-microconference/>`__.
+
+Пока, к сожалению, программы мероприятия нету.
+
+
+.. |image0| image:: https://www.openshift.com/sites/default/files/DanWalshDockah.png
+   :width: 40.0%

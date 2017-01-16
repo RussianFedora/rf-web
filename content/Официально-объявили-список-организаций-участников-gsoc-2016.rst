@@ -1,0 +1,19 @@
+.. title: Официально объявили список организаций-участников GSOC 2016
+.. slug: Официально-объявили-список-организаций-участников-gsoc-2016
+.. date: 2016-03-01 14:42:10
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Составлен `список организаций-участников GSoC
+2016 <https://google-opensource.blogspot.com/2016/02/2016-google-summer-of-code-mentor.html>`__.
+
+Снова полно дружественных нам проектов и организаций, так что `выбирайте
+организацию <https://summerofcode.withgoogle.com/organizations/>`__ и
+присоединяйтесь!

@@ -1,0 +1,38 @@
+.. title: RPM 4.13.0
+.. slug: rpm-4130
+.. date: 2015-07-29 15:35:04
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Fedora Rawhide (будущая версия 24) `переходит на недавно анонсированный
+RPM
+4.13.0 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/209662>`__!
+Из `заметных изменений <http://rpm.org/wiki/Releases/4.13.0>`__ в RPM
+4.13.0 можно отметить `File
+Triggers <http://rpm.org/wiki/FileTriggers>`__, вариант
+`скриптлетов <https://fedoraproject.org/wiki/Packaging:ScriptletSnippets>`__,
+выполняемых, если пакет содержит файл, удовлетворяющий некоторым
+признакам. С их помощью можно будет, например, попробовать заменить
+*%pre, %post, %postun* скриптлеты во всех пакетах, содержащих
+загружаемые C/C++-библиотеки.
+
+Вторая новинка новой версии RPM, это `логические зависимости между
+зависимостями <http://rpm.org/wiki/PackagerDocs/BooleanDependencies>`__.
+
+Например, *Requires: sysklog OR syslog-ng OR rsyslog*. Более интересный
+вариант, это установка дополнительных компонентов, если установлен
+некоторый пакет. Например, *Requires: opensips-oracle IF
+oracle-instantclient*. Логические выражения над зависимостями, это очень
+экспериментальная функциональность, и `ее поддержка в библиотеках
+высокого уровня пока
+неполная <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/209662/focus=209804>`__.
+
+Синтаксис тоже в процессе обсуждения.
+

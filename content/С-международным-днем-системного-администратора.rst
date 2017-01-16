@@ -1,0 +1,21 @@
+.. title: С международным днем системного администратора!
+.. slug: С-международным-днем-системного-администратора
+.. date: 2013-07-26 10:39:07
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+|image0|
+*На фото наш коллега, участник Fedora и сисадмин kernel.org, `Konstantin
+Ryabitsev <https://plus.google.com/114752601290767897172/about>`__
+пытается разобраться, что же такого Линус Торвальдс "ничего не делал",
+после чего ничего не работает.*
+
+.. |image0| image:: https://www.linux.com/images/stories/41373/Linux-Foundation-sysadmin-work.jpg
+   :target: https://www.linux.com/news/featured-blogs/200-libby-clark/718915-linux-foundation-systems-administrator-job/

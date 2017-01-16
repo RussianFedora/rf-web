@@ -1,0 +1,22 @@
+.. title: Фото недели
+.. slug: Фото-недели
+.. date: 2015-07-20 16:26:41
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+На фото - известный пользователь Fedora, хулиган и матершинник, Linus
+Torvalds, учится управлять истребителем.
+
+|image0|
+[STRIKEOUT:**Winter is Coming!**] Может и нам уже пора учиться водить
+танк или вертолет?
+
+.. |image0| image:: https://lh6.googleusercontent.com/-HdChxjKZ-_8/VawYS873JGI/AAAAAAAAU0Q/Vs5g6zJjBsw/DSC03924.jpg
+   :target: https://plus.google.com/u/0/+LinusTorvalds/posts/CnDAdBVidU4

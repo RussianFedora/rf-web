@@ -1,0 +1,25 @@
+.. title: Знаковость.
+.. slug: Знаковость
+.. date: 2016-07-28 14:30:50
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+| Один из наших коллег был вынужден использовать `вот такой
+  патч <http://pkgs.fedoraproject.org/cgit/rpms/chromium.git/plain/chromium-46.0.2490.71-gcc5.patch>`__:
+
+    ::
+
+        --14,-14,-14,-14,-14,-14,-14,-14, -14,-14,-14,-14,-14,-14,-14,-14,
+        --14,-14,-14,-14,-14,-14,-14,-14, -14,-14,-14,-14,-14,-14,-14,-14,
+        +(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14, (uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,
+        +(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14, (uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,(uint8)-14,
+
+| 
+| Не все так однозначно!

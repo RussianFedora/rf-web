@@ -1,0 +1,105 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-15
+.. date: 2013-10-26 21:30:43
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+В Fedora теперь три основных рабочих направления, в рамках которых из
+общей пакетной базы будут создаваться три продукта - `Fedora
+Server <http://thread.gmane.org/gmane.linux.redhat.fedora.server/124>`__,
+`Fedora
+Workstation <http://thread.gmane.org/gmane.linux.redhat.fedora.desktop/8239>`__,
+`Fedora
+Cloud <http://thread.gmane.org/gmane.linux.redhat.fedora.cloud/2676>`__.
+
+В эту осень-зиму наш проект будет серьезно изменяться, и не только в
+смене целей с дистрибутива общего пользования на три нишевых продукта,
+построенных на общей пакетной базе. Все уже понимают, что инфраструктура
+проекта требует обновления, а методики проекта нуждаются в коррекции.
+
+Вот, кстати, почему-то прошло незамеченным сентябрьское `обсуждение
+предложения отказаться от
+bugzilla.redhat.com <http://thread.gmane.org/gmane.linux.redhat.fedora.testers/108580>`__,
+и все заявки по ошибкам вести лишь в багтрекерах апстрима. А недавно наш
+коллега `Jiří
+Eischmann <https://plus.google.com/112174839778779720402/about>`__
+поставил вопрос ребром, `нуждается ли Fedora Project в новых
+участниках <http://eischmann.wordpress.com/2013/10/15/does-fedora-project-want-new-packagers/>`__?
+И если нуждается, то почему процесс присоединения к нам столь запутан и
+плохо документирован, а инструменты неинтегрированы на должном уровне? И
+почти одновременно с ним, другой наш коллега `Luya
+Tshimbalanga <https://plus.google.com/103554137795542381325/about>`__
+пожаловался в списке рассылки разработчиков, что `включение пакетов в
+Fedora порой блокируется по нетехническим
+причинам <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/187308>`__.
+
+Без всякого сомнения, проблема уже назрела, и в ближайшее время будут
+приняты меры по улучшению ситуации.
+
+`Платформа Eclipse будет использовать GTK3 по
+умолчанию <http://git.eclipse.org/c/platform/eclipse.platform.swt.git/commit/?id=2d8f81>`__.
+
+Rackspace
+`объявили <http://www.rackspace.com/blog/zerovm-smaller-lighter-faster/>`__
+о покупке ZeroVM, компании, развивающей `одноименный принципиально новый
+облако-ориентированный гипервизор <http://zerovm.org/>`__. Он уже
+`интегрирован с OpenStack Swift <http://zerovm.org/wiki/OpenStack>`__.
+
+systemd постепенно переходит на собственую реализацию d-bus -
+libsystemd-bus, которая, как было задумано, будет использовать kdbus,
+реализацию шины данных в ядре, `о которой мы уже
+говорили </content/Перенос-d-bus-в-ядро-linux>`__. На libsystemd-bus
+`переведена утилита
+systemd-analyze <https://plus.google.com/103994842436128003171/posts/HFod5c8Cqen>`__.
+
+Кстати, насчет kdbus, с Linux Plumbers Conference 2013 поступили
+интересные новости. Оказывается, изначальная идея о переписывании binder
+для использования kdbus уже имеет довольно неопределенное будущее. Сам
+kdbus ожидается в следующем году, но уже сейчас есть сильные
+архитектурные различия в работе binder и том, как будет работать kdbus.
+
+Более подробно это обсуждается в `статье на
+LWN <https://lwn.net/Articles/570406/>`__, к сожалению временно
+находящейся за paywall.
+
+Вышел CUPS 1.7.0 (новость уже `обсуждается на
+Linux.org.ru <http://www.linux.org.ru/news/opensource/9738072>`__).
+
+Участник коммьюнити Fedora и инженер Red Hat, `Tim
+Waugh <https://www.ohloh.net/accounts/twaugh>`__ не только уже собрал
+его для Fedora 20 и Fedora 21, но и добавил патч для интеграции с
+Journald, что открыло совершенно новые возможности для мониторинга. Tim
+`рассказывает о них в заметке в скоем
+блоге <http://cyberelk.net/tim/2013/10/25/cups-adding-support-for-system-journal/>`__.
+
+Участник Fedora, инженер Red Hat и разработчик GCC, GDB и binutils, `Tom
+Tromey <https://www.ohloh.net/accounts/tromey>`__ объявил о `переводе
+проектов GDB и binutils с CVS на
+Git <http://thread.gmane.org/gmane.comp.gnu.binutils/63626>`__. Ну что
+тут скажешь, лучше поздно, чем никогда.
+
+Rich W.M. Jones `выпустил libguestfs
+1.24 <http://thread.gmane.org/gmane.linux.redhat.fedora.virtualization/2325>`__.
+
+Из новинок - новый скрипт для сборки образов виртуальных систем,
+интеграция с systemd (теперь используется Journald), биндинги к golang.
+
+В Weston `начата работа по замене бэкендов отрисовки на
+лету <http://cgit.freedesktop.org/wayland/weston/commit/?id=aa398ae1>`__.
+
+Вышла `статистика по ядру Linux
+3.12 <https://lwn.net/Articles/570483/>`__. В этот раз случилась
+маленькая сенсация - Red Hat не попал в тройку лидеров!
+К нам присоединился очередной инженер дружественной нам компании Lanedo,
+разработчик LibreOffice, `Eilidh
+McAdam <https://plus.google.com/116318183327257359654/about>`__. Она
+теперь новый `ambassador Fedora
+Project <https://fedoraproject.org/wiki/User:Eilidh>`__.
+

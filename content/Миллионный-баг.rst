@@ -1,0 +1,15 @@
+.. title: Миллионный баг!
+.. slug: Миллионный-баг
+.. date: 2013-08-22 17:58:24
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`В нашем Линуксе официально миллион
+багов <https://bugzilla.redhat.com/1000000>`__!

@@ -1,0 +1,23 @@
+.. title: GCC 4.9.0
+.. slug: gcc-490
+.. date: 2014-04-22 22:55:47
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Инженер Red Hat и участник проектов Fedora и GCC, `Jakub
+Jelinek <https://www.ohloh.net/accounts/Jakub_Jelinek>`__, анонсировал
+`GCC 4.9.0 <http://thread.gmane.org/gmane.comp.gcc.devel/135574>`__
+(новость уже обсуждают коллеги-аналитики на
+`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=39621>`__ и
+`Linux.org.ru <https://www.linux.org.ru/news/gnu/10412218>`__). Эта
+версия GCC запланирована `фичей Fedora
+21 </content/Новые-фичи-fedora-21-0>`__, так что скоро будет полная
+пересборка всего дерева пакетов - ждем традиционные 10% поломок.
+

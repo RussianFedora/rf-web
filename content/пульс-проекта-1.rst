@@ -1,0 +1,18 @@
+.. title: Пульс проекта
+.. slug: пульс-проекта-1
+.. date: 2011-12-14 10:57:34
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: mama-sun
+
+**Это архивная статья**
+
+
+Несколько дней назад
+`прекращена <http://lists.fedoraproject.org/pipermail/announce/2011-November/003010.html>`__
+поддержка выпуска Fedora 14. Поддерживаемыми остаются версии 15 и 16,
+начинается подготовка к релизу Fedora 17 весной 2012.
+

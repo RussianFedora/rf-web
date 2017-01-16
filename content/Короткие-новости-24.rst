@@ -1,0 +1,101 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-24
+.. date: 2014-03-29 20:43:59
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Не так давно </content/Короткие-новости-20>`__ в LibreOffice было
+сконвертировано 70% диалогов в новый формат GtkBuilder. Разработчики не
+сбавили темпов, и участник проектов Fedora и LibreOffice, `Caolán
+McNamara <http://www.ohloh.net/accounts/caolan>`__, объявил о
+`превышении уровня в
+80% <http://caolanm.blogspot.ru/2014/03/700-conversion-target-reached.html>`__.
+
+Осталось еще немного.
+
+Kay Sievers `демонстрирует текущие возможности
+kdbus <https://plus.google.com/+KaySievers/posts/5taNDpjceDf>`__ - не
+только пассивный мониторинг сообщений, но и доступность широкого набора
+метаданных о подключенных клиентах. Сказывается высокая интеграция
+компонентов systemd, позволяющая легко добавлять подобную
+функциональность.
+
+`После kpatch от Red Hat </content/Короткие-новости-22>`__ появилась еще
+пара решений по обновлению ядра без перезагрузки - `kGraft от
+SUSE <https://www.suse.com/company/press/2014/3/suse-releases-kgraft-for-live-patching-of-linux-kernel.html>`__
+и `KernelCare от соотечественников из компании
+CloudLinux <http://kernelcare.com/>`__. Похоже, что тема бесшовного
+обновления системы становится горячей.
+
+Важной становится не только тема, как обновлять систему без
+перезагрузки, но и как это делать атомарно. Проект RPM-OSTree, `о
+котором мы уже упоминали </content/Короткие-новости-21>`__, был
+переименован в `Fedora Atomic
+Initiative <http://rpm-ostree.cloud.fedoraproject.org/>`__. В рамках
+проекта будут разрабатываться методы по атомарным обновлениям системы
+(либо получилось полностью, либо нет). Ничего нового, кроме того, о чем
+`вы могли слышать во время мероприятия "Дорога в
+облака" <http://tech.yandex.ru/events/yagosti/fedora/talks/1162/>`__, к
+сожалению наши коллеги пока не придумали. Сейчас основная идея в Fedora
+Atomic Initiative, это генерация новой rootfs, и переключение на нее при
+удачном создании, т.е. метод использующийся в CoreOS, Android и уже
+много где еще. Если "взлетят" транзакционные файловые системы или даже
+блочные устройства с транзакциями и механизмами checkpoint / restore, то
+возможно будут рассмотрены и еще варианты.
+
+`Matthew
+Miller <https://plus.google.com/103763147500173410163/about>`__,
+участник `Fedora Cloud SIG <https://fedoraproject.org/wiki/Cloud_SIG>`__
+и инженер Red Hat, `выступивший с инициативой
+Fedora.NEXT </content/Обсуждение-реорганизации-всего-процесса-разработки-fedora>`__,
+столкнувшись с критикой и непониманием разъясняет различные неясные
+моменты. Он начал серию постов по данной тематике, из которых уже
+доступны два - `Fedora.Next:
+Зачем? <http://fedoramagazine.org/fedora-present-and-future-a-fedora-next-2014-update-part-i-why/>`__
+и `Fedora.Next: Что
+происходит? <http://fedoramagazine.org/fedora-present-and-future-a-fedora-next-2014-update-part-ii-whats-happening/>`__.
+
+Вскоре будет продолжение - ждем. Ну и почти одновременно с Matthew на
+тему `высказалась Robyn
+Bergeron <http://robyn.io/2014/03/25/fedora-red-hat-and-investing-in-the-future/>`__.
+
+`На сайте Phoronix.com
+заметили <http://www.phoronix.com/scan.php?page=news_item&px=MTY0Njc>`__,
+что у NVIDIA действительно есть планы по поддержке Wayland. Интересно,
+есть ли у них планы по поддержке конкурирующего решения?
+Раз уж заговорили о Wayland, то нельзя не упомянуть про пост `Jasper St.
+
+Pierre <https://github.com/magcius>`__, разработчика Wayland, инженера
+Red Hat и участника GNOME Design Team (вы можете помнить `его
+покомпонентное описание устройства графической подсистемы в
+Linux <http://blog.mecheye.net/2012/06/the-linux-graphics-stack/>`__).
+
+Он `сообщает о готовности поддержки Wayland в GNOME
+3.12 <http://blog.mecheye.net/2014/03/wayland-in-3-12-and-beyond/>`__ на
+достаточном уровне, чтоб протестировать даже мифическому "обычному
+пользователю". Также он обрисовывает планы на GNOME 3.14.
+
+Спустя полгода после `выхода версии
+3.3 </content/Вышел-ovirt-версии-33-и-другие-новости>`__, анонсирован
+`oVirt 3.4 <http://www.ovirt.org/OVirt_3.4_Release_Announcement>`__. В
+нем улучшено управление устройствами хранения, поддержка PPC64
+(реализовано при поддержке IBM в бразильском El Dorado Research Center),
+и многое другое.
+
+Вышла новая версия
+`Kimchi <https://github.com/kimchi-project/kimchi>`__, веб-интерфейса к
+kvm -
+`1.2 <http://lists.ovirt.org/pipermail/kimchi-devel/2014-March/004215.html>`__.
+
+И напоследок, совсем не о Fedora. Для общего развития, ознакомьтесь с
+очередным мнением на тему `Rust vs.
+
+Go <http://jaredly.github.io/2014/03/22/rust-vs-go/index.html>`__.
+

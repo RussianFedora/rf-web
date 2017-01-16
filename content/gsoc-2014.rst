@@ -1,0 +1,44 @@
+.. title: GSoC 2014
+.. slug: gsoc-2014
+.. date: 2014-03-03 18:25:28
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+| Мы немного запоздали, но тем не менее - `официально
+  анонсировали <http://google-opensource.blogspot.ru/2014/02/mentoring-organizations-for-google.html>`__
+  список организаций, допущенных до участия в Google Summer of Code
+  2014. Мы снова в списке, но, конечно, кроме Fedora Project допущены
+  еще `много известных проектов и
+  организаций <http://google-melange.appspot.com/gsoc/org/list/public/google/gsoc2014>`__,
+  среди которых есть и дружественные нам, на которые бы мы хотели
+  обратить ваше внимание:
+
+-  `Fedora
+   Project <https://fedoraproject.org/wiki/Summer_coding_ideas_for_2014>`__
+-  `GNOME <https://wiki.gnome.org/Outreach/SummerOfCode/2014/Ideas>`__
+-  `GNU GCC <http://gcc.gnu.org/wiki/SummerOfCode>`__
+-  `GNU
+   Project <https://www.gnu.org/software/soc-projects/ideas-2014.html>`__
+-  `JBoss <https://community.jboss.org/wiki/GSOC14Ideas?_sscc=t>`__
+-  `LibreOffice <https://wiki.documentfoundation.org/Development/Gsoc/Ideas>`__
+-  `OpenStack <https://wiki.openstack.org/wiki/GSoC2014>`__
+-  `OSv / Cloudius
+   Systemd <https://github.com/cloudius-systems/osv/wiki/Google-Summer-of-Code-2014>`__
+-  `oVirt <http://www.ovirt.org/Summer_of_Code>`__
+-  `Qemu <http://qemu-project.org/Google_Summer_of_Code_2014>`__
+-  `Sugar Labs <http://wiki.sugarlabs.org/go/Summer_of_Code/2014>`__
+-  `syslog-ng <https://github.com/balabit/syslog-ng/wiki/GSoC2014-idea-&-project-list>`__
+-  `X.org <http://www.x.org/wiki/SummerOfCodeIdeas/>`__
+
+| 
+| Конечно, этим списком интересные проекты не исчерпываются. `Выбирайте
+  проект себе по
+  душе <http://google-melange.appspot.com/gsoc/org/list/public/google/gsoc2014>`__,
+  присоединяйтесь и помогайте сделать его лучше!

@@ -1,0 +1,57 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-20
+.. date: 2014-01-16 00:00:15
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Участник проектов Fedora и LibreOffice, `Caolán
+McNamara <http://www.ohloh.net/accounts/caolan>`__, благодаря уже
+известному вам `переходу с устаревшего класса строк в LibreOffice на
+новый </content/Короткие-новости-17>`__, наконец-то
+`исхитрился <http://caolanm.blogspot.ru/2014/01/long-writer-paragraphs.html>`__
+пофиксить `десятилетний
+баг <https://issues.apache.org/ooo/show_bug.cgi?id=17171>`__ в
+LibreOffice / OpenOffice.org. Конечно, в Apache OpenOffice его уже никто
+не будет фиксить, и он там так и останется навсегда, но кто же будет
+тревожить ПО с кладбища проектов, когда есть хороший LibreOffice?
+Это не все новости от McNamara. Он с гордостью объявляет, что `перевел
+уже 70% диалогов LibreOffice в новый формат
+GtkBuilder <http://caolanm.blogspot.ru/2014/01/622-conversions-70-complete.html>`__.
+
+`Недавно
+вышедший <http://www.opennet.ru/opennews/art.shtml?num=38823>`__ Rust
+0.9 `доступен в дополнительном репозитории
+Fedora <http://dummdida.tumblr.com/post/73231010247/rust-0-9-in-fedora>`__,
+созданном благодаря
+`Copr </content/rust-copr-и-изменения-в-инфраструктуре>`__.
+
+Инженер Red Hat, `Andreas
+Schneider <https://www.ohloh.net/accounts/asn>`__ анонсировал выход
+`libssh версии
+0.6.0 <https://blog.cryptomilk.org/2014/01/08/libssh-0-6-0-released/>`__.
+
+Среди прочего, был добавлен серверный API для работы с открытыми ключами
+(в виде callback), алгоритмы ECDSA и ECDH и поддержка Kerberos.
+
+Наконец-то появились `"официальные" образы Fedora для
+Docker <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/190356>`__.
+
+В кавычках, потому что их собрала не RelEng группа, а наш коллега
+`Lokesh Mandvekar <https://github.com/lsm5>`__.
+
+`Выпущена Fedora 20 для System
+z <http://thread.gmane.org/gmane.comp.emulators.hercules390.general/48264>`__.
+
+И забавная новогодняя новость, если кто упустил - `Eric S Raymonds
+предложил перевести Emacs c Bazaar на
+Git <https://lists.gnu.org/archive/html/emacs-devel/2014-01/msg00005.html>`__.
+
+Bazaar, это еще один проект, поддерживаемый Canonical, кстати.
+

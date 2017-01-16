@@ -1,0 +1,21 @@
+.. title: Поздравляем с днем знаний!
+.. slug: Поздравляем-с-днем-знаний
+.. date: 2015-09-01 14:23:32
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Наше дружное сообщество поздравляет учащихся с началом учебного года!
+Помните, что ученье - свет, а неученье - чуть свет, на работу.
+
+|image0|
+
+.. |image0| image:: https://tatica.fedorapeople.org/EduSig/fedora-science-pe.png
+   :width: 90.0%
+   :target: https://tatica.fedorapeople.org/EduSig/

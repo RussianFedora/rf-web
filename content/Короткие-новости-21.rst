@@ -1,0 +1,71 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-21
+.. date: 2014-02-14 16:23:22
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Matthias Clasen сообщил, что `разработчики GNOME думают сдвинуть график
+выхода для синхронизации с графиком
+Wayland <https://mail.gnome.org/archives/distributor-list/2014-February/msg00000.html>`__.
+
+В целом никто не против.
+
+Chris Smart, мэйнтейнер Kororaa Linux, `опубликовал инструкцию по
+включению TLS 1.2 в Firefox
+26 <http://blog.christophersmart.com/2014/01/15/enable-and-test-tls-1-2-in-firefox-26/>`__.
+
+Интженер Red Hat и участник fedora-infra, Patrick Uiterwijk,
+`рассказывает о своем опыте работы с
+RPM-OSTree <http://patrick.uiterwijk.org/2014/01/21/rpm-ostree/>`__,
+анонсированным `чуть
+ранее <https://lists.fedoraproject.org/pipermail/devel/2014-January/194156.html>`__.
+
+Это еще одна система для создания rootfs, которые можно использовать
+параллельно загружаемыми.
+
+Marek Goldmann написал заметку о том, как `соединять Docker-контейнеры с
+помощью Open
+vSwitch <http://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/>`__.
+
+`Jeff Layton <http://www.linkedin.com/pub/jeff-layton/0/181/2b9>`__
+рассказывает о `проблемах с POSIX
+locks <http://jtlayton.wordpress.com/2014/01/07/file-private-posix-locks-aka-un-posix-locks/>`__
+и том, что было им предложено для исправления.
+
+Из серии "занимательная литература" - Joe Damato `рассказывает
+совершенно удивительную историю семилетнего
+бага <http://timetobleed.com/digging-out-the-craziest-bug-you-never-heard-about-from-2008-a-linux-threading-regression/>`__.
+
+`Продолжается дискуссия вокруг стандартизации
+ARM </content/cute-embedded-nonsense-hacks>`__ (особенно UEFI и ACPI).
+
+Jonathan Corbet `подводит промежуточный
+итог <https://lwn.net/Articles/584123/>`__.
+
+В ответ на получившую некую известность среди русскоязычных
+коллег-аналитиков `статью Rich Felker про мнимые или реальные
+архитектурные проблемы
+systemd <http://www.opennet.ru/opennews/art.shtml?num=39050>`__ `Chris
+Siebenmann <http://utcc.utoronto.ca/~cks/>`__ опубликовал заметку, в
+которой излагает в общем-то довольно очевидные вещи - `почему systemd
+выиграла войну, а другие альтернативы
+проиграли <http://utcc.utoronto.ca/~cks/space/blog/linux/SystemdWhyItWon>`__.
+
+Chris обращает наше внимание на небольшую мелочь - там, где критики
+останавливались на этапе "можно легко запилить, если я захочу", Lennart
+и его команда делали. А делать всегда дороже, чем сидеть на форуме
+обсуждая. Ну и совсем по мелочи - systemd работает, решая реальные
+задачи.
+
+И раз уж заговорили о systemd - Lennart Poettering в своей ленте Google+
+расссказывает о том, как он `как он добился запуска немодифицированной
+Fedora в контейнере с включенным
+audit <https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/cF6zVDjKDuu>`__.
+

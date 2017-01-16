@@ -1,0 +1,43 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-33
+.. date: 2014-11-19 17:09:46
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+`Patrick Uiterwijk <https://www.openhub.net/accounts/puiterwijk>`__
+сообщает в `своем
+блоге <http://patrick.uiterwijk.org/2014/11/14/fedoauth-ipsilon-merge-complete/>`__,
+что забрасывает свой OAuth-провайдер,
+`FedOAuth <https://github.com/FedOAuth/FedOAuth/>`__, в пользу
+`Ipsilon <https://fedorahosted.org/ipsilon/>`__. Как и в других случаях,
+мы надеемся, что коммьюнити других дистрибутивов будут переходить на это
+решение, и помогать его развивать. Чем меньше самоделок, тем лучше!
+Потихоньку развивается проект `Cockpit <http://cockpit-project.org/>`__,
+включение которого в Fedora `объявлено фичей версии
+21 </content/Итоговая-пачка-фич-fedora-21>`__. Это еще один вариант для
+управления серверами из веб-интерфейса, и что совсем удивительно, но
+написан он не на Go! Тем не менее, хотя он не рекомендуется пока для
+широкого использования, но к нему начинают появляться обучалки.
+
+Например, появилась хаутушка по тому, `как использовать D-Bus из
+JavaScript <http://stef.thewalter.net/using-dbus-from-javascript-in-cockpit.html>`__.
+
+Почти сразу после `выхода mock версии
+1.2 </content/Изменения-в-mock-12>`__ вышла `версия mock
+1.2.1 <http://miroslav.suchy.cz/blog/archives/2014/11/17/mock_1_2_1/index.html>`__.
+
+Среди изменений - сжатие логов, полная поддержка Python 3, и т.д.
+Karel Zak `включил поддержку скриптов sfdisk в fdisk и
+cfdisk <http://karelzak.blogspot.ru/2014/11/sfdisk-scripts.html>`__.
+
+Теперь можно сохранять разбиения дисков в файлы, и потом их загружать.
+
+Как это выглядит можно посмотреть на видео:
+

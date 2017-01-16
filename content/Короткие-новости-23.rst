@@ -1,0 +1,34 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-23
+.. date: 2014-03-27 10:03:12
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Kay Sievers `анонсировал systemd
+212 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/18085>`__.
+
+Из заметного - логи теперь можно перенаправить на удаленную машину.
+
+Коллеги-аналитики с Linux.org.ru уже `перевели анонс и обсуждают
+его <https://www.linux.org.ru/news/opensource/10322510>`__.
+
+`Вышел GNOME
+3.12 <http://www.gnome.org/press/2014/03/gnome-3-12-released-with-new-features-for-users-and-developers/>`__,
+а это значит, что в ленте Google+ сегодня будет сплошной гном. `Анонс
+уже обсуждается на
+Linux.org.ru <https://www.linux.org.ru/news/gnome/10323359>`__.
+
+Среди интересных нововведений GNOME 3.12, нужно особо отметить одно из
+них. Логи Xorg теперь ведутся не в файлике */var/log/Xorg.0.log*, а
+перенаправляются в Journald, о чем в своем блоге
+`рассказывает <http://who-t.blogspot.com.au/2014/03/viewing-xorglog-with-journalctl.html>`__
+Peter Hutterer. Пока это доступно лишь в Fedora Rawhide, но вскоре вы
+увидите и в других дистрибутивах.
+

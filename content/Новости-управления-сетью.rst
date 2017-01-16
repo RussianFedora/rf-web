@@ -1,0 +1,86 @@
+.. title: Новости управления сетью
+.. slug: Новости-управления-сетью
+.. date: 2015-08-27 18:00:23
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Наш коллега, инженер Rackspace, `Major
+Hayden <https://github.com/major>`__, которого вы можете уже знать, как
+человека `с самым прекрасным в мире резюме <http://majorhayden.com/>`__,
+разразился серией статей о том, как использовать systemd-networkd (с
+небольшим перекосом на тему Rackspace, где `Fedora всегда была
+доступна <https://major.io/2015/08/27/fedora-23-alpha-in-boot-rackspace-com/>`__)
+- `использование systemd-networkd в серверах Rackspace
+OnMetal <https://major.io/2015/08/21/using-systemd-networkd-with-bonding-on-rackspaces-onmetal-servers/>`__,
+`как устроены предсказуемые названия сетевых интерфейсов в
+systemd <https://major.io/2015/08/21/understanding-systemds-predictable-network-device-names/>`__,
+и `как смастерить сетевой роутер с помощью
+systemd-networkd <https://major.io/2015/08/27/build-a-network-router-and-firewall-with-fedora-22-and-systemd-networkd/>`__
+(у нас есть некоторые замечания по поводу именно этой заметки, но в
+целом там все хорошо).
+
+Постепенно развивается flannel. В `версии
+0.5.0 <https://github.com/coreos/flannel/releases/tag/v0.5.0>`__
+исправили гадкую ошибку в наиболее скоростном режиме работы, т.е. VxLAN,
+когда терялся самый первый пакет, добавили поддержку Google's Compute
+Engine, добавили возможность создавать несколько сетей, и добавили
+интересную `возможность клиент-серверного режима
+работы <https://github.com/coreos/flannel/blob/master/Documentation/client-server.md>`__.
+
+В `версии
+0.5.1 <https://github.com/coreos/flannel/releases/tag/v0.5.1>`__
+добавили socket activation для клиент-серверного режима. В `версии
+0.5.2 <https://github.com/coreos/flannel/releases/tag/v0.5.2>`__
+добавили возможность работы за NAT. А в недавно вышедшей `версии
+0.5.3 <>`__ его полностью привели к пока еще секретному стандарту CNI, о
+котором мы вам по секрету-же `уже
+сообщили </content/Новости-о-docker>`__.
+
+В компании Docker Inc тоже решили поработать над своими сетевыми
+проблемами, и `в начале лета анонсировали
+SDN-плагин <http://www.theregister.co.uk/2015/06/22/docker_does_sdn/>`__.
+
+В стотыщепятисотый раз скажем, что SDN, это уже не будущее, это
+настоящее. На технологию `возлагаются большие надежды в сотовых сетях
+следующих
+поколений <http://www.theregister.co.uk/2015/07/27/att_sorry_vendors_sdn_is_eating_your_lunch/>`__
+(если вы были на прошедшем `Red Hat Forum 2015 в
+Москве </content/red-hat-forum-moscow-2015>`__, те могли слышать
+интересные новости во время выступления нашего товарища, `Jan
+Wildeboer <http://jan.wildeboer.net/about/>`__). Интересно, что
+`компания VMware очень серьезно настроена на SDN/NFV-систему на базе
+OpenStack <http://www.theregister.co.uk/2015/08/03/vmware_doubling_down_on_openstack/>`__
+(или наоборот). Время проприетарных решений уходит, и видимо они вовремя
+заметили `запросы на стандартное открытое
+решение <http://www.lightreading.com/nfv/nfv-tests-and-trials/telefonica-sdn-vendors-need-to-interoperate--/d/d-id/715627>`__.
+
+С ростом интереса к SDN и сложным сетевым решениям, в полный рост стали
+видны проблемы производительности сети (которые возникают порой `в
+довольно неожиданных
+местах <http://habrahabr.ru/company/wargaming/blog/256647/#comment_8394907>`__).
+
+Системы должны справляться просто с диким объемом пакетов, приходящих на
+огромной скорости. В Red Hat работа ведется с двух сторон. Во-1
+`разгоняется сетевая подсистема
+ядра <https://lwn.net/Articles/629155/>`__, что будет заметно даже
+обычным десктопным пользователям. А во-2 `разгоняется весь вертикальный
+стек управления
+трафиком <http://redhatstackblog.redhat.com/2015/08/19/scaling-nfv-to-213-million-packets-per-second-with-red-hat-enterprise-linux-openstack-and-dpdk/>`__.
+
+Тут плюсы увидят, наверное, лишь производители и разработчики
+SDN-систем.
+
+И о грустном. Из РФ эвакуировали еще один офис. Компания F5, разработчик
+SDN для OpenStack, `о которой мы мельком
+упоминали </content/Облачные-новости>`__, приняла решение о `срочной
+перевозке всего томского офиса в
+США <http://siliconrus.com/2015/08/f5-to-usa/?from=rss>`__. Жаль,
+конечно. Еще на несколько специалистов в РФ меньше.
+

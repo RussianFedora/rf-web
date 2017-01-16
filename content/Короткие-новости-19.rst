@@ -1,0 +1,71 @@
+.. title: Короткие новости
+.. slug: Короткие-новости-19
+.. date: 2014-01-02 19:31:41
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Не успел начаться год, а у нас уже есть новости.
+
+Разработчик Arch Linux, `Tom
+Gundersen <https://plus.google.com/+TomGundersen/about>`__, давний
+разработчик systemd, известный, например, `работой по включению
+управлением сетью в
+systemd </content/В-systemd-приходит-управление-сетью>`__, с 2014 года
+будет работать в Red Hat. Переход в Red Hat, это нормальный эволюционный
+путь для OSS-разработчика, и благодаря этому к нашему коммьюнити
+присоединилось уже прилично бывших арчеводов и убунтоводов. Ну и у Red
+Hat показатели все лучше и лучше благодаря такой практике - `третий
+фискальный квартал 2013 года они закончили с отличными
+результатами <http://www.theregister.co.uk/2013/12/20/red_hat_q3_2014/>`__,
+в то время, как у компании, сделавшей ставки на дизайнеров и пиарщиков,
+похвастаться традиционно нечем.
+
+Инженер Red Hat, `Denys
+Vlasenko <http://busybox.net/~vda/resume/denys_vlasenko.htm>`__, объявил
+о выходе `Busybox
+1.22 <http://thread.gmane.org/gmane.linux.busybox/38548>`__. Новость уже
+обсуждается `на
+OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38766>`__.
+
+`Rich WM Jones <http://people.redhat.com/~rjones/>`__
+`бэкпортировал <http://rwmj.wordpress.com/2013/12/31/fedora-21-has-a-working-ocaml-arm64/>`__
+поддержку архитектуры AArch64 (ARM64) в текущую версию Ocaml для Fedora
+21. Заодно, Rich рассказал, `как запустить полученные AArch64-бинарники
+с помощью
+Qemu <http://rwmj.wordpress.com/2013/12/22/how-to-run-aarch64-binaries-on-an-x86-64-host-using-qemu-userspace-emulation/>`__,
+Debian начал определяться насчет
+`Upstart <http://thread.gmane.org/gmane.linux.debian.devel.bugs.general/1111305>`__
+и
+`systemd <http://thread.gmane.org/gmane.linux.debian.devel.bugs.general/1111305/focus=1111585>`__.
+
+Наши коллеги (`Martin
+Langhoff <https://plus.google.com/+MartinLanghoff/posts/TrWNksRHHZF>`__,
+`Lennart
+Poettering <https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/6YX2sat6tZ5>`__,
+`David
+Zeuthen <https://plus.google.com/+DavidZeuthen/posts/5uuxHcSk91t>`__,
+`Daniel
+Stone <https://plus.google.com/+DanielStone/posts/fkFoS95Bgu1>`__,
+`Lubomir
+Rintel <https://plus.google.com/103747673045238156202/posts/KfWXz8Hod3n>`__)
+особенно оценили взвешенный пост от Russ Allbery, который сильно
+отличается по уровню аргументации от пропагандистской заметки Ian в
+пользу Upstart.
+
+Участник проектов Fedora и LibreOffice, `Caolán
+McNamara <http://www.ohloh.net/accounts/caolan>`__, устроил новогоднюю
+викторину - `угадай архитектуру микропроцессора по
+фотографии <http://caolanm.blogspot.ru/2013/12/guess-architecture.html>`__.
+
+Попробуйте!
+|image0|
+
+.. |image0| image:: http://4.bp.blogspot.com/-gWAshqm51fU/UsMVYnho4tI/AAAAAAAAAmY/F-qWz26sXFo/multiarch.jpg
+   :target: http://caolanm.blogspot.ru/2013/12/guess-architecture.html

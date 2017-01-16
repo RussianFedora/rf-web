@@ -1,0 +1,66 @@
+.. title: Новости графической подсистемы
+.. slug: Новости-графической-подсистемы-2
+.. date: 2016-09-02 16:33:39
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Peter Lemenkov
+
+**Это архивная статья**
+
+
+Коллеги-аналитики на Linux.org.ru удивляются, что `в Fedora 25 Wayland
+будет по умолчанию <https://www.linux.org.ru/news/gnome/12820260>`__.
+
+Непонятно, чему удивляться, если мы планировали это достаточно давно, а
+`используем уже с Fedora
+24 </content/Улучшения-в-gettext-и-другие-новости>`__ (некоторые даже с
+Fedora 23). Все работает.
+
+Конечно, все это происходило не само. Наши коллеги улучшали и продолжают
+улучшать поддержку Wayland в библиотеках и в DE. Например, недавно наш
+коллега, инженер Red Hat, `Jonas
+Ådahl <https://www.openhub.net/accounts/jadahl>`__, добавил `поддержку
+еще одной фичи Wayland в
+SDL2 <https://hg.libsdl.org/SDL/rev/ee83e0b4a36f>`__. Уже серьезно
+улучшена (и `планируется улучшать и
+дальше <https://blog.gtk.org/2016/09/01/versioning-and-long-term-stability-promise-in-gtk/>`__,
+в соответствии с новым планом выпуска, о котором `мы вам
+рассказывали </content/Разработчики-gtk-предложили-новый-план-выпуска-версий>`__)
+поддержка Wayland в GTK. Другой коллега, автор Xfce и инженер Red Hat,
+`Olivier Fourdan <https://www.openhub.net/accounts/ofourdan>`__,
+наоборот, `предложил новую фичу в сам протокол
+Wayland <https://lists.freedesktop.org/archives/wayland-devel/2016-August/030863.html>`__.
+
+Улучшается поддержка Wayland и в GNOME - `полностью поддерживаются
+планшеты для
+рисования <https://blogs.gnome.org/carlosg/2016/08/24/wayland-%e2%99%a1-drawing-tablets/>`__
+и `улучшена поддержка в GNOME
+Mutter <https://mail.gnome.org/archives/gnome-announce-list/2016-August/msg00017.html>`__.
+
+Наши друзья и коллеги занимались и разработкой модулей ядра и драйверов.
+
+`Eric Anholt <https://github.com/anholt>`__, уже `пару лет работающий на
+Broadcom </content/Короткие-новости-26>`__ над видеодрайвером VC4,
+`начал в своем блоге на LJ регулярно постить новости
+разработки <http://anholt.livejournal.com/>`__. Не пропала и `идея
+SimpleDRM </content/david-herrmann-переименовал-базовый-drm-драйвер-dvbe-в-simpledrm>`__
+- независимый разработчик, Noralf Trønnes, подхватил упавшее знамя, и
+недавно `опубликовал обновленный
+вариант <https://lists.freedesktop.org/archives/dri-devel/2016-August/114861.html>`__.
+
+Кстати, он же недавно `продолжил
+работу <https://lists.freedesktop.org/archives/dri-devel/2016-August/115262.html>`__
+над `BSoD для Linux </content/Короткие-новости-22>`__.
+
+Если для ix86/x86\_64 архитектур в графической подсистеме все уже более
+менее нормально, то для ARM еще есть темные области. Одна из них, о чем
+предупреждает нас наш коллега, `Marcin
+Juszkiewicz <https://www.openhub.net/accounts/hrw>`__, это системы с
+видеочипом PowerVR. Можно смело называть их
+`безголовыми <https://marcin.juszkiewicz.com.pl/2016/09/01/powervr-is-other-way-to-say-headless/>`__,
+т.к. графика там работать не будет. Если вы не разработчик, планирующий
+создать открытый драйвер для этого видеочипа, то остерегайтесь
+связываться с таким оборудованием!
