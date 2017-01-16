@@ -1254,16 +1254,6 @@ GLOBAL_CONTEXT = {
     <li>Мы помогаем включиться в мировые открытые проекты тем, кто хочет расти и быть на переднем краю разработки. Это непросто, но оно стоит потраченных усилий.</li>
     </p>
     </div>
-    <div class="sidebar-module">
-    <h4>Links</h4>
-    <ol class="list-unstyled">
-    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
-    <li><a href="https://getnikola.com/">Nikola</a></li>
-    <li><a ref="https://twitter.com/mdo">@mdo</a></li>
-    <li><a ref="https://twitter.com/Kwpolska">@Kwpolska</a></li>
-    <li><a ref="https://twitter.com/GetNikola">@GetNikola</a></li>
-    </ol>
-    </div>
     """
 }
 
