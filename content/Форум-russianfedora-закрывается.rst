@@ -28,7 +28,7 @@
 
 Данное решение ещё обязательно будет обсуждено на ближайшей встрече
 (Release Party) `20
-декабря <http://russianfedora.pro/content/fedora-21-release-party-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5>`__
+декабря </content/fedora-21-release-party-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5>`__
 
 Также вы можете подключиться к обсуждению в рассылке
 `ru-users <https://lists.fedoraproject.org/mailman/listinfo/ru-users>`__

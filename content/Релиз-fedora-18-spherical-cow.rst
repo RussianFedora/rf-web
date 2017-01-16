@@ -37,7 +37,7 @@
 другими <https://fedoraproject.org/en/get-fedora-all>`__ способами.
 
 Также вы можете воспользоваться сборкой `RFRemix
-18 <http://www.russianfedora.ru/content/%D0%92%D1%8B%D1%88%D0%B5%D0%BB-rfremix-18>`__
+18 </content/%D0%92%D1%8B%D1%88%D0%B5%D0%BB-rfremix-18>`__
 с включенными по умолчанию дополнительными репозиториями.
 
 

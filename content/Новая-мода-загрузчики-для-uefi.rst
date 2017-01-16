@@ -22,7 +22,7 @@ UEFI <https://lists.ubuntu.com/archives/ubuntu-devel/2012-June/035445.html>`__
 Intel.
 
 А вот `наши читатели уже в
-курсе <http://www.russianfedora.ru/content/Требования-canonical-для-производителей-оборудования-c-uefi>`__,
+курсе </content/Требования-canonical-для-производителей-оборудования-c-uefi>`__,
 что участники Fedora `Kay
 Sievers <https://www.ohloh.net/accounts/kaysievers>`__ и `Harald
 Hoyer <https://www.ohloh.net/accounts/backslash>`__ уже написали такой

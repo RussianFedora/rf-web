@@ -12,7 +12,7 @@
 
 
 Вслед за выходом `Fedora 17 для
-PowerPC <http://www.russianfedora.ru/content/Новости-secondary-arch-fedora>`__
+PowerPC </content/Новости-secondary-arch-fedora>`__
 и `Fedora 17 для
 ARM <http://www.rfremix.ru/content/Вышла-fedora-17-для-arm>`__, участник
 `Fedora s390 SIG <http://fedoraproject.org/wiki/Architectures/s390x>`__

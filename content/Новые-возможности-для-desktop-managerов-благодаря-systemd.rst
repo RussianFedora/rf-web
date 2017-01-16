@@ -15,7 +15,7 @@
 проектом Tizen, `Auke Kok <https://www.ohloh.net/accounts/sofar>`__
 продолжает работу по переносу управления пользовательскими сессиями из
 Desktop Environment, в systemd (вы уже `могли слышать о его
-работе <http://www.russianfedora.ru/content/Часть-функциональности-gnome-kde-и-xfce-переносят-в-systemd>`__,
+работе </content/Часть-функциональности-gnome-kde-и-xfce-переносят-в-systemd>`__,
 и с тех пор он добился значительного успеха).
 
 В своей ленте Google+ он анонсировал интересный и перспективно

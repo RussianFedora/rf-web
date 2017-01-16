@@ -13,7 +13,7 @@
 
 `David Airlie <https://www.ohloh.net/accounts/airlied>`__ в рамках
 работы по `обновлению X11
-подсистемы <http://www.russianfedora.ru/content/Переключающаяся-графика-скоро-в-linux>`__
+подсистемы </content/Переключающаяся-графика-скоро-в-linux>`__
 немного `обновил драйверы для музейных
 видеокарт <http://www.phoronix.com/scan.php?page=news_item&px=MTEzMTU>`__
 - ast, cirrus, mach64, mga, r128. Видимо это последнее обновление для
