@@ -14,7 +14,7 @@
 `Dan Horák <http://fedoraproject.org/wiki/User:Sharkcz>`__ в почему-то
 не попавшем на Gmane письме предупредил, что они во время работы над
 `Fedora 17 для
-s390 <http://www.russianfedora.ru/content/fedora-17-для-s390x>`__
+s390 </content/fedora-17-для-s390x>`__
 столкнулись с `интересным багом <https://bugzilla.redhat.com/835957>`__
 с испорченным архивом ar более 4 гигабайт размером во время сборки
 WebKit, очень похожим на

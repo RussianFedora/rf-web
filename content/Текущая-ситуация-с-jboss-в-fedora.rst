@@ -32,5 +32,5 @@ Fedora <https://fedoraproject.org/wiki/Test_Day:2012-04-17_JBoss_Application_Ser
 нужно, в одном большом ZIP-архиве (напоминаю, что именно Java-приложения
 приносят наибольшее количество проблем при соблюдении правила `**No
 Bundled
-Libs** <http://russianfedora.ru/content/bundled-libraries-немного-статистики-и-комментариев-к-ней>`__).
+Libs** </content/bundled-libraries-немного-статистики-и-комментариев-к-ней>`__).
 

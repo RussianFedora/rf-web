@@ -48,7 +48,7 @@ Center <http://www.phoronix.com/scan.php?page=news_item&px=MTEwMDI>`__,
 самоизолируется от основного потока разработки в upstream - так было и с
 Unity, которое базируется на форкнутых библиотеках GTK/GNOME, что мешает
 его включению куда либо, кроме Ubuntu (мы об этом `не
-раз <http://russianfedora.ru/content/unity-и-fedora>`__ уже
+раз </content/unity-и-fedora>`__ уже
 `говорили <http://www.rfremix.ru/content/ситуация-с-compiz>`__).
 
 Понятно, что фактическое отсутствие разработчиков в коммьюнити Ubuntu

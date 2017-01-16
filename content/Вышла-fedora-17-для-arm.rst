@@ -21,7 +21,7 @@ Pandaboard, Kirkwood Plugs, Highbank и iMX. Перед использовани
 установке <http://fedoraproject.org/wiki/Architectures/ARM/Fedora_17_GA>`__.
 
 Мы `уже
-говорили <http://www.russianfedora.ru/content/Новости-secondary-arch-fedora>`__,
+говорили </content/Новости-secondary-arch-fedora>`__,
 что к осени-зиме 2012 года ожидается создание унифицированного образа
 ядра для загрузки на современных ARM-машинках, так что к Fedora 18
 количество разных образов может уменьшиться, а использование упростится.

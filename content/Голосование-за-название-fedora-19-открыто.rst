@@ -12,10 +12,10 @@
 
 
 А пока `выпуск Fedora 18
-задерживается <http://russianfedora.ru/content/%D0%97%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0>`__,
+задерживается </content/%D0%97%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0>`__,
 работа над Fedora 19 уже идет по намеченному плану :) В том числе и
 выбор имени для релиза. Этап `сбора
-предложений <http://russianfedora.ru/content/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-fedora-19>`__
+предложений </content/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-fedora-19>`__
 закончился, из предложенных вариантов были выбраны, удовлетворяющие
 условиям и не противоречащие законодательсву, и теперь мы
 `переходим <http://lists.fedoraproject.org/pipermail/announce/2012-November/003115.html>`__

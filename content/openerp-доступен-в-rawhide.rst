@@ -17,7 +17,7 @@ Fedora (пока в Rawhide, то есть в будущей Fedora 18) -
 install openerp* , и все!
 Раз уж заговорили о "тяжелых" приложениях, то пока, к сожалению, нет
 новостей о `NetBeans, который пытаются вернуть обратно в
-Fedora <http://www.russianfedora.ru/content/netbeans-возвращается-в-fedora>`__.
+Fedora </content/netbeans-возвращается-в-fedora>`__.
 
 **УПД** нас поправили знатоки - это не Java-, а Python-приложение.
 

@@ -14,7 +14,7 @@
 Активный участник проекта Fedora и работник Red Hat, `Matthew
 Garrett <https://plus.google.com/109386511629819124958/about>`__,
 `продолжает <http://mjg59.dreamwidth.org/11235.html>`__
-`продолжать <http://russianfedora.ru/content/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F-%D0%BE-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%D1%85-c-uefi-secure-boot>`__
+`продолжать </content/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F-%D0%BE-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%D1%85-c-uefi-secure-boot>`__
 серию статей про проблемы с UEFI. В этот раз он натолкнулся на
 удивительную проблему - UEFI позволяет прошивке wi-fi карты изменять
 память ядра напрямую, без участия процессора (DMA). Прочитайте статью

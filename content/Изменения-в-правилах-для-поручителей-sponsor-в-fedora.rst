@@ -14,7 +14,7 @@
 Давний участник Fedora, `Jason L. Tibbitts
 III <https://fedoraproject.org/wiki/User:Tibbs>`__ начал работу по
 реализации `изменений в порядке получения статуса
-мэйнтейнера <http://www.russianfedora.ru/content/Предложение-по-изменению-порядка-получения-статуса-мэйнтейнера>`__.
+мэйнтейнера </content/Предложение-по-изменению-порядка-получения-статуса-мэйнтейнера>`__.
 
 Он добился утверждения в FESCo `новых правил для
 поручителей <https://fedoraproject.org/wiki/User:Tibbs/RevitalizingSponsorshipProposal>`__
