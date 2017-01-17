@@ -19,7 +19,9 @@ Generate site:
 
     (venv)$ nikola build
 
-Result is available at `output/` directory.
+Start the test server and open a browser:
+
+    (venv)$ nikola serve -b
 
 Add new post
 ------------
