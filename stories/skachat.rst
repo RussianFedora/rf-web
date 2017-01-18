@@ -36,6 +36,29 @@ Fedora
 RFRemix
 =======
 
+RFRemix 25
+----------
+
+Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, XFCE, MATE и Cinnamon. DVD и netinstall образ RFRemix Server и netinstall образ RFRemix Workstation.
+
+* RFRemix Server [ `i686
+  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/25/Server/i386/iso/>`__
+  ] [ `x86_64
+  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/25/Server/x86_64/iso/>`__
+  ]
+
+* RFRemix Workstation [ `i686
+  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/25/Workstation/i386/iso/>`__
+  ] [ `x86_64
+  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/25/Workstation/x86_64/iso/>`__
+  ]
+
+* Образы Live [ `i686
+  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/25/Live/i686>`__
+  ] [ `x86_64
+  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/25/Live/x86_64/>`__
+  ]
+
 RFRemix 24
 ----------
 
@@ -57,27 +80,4 @@ RFRemix 24
   <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/24/Live/i686>`__
   ] [ `x86_64
   <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/24/Live/x86_64/>`__
-  ]
-
-RFRemix 23
-----------
-
-Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, XFCE, MATE и Cinnamon. DVD и netinstall образ RFRemix Server и netinstall образ RFRemix Workstation.
-
-* RFRemix Server [ `i686
-  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/23/Server/i386/iso/>`__
-  ] [ `x86_64
-  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/23/Server/x86_64/iso/>`__
-  ]
-
-* RFRemix Workstation [ `i686
-  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/23/Workstation/i386/iso/>`__
-  ] [ `x86_64
-  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/23/Workstation/x86_64/iso/>`__
-  ]
-
-* Образы Live [ `i686
-  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/23/Live/i686>`__
-  ] [ `x86_64
-  <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/23/Live/x86_64/>`__
   ]
