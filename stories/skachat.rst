@@ -53,10 +53,10 @@ RFRemix 25
   <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Workstation/x86_64/iso/>`__
   ]
 
-* Образы Live [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Live/i686/>`__
+* Прочие образы Live [ `i686
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Spins/i386/>`__
   ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Live/x86_64/>`__
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Spins/x86_64/>`__
   ]
 
 * Торренты [ `i686
