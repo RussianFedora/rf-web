@@ -31,7 +31,7 @@
 
     ну дальше я думаю понятно :)
 
-* Писать статьи можно в rst-формате в своём любимом текстовом редакторе, а можно напрямую с помощью web-интерфейса GitHub.
+* Писать статьи можно в rst-формате в своём любимом текстовом редакторе, а можно напрямую с помощью `web-интерфейса GitHub <https://github.com/RussianFedora/rf-web/new/master/posts>`_.
 
 * При мердже сайт автоматически обновляется благодаря настроенной автопубликации через Travis CI.
 
@@ -61,7 +61,7 @@
 Как поучаствовать
 -----------------
 
-Так как мы используем стандартные возможности GitHub, для участия достаточно освоится с базовой документацией `Как поучаствовать с помощью Issues и Pull Requests <https://help.github.com/categories/collaborating-with-issues-and-pull-requests/>`_
+Так как мы используем стандартные возможности GitHub, для участия достаточно освоиться с базовой документацией `Как поучаствовать с помощью Issues и Pull Requests <https://help.github.com/categories/collaborating-with-issues-and-pull-requests/>`_
 
 Процедура собственно сборки сайта описана в `README <https://github.com/RussianFedora/rf-web/blob/master/README.md>`_. Обратите внимание на необходимость использования Python 3.
 
