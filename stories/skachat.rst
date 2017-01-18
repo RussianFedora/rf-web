@@ -1,5 +1,5 @@
 .. title: Скачать
-.. slug: skachat
+.. slug: download
 .. date: 2016-09-17 14:28:23 UTC+03:00
 .. tags:
 .. category:
