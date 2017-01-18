@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Peter Lemenkov
 
 FOSDEM 2017
 ===========

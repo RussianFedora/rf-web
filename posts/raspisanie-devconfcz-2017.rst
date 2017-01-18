@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Peter Lemenkov
 
 DevConf.cz 2017
 ===============
