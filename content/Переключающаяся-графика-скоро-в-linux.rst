@@ -23,9 +23,9 @@ ARM-платформ.
 Расскажем немного историю вопроса и начнем с самого начала. Как вы
 знаете, прямо сейчас на замену старой доброй технологии из 1987 года,
 X11 (X Window System), разрабатывается некий Wayland (мы о его
-`развитии <http://www.rfremix.ru/content/На-подходе-weston-композитный-менеджер-для-wayland>`__
-`периодически <http://www.rfremix.ru/content/pulseaudio-и-wayland-переносят-на-android>`__
-`пишем <http://www.rfremix.ru/content/В-ubuntu-1210-ожидается-полноценная-поддержка-wayland-но-есть-нюанс>`__).
+`развитии </content/На-подходе-weston-композитный-менеджер-для-wayland>`__
+`периодически </content/pulseaudio-и-wayland-переносят-на-android>`__
+`пишем </content/В-ubuntu-1210-ожидается-полноценная-поддержка-wayland-но-есть-нюанс>`__).
 
 Хейтеры, как и в случае с systemd, изливаются потоками ненависти, но,
 опять-таки, как и в случае с systemd, очень подозрительно, что
@@ -188,5 +188,5 @@ Deucher <https://www.openhub.net/accounts/agd5f>`__ собрали все кус
 anti-fud <http://ppaalanen.blogspot.com/2012/05/wayland-anti-fud.html>`__
 от того разработчика Collabora, который переносит Wayland на Android, `о
 чем мы уже
-говорили <http://www.rfremix.ru/content/pulseaudio-и-wayland-переносят-на-android>`__.
+говорили </content/pulseaudio-и-wayland-переносят-на-android>`__.
 

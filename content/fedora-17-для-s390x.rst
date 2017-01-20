@@ -14,7 +14,7 @@
 Вслед за выходом `Fedora 17 для
 PowerPC </content/Новости-secondary-arch-fedora>`__
 и `Fedora 17 для
-ARM <http://www.rfremix.ru/content/Вышла-fedora-17-для-arm>`__, участник
+ARM </content/Вышла-fedora-17-для-arm>`__, участник
 `Fedora s390 SIG <http://fedoraproject.org/wiki/Architectures/s390x>`__
 `Dan Horák <http://fedoraproject.org/wiki/User:Sharkcz>`__ анонсировал
 выход `Fedora 17 для
