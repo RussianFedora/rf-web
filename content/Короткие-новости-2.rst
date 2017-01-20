@@ -85,7 +85,7 @@ hate-driven development, это не лучшая методология раз�
 Ceylon <http://ceylon-lang.org/blog/2013/03/14/ceylon-m5-nesa-pong/>`__,
 языка программирования со статической типизацией для платформ JVM и
 JavaScript, разрабатываемого Red Hat. Новость уже `обсуждают на
-Linux.org.ru <http://www.linux.org.ru/news/java/8964248>`__.
+Linux.org.ru <https://www.linux.org.ru/news/java/8964248>`__.
 
 Участник проектов Fedora и GCC `Jakub
 Jelínek <https://www.openhub.net/accounts/Jakub_Jelinek>`__ объявил о

@@ -18,7 +18,7 @@ nouveau <http://www.phoronix.com/scan.php?page=news_item&px=MTUwNzk>`__.
 
 Новость уже обсуждается на
 `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38384>`__ и
-`Linux.org.ru <http://www.linux.org.ru/forum/talks/9796268>`__.
+`Linux.org.ru <https://www.linux.org.ru/forum/talks/9796268>`__.
 
 Коллеги-аналитики недоумевают, как же так - что ни хорошая новость про
 Linux и Open Source, то обязательно про Red Hat. Ну, на самом деле не
@@ -89,7 +89,7 @@ Alexander Larrson `рассказал об изменениях в способ�
 3.1 <http://kolab.org/news/2013/11/07/kolab-3.1-released-new-cloud-storage-feature-and-irony>`__.
 
 Новость уже `обсуждается на
-Linux.org.ru <http://www.linux.org.ru/news/opensource/9792765>`__
+Linux.org.ru <https://www.linux.org.ru/news/opensource/9792765>`__
 Бдительные участники коммьюнити Fedora заметили, что `разработчики GNOME
 втихую сделали все обновления, устанавливаемые с помощью графической
 утилиты, требующими

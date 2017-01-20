@@ -16,7 +16,7 @@
 выходе coreutils версии 8.22 (предыдущая `версия 8.21 вышла в феврале
 2013го </content/coreutils-821>`__). Новость уже `обсуждают аналитики
 ведущего российского сайта о Linux и открытом
-ПО <http://www.linux.org.ru/news/gnu/9933930>`__, Linux.og.ru.
+ПО <https://www.linux.org.ru/news/gnu/9933930>`__, Linux.og.ru.
 
 На текущий момент в `репозиторияx Fedora доступна лишь предыдущая
 версия <http://koji.fedoraproject.org/koji/packageinfo?packageID=225>`__,

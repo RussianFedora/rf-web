@@ -12,7 +12,7 @@
 
 
 | Кажется, все уже в курсе, что на днях было
-  `объявлено <http://www.linux.org.ru/news/opensource/7373454>`__ о
+  `объявлено <https://www.linux.org.ru/news/opensource/7373454>`__ о
   начале подготовки ежегодной программы `Google Summer of
   Code <http://googlecode.blogspot.com/>`__. Расскажу вкратце, как с
   этим связан проект Fedora.

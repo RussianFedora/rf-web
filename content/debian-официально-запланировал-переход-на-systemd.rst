@@ -48,7 +48,7 @@
 
 | 
 | Новость уже обсуждается на
-  `Linux.org.ru <http://www.linux.org.ru/news/debian/9691153>`__ и
+  `Linux.org.ru <https://www.linux.org.ru/news/debian/9691153>`__ и
   `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38152>`__.
 
 | Вообще чувствуется оживление. Хоть и отстают на несколько лет от нас,

@@ -12,7 +12,7 @@
 
 
 Еще не утихли срачи^W продуктивные обсуждения на
-`Linux.org.ru <http://www.linux.org.ru/>`__ инициативы небезызвестного
+`Linux.org.ru <https://www.linux.org.ru/>`__ инициативы небезызвестного
 `Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__ по
 замене *syslog* на
 `Journald <https://docs.google.com/document/pub?id=1IC9yOXj7j6cdLLxWEBAGRL6wl97tFxgjLUEHIX3MSTs&pli=1>`__,

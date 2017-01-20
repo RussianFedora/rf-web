@@ -163,7 +163,7 @@
   1.2.0 <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/9955>`__
   (русскоязычные аналитики уже обсуждают релиз на
   `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=37414>`__ и
-  `LOR <http://www.linux.org.ru/news/linux-general/9358910>`__). В этом
+  `LOR <https://www.linux.org.ru/news/linux-general/9358910>`__). В этом
   релизе появилось много нового, например:
 
 -  Масштабирование на HiDPI дисплеях,
@@ -220,7 +220,7 @@
 | Появилась статья `"Ситуация с Wayland: факты о X и
   Wayland" <http://www.phoronix.com/scan.php?page=article&item=x_wayland_situation>`__
   (`перевод на
-  русский <http://www.linux.org.ru/news/opensource/9241491>`__). Судя по
+  русский <https://www.linux.org.ru/news/opensource/9241491>`__). Судя по
   количеству комментов, факты уже никем во внимание не принимаются, в
   отличие от рекламных постов от пиарщиков.
 

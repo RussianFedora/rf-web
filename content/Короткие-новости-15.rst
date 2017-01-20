@@ -70,7 +70,7 @@ LWN <https://lwn.net/Articles/570406/>`__, к сожалению временн�
 находящейся за paywall.
 
 Вышел CUPS 1.7.0 (новость уже `обсуждается на
-Linux.org.ru <http://www.linux.org.ru/news/opensource/9738072>`__).
+Linux.org.ru <https://www.linux.org.ru/news/opensource/9738072>`__).
 
 Участник коммьюнити Fedora и инженер Red Hat, `Tim
 Waugh <https://www.openhub.net/accounts/twaugh>`__ не только уже собрал

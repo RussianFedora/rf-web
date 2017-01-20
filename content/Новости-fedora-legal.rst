@@ -29,7 +29,7 @@ BSD <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/1806/focus=1808>`__
 Вообще, не стоит недооценивать важность работы команды Fedora Legal в
 проекте Fedora. Юридические тонкости могут быть очень болезненными для
 open source разработки и разработчиков. Например, `многие
-слышали <http://www.linux.org.ru/forum/talks/8622450>`__, что не так
+слышали <https://www.linux.org.ru/forum/talks/8622450>`__, что не так
 давно, инженер Red Hat `Paolo
 Bonzini <https://www.openhub.net/accounts/bonzini>`__ покинул проект GNU
 из-за разногласий по юридическим вопросам, а совсем недавно Oracle

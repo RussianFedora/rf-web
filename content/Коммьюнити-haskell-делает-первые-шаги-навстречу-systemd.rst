@@ -19,7 +19,7 @@ Haskell <https://github.com/sakana/haskell-socket-activation>`__. Это,
 систему сервисов на этом популярном языке, использующемся, например, в
 Facebook, финансовых и телекоммуникационных компаниях стран ЕС, и еще
 `двумя российскими программистами для написания однострочных
-скриптов <http://www.linux.org.ru/news/conference/9703341>`__.
+скриптов <https://www.linux.org.ru/news/conference/9703341>`__.
 
 В других языках программирования ситуация тоже улучшается - есть `бранч
 PHP <https://github.com/systemd/php-src>`__, поддерживающий socket
