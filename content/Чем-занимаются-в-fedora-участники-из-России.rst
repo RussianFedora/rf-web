@@ -38,7 +38,7 @@ russianfedora и включением некоторых из них в Fedora. 
 
 Товарищ `elemc <https://fedoraproject.org/wiki/User:Elemc>`__ почти
 закончил работу над
-`веб-интерфейсом <http://koji.russianfedora.ru/porter/>`__ для выкладки
+`веб-интерфейсом <http://koji.russianfedora.pro/porter/>`__ для выкладки
 пакетов в репозитории. Кроме этого он, как обычно, занимается обработкой
 заявок в `багтрекере <http://redmine.russianfedora.ru/>`__ (кстати, для
 работы с заявками рук всегда не хватает, поэтому если есть желание

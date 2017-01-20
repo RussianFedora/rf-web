@@ -23,4 +23,4 @@
 
 -  `Koji проекта Fedora <http://koji.fedoraproject.org/koji/>`__
 -  `Koji для сборки пакетов Russian
-   Fedora <http://koji.russianfedora.ru/koji/>`__
+   Fedora <http://koji.russianfedora.pro/koji/>`__
