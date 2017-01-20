@@ -12,18 +12,18 @@
 
 
 |image0| В вики проекта появилась `новая
-статья <http://wiki.russianfedora.ru/index.php/EKG2_-_консольный_многопротокольный_IM-клиент>`__,
+статья <http://wiki.russianfedora.pro/index.php/EKG2_-_консольный_многопротокольный_IM-клиент>`__,
 подробно описывающая работу с консольным многопротокольным IM-клиентом
 EKG2.
 
 
 Информации о настройке и использовании программы ekg2 крайне мало, но
 постоянный участник нашей Jabber-конференции
-`Fomalhaut <http://wiki.russianfedora.ru/index.php?title=%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Fomalhaut>`__
+`Fomalhaut <http://wiki.russianfedora.pro/index.php?title=%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Fomalhaut>`__
 сумел собрать разрозненные данные в не слишком большую, но ёмкую статью,
 которая может быть полезна всем любителям консольных приложений, вне
 зависимости от используемого дистрибутива.
 
 
-.. |image0| image:: http://wiki.russianfedora.ru/images/thumb/a/a3/Ekg2interface.png/120px-Ekg2interface.png
-   :target: http://wiki.russianfedora.ru/index.php/Файл:Ekg2interface.png
+.. |image0| image:: http://wiki.russianfedora.pro/images/thumb/a/a3/Ekg2interface.png/120px-Ekg2interface.png
+   :target: http://wiki.russianfedora.pro/index.php/Файл:Ekg2interface.png

@@ -94,10 +94,10 @@ Live KDE по умолчанию идёт плеер VLC.
 Нам не хватает майнтейнеров для пакетов. Например XFCE сейчас не
 содержит привычных плагинов, есть только базовые компоненты. Ели вы
 хотите помочь, то прочитайте `этот
-документ <http://wiki.russianfedora.ru/index.php/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0_%D0%B2_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9_RussianFedora>`__.
+документ <http://wiki.russianfedora.pro/index.php/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0_%D0%B2_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9_RussianFedora>`__.
 
 Все найденные ошибки следует отправлять в багтрекер
-`redmine.russianfedora.ru <http://redmine.russianfedora.ru>`__.
+`redmine.russianfedora.pro <http://redmine.russianfedora.pro>`__.
 
 Финальная версия RERemix Linux Desktop 6.2 должна появиться очень скоро,
 сразу после официального выхода Scientific Linux 6.2.

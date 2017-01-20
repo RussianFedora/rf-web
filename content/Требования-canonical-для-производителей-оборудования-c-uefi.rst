@@ -42,11 +42,11 @@ Boot будет нельзя установить другой Linux, а на к
 хотя бы обсуждение будущих шагов должно вестись.
 
 А в это время участник Fedora и разработчик systemd и udev `Kay
-Sievers <https://www.ohloh.net/accounts/kaysievers>`__ в своей ленте
+Sievers <https://www.openhub.net/accounts/kaysievers>`__ в своей ленте
 Google+
 `объявил <https://plus.google.com/108087225644395745666/posts/TMREFvaq1oX>`__,
 что он вместе с `Harald
-Hoyer <https://www.ohloh.net/accounts/backslash>`__ написал минимальный
+Hoyer <https://www.openhub.net/accounts/backslash>`__ написал минимальный
 загрузчик, работающий с UEFI и не требующий GRUB2 для загрузки ядра.
 
 Заняло 600 строк кода на Си. Интересно, не собираются ли они включить

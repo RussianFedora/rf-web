@@ -24,7 +24,7 @@
 
 Не так давно, в git-репозитории пакета утилит util-linux,
 разрабатываемого нашим коллегой `Karel
-Zak <https://www.ohloh.net/accounts/kzak>`__, появился загадочный бранч
+Zak <https://www.openhub.net/accounts/kzak>`__, появился загадочный бранч
 с названием
 `*scols* <https://github.com/karelzak/util-linux/tree/scols>`__.
 

@@ -33,7 +33,7 @@ ARM-разработчики) - его даже немного жалко, т.к
 существенный шаг к стандартизации ARM-оборудования. С другой стороны,
 это очень здорово, что уровень унификации ARM достигает уровня
 x86/x86\_64 машин. Как сказал наш коллега, `Adam
-Jackson <https://www.ohloh.net/accounts/ajax>`__, `Linux, это не
+Jackson <https://www.openhub.net/accounts/ajax>`__, `Linux, это не
 выбор <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/73297/focus=73313>`__,
 это жесткая стандартизация, - повторим за ним это еще раз.
 
@@ -42,5 +42,5 @@ Jackson <https://www.ohloh.net/accounts/ajax>`__, `Linux, это не
 отметили некоторые разработчики) идет `в ленте
 Google+ <https://plus.google.com/114657443111661859546/posts/N6ZjfW24Rmz>`__
 его коллеги по разработке ядра Linux, инженера Intel и участника Fedora,
-`Arjan van de Ven <https://www.ohloh.net/accounts/fenrus>`__.
+`Arjan van de Ven <https://www.openhub.net/accounts/fenrus>`__.
 

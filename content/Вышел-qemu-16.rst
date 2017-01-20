@@ -12,7 +12,7 @@
 
 
 | Инженер IBM и разработчик Qemu/KVM, `Anthony
-  Liguori <http://www.ohloh.net/accounts/aliguori>`__ только что
+  Liguori <https://www.openhub.net/accounts/aliguori>`__ только что
   `анонсировал <http://thread.gmane.org/gmane.comp.emulators.qemu/228260>`__
   выход новой версии Qemu 1.6.0. `Среди
   новинок <http://wiki.qemu.org/ChangeLog/1.6>`__:

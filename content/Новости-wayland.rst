@@ -35,7 +35,7 @@
 графика </content/Переключающаяся-графика-скоро-в-linux>`__ вообще
 становится реальностью благодаря работе инженера Red Hat и участника
 Fedora и Debian `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__ над DRM PRIME (из
+Airlie <https://www.openhub.net/accounts/airlied>`__ над DRM PRIME (из
 последнего, он добавил `автоматическое отключение видеокарты в
 видеодрайвере <http://lists.freedesktop.org/archives/dri-devel/2013-July/042452.html>`__,
 а не через юзерспейс). На базе этого независимый разработчик Axel Davy

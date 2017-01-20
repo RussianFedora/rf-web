@@ -43,7 +43,7 @@
 -  `Пофиксили баг аж с 1993
    года <http://www.phoronix.com/scan.php?page=news_item&px=MTQ4MjI>`__.
 
--  `Adam Jackson <https://www.ohloh.net/accounts/ajax>`__, инженер Red
+-  `Adam Jackson <https://www.openhub.net/accounts/ajax>`__, инженер Red
    Hat и участник Fedora, `переписал подсистему
    GLX <http://www.phoronix.com/scan.php?page=news_item&px=MTQ2OTY>`__.
 
@@ -63,7 +63,7 @@
   XDC2013 <http://www.x.org/wiki/Events/XDC2013/Program/>`__.
 
 | Инженер Red Hat и участник Fedora и Debian `David
-  Airlie <https://www.ohloh.net/accounts/airlied>`__ `продолжает
+  Airlie <https://www.openhub.net/accounts/airlied>`__ `продолжает
   разработку
   virgil3d <http://airlied.livejournal.com/78104.html?nojs=1>`__, новый
   виртуальный 3D-ускоритель для Qemu, о котором `мы мельком

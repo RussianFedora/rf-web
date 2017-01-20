@@ -15,7 +15,7 @@
   Beta <http://www.redhat.com/about/news/archive/2013/12/red-hat-announces-availability-of-red-hat-enterprise-linux-7-beta>`__.
 
   `На Linux.org.ru сообщают
-  коллеги-аналитики <http://www.linux.org.ru/news/redhat/9924168>`__,
+  коллеги-аналитики <https://www.linux.org.ru/news/redhat/9924168>`__,
   что релиз основан на Fedora 19, а среди основных изменений:
 
 -  Ядро 3.10

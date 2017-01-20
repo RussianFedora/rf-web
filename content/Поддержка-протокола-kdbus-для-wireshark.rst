@@ -12,7 +12,7 @@
 
 
 Разработчик Linux, systemd, PulseAudio и ряда других проектов, `Daniel
-Mack <https://www.ohloh.net/accounts/zonque>`__, в своей ленте Google+
+Mack <https://www.openhub.net/accounts/zonque>`__, в своей ленте Google+
 анонсировал `диссектор протокола kdbus для
 Wireshark <https://plus.google.com/115882966144514285637/posts/3fdZwYbh2pR>`__
 (см. также `"пишем плагин-диссектор для

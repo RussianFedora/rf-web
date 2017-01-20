@@ -12,7 +12,7 @@
 
 
 | Коллектив RussianFedora вслед за
-  `Linux.org.ru <http://www.linux.org.ru/news/linux-org-ru/9995437>`__,
+  `Linux.org.ru <https://www.linux.org.ru/news/linux-org-ru/9995437>`__,
   `Пиратской Партией
   России <http://vk.com/club10354961?w=wall-10354961_54515>`__ и другими
   отечественными интернет-коммьюнити поздравляет всех наших читателей с

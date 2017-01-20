@@ -12,7 +12,7 @@
 
 
 Участник Fedora и KDE, разработчик Phonon `Trever
-Fischer <https://www.ohloh.net/accounts/tdfischer>`__ предложил обсудить
+Fischer <https://www.openhub.net/accounts/tdfischer>`__ предложил обсудить
 идею `выбросить поддержку ALSA и OSS и полностью перейти на
 PulseAudio <http://wm161.net/2012/05/16/musings-on-the-linux-audio-stack/>`__
 в модуле Phonon-Gstreamer. Разумеется, это изменение, даже если его

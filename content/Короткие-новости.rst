@@ -16,7 +16,7 @@ Garrett <https://www.socallinuxexpo.org/blog/interview-matthew-garrett>`__,
 человеком, который позволил Linux загружаться на системах с
 RestrictedBoot.
 
-`Lennart Poettering <http://www.ohloh.net/accounts/mezcalero>`__
+`Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__
 опубликовал `опровержение 30 мифов о
 systemd <http://0pointer.de/blog/projects/the-biggest-myths>`__. Правда,
 судя по обсуждениям на ведущих отечественных ресурсах, посвященных Linux
@@ -62,7 +62,7 @@ kmscon <https://fosdem.org/2013/schedule/event/kmscon/>`__, заодно
 перечесть, к сожалению. Если будете в Брюсселе, то загляните
 обязательно!
 Участник проектов Fedora и LibreOffice, `Caolán
-McNamara <http://www.ohloh.net/accounts/caolan>`__ сообщает о `прогрессе
+McNamara <https://www.openhub.net/accounts/caolan>`__ сообщает о `прогрессе
 в конвертации интерфейсов
 LibreOffice <http://blogs.linux.ie/caolan/2013/01/24/converting-libreoffice-dialogs-to-ui-format-100-conversions-milestone/>`__
 с самописного формата описаний виджетов на язык

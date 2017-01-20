@@ -25,7 +25,7 @@ FreeBSD <http://cgit.freedesktop.org/pulseaudio/pulseaudio/commit/?id=1da34e9>`_
 конструктивной деятельности, как появление новых проектов по созданию
 систем инициализации `подтолкнуло разработчика продолжить работу по
 портированию launchd на
-FreeBSD <http://www.linux.org.ru/news/bsd/9951942>`__.
+FreeBSD <https://www.linux.org.ru/news/bsd/9951942>`__.
 
 `Вышла новая версия
 Enlightenment <https://phab.enlightenment.org/phame/live/3/post/enlightenment_dr_0_18_0_release/>`__.

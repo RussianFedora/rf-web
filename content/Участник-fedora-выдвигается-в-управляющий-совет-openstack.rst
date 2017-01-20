@@ -12,7 +12,7 @@
 
 
 Участник Fedora, `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__ (известный в т.ч.
+McLoughlin <https://www.openhub.net/accounts/markmc>`__ (известный в т.ч.
 тем. что `собирает статистику по вкладу компаний в проект
 OpenStack </content/Статистика-по-вкладу-компаний-в-разработку-openstack>`__),
 выдвинут в состав управляющего совета OpenStack. Он `опубликовал свою

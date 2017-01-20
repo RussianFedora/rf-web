@@ -70,17 +70,17 @@ LWN <https://lwn.net/Articles/570406/>`__, к сожалению временн�
 находящейся за paywall.
 
 Вышел CUPS 1.7.0 (новость уже `обсуждается на
-Linux.org.ru <http://www.linux.org.ru/news/opensource/9738072>`__).
+Linux.org.ru <https://www.linux.org.ru/news/opensource/9738072>`__).
 
 Участник коммьюнити Fedora и инженер Red Hat, `Tim
-Waugh <https://www.ohloh.net/accounts/twaugh>`__ не только уже собрал
+Waugh <https://www.openhub.net/accounts/twaugh>`__ не только уже собрал
 его для Fedora 20 и Fedora 21, но и добавил патч для интеграции с
 Journald, что открыло совершенно новые возможности для мониторинга. Tim
 `рассказывает о них в заметке в скоем
 блоге <http://cyberelk.net/tim/2013/10/25/cups-adding-support-for-system-journal/>`__.
 
 Участник Fedora, инженер Red Hat и разработчик GCC, GDB и binutils, `Tom
-Tromey <https://www.ohloh.net/accounts/tromey>`__ объявил о `переводе
+Tromey <https://www.openhub.net/accounts/tromey>`__ объявил о `переводе
 проектов GDB и binutils с CVS на
 Git <http://thread.gmane.org/gmane.comp.gnu.binutils/63626>`__. Ну что
 тут скажешь, лучше поздно, чем никогда.

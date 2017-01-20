@@ -12,7 +12,7 @@
 
 
 Участник проектов Fedora и LibreOffice, `Caolán
-McNamara <http://www.ohloh.net/accounts/caolan>`__, благодаря уже
+McNamara <https://www.openhub.net/accounts/caolan>`__, благодаря уже
 известному вам `переходу с устаревшего класса строк в LibreOffice на
 новый </content/Короткие-новости-17>`__, наконец-то
 `исхитрился <http://caolanm.blogspot.ru/2014/01/long-writer-paragraphs.html>`__
@@ -33,7 +33,7 @@ Fedora <http://dummdida.tumblr.com/post/73231010247/rust-0-9-in-fedora>`__,
 `Copr </content/rust-copr-и-изменения-в-инфраструктуре>`__.
 
 Инженер Red Hat, `Andreas
-Schneider <https://www.ohloh.net/accounts/asn>`__ анонсировал выход
+Schneider <https://www.openhub.net/accounts/asn>`__ анонсировал выход
 `libssh версии
 0.6.0 <https://blog.cryptomilk.org/2014/01/08/libssh-0-6-0-released/>`__.
 

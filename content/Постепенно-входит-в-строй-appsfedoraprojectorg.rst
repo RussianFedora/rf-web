@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Ralph Bean <https://www.ohloh.net/accounts/ralphbean>`__ продолжает
+`Ralph Bean <https://www.openhub.net/accounts/ralphbean>`__ продолжает
 работу по улушению веб-сервисов Fedora. Он
 `объявил <http://threebean.org/blog/apps.fp.o/>`__ о готовности новой
 нескучной стартовой страницы

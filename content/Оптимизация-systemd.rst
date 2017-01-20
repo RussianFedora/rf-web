@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Lennart Poettering <http://www.ohloh.net/accounts/mezcalero>`__ сообщил
+`Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__ сообщил
 `в своей ленте
 Google+ <https://plus.google.com/115547683951727699051/posts/hqR25f2eznG>`__,
 что опубликовал

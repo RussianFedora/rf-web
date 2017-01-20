@@ -14,10 +14,10 @@
 Phoronix `сообщает <>`__, что начальная поддержка новейшей
 видеоархитектуры от NVIDIA - Kepler, была добавлена в Nouveau инженерами
 Red Hat и участниками проекта Fedora `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__ и `Ben
+Airlie <https://www.openhub.net/accounts/airlied>`__ и `Ben
 Skeggs <https://plus.google.com/109430210070297725121/about>`__ (который
 также `активно
-участвует <https://www.ohloh.net/p/debian/contributors/18320183027799>`__
+участвует <https://www.openhub.net/p/debian/contributors/18320183027799>`__
 в проекте Debian) спустя считанные часы после официального анонса
 компанией-производителем. Пока, конечно, там ничего особо нет, но как
 минимум, карта теперь не будет работать под управлением совершенно

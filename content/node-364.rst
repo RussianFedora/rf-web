@@ -20,7 +20,7 @@ journald, удаление кода для поддержки устаревши
 функций, поддержка систем без PolicyKit, поддержка работы в режиме
 установки оффлайн-обновлений (требующих перезагрузки).
 
-`Ralph Bean <https://www.ohloh.net/accounts/ralphbean>`__
+`Ralph Bean <https://www.openhub.net/accounts/ralphbean>`__
 продемонстрировал, как `подключаться к шине Fedora Infrascructure
 используя лишь Python и
 ZeroMQ <http://threebean.org/blog/zeromq-and-fedmsg-diy/>`__. Так что,
@@ -57,7 +57,7 @@ Day <https://plus.google.com/100040579167442382687/about>`__ рассказал
 3 <https://afaikblog.wordpress.com/2012/11/20/the-next-step/>`__. Надо
 признать, что интерфейс выглядит очень неплохо, как минимум на
 картинках. Между тем, `Kalev
-Lember <https://www.ohloh.net/accounts/klember>`__ сообщает, что
+Lember <https://www.openhub.net/accounts/klember>`__ сообщает, что
 `обновил GNOME 3 в Fedora 18 до версии
 3.6.2 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/171054>`__.
 
@@ -67,7 +67,7 @@ Lua <https://rwmj.wordpress.com/2012/11/17/new-in-libguestfs-lua-bindings/>`__.
 
 Если кто не в курсе, то Lua, это JavaScript по-португальски.
 
-`Daniel P. Berrangé <https://www.ohloh.net/accounts/berrange>`__
+`Daniel P. Berrangé <https://www.openhub.net/accounts/berrange>`__
 разразился серией заметок об OpenStack - `как произвести файловую
 инъекцию перед запуском виртуальной машины на файл с образом диска
 используя libguestfs вместо
@@ -78,12 +78,12 @@ libvirt? <http://berrange.com/posts/2012/11/16/what-was-new-in-libvirt-for-the-o
 DevStack <http://berrange.com/posts/2012/11/19/walk-through-of-running-openstack-on-fedora-17-using-devstack/>`__.
 
 Другой участник Fedora и его коллега, `Russel
-Bryant <https://www.ohloh.net/accounts/russellb>`__, рассказывает о
+Bryant <https://www.openhub.net/accounts/russellb>`__, рассказывает о
 `новом сервисе OpenStack Nova -
 nova-conductor <https://russellbryantnet.wordpress.com/2012/11/19/a-new-nova-service-nova-conductor/>`__.
 
 И в завершении заметок об OpenStack - `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__ рассказывает об
+McLoughlin <https://www.openhub.net/accounts/markmc>`__ рассказывает об
 `обсуждении разделения проекта OpenStack на базовую часть и на
 "incubation" <http://blogs.gnome.org/markmc/2012/11/17/the-future-of-incubation-and-core/>`__.
 

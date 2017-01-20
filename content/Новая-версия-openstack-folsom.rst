@@ -17,7 +17,7 @@ IAAS-платформы OpenStack. Эта версия получила кодо
 ее анонс уже `публично обсуждается на
 OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=34964>`__. Наш
 товарищ, участник Fedora, `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__ (который
+McLoughlin <https://www.openhub.net/accounts/markmc>`__ (который
 предпринимал попытку `выдвинуться в управляющий совет
 OpenStack </content/Участник-fedora-выдвигается-в-управляющий-совет-openstack>`__
 - неудачную, к сожалению), `уже собирал статистику по вкладу компаний в
@@ -47,9 +47,9 @@ OpenStack <http://fedoraproject.org/wiki/Test_Day:2012-09-18_OpenStack>`__,
 гордящихся тем, что мэйнтейнеры их дистрибутива ничего не тестируют
 (т.е. не глядя вываливают все, что есть, и как есть), и публично
 насмехающихся над принятыми в Fedora практиками (см. `"тестирование на
-хомячках" <http://www.linux.org.ru/news/redhat/8266381#comment-8266577>`__,
+хомячках" <https://www.linux.org.ru/news/redhat/8266381#comment-8266577>`__,
 `"тестовый
-полигон" <http://www.linux.org.ru/forum/talks/8177138?lastmod=1346521842752#comment-8177672>`__
+полигон" <https://www.linux.org.ru/forum/talks/8177138?lastmod=1346521842752#comment-8177672>`__
 и т.п.) мы рады тому, что в Fedora есть широкое тестирование новых фич.
 
 А разве можно собрать дистрибутив не тестируя его компоненты? В вашем

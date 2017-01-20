@@ -49,7 +49,7 @@ Wayland <https://plus.google.com/112174839778779720402/posts/BB586bhiyKH>`__.
 скриншот, что может означать "запускается", а не "работает", но даже
 так, это серьезное достижение!
 В отличие от несколько поспешного анонса от Jiří, другой наш коллега,
-`Caolán McNamara <http://www.ohloh.net/accounts/caolan>`__, подошел к
+`Caolán McNamara <https://www.openhub.net/accounts/caolan>`__, подошел к
 делу основательнее. В его объявлении о том, что `LibreOffice работает в
 Wayland <http://caolanm.blogspot.com/2015/07/libreoffice-on-wayland.html>`__,
 есть скриншот! Коллеги-аналитики сразу же скептически заметили, что

@@ -12,7 +12,7 @@
 
 
 Инженер IBM, бывший редхатовец, разработчик Qemu/KVM, `Anthony
-Liguori <http://www.ohloh.net/accounts/aliguori>`__ объявил, что
+Liguori <https://www.openhub.net/accounts/aliguori>`__ объявил, что
 `увольняется из
 IBM <http://thread.gmane.org/gmane.comp.emulators.qemu/228642>`__. Он
 переходит в пока неназванную компанию (наши друзья уже узнали от него,

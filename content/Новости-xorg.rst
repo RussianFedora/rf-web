@@ -21,7 +21,7 @@
   с помощью XWayland), так что приходится что-то делать с текущей
   системой. И вот, представлена серия улучшений в X.org:
 
--  `David Airlie <https://www.ohloh.net/accounts/airlied>`__ сообщил,
+-  `David Airlie <https://www.openhub.net/accounts/airlied>`__ сообщил,
    что планирует
    `выбросить <http://lists.x.org/archives/xorg-driver-ati/2012-June/023104.html>`__
    поддержку userspace modesetting из ATI видеодорайверов. Через

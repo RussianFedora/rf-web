@@ -57,7 +57,7 @@ Summit <http://www.linuxfoundation.org/news-media/announcements/2013/10/linux-fo
 альтернативные решения на базе этих бесспорно лидирующих технологий.
 
 `Инженеры Red Hat выпустили новую версию OpenJDK 6 -
-B28 <http://www.linux.org.ru/news/java/9658608>`__.
+B28 <https://www.linux.org.ru/news/java/9658608>`__.
 
 Lennart Poettering `сообщил в своей ленте
 G+ <https://plus.google.com/115547683951727699051/posts/eTXPyfNex9u>`__,

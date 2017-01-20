@@ -24,7 +24,7 @@ tmpfs <https://fedoraproject.org/wiki/Features/tmp-on-tmpfs>`__, а не
 операции. Это все, если примонтировать /tmp как tmpfs, будет занимать
 оперативную память. Но на этом претензии не заканчиваются. Участник
 Fedora, `Richard W.M.
-Jones <https://www.ohloh.net/accounts/rwmjones>`__,
+Jones <https://www.openhub.net/accounts/rwmjones>`__,
 `составил <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/162104/focus=162110>`__
 краткий список проблем, с которыми придется столкнуться, что породило
 довольно длинную и интересную дискуссию. Также интересные претензии
@@ -41,5 +41,5 @@ FreeDesktop.org на директории для хранения временн
 скачанных файлов из интернета, для документов и т.п. Об этом, и о том,
 как же правильно их использовать, `написал
 статью <http://0pointer.de/blog/projects/tmp.html>`__ в своем блоге
-`Lennart Poettering <http://www.ohloh.net/accounts/mezcalero>`__.
+`Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__.
 

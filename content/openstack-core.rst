@@ -13,7 +13,7 @@
 
 Уже `известный вам </content/Новая-версия-openstack-folsom>`__ наш
 коллега, участник Fedora и член технического комитета OpenStack, `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__ изложил свои
+McLoughlin <https://www.openhub.net/accounts/markmc>`__ изложил свои
 соображения на тему, `OpenStack и его базовые
 компоненты <http://blogs.gnome.org/markmc/2013/10/30/openstack-core-and-interoperability/>`__.
 

@@ -13,7 +13,7 @@
 
 Некоторые пользователи после обновления на ядро 3.3.1 обнаружили
 `невозможность подключиться в
-Wi-Fi <http://redmine.russianfedora.ru/issues/1002>`__ после выхода из
+Wi-Fi <http://redmine.russianfedora.pro/issues/1002>`__ после выхода из
 гибернации, если используется модуль ath9k. Проблему заметили многие, в
 т.ч. и в
 `Fedora <https://bugzilla.redhat.com/show_bug.cgi?id=810773>`__.

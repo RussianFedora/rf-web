@@ -15,7 +15,7 @@
 проприетарных операционных систем - `вы уже могли слышать про новости об
 улучшении управления цветом </content/Новости-короткой-строкой-0>`__, и
 пришло время для еще одной. `Richard
-Hughes <http://www.ohloh.net/accounts/hughsient>`__, инженер Red Hat и
+Hughes <https://www.openhub.net/accounts/hughsient>`__, инженер Red Hat и
 участник проектов Fedora, Gnome и RussianFedora (проверьте по статистике
 коммитов на Ohloh!), объявил в своей ленте Google+, что он `завершил
 первый этап работы по добавлению Color Management Framework в

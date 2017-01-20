@@ -13,7 +13,7 @@
 
 Гентушник и инженер Collabora (уже `бывший инженер
 Collabora <http://arunraghavan.net/2014/02/four-years/>`__), `Arun
-Raghavan <https://www.ohloh.net/accounts/arunsr>`__, анонсировал выход
+Raghavan <https://www.openhub.net/accounts/arunsr>`__, анонсировал выход
 `PulseAudio
 5.0 <http://www.freedesktop.org/wiki/Software/PulseAudio/Notes/5.0/>`__.
 

@@ -13,7 +13,7 @@
 
 Продолжается победное наступление systemd на дистрибутивы. Основной
 мэйнтейнер Lunar Linux и сотрудник Intel, работающий над проектом Tizen,
-`Auke Kok <https://www.ohloh.net/accounts/sofar>`__ в своей ленте
+`Auke Kok <https://www.openhub.net/accounts/sofar>`__ в своей ленте
 Google+
 `анонсировал <https://plus.google.com/115124063126128475540/posts/faar8WcQDg4>`__
 революционное изменение, которое он уже `представил на

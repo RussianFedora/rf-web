@@ -14,7 +14,7 @@
 К `Fedora ARM SIG <https://fedoraproject.org/wiki/Architectures/ARM>`__
 присоединился еще один перебежчик из Canonical, талантливый
 embedded-разработчик `Marcin
-Juszkiewicz <https://www.ohloh.net/accounts/hrw>`__. Разработчику трудно
+Juszkiewicz <https://www.openhub.net/accounts/hrw>`__. Разработчику трудно
 реализоваться в коммьюнити, в котором не ценится и не ведется
 разработка, и которое управляется командой маркетологов. Неудивительно,
 что `он с радостью перешел в Red Hat при первой
@@ -80,7 +80,7 @@ Google+ <https://plus.google.com/106265217227408958782/posts/NuGQksYLKVE>`__.
 поддерживать бесперспективный проект делами и финансово. Но если вам
 действительно нужен необычный телефон, то наш товарищ, участник проектов
 Xfce, Kolab и Fedora `Christoph
-Wickert <https://www.ohloh.net/accounts/cwickert>`__ `обращает наше
+Wickert <https://www.openhub.net/accounts/cwickert>`__ `обращает наше
 внимание <https://plus.google.com/114008335300241090782/posts/CeUKCZQMV6R>`__
 на **реально существующий и выпущенный первой партией** телефон -
 `Fairphone <http://www.fairphone.com/#phone>`__. Не рендер, и не черная

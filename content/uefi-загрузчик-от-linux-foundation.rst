@@ -19,7 +19,7 @@ UEFI <http://blog.hansenpartnership.com/linux-foundation-secure-boot-system-rele
 ключом Microsoft. Он использует
 `gummiboot <http://freedesktop.org/wiki/Software/gummiboot>`__
 (загрузчик, написанный `Kay
-Sievers <https://www.ohloh.net/accounts/kaysievers>`__), который уже
+Sievers <https://www.openhub.net/accounts/kaysievers>`__), который уже
 может запустить GRUB2. Похоже, что в случае SecureBoot без трех-четырех
 загрузчиков не обойтись - такова цена безопасности.
 

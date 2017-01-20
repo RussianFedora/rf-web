@@ -116,7 +116,7 @@ gtk-shell <http://www.phoronix.com/scan.php?page=news_item&px=MTQ1MjM>`__.
 меньше <https://wiki.gnome.org/ThreePointNine/Features/WaylandSupport>`__.
 
 Не совсем о Fedora, но наверное будет интересно почитать. Разработчик
-KDE `Aaron Seigo <http://www.ohloh.net/accounts/aseigo>`__ в своей ленте
+KDE `Aaron Seigo <https://www.openhub.net/accounts/aseigo>`__ в своей ленте
 G+ вновь задает вопрос `есть ли у сообщества ресурсы на несколько
 DE <https://plus.google.com/107555540696571114069/posts/Bt4kY2yNyxy>`__?
 Он высказывает свое `оценочное
@@ -134,7 +134,7 @@ DE <https://plus.google.com/107555540696571114069/posts/Bt4kY2yNyxy>`__?
 
 И совсем не о Fedora, но все-равно интересная новость - бывший инженер
 Novell и участник проектов X.org, Debian и Coreboot, `Luc
-Verhaegen <https://www.ohloh.net/accounts/libv>`__, продолжает работу
+Verhaegen <https://www.openhub.net/accounts/libv>`__, продолжает работу
 над открытым видеодрайвером для для Mali (мы `уже рассказывали о его
 успехах </content/Новости-fedora-arm-sig-0>`__). `Теперь в его драйвере
 работает es2gears <http://libv.livejournal.com/24870.html>`__, что в

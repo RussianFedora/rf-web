@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Lennart Poettering <http://www.ohloh.net/accounts/mezcalero>`__
+`Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__
 анонсировал `удаление поддержки SysV-скриптов самой ранней стадии
 загрузки из SysV-to-systemd
 генератора <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/6493>`__.

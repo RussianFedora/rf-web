@@ -14,6 +14,6 @@
 После нескольких переносов, `наконец-то
 вышла <https://fedoraproject.org/>`__! Обновляемся!
 На `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38677>`__ и
-на `Linux.org.ru <http://www.linux.org.ru/news/redhat/9946122>`__ уже
+на `Linux.org.ru <https://www.linux.org.ru/news/redhat/9946122>`__ уже
 выложили анонс новинок релиза.
 

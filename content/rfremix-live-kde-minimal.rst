@@ -27,11 +27,11 @@ Live-Kminimal <http://mirror.yandex.ru/fedora/russianfedora/stage/17/Custom-Live
    используется (оставлены браузер и файл-менеджер -- Konqueror &
    Dolphin);
 -  предустановлен
-   `psi-plus <http://wiki.russianfedora.ru/index.php?title=%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B_%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8#Psi.2B>`__
+   `psi-plus <http://wiki.russianfedora.pro/index.php?title=%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B_%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8#Psi.2B>`__
    (IM-клиент на случай необходимости связи или выхода на джаббер-канал
    для поддержки);
 -  предустановлен `Grub
-   Customizer <http://wiki.russianfedora.ru/index.php?title=Grub_Customizer>`__
+   Customizer <http://wiki.russianfedora.pro/index.php?title=Grub_Customizer>`__
    для возможности лёгкого управления/восстановления grub2;
 -  отключены Nepomuk & Akonadi;
 -  для консоли дополнительно: mc, htop, fpaste;

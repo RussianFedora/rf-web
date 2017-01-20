@@ -50,7 +50,7 @@
   теоретически будет в большей безопасности.
 
 | Инженер Red Hat и участник проектов Fedora и GCC, `Jakub
-  Jelinek <https://www.ohloh.net/accounts/Jakub_Jelinek>`__, анонсировал
+  Jelinek <https://www.openhub.net/accounts/Jakub_Jelinek>`__, анонсировал
   `GCC 4.8.2 <http://thread.gmane.org/gmane.comp.gcc.devel/132910>`__.
 
   Его уже `собрали для Fedora 19 и

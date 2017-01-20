@@ -53,6 +53,6 @@ OpenBSD <http://nixdoc.net/man-pages/OpenBSD/revoke.2.html>`__.
 Herrmann <http://dvdhrm.wordpress.com/about-me/>`__, инженер Linaro,
 Koen Kooi, предлагает использовать Journal, т.к. это сильно упростит
 жизнь embedded-разработчиков, которые переходят на systemd, а `Aaron
-Seigo <https://www.ohloh.net/accounts/aseigo>`__ высказывается за
+Seigo <https://www.openhub.net/accounts/aseigo>`__ высказывается за
 общесистемное решение, т.е. за syslog или Journald.
 

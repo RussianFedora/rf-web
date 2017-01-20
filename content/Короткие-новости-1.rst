@@ -15,7 +15,7 @@
 и у нас и наших товарищей по сообществу тоже кое-что происходило.
 
 Инженер Red Hat и участник Fedora и Debian `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__ наконец-то `завершил
+Airlie <https://www.openhub.net/accounts/airlied>`__ наконец-то `завершил
 работу по созданию Qemu QXL KMS
 видеодрайвера <http://www.phoronix.com/scan.php?page=news_item&px=MTMxOTk>`__.
 
@@ -86,7 +86,7 @@ OpenID-провайдер <http://thread.gmane.org/gmane.linux.redhat.fedora.cor
 что будет с другими версиями, зато понятно, почему они так поступают -
 никакого доверия к Oracle нет.
 
-`Luke Macken <https://www.ohloh.net/accounts/lewk>`__, один из
+`Luke Macken <https://www.openhub.net/accounts/lewk>`__, один из
 разработчиков `инфраструктуры Fedora
 Project <https://github.com/fedora-infra>`__, обращает наше внимание на
 интересную утилиту,
@@ -126,7 +126,7 @@ Rawhide, для чего они хотят разделить все пакет�
 `gummiboot <http://freedesktop.org/wiki/Software/gummiboot>`__,
 загрузчик для UEFI, написанный разработчиком systemd и udev, участником
 Fedora и инженером Red Hat, `Kay
-Sievers <www.ohloh.net/accounts/kaysievers>`__.
+Sievers <www.openhub.net/accounts/kaysievers>`__.
 
 И просто очень смешная новость - `выявлена возможность совершения
 удалённой DoS-атаки на телевизоры

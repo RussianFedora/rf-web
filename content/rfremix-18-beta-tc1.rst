@@ -66,7 +66,7 @@ Live-образы с GNOME, KDE, XFCE, LXDE и MATE (1.5).
    18-Beta-TC1 <http://mirrors.rfremix.ru/mirrorlist?path=stage/18-Beta-TC1/>`__
 
 Отзывы, предложения и замечания просьба отправлять в
-`баг-трекер <http://redmine.russianfedora.ru/>`__.
+`баг-трекер <http://redmine.russianfedora.pro/>`__.
 
 
 **P. S.** При установке следует быть внимательными, так как новый

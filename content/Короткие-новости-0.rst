@@ -12,7 +12,7 @@
 
 
 Инженер Red Hat и участник Fedora, `Dan
-Williams <https://www.ohloh.net/accounts/dcbw>`__ выпустил `новую версию
+Williams <https://www.openhub.net/accounts/dcbw>`__ выпустил `новую версию
 NetworkManager -
 0.9.8 <http://www.phoronix.com/scan.php?page=news_item&px=MTMwNzY>`__.
 

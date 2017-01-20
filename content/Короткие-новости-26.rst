@@ -44,7 +44,7 @@ Linux.org.ru <https://www.linux.org.ru/news/opensource/10604299>`__). Из
 например `Data Center
 Bridging <https://en.wikipedia.org/wiki/Data_center_bridging>`__.
 
-Наш коллега, `Karel Zak <https://www.ohloh.net/accounts/kzak>`__,
+Наш коллега, `Karel Zak <https://www.openhub.net/accounts/kzak>`__,
 `полностью переписал
 cfdisk <http://karelzak.blogspot.ru/2014/06/new-cfdisk-util-linux-v225.html>`__,
 утилиту из состава util-linux. Получилось неплохо! [STRIKEOUT:Надо

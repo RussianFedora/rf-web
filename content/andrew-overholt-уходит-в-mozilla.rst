@@ -12,7 +12,7 @@
 
 
 Инженер Red Hat и участник Fedora и Eclipse `Andrew
-Overholt <https://www.ohloh.net/accounts/overholt>`__ сообщил, что
+Overholt <https://www.openhub.net/accounts/overholt>`__ сообщил, что
 `принял предложение работы от Mozilla
 Foundation <http://overholt.ca/wp/?p=387>`__. От души поздравляем и
 надеемся, что MoFo не загрузит работой настолько, чтоб прекратить

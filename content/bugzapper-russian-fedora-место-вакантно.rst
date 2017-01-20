@@ -12,7 +12,7 @@
 
 
 Ищется человек, ответственный за Redmine (`это такой задачник/багтрекер
-проекта <http://redmine.russianfedora.ru>`__).
+проекта <http://redmine.russianfedora.pro>`__).
 
 
 Что надо делать

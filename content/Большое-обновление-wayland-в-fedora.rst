@@ -12,7 +12,7 @@
 
 
 Участник Fedora, `Christian
-Schaller <https://www.ohloh.net/accounts/Uraeus>`__, разработчик
+Schaller <https://www.openhub.net/accounts/Uraeus>`__, разработчик
 gstreamer и GNOME, сообщает `новости о Wayland в
 Fedora <http://blogs.gnome.org/uraeus/2013/09/09/fedora-wayland-update/>`__.
 

@@ -21,7 +21,7 @@ init-скрипт. Это, разумеется, нестандартное по
 болезненной в ряде случаев.
 
 После непродолжительного обсуждения инженеры Red Hat `Bill
-Nottingham <https://www.ohloh.net/accounts/notting>`__ и `Michal
+Nottingham <https://www.openhub.net/accounts/notting>`__ и `Michal
 Schmidt <https://fedoraproject.org/wiki/User:Michich>`__ реализовали
 поддержку `произвольных пользовательских команд из
 init-скриптов <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/166326>`__.

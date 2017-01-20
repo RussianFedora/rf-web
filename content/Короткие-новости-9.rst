@@ -79,13 +79,13 @@ Fedora <https://plus.google.com/117319527836202971314/posts/DvrAeW8YvRN>`__.
 неудивительно, т.к. у Fedora и Ubuntu принципиально разные аудитории.
 
 Инженер Red Hat, `Daniel P.
-Berrangé <https://www.ohloh.net/accounts/berrange>`__ рассказывает об
+Berrangé <https://www.openhub.net/accounts/berrange>`__ рассказывает об
 `использовании polkit в
 libvirt <https://www.berrange.com/posts/2013/08/12/fine-grained-access-control-in-libvirt-using-polkit/>`__
 и дальнейших планах.
 
 В еще одном посте `Daniel P.
-Berrangé <https://www.ohloh.net/accounts/berrange>`__ рассказывает о
+Berrangé <https://www.openhub.net/accounts/berrange>`__ рассказывает о
 том, как `запустить Fedora в LXC с помощью
 libvirt <https://www.berrange.com/posts/2013/08/12/running-a-full-fedora-os-inside-a-libvirt-lxc-guest/>`__.
 

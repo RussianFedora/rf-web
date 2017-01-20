@@ -15,11 +15,11 @@
 Fedora еще немного улучшилась, хотя "из коробки" пока не работает.
 
 Участник нашего коммьюнити, `Igor
-Gnatenko <https://www.ohloh.net/accounts/ignatenkobrain>`__,
+Gnatenko <https://www.openhub.net/accounts/ignatenkobrain>`__,
 присоединился к
 `инициативе <https://fedoraproject.org/wiki/Changes/OpenCL>`__ инженера
 Red Hat и разработчика oVirt, `Fabian
-Deutsch <https://www.ohloh.net/accounts/fabiand>`__, и предложил `ряд
+Deutsch <https://www.openhub.net/accounts/fabiand>`__, и предложил `ряд
 изменений для
 Mesa <https://github.com/fabiand/mesa-spec/compare/master...opencl>`__,
 которые корректно включают поддержку OpenCL в библиотеке. Как минимум,

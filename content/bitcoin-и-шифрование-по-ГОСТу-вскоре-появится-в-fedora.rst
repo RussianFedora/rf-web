@@ -27,7 +27,7 @@ Togami <https://github.com/wtogami>`__, участника коммьюнити 
 разработчика таких проектов, как kernel и bitcoin, инженера BitPay,
 `Jeff Garzik <https://plus.google.com/105424721218711536033/about>`__, и
 участника коммьюнити Fedora и Xiph Foundation, разработчика Bitcoin,
-`Gregory Maxwell <http://www.ohloh.net/accounts/gmaxwell>`__. На подходе
+`Gregory Maxwell <https://www.openhub.net/accounts/gmaxwell>`__. На подходе
 еще ряд Bitcoin-приложений, что, разумеется, открывает совершенно новые
 перспективы для этой криптовалюты, учитывая влияние нашего коммьюнити на
 экосистему Open Source.

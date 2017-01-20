@@ -15,7 +15,7 @@
 некорректно отображает шрифты в русской локали.
 
 Ошибка уже набившая оскомину как пользователям
-`RFRemix <http://redmine.russianfedora.ru/issues/631>`__ в частности,
+`RFRemix <http://redmine.russianfedora.pro/issues/631>`__ в частности,
 так и пользователям
 `Fedora <https://bugzilla.redhat.com/show_bug.cgi?id=725218>`__ в общем.
 
@@ -27,9 +27,9 @@
 В хранилище RFRemix fixes пересобранный пакет уже есть.
 
 Для тех, кто не пользуется RFRemix - пакет можно взять
-`отсюда <http://koji.russianfedora.ru/koji/buildinfo?buildID=1764>`__
+`отсюда <http://koji.russianfedora.pro/koji/buildinfo?buildID=1764>`__
 или
-`отсюда <http://koji.russianfedora.ru/koji/buildinfo?buildID=1765>`__ .
+`отсюда <http://koji.russianfedora.pro/koji/buildinfo?buildID=1765>`__ .
 Надеемся, что в скором будущем данный пакет пересоберут и в хранилище
 Fedora.
 

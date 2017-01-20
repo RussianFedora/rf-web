@@ -48,12 +48,12 @@
 
 | 
 | Новость уже обсуждается на
-  `Linux.org.ru <http://www.linux.org.ru/news/debian/9691153>`__ и
+  `Linux.org.ru <https://www.linux.org.ru/news/debian/9691153>`__ и
   `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38152>`__.
 
 | Вообще чувствуется оживление. Хоть и отстают на несколько лет от нас,
   но для Debian по причине `небольшого количества активных участников
-  проекта <https://www.ohloh.net/p/debian/contributors/summary>`__
+  проекта <https://www.openhub.net/p/debian/contributors/summary>`__
   (которое, кстати, постоянно снижается, вернувшись к показателям
   2005-2006 года - немногочисленные участники разбегаются в Fedora и
   Canonical или переходят на Apple), это вполне нормально. Зато почти

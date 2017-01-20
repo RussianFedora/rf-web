@@ -93,7 +93,7 @@ Mesa <http://cgit.freedesktop.org/mesa/mesa/commit/?id=2855f3f>`__.
 ARM-железа, то нельзя не упомянуть титаническую работу по созданию
 полностью открытого драйвера для Mali, проведенную в одиночку бывшим
 инженером Novell и участником проектов X.org, Debian и Coreboot, `Luc
-Verhaegen <https://www.ohloh.net/accounts/libv>`__. В последние месяцы
+Verhaegen <https://www.openhub.net/accounts/libv>`__. В последние месяцы
 он `добился впечатляющих
 результатов <http://libv.livejournal.com/24735.html?nojs=1>`__, и
 быстродействие его варианта видеодрайвера сравнялось с проприетарным

@@ -12,7 +12,7 @@
 
 
 Наш коллега, инженер Red Hat и мэйнтейнер wget, `Giuseppe
-Scrivano <https://www.ohloh.net/accounts/gscrivano>`__, в своей ленте
+Scrivano <https://www.openhub.net/accounts/gscrivano>`__, в своей ленте
 Google+ `объявил о выходе GNU wget
 1.15 <https://plus.google.com/+GiuseppeScrivano/posts/DEDqt5siqkR>`__.
 

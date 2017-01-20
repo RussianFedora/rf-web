@@ -38,9 +38,9 @@ russianfedora и включением некоторых из них в Fedora. 
 
 Товарищ `elemc <https://fedoraproject.org/wiki/User:Elemc>`__ почти
 закончил работу над
-`веб-интерфейсом <http://koji.russianfedora.ru/porter/>`__ для выкладки
+`веб-интерфейсом <http://koji.russianfedora.pro/porter/>`__ для выкладки
 пакетов в репозитории. Кроме этого он, как обычно, занимается обработкой
-заявок в `багтрекере <http://redmine.russianfedora.ru/>`__ (кстати, для
+заявок в `багтрекере <http://redmine.russianfedora.pro/>`__ (кстати, для
 работы с заявками рук всегда не хватает, поэтому если есть желание
 помочь -
 `обращайтесь! <http://russianfedora.ru/online-communication>`__).
@@ -48,7 +48,7 @@ russianfedora и включением некоторых из них в Fedora. 
 Участница под ником
 `Bookwar <https://fedoraproject.org/wiki/User:Bookwar>`__ занимается
 наполнением `вики Russian
-Fedora <http://wiki.russianfedora.ru/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F>`__
+Fedora <http://wiki.russianfedora.pro/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F>`__
 и помощью в этом другим участникам, мелкими вопросами по работе
 русскоязычных ресурсов Fedora, поддержкой пакета
 `minetest <https://admin.fedoraproject.org/pkgdb/acls/name/minetest>`__
@@ -83,7 +83,7 @@ Fest <http://www.nixp.ru/news/19-%D0%BC%D0%B0%D1%8F-%D0%B2-%D0%9C%D0%BE%D1%81%D0
 
 Сама же `я <https://fedoraproject.org/wiki/User:Mamasun>`__ последнее
 время занимаюсь `оформлением
-субтитров <http://wiki.russianfedora.ru/index.php?title=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E/JanWildeboer>`__
+субтитров <http://wiki.russianfedora.pro/index.php?title=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E/JanWildeboer>`__
 к интервью с Яном Вилдбоером. К сожалению, процесс затянулся, но я
 надеюсь, что скоро это интервью будет доступно всем независимо от знания
 английского. На первый взгляд оно не имеет отношения к Fedora, но на

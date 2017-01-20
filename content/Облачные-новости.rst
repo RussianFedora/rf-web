@@ -28,12 +28,12 @@
   выборов <http://thread.gmane.org/gmane.comp.cloud.openstack.announce/39>`__
   в Технический Комитет OpenStack. Поздравляем наших коллег по
   коммьюнити Fedora - инженера Red Hat и участника проектов Fedora и
-  Asterisk, `Russel Bryant <https://www.ohloh.net/accounts/russellb>`__
+  Asterisk, `Russel Bryant <https://www.openhub.net/accounts/russellb>`__
   и участника Fedora и уже бывалого участника технического комитета
   OpenStack, `Mark
-  McLoughlin <https://www.ohloh.net/accounts/markmc>`__. К сожалению, в
+  McLoughlin <https://www.openhub.net/accounts/markmc>`__. К сожалению, в
   совет не были выбраны кандидаты из Mirantis - разработчик из Саратова,
-  `Sergey Lukjanov <https://www.ohloh.net/accounts/Frostman>`__, и
+  `Sergey Lukjanov <https://www.openhub.net/accounts/Frostman>`__, и
   `Boris Pavlovic <https://launchpad.net/~boris-42>`__. Ничего, народ,
   не горюйте, а просто в следующий раз пробуйте снова! По виду, конечно,
   они и не думают огорчаться - Boris Pavlovic `официально
@@ -158,7 +158,7 @@
   с golang наперевес стоит почаще отрываться от макбуков и фэйсбуков и
   читать новости Fedora, чтоб быть в курсе тенденций]).
   Разработчик-озорник `Alexander
-  Larsson <https://www.ohloh.net/accounts/alexl>`__, в свое время
+  Larsson <https://www.openhub.net/accounts/alexl>`__, в свое время
   `напугавший любителей юникс-вэя предложением переписать Unix
   pipes </content/Предложены-радикальные-изменения-в-работу-unix-pipes>`__,
   `рассказывает <http://blogs.gnome.org/alexl/2013/10/15/adventures-in-docker-land/>`__

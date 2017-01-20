@@ -12,7 +12,7 @@
 
 
 Участником Fedora и работником Red Hat `Kushal
-Das <https://www.ohloh.net/accounts/kushaldas>`__ было `официально
+Das <https://www.openhub.net/accounts/kushaldas>`__ было `официально
 объявлено <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/161663>`__
 о введении в строй
 `Darkserver <https://fedoraproject.org/wiki/Darkserver>`__, специального

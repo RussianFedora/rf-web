@@ -12,7 +12,7 @@
 
 
 | Сегодня `Lennart
-  Poettering <http://www.ohloh.net/accounts/mezcalero>`__ сообщил о
+  Poettering <https://www.openhub.net/accounts/mezcalero>`__ сообщил о
   `выходе новой версии
   systemd <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/5133>`__.
 
@@ -27,7 +27,7 @@
    будет в вашем телефоне и телевизоре).
 
 -  Включен набор тестов, написанный участником Fedora и инженером Red
-   Hat `Harald Hoyer <https://www.ohloh.net/accounts/backslash>`__.
+   Hat `Harald Hoyer <https://www.openhub.net/accounts/backslash>`__.
 
 -  /etc/fstab больше не обрабатывается самим systemd. Для этого теперь
    написан очередной т.н. генератор - вспомогательная программа, которая

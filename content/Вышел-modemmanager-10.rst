@@ -12,7 +12,7 @@
 
 
 `Aleksander
-Morgado <https://www.ohloh.net/accounts/aleksander_morgado>`__, инженер
+Morgado <https://www.openhub.net/accounts/aleksander_morgado>`__, инженер
 дружественной нам компании `Lanedo <http://www.lanedo.com/>`__ и
 активный пользователь Fedora со стажем, анонсировал `долгожданный выход
 ModemManager
@@ -20,5 +20,5 @@ ModemManager
 вспомогательный компонент NetworkManager, предназначенный для управления
 модемами и устройствами сотовой связи. Новость уже обсуждается на
 `OpenNET <http://www.opennet.ru/opennews/art.shtml?num=37462>`__ и
-`Linux.org.ru <http://www.linux.org.ru/news/internet/9381309>`__.
+`Linux.org.ru <https://www.linux.org.ru/news/internet/9381309>`__.
 

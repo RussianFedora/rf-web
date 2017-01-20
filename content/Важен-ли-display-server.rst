@@ -60,7 +60,7 @@ Wayland нельзя использовать проприетарные дра�
 Разработчики прикладного ПО, представляющие таких игроков, как Intel и
 KDE почти сразу озвучили свои возражения по существу.
 
-`Ikey Doherty <https://www.ohloh.net/accounts/ikeydoherty>`__ из Intel в
+`Ikey Doherty <https://www.openhub.net/accounts/ikeydoherty>`__ из Intel в
 своей ленте Google+ `не
 согласился <https://plus.google.com/u/0/+IkeyDoherty/posts/g9gTW4JQ5Lp>`__,
 с тем, что разработчику можно не интересоваться дисплейным сервером.
@@ -73,7 +73,7 @@ Ikey опираясь на свой опыт. К несчастью, он при
 
 Но и с Qt, очень похоже, дела обстоят не так хорошо, как утверждают в
 Canonical. `Martin
-Gräßlin <https://www.ohloh.net/accounts/mgraesslin>`__, у которого
+Gräßlin <https://www.openhub.net/accounts/mgraesslin>`__, у которого
 `интересная и захватывающая история отношений с фанбоями
 Ubuntu </content/Короткие-новости-16>`__, изложил `свои соображения по
 теме <http://blog.martin-graesslin.com/blog/2014/03/why-the-display-server-does-matter/>`__.
@@ -120,5 +120,5 @@ systemd </content/ubuntu-переходит-на-systemd>`__.
 
 **UPD** статью
 `прокомментировал <http://aseigo.blogspot.ru/2014/03/more-on-why-display-server-does-matter.html>`__
-и `Aaron Seigo <https://www.ohloh.net/accounts/aseigo>`__.
+и `Aaron Seigo <https://www.openhub.net/accounts/aseigo>`__.
 

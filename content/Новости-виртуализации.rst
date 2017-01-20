@@ -86,7 +86,7 @@
   0.7 <http://blog.docker.io/2013/11/docker-0-7-docker-now-runs-on-any-linux-distribution/>`__,
   в котором благодаря Red Hat больше не требуются Ubuntu-специфичные
   патчи для ядра. Участник проектов GNOME и Fedora, `Alexander
-  Larsson <https://www.ohloh.net/accounts/alexl>`__, дал
+  Larsson <https://www.openhub.net/accounts/alexl>`__, дал
   `интервью <http://opensource.com/business/13/11/docker-fedora-red-hat-collaboration>`__,
   в котором рассказал, как протекал процесс включения в Fedora, зачем
   это было нужно, и как это изменит обычный процесс работы с
@@ -127,7 +127,7 @@
   в котором рассказал, насколько сложно или просто было добиться
   включения KVM в kernel. После его ухода проект не потерял в динамике,
   и недавно инженер Amazon, бывший инженер IBM, `Anthony
-  Liguori <http://www.ohloh.net/accounts/aliguori>`__, объявил о выходе
+  Liguori <https://www.openhub.net/accounts/aliguori>`__, объявил о выходе
   `Qemu версии
   1.7 <http://thread.gmane.org/gmane.comp.emulators.qemu/246050>`__. В
   этой версии было внедрено довольно много интересного:

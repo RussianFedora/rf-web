@@ -34,7 +34,7 @@ OpenStack <http://www.businessinsider.com/a-dangerous-sign-for-vmware-paypal-cho
 погадаем, `на каком дистрибутиве будет работать такая огромная
 инсталляция </content/Первый-публичный-релиз-red-hat-openstack>`__?
 Участник проектов Fedora и KDE, `Trever
-Fischer <https://www.ohloh.net/accounts/tdfischer>`__, продолжает
+Fischer <https://www.openhub.net/accounts/tdfischer>`__, продолжает
 работать над улучшением мультимедиа-системы в KDE (`ранее мы уже
 рассказывали о его
 работе </content/Выбросят-ли-из-phonon-поддержку-alsaoss-в-пользу-pulseaudio>`__).

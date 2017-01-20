@@ -19,12 +19,9 @@
 -  Arch Linux
 -  IPCop
 
-| От Fedora представителей пока нет, поэтому если кому-то интересно
-  сделать рассказ о дистрибутиве самое время об этом заявить :)
-| `Обсуждение на форуме Russian
-  Fedora <http://forum.russianfedora.ru/viewtopic.php?f=4&t=4027&view=unread&sid=0847986959451b540775668df7f531bd#p26465>`__
-  - вопросы можно задавать здесь. Так же можно связаться с
-  организаторами через твиттер - @omsklug, #distrobattle
-| Отдельное замечание - для участия требуется предварительная
-  `регистрация <https://docs.google.com/spreadsheet/viewform?formkey=dE1UeXlvZ0Qxd090c1U2VnE4bXQ2a3c6MA>`__.
+От Fedora представителей пока нет, поэтому если кому-то интересно сделать
+рассказ о дистрибутиве самое время об этом заявить :) Так же можно связаться с
+организаторами через твиттер - @omsklug, #distrobattle Отдельное замечание -
+для участия требуется предварительная `регистрация
+<https://docs.google.com/spreadsheet/viewform?formkey=dE1UeXlvZ0Qxd090c1U2VnE4bXQ2a3c6MA>`__.
 

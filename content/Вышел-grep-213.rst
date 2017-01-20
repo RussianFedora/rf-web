@@ -12,7 +12,7 @@
 
 
 Участник Fedora и нынешний мэйнтейнер grep `Jim
-Meyering <http://www.ohloh.net/accounts/meyering>`__ анонсировал выход
+Meyering <https://www.openhub.net/accounts/meyering>`__ анонсировал выход
 версии 2.13. Версия содержит багфиксы и пару минорных улучшений.
 
 [STRIKEOUT:Ждем ебилдов!]

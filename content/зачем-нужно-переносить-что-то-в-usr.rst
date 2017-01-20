@@ -12,7 +12,7 @@
 
 
 Известный и активный участник Fedora, работник Red Hat, `Lennart
-Poettering <http://www.ohloh.net/accounts/mezcalero>`__ опубликовал
+Poettering <https://www.openhub.net/accounts/mezcalero>`__ опубликовал
 `статью <http://www.freedesktop.org/wiki/Software/systemd/TheCaseForTheUsrMerge>`__,
 в которой в очередной раз приводятся аргументы за перемещение директорий
 в /usr .

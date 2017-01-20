@@ -42,7 +42,7 @@ Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__. Он пишет,
 переломить ситуацию, т.к. вот вот начнется битва за видеокодеки нового
 поколения, где у нас позиции лучше, чем у вымогателей. Открытых решений
 сразу два - Daala от Xiph (на последней конференции по GStreamer в
-Эдинбурге, `Gregory Maxwell <https://www.ohloh.net/accounts/gmaxwell>`__
+Эдинбурге, `Gregory Maxwell <https://www.openhub.net/accounts/gmaxwell>`__
 рассказывал об истории его разработки, и `на LWN уже есть рекап его
 выступления <https://lwn.net/Articles/571978/>`__) и VP9 от Google, и
 они оба немного обгоняют по готовности H.265 / HEVC, за которым стоит

@@ -12,7 +12,7 @@
 
 
 Сегодня специалист Red Hat и участник Fedora `Ben
-Skeggs <https://www.ohloh.net/accounts/darktama>`__
+Skeggs <https://www.openhub.net/accounts/darktama>`__
 `анонсировал <https://plus.google.com/109430210070297725121/posts/cf2eqYGBD9R>`__
 в своей ленте Google+ грядущие большие изменения в открытом
 видеодрайвере для видеокарт NVIDIA - nouveau. Основатель Phoronix

@@ -21,7 +21,7 @@
 
 Есть такая криптобиблиотека - GnuTLS, мэйнтейнером которой является
 инженер Red Hat, `Nikos
-Mavrogiannopoulos <https://www.ohloh.net/accounts/nmav>`__. Ее
+Mavrogiannopoulos <https://www.openhub.net/accounts/nmav>`__. Ее
 используют такие известные приложения, как emacs + email/nntp, wget,
 vlc, network-manager, mutt, empathy и многие другие. Просто попробуйте
 удалить ее с помощью *sudo yum remove gnutls* и вы поймете ее важность.

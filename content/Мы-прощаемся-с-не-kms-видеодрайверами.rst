@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-| `Adam Jackson <https://www.ohloh.net/accounts/ajax>`__ объявил, что
+| `Adam Jackson <https://www.openhub.net/accounts/ajax>`__ объявил, что
   `больше не будет поддерживать в актуальном состоянии видеодрайверы,
   которые не поддерживают
   KMS <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/185346>`__

@@ -12,7 +12,7 @@
 
 
 Участник проектов Fedora и LibreOffice, `Caolán
-McNamara <http://www.ohloh.net/accounts/caolan>`__, в своем блоге
+McNamara <https://www.openhub.net/accounts/caolan>`__, в своем блоге
 приводит `статистику
 Coverity <http://caolanm.blogspot.ru/2014/11/libreoffice-coverity-defect-density-002.html>`__,
 регулярно собираемую по всему проекту. Сейчас Coverity выдает такие

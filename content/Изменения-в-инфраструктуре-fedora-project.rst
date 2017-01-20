@@ -24,7 +24,7 @@ Software Foundation, на `ØMQ (ZeroMQ) <http://www.zeromq.org/>`__.
 
 Апгрейд
 `предложил <https://github.com/ralphbean/fedmsg/blob/develop/doc/proposal.rst>`__
-`Ralph Bean <https://www.ohloh.net/accounts/ralphbean>`__, который и
+`Ralph Bean <https://www.openhub.net/accounts/ralphbean>`__, который и
 провел основную работу (см. "критикуя - предлагай"). Конечно, не очень
 корректно сравнивать ZeroMQ и какую-то конкретно AMQP-реализацию, но
 результатом перехода стало ускорение работы узла

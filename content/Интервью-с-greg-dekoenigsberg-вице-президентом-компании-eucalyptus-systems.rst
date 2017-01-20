@@ -12,7 +12,7 @@
 
 
 | Black Duck Software, компания-владелец широко известного в узких
-  кругах ресурса `Ohloh.net <https://www.ohloh.net/>`__ опубликовала
+  кругах ресурса `Ohloh.net <https://www.openhub.net/>`__ опубликовала
   `интервью <http://osdelivers.blackducksoftware.com/2014/03/13/eucalyptus-weighs-in-on-cloud-adoption-apis-and-cultivating-communities/>`__
   с `Greg DeKoenigsberg <http://www.linkedin.com/in/gregdek>`__,
   вице-президентом компании Eucalyptus Systems, бывшим лидером Fedora
@@ -44,7 +44,7 @@
     думают в индустрии.
 
     BDS: *`На Ohloh Eucalyptus классифицируется как "very high activity”
-    проект <https://www.ohloh.net/p/eucalyptus>`__. Как вы вырастили и
+    проект <https://www.openhub.net/p/eucalyptus>`__. Как вы вырастили и
     поддерживаете настолько сильное сообщество?*
     GDK: Как почти в любом OSS-проекте, наиболее значимый вклад идет от
     группы power-пользователей, которые и упорно продвигают продукт

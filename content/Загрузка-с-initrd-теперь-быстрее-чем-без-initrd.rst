@@ -12,14 +12,14 @@
 
 
 Не так давно `Lennart
-Poettering <http://www.ohloh.net/accounts/mezcalero>`__ написал
+Poettering <https://www.openhub.net/accounts/mezcalero>`__ написал
 `руководство по сокращению времени загрузки
 системы <http://freedesktop.org/wiki/Software/systemd/Optimizations>`__
 (его активно обсуждали, например, `на
 OpenNET <http://www.opennet.ru/opennews/art.shtml?num=33840>`__). С
 радостью сообщаем вам, что участник Fedora и инженер Red Hat `Harald
-Hoyer <http://www.ohloh.net/accounts/backslash>`__ и разработчик udev и
-systemd `Kay Sievers <https://www.ohloh.net/accounts/kaysievers>`__
+Hoyer <https://www.openhub.net/accounts/backslash>`__ и разработчик udev и
+systemd `Kay Sievers <https://www.openhub.net/accounts/kaysievers>`__
 оптимизировали dracut так, что он теперь создает initrd-образ, с которым
 `загрузка происходит быстрее, чем без
 него <https://plus.google.com/108087225644395745666/posts/H9CFBQLG8S8>`__.

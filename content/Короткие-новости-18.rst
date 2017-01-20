@@ -25,7 +25,7 @@ Collabora и Lanedo. Если вам будет нужно доработать 
 нужды, то обращайтесь к сертифицированным профессионалам.
 
 Участник проектов Fedora и LibreOffice, `Caolán
-McNamara <http://www.ohloh.net/accounts/caolan>`__ вновь объявил о
+McNamara <https://www.openhub.net/accounts/caolan>`__ вновь объявил о
 взятом новом рубеже - `500 диалоговых окон переведено в новый формат
 GtkBuilder <http://caolanm.blogspot.ru/2013/11/converting-libreoffice-dialogs-to.html>`__.
 
@@ -82,7 +82,7 @@ Ceylon, язык для JVM, разрабатываемый Red Hat, `након
 версии 1.0.0 <http://ceylon-lang.org/blog/2013/11/12/ceylon-1/>`__. Что
 характерно, в Fedora язык еще не включен. Не готов, что ли? Ну так или
 иначе, но на этом новости о компиляторах не закончились. Наш коллега,
-инженер Red Hat, `Jeff Law <https://www.ohloh.net/accounts/JeffLaw>`__
+инженер Red Hat, `Jeff Law <https://www.openhub.net/accounts/JeffLaw>`__
 предложил `отключить сборку Java в GCC, а взамен включить
 Golang <http://thread.gmane.org/gmane.comp.gcc.devel/133244>`__ (его
 предложение `уже обсуждается аналитиками

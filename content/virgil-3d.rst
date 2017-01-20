@@ -12,7 +12,7 @@
 
 
 | Инженер Red Hat и участник Fedora и Debian `David
-  Airlie <https://www.ohloh.net/accounts/airlied>`__ рассказал о
+  Airlie <https://www.openhub.net/accounts/airlied>`__ рассказал о
   `текущем состоянии Virgil 3D <https://lwn.net/Articles/611212/>`__
   (статья за paywall) на прошедшем LinuxCon North America. Мы уже
   `вкратце упоминали про Virgil 3D </content/Короткие-новости-7>`__, и

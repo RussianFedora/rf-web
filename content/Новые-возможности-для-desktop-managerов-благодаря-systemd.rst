@@ -12,7 +12,7 @@
 
 
 Основной мэйнтейнер Lunar Linux и сотрудник Intel, работающий над
-проектом Tizen, `Auke Kok <https://www.ohloh.net/accounts/sofar>`__
+проектом Tizen, `Auke Kok <https://www.openhub.net/accounts/sofar>`__
 продолжает работу по переносу управления пользовательскими сессиями из
 Desktop Environment, в systemd (вы уже `могли слышать о его
 работе </content/Часть-функциональности-gnome-kde-и-xfce-переносят-в-systemd>`__,

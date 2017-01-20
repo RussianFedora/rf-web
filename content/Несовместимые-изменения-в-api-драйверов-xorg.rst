@@ -12,7 +12,7 @@
 
 
 Инженер Red Hat и участник Fedora и Debian `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__ продолжает вносить
+Airlie <https://www.openhub.net/accounts/airlied>`__ продолжает вносить
 улучшения в X.org API. В своей ленте на Google+ блоге он
 `анонсировал <https://plus.google.com/104877287288155269055/posts/RQy4mee2S2U>`__
 несовместимые `изменения в API драйверов

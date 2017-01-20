@@ -12,7 +12,7 @@
 
 
 Участник проектов GNOME и Fedora, `Alexander
-Larsson <https://www.ohloh.net/accounts/alexl>`__, не так давно
+Larsson <https://www.openhub.net/accounts/alexl>`__, не так давно
 напугавший сообщество анонимных Linux-аналитиков предложением
 `радикально переработать Unix
 Pipes </content/Предложены-радикальные-изменения-в-работу-unix-pipes>`__

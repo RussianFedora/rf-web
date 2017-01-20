@@ -18,7 +18,7 @@
   `fedoraproject.org <http://fedoraproject.org/>`__, а образы новой
   версии `доступны <http://fedoraproject.org/ru/get-fedora>`__ для
   скачивания. `Обновление с помощью
-  yum <http://wiki.russianfedora.ru/index.php?title=Обновление_Fedora_%28или_RFRemix%29_с_помощью_yum>`__
+  yum <http://wiki.russianfedora.pro/index.php?title=Обновление_Fedora_%28или_RFRemix%29_с_помощью_yum>`__
   также возможно.
 
 | **Наиболее заментные изменения в Fedora 17:**
@@ -76,7 +76,7 @@
 
 -  Добавлена клавиатурная комбинация Caps для смены раскладки;
 -  В состав live-образов добавлена утилита
-   `grub-customizer <http://wiki.russianfedora.ru/index.php?title=Grub_Customizer>`__
+   `grub-customizer <http://wiki.russianfedora.pro/index.php?title=Grub_Customizer>`__
    для конфигурации grub2, а так же пакеты fuse-encfs, tcplay и
    realcrypt для работы с шифрованием в Ubuntu;
 -  В шрифт Cantarell добавлены символы кириллицы;

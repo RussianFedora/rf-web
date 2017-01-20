@@ -24,7 +24,7 @@
 Следующий тестовый день, 5 ноября, будет по `печати (CUPS и букет
 сопутствующих
 приложений) <https://fedoraproject.org/wiki/Test_Day:2013-11-05_Printing>`__,
-и инженер Red Hat, `Tim Waugh <https://www.ohloh.net/accounts/twaugh>`__
+и инженер Red Hat, `Tim Waugh <https://www.openhub.net/accounts/twaugh>`__
 официально `приглашает всех
 поучаствовать <http://cyberelk.net/tim/2013/10/30/lp-on-bonfire-printing-test-day/>`__.
 

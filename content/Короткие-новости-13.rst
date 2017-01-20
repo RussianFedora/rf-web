@@ -20,7 +20,7 @@ Tizen <https://ru.intel.com/business/community/index.php?automodule=blog&blogid=
 
 Участник Debian Community, разработчик GNOME из дружественной нам
 компании Igalia, `Carlos Garcia
-Campos <https://www.ohloh.net/accounts/carlosgc>`__, объявил о выходе
+Campos <https://www.openhub.net/accounts/carlosgc>`__, объявил о выходе
 новой версии WebKitGTK+, `который теперь может работать на
 Wayland <http://thread.gmane.org/gmane.os.opendarwin.webkit.gtk/1561>`__,
 без X11. Это очень важный шаг вперед, к GNOME без зависимости от иксов.

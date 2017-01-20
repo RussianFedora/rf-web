@@ -12,7 +12,7 @@
 
 
 Активный участник Fedora `Harald
-Hoyer <https://www.ohloh.net/accounts/backslash>`__ в своей ленте
+Hoyer <https://www.openhub.net/accounts/backslash>`__ в своей ленте
 Google+ предложил proof-of-concept `автоматического отключения
 screensaver в случае, когда кто-то сидит за
 компьютером <https://plus.google.com/117537647502636167748/posts/9raMStT26sY>`__.

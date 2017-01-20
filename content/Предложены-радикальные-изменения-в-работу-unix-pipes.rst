@@ -19,7 +19,7 @@ Typed <http://www.globalnerdy.com/2010/05/09/new-programming-jargon/>`__
 подхода в разработке - `Unix
 Pipes <http://en.wikipedia.org/wiki/Pipeline_%28Unix%29>`__. Участник
 проектов GNOME и Fedora, `Alexander
-Larsson <https://www.ohloh.net/accounts/alexl>`__ предложил `радикально
+Larsson <https://www.openhub.net/accounts/alexl>`__ предложил `радикально
 переработать этот старый
 интерфейс <http://blogs.gnome.org/alexl/2012/08/10/rethinking-the-shell-pipeline/>`__.
 
@@ -31,7 +31,7 @@ PowerShell <http://en.wikipedia.org/wiki/Windows_PowerShell>`__). Из
 плюсов - это позволит выбросить тучу кода из стандартных утилит
 (форматирование, сортировка, раскраска и т.п.), и заменить их
 стандартными препроцессорами нового формата Unix Pipes (которые уже
-написал `Alexander Larsson <https://www.ohloh.net/accounts/alexl>`__),
+написал `Alexander Larsson <https://www.openhub.net/accounts/alexl>`__),
 т.е. coreutils будут правильнее с т.з. `философии
 Unix <http://en.wikipedia.org/wiki/Unix_philosophy>`__. Из минусов - это
 изменение, когда его примут в базовые утилиты, сделает их несовместимыми

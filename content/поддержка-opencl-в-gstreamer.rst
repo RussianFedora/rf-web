@@ -12,7 +12,7 @@
 
 
 Активный участник проекта Fedora `Fabian
-Deutsch <http://www.ohloh.net/accounts/fabiand>`__ представил
+Deutsch <https://www.openhub.net/accounts/fabiand>`__ представил
 `проект <http://dummdida.blogspot.com/2012/02/gst-plugins-cl-opencl-plugins-for.html>`__,
 в рамках которого был реализован OpenCL плугин для gstreamer. Теперь
 возможно выполнять некоторые вычислительные задачи (видеофильтры,

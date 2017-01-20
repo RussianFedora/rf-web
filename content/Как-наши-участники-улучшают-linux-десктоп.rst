@@ -12,7 +12,7 @@
 
 
 `Aleksander
-Morgado <https://www.ohloh.net/accounts/aleksander_morgado>`__, инженер
+Morgado <https://www.openhub.net/accounts/aleksander_morgado>`__, инженер
 дружественной нам компании `Lanedo <http://www.lanedo.com/>`__,
 продолжает рассказывать о проблемах, с которыми они столкнулись при
 разработке современной системы управления модемами. На этот раз он
@@ -32,7 +32,7 @@ MAC-адрес <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/
 Descriptor <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/drivers/net/usb/qmi_wwan.c?id=cc6ba5fdaabea7a7b28de3ba1e0fe54d92232fe5>`__)
 были исправлены участником Debian, `Bjørn
 Mork <https://github.com/bmork>`__ и участником Fedora, `Dan
-Williams <https://www.ohloh.net/accounts/dcbw>`__. Исправления уже
+Williams <https://www.openhub.net/accounts/dcbw>`__. Исправления уже
 доступны в ядре 3.10, которое уже доступно в репозиториях для Fedora 18
 и Fedora 19.
 
@@ -44,7 +44,7 @@ KDE <http://ltinkl.blogspot.ru/2013/07/this-month-july-in-red-hat-kde.html>`__.
 Среди прочих есть упоминание о фиче Fedora 20, `о которой вы уже
 знаете </content/Новые-фичи-fedora-20>`__ - KDE переводится с KDM на
 SDDM. Новость привлекла внимание `Aaron
-Seigo <http://www.ohloh.net/accounts/aseigo>`__, который в своей ленте
+Seigo <https://www.openhub.net/accounts/aseigo>`__, который в своей ленте
 Google+ `очень высоко оценил это изменение Fedora и назвал это
 образцовым примером сотрудничества upstream/downstream
 разработчиков <https://plus.google.com/107555540696571114069/posts/5Q6a74h47JK>`__.

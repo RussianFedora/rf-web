@@ -14,7 +14,7 @@
 Известный разработчик и создатель таких проектов, как cURL, libssh2,
 c-ares, Rockbox, участник Debian Community, сообщивший нам и сам
 исправивший не одну ошибку в Fedora, `Daniel
-Stenberg <https://www.ohloh.net/accounts/bagder>`__, в своей ленте
+Stenberg <https://www.openhub.net/accounts/bagder>`__, в своей ленте
 Google+ объявил, что `с января 2014 будет работать в Mozilla Foundation
 над сетевой подсистемой
 Firefox <https://plus.google.com/u/0/+DanielStenberg/posts/9MusmrTKHii>`__.

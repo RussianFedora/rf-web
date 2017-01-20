@@ -20,7 +20,7 @@ FrOSCon </content/russian-fedora-на-froscon-2013-24-25-августа>`__,
 мероприятие <https://fedoraproject.org/wiki/Road_to_the_Clouds#When_and_Where>`__,
 обсудим новости Fedora 20, возможность проведения встреч в Питере и
 Саратове, `день рождения
-Debian <http://www.linux.org.ru/news/debian/9472700>`__. Ну и еще будем
+Debian <https://www.linux.org.ru/news/debian/9472700>`__. Ну и еще будем
 просто так общаться.
 
 `Присоединяйтесь <https://plus.google.com/events/cr8efvtsmsilnk3cmd49ckdvbio>`__!

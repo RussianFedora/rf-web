@@ -14,7 +14,7 @@
 Мэйнтейнер и основной разработчик пакета
 `util-linux <http://en.wikipedia.org/wiki/Util-linux>`__, инженер Red
 Hat и участник Fedora `Karel
-Zak <https://www.ohloh.net/accounts/kzak>`__ поделился `последними
+Zak <https://www.openhub.net/accounts/kzak>`__ поделился `последними
 новостями <http://karelzak.blogspot.com/2012/05/eject1-sulogin1-wdctl1.html>`__.
 
 В состав пакета теперь входит полностью переписанная утилита *eject*,
@@ -36,7 +36,7 @@ Code <http://www.rfremix.ru/content/fedora-%D0%B8-google-summer-code-2012>`__.
 предыдущих версиях была перенесена из того же sysvinit-tools утилита
 *mountpoint*.
 Появилась новая утилита - *wdctl*, первый вариант которой написал
-`Lennart Poettering <https://www.ohloh.net/accounts/mezcalero>`__. Она
+`Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__. Она
 предназначена для получения текущего состояния с watchdog. К сожалению,
 пока у программы есть серьезные ограничения, но Karel обещает вскоре их
 устранить.

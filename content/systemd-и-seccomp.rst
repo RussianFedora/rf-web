@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Lennart Poettering <http://www.ohloh.net/accounts/mezcalero>`__
+`Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__
 анонсировал в своей ленте Google+ очередные нововведения в systemd:
 `фильтрация системных вызовов для запускаемых
 сервисов <https://plus.google.com/115547683951727699051/posts/cb3uNFMNUyK>`__

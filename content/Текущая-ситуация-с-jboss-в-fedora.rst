@@ -12,7 +12,7 @@
 
 
 Один из разработчиков JBoss, `Marek
-Goldmann <https://www.ohloh.net/accounts/goldmann>`__, в своем блоге
+Goldmann <https://www.openhub.net/accounts/goldmann>`__, в своем блоге
 `подвел
 итоги <http://goldmann.pl/blog/2012/04/18/impressions-after-fedora-test-day-for-jboss-application-server/>`__
 прошедшего недавно `тестового дня JBoss Application Server в
