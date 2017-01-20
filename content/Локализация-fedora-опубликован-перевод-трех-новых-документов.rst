@@ -30,7 +30,7 @@
 
 | Кроме этого, недавно товарищ *mx\_* опубликовал в русскоязычной вики
   свой `перевод руководства по
-  ABRT <http://wiki.russianfedora.ru/index.php?title=ABRT>`__
+  ABRT <http://wiki.russianfedora.pro/index.php?title=ABRT>`__
   (`одной <http://docs.fedoraproject.org/en-US/Fedora/15/html/Deployment_Guide/ch-abrt.html>`__
   из глав *Fedora Deployment Guide* из коллекции документов Fedora 15).
 

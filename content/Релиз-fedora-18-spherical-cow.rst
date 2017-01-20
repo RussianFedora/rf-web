@@ -44,7 +44,7 @@
 -  `Install
    Guide <http://docs.fedoraproject.org/en-US/Fedora/18/html/Installation_Guide/index.html>`__
 -  `Инструкция по
-   обновлению <http://wiki.russianfedora.ru/index.php?title=%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_Fedora_%28%D0%B8%D0%BB%D0%B8_RFRemix%29_%D1%81_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E_yum#.D0.9E.D0.B1.D0.BD.D0.BE.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_Fedora.28RFRemix.29_17_.D0.B4.D0.BE_Fedora.28RFRemix.29_18>`__
+   обновлению <http://wiki.russianfedora.pro/index.php?title=%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_Fedora_%28%D0%B8%D0%BB%D0%B8_RFRemix%29_%D1%81_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E_yum#.D0.9E.D0.B1.D0.BD.D0.BE.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_Fedora.28RFRemix.29_17_.D0.B4.D0.BE_Fedora.28RFRemix.29_18>`__
 
 Следующий релиз Fedora 19 Schrödinger's Cat планируется к выпуску в
 конце мая.
