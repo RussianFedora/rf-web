@@ -1,7 +1,7 @@
 .. title: Pagure.io
 .. slug: pagureio
 .. date: 2016-05-22 21:25:07
-.. tags:
+.. tags: fedora-infra, pagure.io, gitlab, github
 .. category:
 .. link:
 .. description:
