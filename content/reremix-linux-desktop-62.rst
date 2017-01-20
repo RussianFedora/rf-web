@@ -99,7 +99,7 @@ Live-диски с GNOME и KDE.**
 **Сообщить об ошибке**
 
 Все найденные ошибки следует отправлять в багтрекер
-`redmine.russianfedora.ru <http://redmine.russianfedora.ru>`__.
+`redmine.russianfedora.pro <http://redmine.russianfedora.pro>`__.
 
 
 .. |image0| image:: http://tigro.info/wp/wp-content/uploads/2012/03/QEMU_058.png

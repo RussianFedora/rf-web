@@ -91,7 +91,7 @@ delta-образы, позволяющие сделать из DVD образа 
 `` # yum install fedup # fedup-cli --network 18 --debuglog fedupdebug.log --instrepo=http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/18/RFRemix/x86_64/os/``
 **Поддержка**
 
--  `Баг-трекер <http://redmine.russianfedora.ru/>`__
+-  `Баг-трекер <http://redmine.russianfedora.pro/>`__
 -  `Форум <http://forum.russianfedora.ru/>`__
 -  Jabber-конференция fedora@conference.jabber.ru
 

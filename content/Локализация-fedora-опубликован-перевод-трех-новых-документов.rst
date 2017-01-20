@@ -55,7 +55,7 @@
   сообщайте об этом в `Bugzilla <https://bugzilla.redhat.com>`__ *(New
   -> Fedora -> Fedora Localization -> Component: Russian [ru])*,
   `русскоязычный
-  багтрекер <http://redmine.russianfedora.ru/projects/documentation>`__
+  багтрекер <http://redmine.russianfedora.pro/projects/documentation>`__
   или в `рассылку команды
   локализации <https://admin.fedoraproject.org/mailman/listinfo/trans-ru>`__.
 

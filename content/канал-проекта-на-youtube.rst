@@ -19,6 +19,6 @@
 конкретным почтовым адресам Gmail.
 
 Кстати, будем рады
-`помощи <http://redmine.russianfedora.ru/issues/930>`__ по созданию
+`помощи <http://redmine.russianfedora.pro/issues/930>`__ по созданию
 интересных видео-роликов разной тематики о Fedora/RFRemix.
 

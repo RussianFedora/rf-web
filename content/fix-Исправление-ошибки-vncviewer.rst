@@ -15,7 +15,7 @@
 некорректно отображает шрифты в русской локали.
 
 Ошибка уже набившая оскомину как пользователям
-`RFRemix <http://redmine.russianfedora.ru/issues/631>`__ в частности,
+`RFRemix <http://redmine.russianfedora.pro/issues/631>`__ в частности,
 так и пользователям
 `Fedora <https://bugzilla.redhat.com/show_bug.cgi?id=725218>`__ в общем.
 

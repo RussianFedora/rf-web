@@ -64,7 +64,7 @@
   участвовать в проекте Fedora Videos непосредственно - свяжитесь с нами
   используя `форму обратной связи <http://russianfedora.ru/contact>`__,
   списки рассылки, Jabber-канал,
-  `багтрекер <http://redmine.russianfedora.ru>`__ или любым другим
+  `багтрекер <http://redmine.russianfedora.pro>`__ или любым другим
   удобным вам способом.
 
 
