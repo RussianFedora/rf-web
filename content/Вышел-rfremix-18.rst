@@ -92,7 +92,6 @@ delta-образы, позволяющие сделать из DVD образа 
 **Поддержка**
 
 -  `Баг-трекер <http://redmine.russianfedora.pro/>`__
--  `Форум <http://forum.russianfedora.ru/>`__
 -  Jabber-конференция fedora@conference.jabber.ru
 
 Следующая версия RFRemix 19 ожидается в мае одновременно с Fedora 19

@@ -24,8 +24,7 @@
 
 
 И как обычно обсудить все новости вы можете в режиме онлайн на
-jabber-канале fedora@conference.jabber.ru или `на нашем
-форуме <http://forum.russianfedora.ru>`__.
+jabber-канале fedora@conference.jabber.ru.
 
 
 Коллектив Russian Fedora выражает особую благодарность за работу над

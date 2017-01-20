@@ -44,7 +44,6 @@ Fedora 18 Release Party!
 `FB <http://www.facebook.com/events/472127379491138/>`__,
 `G+ <https://plus.google.com/events/cmjg00pt3ntan1hrcju7kkn1c5s>`__),
 `джаббер <http://jc.jabber.ru/search.html?search=fedora>`__,
-`форум <http://forum.russianfedora.ru/viewtopic.php?f=6&t=5143&start=0>`__,
 почту и т.п.
 
 Для тех же, кто не может присоединиться вживую - подключайтесь онлайн,

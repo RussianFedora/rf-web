@@ -44,9 +44,7 @@ jabber-канале fedora@conference.jabber.ru
 рассказать подробнее? А кого из участников вы бы хотели послушать в
 Москве?
 
-Писать можно `в
-форум <http://forum.russianfedora.ru/viewtopic.php?f=6&t=5159>`__
-(требуется регистрация, например через OpenID), либо по всем стандартным
+Писать можно по всем стандартным
 каналам - соц.сети (`ВК <http://vk.com/russianfedora>`__,
 `FB <http://www.facebook.com/pages/Russian-Fedora/123818667674026>`__,
 `G+ <https://plus.google.com/113782932104817709355/posts>`__),

@@ -33,6 +33,5 @@
 
 -  на почту vascom2 at gmail.com;
 -  `в багтрекер <http://redmine.russianfedora.pro/>`__;
--  `на форум <http://forum.russianfedora.ru/>`__;
 -  в jabber-конференцию fedora@conference.jabber.ru.
 

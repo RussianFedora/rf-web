@@ -17,7 +17,3 @@ MSK** на том же Jabber-канале fedora-classroom@conference.jabber.ru
 На семинаре `Алексей
 Торхов <http://fedoraproject.org/wiki/User:Atorkhov>`__ aka greenlion
 расскажет о сборке собственного LiveCD (и покажет на практике).
-
-Вопросы и предложения по проведению семинара можно обсудить `на нашем
-форуме <http://forum.russianfedora.ru/viewtopic.php?f=6&t=4762>`__.
-
