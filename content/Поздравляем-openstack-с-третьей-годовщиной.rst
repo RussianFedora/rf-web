@@ -35,7 +35,7 @@ OpenStack, это Amazon, но сзади не дают расслабиться
 Вскоре, в октябре 2013, выходит следующая версия OpenStack, с кодовым
 именем "Havana", и наш коллега, инженер Red Hat и участник проектов
 Fedora и Asterisk, `Russel
-Bryant <https://www.ohloh.net/accounts/russellb>`__ в своем блоге
+Bryant <https://www.openhub.net/accounts/russellb>`__ в своем блоге
 рассказал о `грядущих изменениях в и
 нововведениях <http://russellbryantnet.wordpress.com/2013/05/13/openstack-compute-nova-roadmap-for-havana/>`__.
 
@@ -71,7 +71,7 @@ Darcy <https://fedoraproject.org/wiki/User:Jdarcy>`__ приводит
 
 Уже `известный вам </content/Новая-версия-openstack-folsom>`__ наш
 коллега, участник Fedora и член технического комитета OpenStack, `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__, регулярно
+McLoughlin <https://www.openhub.net/accounts/markmc>`__, регулярно
 публикует отчеты с заседаний управлющих советов OpenStack - `за май
 2013 <http://blogs.gnome.org/markmc/2013/06/05/may-30th-openstack-foundation-board-meeting/>`__
 и `за июнь
@@ -82,7 +82,7 @@ McLoughlin <https://www.ohloh.net/accounts/markmc>`__, регулярно
 других организаций и компаний, занимающихся OpenSource.
 
 Помимо организационных вопросов `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__ публикует и статьи
+McLoughlin <https://www.openhub.net/accounts/markmc>`__ публикует и статьи
 технического характера. Одна из последних, это его `обзор различных
 способов асинхронного программирования в
 Python <http://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/>`__

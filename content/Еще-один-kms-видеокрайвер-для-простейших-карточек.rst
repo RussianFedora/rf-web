@@ -15,7 +15,7 @@
 обеспечить поддержку
 KMS <http://www.rfremix.ru/content/Новые-видеодрайверы-c-поддержкой-kms-для-старых-видеокарт>`__.
 
-В этот раз, `David Airlie <https://www.ohloh.net/accounts/airlied>`__
+В этот раз, `David Airlie <https://www.openhub.net/accounts/airlied>`__
 взял proof-of-concept драйвер для видеокарты Cirrus Logic, которую
 эмулирует Qemu, изначально написанный другим участником проекта Fedora,
 `Matthew

@@ -23,7 +23,7 @@
 были-ли они правы.
 
 Специалист компании Red Hat и участник Fedora `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__ собрал
+McLoughlin <https://www.openhub.net/accounts/markmc>`__ собрал
 `статистику <https://github.com/markmc/openstack-gitdm/blob/results/essex/git-stats.txt>`__,
 из которой следует, что инициативы Red Hat по `включению OpenStack в
 Fedora <http://fedoraproject.org/wiki/Features/OpenStack>`__ принесли

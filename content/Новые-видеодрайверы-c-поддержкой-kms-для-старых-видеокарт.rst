@@ -12,7 +12,7 @@
 
 
 В новых ядрах больше не будет поддерживаться видеодрайверы без KMS, и
-поэтому `Adam Jackson <https://www.ohloh.net/accounts/ajax>`__, участник
+поэтому `Adam Jackson <https://www.openhub.net/accounts/ajax>`__, участник
 Fedora, Russian Fedora (проверьте по его статистике на Ohloh!) и
 мэйнтейнер Debian, `удалил их из Fedora
 18 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/163376>`__
@@ -22,7 +22,7 @@ Fedora, Russian Fedora (проверьте по его статистике на
 карты все еще используются на серверном оборудовании.
 
 Для исправления ситуации, участник Fedora, `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__ опубликовал два
+Airlie <https://www.openhub.net/accounts/airlied>`__ опубликовал два
 патчсета - `KMS драйвер для видеокарт
 AST <http://www.phoronix.com/scan.php?page=news_item&px=MTA5MTY>`__ и
 `KMS драйвер для Matrox

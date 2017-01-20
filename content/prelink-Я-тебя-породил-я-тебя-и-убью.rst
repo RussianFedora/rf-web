@@ -16,7 +16,7 @@
 `prelink <http://people.redhat.com/jakub/prelink/>`__, программы, более
 десяти лет назад написанной нашим коллегой, инженером Red Hat и
 участником проектов Fedora и GCC, `Jakub
-Jelinek <https://www.ohloh.net/accounts/Jakub_Jelinek>`__. Все началось
+Jelinek <https://www.openhub.net/accounts/Jakub_Jelinek>`__. Все началось
 с [STRIKEOUT:крика "A король-то голый!"]
 `письма <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/187118>`__
 от `Dhiru Kholia <https://github.com/kholia>`__, криптоаналитика,

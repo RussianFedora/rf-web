@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Lennart Poettering <http://www.ohloh.net/accounts/mezcalero>`__
+`Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__
 анонсировал в своей ленте Google+ нововведения в Journald - `цифровая
 подпись записей в
 журнале <https://plus.google.com/115547683951727699051/posts/g1E6AxVKtyc>`__.

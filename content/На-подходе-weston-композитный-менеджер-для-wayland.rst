@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Richard Hughes <http://www.ohloh.net/accounts/hughsient>`__, инженер
+`Richard Hughes <https://www.openhub.net/accounts/hughsient>`__, инженер
 Red Hat и участник проектов Fedora, Gnome и RussianFedora (проверьте по
 статистике коммитов на Ohloh!), объявил в своей ленте Google+, что он
 `работает <https://plus.google.com/107928060492923463788/posts/T9M6HLv7Fj1>`__

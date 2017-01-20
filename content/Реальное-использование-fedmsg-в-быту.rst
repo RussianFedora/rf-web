@@ -20,7 +20,7 @@
 fedmsg не исчерпываются.
 
 Наш коллега, инженер Red Hat и участник коммьюнити Gentoo, `Stanislav
-Ochotnicky <https://www.ohloh.net/accounts/sochotnicky>`__, в своем
+Ochotnicky <https://www.openhub.net/accounts/sochotnicky>`__, в своем
 блоге
 `анонсировал <http://blog.ochotnicky.com/2014/03/21/fedwatch-running-scripts-based-on-fedmsg-messages/>`__
 первый релиз приложения
@@ -29,7 +29,7 @@ Ochotnicky <https://www.ohloh.net/accounts/sochotnicky>`__, в своем
 запускаемые по неким событиям от fedmsg. Например, при сборке какого-то
 пакета, либо при открытии заявки в багзилле. Вообще, вариантов
 представляется довольно много. Другой наш коллега, `Miroslav
-Suchý <https://www.ohloh.net/accounts/msuchy>`__, тут же подхватил
+Suchý <https://www.openhub.net/accounts/msuchy>`__, тут же подхватил
 разговор, быстро смастерив `несложный скрипт уведомления об успешном
 завершении сборки в
 Copr <http://miroslav.suchy.cz/blog/archives/2014/03/21/how_to_get_notification_about_your_builds_in_copr/index.html>`__.

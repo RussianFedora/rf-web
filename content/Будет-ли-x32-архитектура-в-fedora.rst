@@ -23,7 +23,7 @@ Fedora? <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019>`__
 Canonical, `как обычно в последнее
 время <http://www.rfremix.ru/content/В-ubuntu-1210-ожидается-полноценная-поддержка-wayland-но-есть-нюанс>`__,
 не уведомила разработчиков о своих планах - `Josh
-Boyer <https://www.ohloh.net/accounts/jwboyer>`__ сообщил, что `полной
+Boyer <https://www.openhub.net/accounts/jwboyer>`__ сообщил, что `полной
 поддержки x32 еще нет в Glibc, и вероятно не будет до версии
 2.16 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019/focus=164020>`__
 (а уж только потом можно вести разговор о пересборке ПО). Также `Matthew

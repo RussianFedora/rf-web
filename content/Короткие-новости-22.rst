@@ -19,7 +19,7 @@
 glibc, криптобиблиотек, и т.п., но и просто утилиты для развлечения. Наш
 коллега, участник Fedora Project и GNOME, инженер Red Hat, недавно
 уволившийся из Canonical, `David
-King <https://www.ohloh.net/accounts/amigadave>`__, анонсировал выход
+King <https://www.openhub.net/accounts/amigadave>`__, анонсировал выход
 `EasyTag
 2.1.10 <http://thread.gmane.org/gmane.comp.gnome.announce/11471>`__,
 наверное наиболее продвинутой утилиты для редактирования тэгов в
@@ -74,7 +74,7 @@ renderer <http://thread.gmane.org/gmane.comp.video.dri.devel/101446>`__.
 22 <https://fedoraproject.org/wiki/Changes/ReplaceYumWithDNF>`__. До
 F-22 еще примерно год, так что всякое может произойти.
 
-`Tim Waugh <https://www.ohloh.net/accounts/twaugh>`__, участник Fedora и
+`Tim Waugh <https://www.openhub.net/accounts/twaugh>`__, участник Fedora и
 инженер Red Hat, `рассказывает о текущем состоянии печати в user
 session <http://cyberelk.net/tim/2014/03/04/network-printing/>`__. Идея
 в том, что для печати на сетевом принтере права пользователя должны
@@ -90,7 +90,7 @@ session <http://cyberelk.net/tim/2014/03/04/network-printing/>`__. Идея
 открывает совершенно новые возможности для взаимодействия между
 различными коммьюнити. С ростом интереса, возникают и различные вопросы,
 на которые время от времени отвечает `Ralph
-Bean <https://www.ohloh.net/accounts/ralphbean>`__. Недавно ему задали
+Bean <https://www.openhub.net/accounts/ralphbean>`__. Недавно ему задали
 вопрос о том, можно ли прикрутить шифрование к сообщениям, которые
 сейчас передаются в незашифрованном, хотя и подписанном виде? Ralph
 отвечает, что `нет, шифрования сообщений в fedmsg скорее всего не

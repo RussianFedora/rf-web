@@ -64,7 +64,7 @@
   над GNOME и в рамках должностных обязанностей, и просто так, и в
   рамках учебных программ, например Google Summer of Code. В этом году,
   в GSoC от GNOME участвовал наш коллега, `Kalev
-  Lember <https://www.ohloh.net/accounts/klember>`__, и не так давно он
+  Lember <https://www.openhub.net/accounts/klember>`__, и не так давно он
   подвел `итог его участию в этом
   проекте <http://blogs.gnome.org/kalev/2013/09/24/wrapping-up-summer-of-code/>`__.
 

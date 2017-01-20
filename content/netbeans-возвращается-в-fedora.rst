@@ -29,7 +29,7 @@ NetBeans в Fedora - Victor `официально
 что прекращает быть мэйнтейнером этого и многих других Java-приложений.
 
 Частично NetBeans занялся инженер Red Hat `Omair
-Majid <https://www.ohloh.net/accounts/omajid>`__, но у него не
+Majid <https://www.openhub.net/accounts/omajid>`__, но у него не
 получилось поддерживать такой сложный продукт в актуальном состоянии.
 
 Ну, будем надеяться, что так или иначе NetBeans вернется в репозитории

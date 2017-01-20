@@ -60,7 +60,7 @@ SIG <http://fedoraproject.org/wiki/Erlang>`__ есть планы на Fedora 20
 Packard <http://en.wikipedia.org/wiki/Keith_Packard>`__ сообщил, что
 планируется использовать systemd в Wayland. Эти планы начали
 материализовываться - инженер Intel, `Ander Conselvan de
-Oliveira <http://www.ohloh.net/accounts/anderco>`__, включил
+Oliveira <https://www.openhub.net/accounts/anderco>`__, включил
 `первоначальную поддержку механизма уведомлений systemd в
 Weston <http://www.phoronix.com/scan.php?page=news_item&px=MTM4Mzc>`__.
 
@@ -70,7 +70,7 @@ Weston <http://www.phoronix.com/scan.php?page=news_item&px=MTM4Mzc>`__.
 слышать </content/Перенос-d-bus-в-ядро-linux>`__). На прошедшем
 `Automotive Linux Summit
 Spring <http://events.linuxfoundation.org/events/automotive-linux-summit-spring>`__
-`Greg Kroah-Hartman <https://www.ohloh.net/accounts/gregkh>`__ рассказал
+`Greg Kroah-Hartman <https://www.openhub.net/accounts/gregkh>`__ рассказал
 `о текущем состоянии дел <https://lwn.net/Articles/551969/>`__. Вполне
 вероятно, что наличие kdbus будет одним из требований будущего GNOME
 (GNOME sandboxes).

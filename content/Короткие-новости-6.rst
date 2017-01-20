@@ -22,7 +22,7 @@
   слышали </content/Поддержка-голосовых-кодеков-в-fedora>`__).
 
 | Инженер Red Hat, `Daniel P.
-  Berrangé <https://www.ohloh.net/accounts/berrange>`__ в своей ленте
+  Berrangé <https://www.openhub.net/accounts/berrange>`__ в своей ленте
   Google+ объявил `об интеграции в технологии socket activation из
   systemd в
   libvirt <https://plus.google.com/103866178509451949283/posts/1K2ev7zBFDm>`__.
@@ -33,7 +33,7 @@
 
 | Немного запоздало, но хочется обратить внимание на статистику, которую
   привел участник Fedora, CTO компании Dell, `Matt
-  Domsch <http://www.ohloh.net/accounts/mdomsch>`__, в своей `заметке о
+  Domsch <https://www.openhub.net/accounts/mdomsch>`__, в своей `заметке о
   ценности MirrorManager <http://domsch.com/blog/?p=624>`__, `сервисе
   для переадресации обращений yum к ресурсам
   Fedora <http://fedoraproject.org/wiki/Infrastructure/MirrorManager>`__.
@@ -80,7 +80,7 @@
   работу <http://kparal.wordpress.com/2013/05/10/impact-of-discard-mount-option-on-intel-525-ssd/>`__
   (хотя скорее всего продлевает время жизни).
 
-| `Josh Boyer <https://www.ohloh.net/accounts/jwboyer>`__ вновь затронул
+| `Josh Boyer <https://www.openhub.net/accounts/jwboyer>`__ вновь затронул
   тему `оптимальной работы 32-битных приложений и 32-битного ядра на
   64-битной машине </content/Будет-ли-x32-архитектура-в-fedora>`__.
 
@@ -105,7 +105,7 @@
   `kernel-install <http://cgit.freedesktop.org/systemd/systemd/tree/src/kernel-install>`__,
   утилиты из systemd. Т.е. **systemd теперь устаавливает и удаляет ядра
   Linux!**. Об этом нововведении нам сообщает `Josh
-  Boyer <https://www.ohloh.net/accounts/jwboyer>`__ в `своем
+  Boyer <https://www.openhub.net/accounts/jwboyer>`__ в `своем
   блоге <http://jwboyer.livejournal.com/47131.html>`__. К сожалению, это
   значит, что мы попрощаемся с аналогичным вариантом установки, с
   помощью
@@ -142,7 +142,7 @@
   и возможно ее включат в Glibc 2.19, т.е. в Fedora 21 или Fedora 22.
 
 | И еще запоздало о заметке от `Josh
-  Boyer <https://www.ohloh.net/accounts/jwboyer>`__ по поводу опций ядра
+  Boyer <https://www.openhub.net/accounts/jwboyer>`__ по поводу опций ядра
   в Fedora и Ubuntu. `Он изучил конфигурацию сборки на тот момент
   последних релизов из линейки
   3.8.x <http://jwboyer.livejournal.com/47022.html?nojs=1>`__ и выяснил
@@ -169,7 +169,7 @@
 -  Масштабирование на HiDPI дисплеях,
    `предложенное <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/9044>`__
    участником проектов GNOME и Fedora, `Alexander
-   Larrson <https://www.ohloh.net/accounts/alexl>`__. Работа была
+   Larrson <https://www.openhub.net/accounts/alexl>`__. Работа была
    проведена в рамках `поддержки дисплеев высокого разрешения в
    GNOME <http://blogs.gnome.org/alexl/2013/06/28/hidpi-support-in-gnome/>`__.
 
@@ -181,7 +181,7 @@
 
 -  Завершена интеграция с colord для улучшенного цветоотображения,
    выполненная участником Fedora, `Richard
-   Hughes <http://www.ohloh.net/accounts/hughsient>`__, о чем он сообщил
+   Hughes <https://www.openhub.net/accounts/hughsient>`__, о чем он сообщил
    `в своей ленте
    Google+ <https://plus.google.com/107928060492923463788/posts/X62VdJxB2UK>`__.
 
@@ -196,7 +196,7 @@
 
 
 | 
-| `Martin Gräßlin <http://www.ohloh.net/accounts/mgraesslin>`__ сообщил,
+| `Martin Gräßlin <https://www.openhub.net/accounts/mgraesslin>`__ сообщил,
   что `в KDE 4.11 Beta включена экспериментальная поддержка
   Wayland <http://blog.martin-graesslin.com/blog/2013/06/starting-a-full-kde-plasma-session-in-wayland/>`__.
 

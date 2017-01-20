@@ -45,7 +45,7 @@ Manager <http://www.thepowerbase.com/2013/03/plasma-workspaces-2-coming-to-wayla
 и выбирают из нескольких вариантов, среди которых LightDM. А вот с
 LightDM, создаваемым участниками стремительно сжимающегося коммьюнити
 разработчиков Ubuntu сложилась удивительно странная ситуация - `David
-Edmundson <https://www.ohloh.net/accounts/d_ed>`__, один из
+Edmundson <https://www.openhub.net/accounts/d_ed>`__, один из
 разработчиков LightDM, `сообщил, что они планировали переход на Wayland,
 и Canonical не уведомило их о своих изменившихся
 планах <http://www.sharpley.org.uk/blog/lightdm-mir-wayland>`__.
@@ -88,7 +88,7 @@ JavaScript, разрабатываемого Red Hat. Новость уже `о�
 Linux.org.ru <http://www.linux.org.ru/news/java/8964248>`__.
 
 Участник проектов Fedora и GCC `Jakub
-Jelínek <http://www.ohloh.net/accounts/Jakub_Jelinek>`__ объявил о
+Jelínek <https://www.openhub.net/accounts/Jakub_Jelinek>`__ объявил о
 `выходе Release Candidate GCC
 4.8.0 <http://www.phoronix.com/scan.php?page=news_item&px=MTMyOTM>`__.
 
@@ -103,7 +103,7 @@ Jelínek <http://www.ohloh.net/accounts/Jakub_Jelinek>`__ объявил о
 почти тысяча патчей каждые полгода.
 
 Участник проектов Fedora и LibreOffice, `Caolán
-McNamara <http://www.ohloh.net/accounts/caolan>`__ сообщает о новом
+McNamara <https://www.openhub.net/accounts/caolan>`__ сообщает о новом
 рубеже в деле конвертации интерфейсов LibreOffice с самописного формата
 описаний виджетов на язык `GLADE <http://glade.gnome.org/>`__. Они
 достигли `отметки в 150

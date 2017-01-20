@@ -13,7 +13,7 @@
 
 Мы поздравляем основателя и постоянного участника `Fedora Robotics
 SIG <https://fedoraproject.org/wiki/SIGs/Robotics>`__, `ведущего
-разработчика <https://www.ohloh.net/accounts/timn/positions>`__ Fawkes
+разработчика <https://www.openhub.net/accounts/timn/positions>`__ Fawkes
 Robot Software Framework, `Tim
 Niemueller <http://scholar.google.com/citations?user=iRMEfoAAAAAJ>`__, с
 `победой его

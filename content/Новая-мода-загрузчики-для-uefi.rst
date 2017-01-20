@@ -24,8 +24,8 @@ Intel.
 А вот `наши читатели уже в
 курсе </content/Требования-canonical-для-производителей-оборудования-c-uefi>`__,
 что участники Fedora `Kay
-Sievers <https://www.ohloh.net/accounts/kaysievers>`__ и `Harald
-Hoyer <https://www.ohloh.net/accounts/backslash>`__ уже написали такой
+Sievers <https://www.openhub.net/accounts/kaysievers>`__ и `Harald
+Hoyer <https://www.openhub.net/accounts/backslash>`__ уже написали такой
 загрузчик, который только собирается дописывать неизвестно кто в
 Canonical. Kay и Harald назвали загрузчик
 `gummyboot <http://cgit.freedesktop.org/~kay/gummiboot>`__, и он уже

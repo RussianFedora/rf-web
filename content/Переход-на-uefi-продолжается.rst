@@ -12,7 +12,7 @@
 
 
 Сегодня инженер Red Hat `Peter
-Jones <http://www.ohloh.net/accounts/pjones>`__ оформил `заявку на
+Jones <https://www.openhub.net/accounts/pjones>`__ оформил `заявку на
 включение <https://bugzilla.redhat.com/show_bug.cgi?id=832504>`__ пакета
 для подписывания загрузчика на компьютерах со включенной опцией "Secure
 Boot" в UEFI. Вступаем в новый мир.

@@ -95,7 +95,7 @@
   апдейтам, но многие маргинальные дистрибутивы не смогут (или смогут с
   трудом) их реализовать - из-за отсутствия systemd или из-за пересборки
   всего из исходников. Участник Fedora `Richard
-  Hughes <http://www.ohloh.net/accounts/hughsient>`__ `объясняет причины
+  Hughes <https://www.openhub.net/accounts/hughsient>`__ `объясняет причины
   этого нововведения и задачи, которые планируется
   решить <http://blogs.gnome.org/hughsie/2012/06/04/offline-os-updates-looking-forward-to-gnome-3-6/>`__.
 

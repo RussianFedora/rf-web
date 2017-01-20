@@ -14,7 +14,7 @@
 После двух `неудачных <https://bugzilla.redhat.com/634911>`__
 `попыток <https://bugzilla.redhat.com/732552>`__ включить это популярное
 приложение, `Stephen
-Gallagher <https://www.ohloh.net/accounts/sgallagh>`__ наконец-то
+Gallagher <https://www.openhub.net/accounts/sgallagh>`__ наконец-то
 `добился успеха <https://bugzilla.redhat.com/show_bug.cgi?id=815018>`__.
 
 Предыдущие попытки провалились из-за нескольких bundled libraries, `к

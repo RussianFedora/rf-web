@@ -26,7 +26,7 @@ PulseAudio <http://arunraghavan.net/2012/01/pulseaudio-vs-audioflinger-fight/>`_
 systemd!
 Кстати, кому не терпится увидеть Wayland - `мы уже
 говорили <http://www.rfremix.ru/content/На-подходе-weston-композитный-менеджер-для-wayland>`__,
-что `Richard Hughes <http://www.ohloh.net/accounts/hughsient>`__
+что `Richard Hughes <https://www.openhub.net/accounts/hughsient>`__
 работает над LiveCD для тестирования Wayland, и вот - он `объявил в
 своей ленте
 Google+ <https://plus.google.com/u/0/107928060492923463788/posts/Si26noRsbuH>`__,

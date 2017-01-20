@@ -15,11 +15,11 @@
 компании-разработчика NoSQL-базы, `Riak <http://basho.com/riak/>`__, и
 организатора серии мероприятий, посвященных распределенным системам,
 `RICON <http://ricon.io/>`__. Сначала их Chief Architect, `Andy
-Gross <https://www.ohloh.net/accounts/argv0>`__, объявил, что `переходит
+Gross <https://www.openhub.net/accounts/argv0>`__, объявил, что `переходит
 на работу в
 Twitter <https://twitter.com/argv0/status/443151787353071616>`__, а
 затем почти сразу их CTO, `Justin
-Sheeny <https://www.ohloh.net/accounts/justinsheehy>`__, объявил, `что
+Sheeny <https://www.openhub.net/accounts/justinsheehy>`__, объявил, `что
 переходит в
 VMware <https://twitter.com/justinsheehy/status/443466855731441664>`__.
 

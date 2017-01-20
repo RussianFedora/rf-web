@@ -22,7 +22,7 @@ fedmsg </content/Реальное-использование-fedmsg-в-быту>
 2013 </content/rust-copr-и-изменения-в-инфраструктуре>`__), и можно
 получать сообщения и оттуда, хотя наши системы до сих пор не
 интегрированы в единое пространство. И вот недавно `Ralph
-Bean <https://www.ohloh.net/accounts/ralphbean>`__ объявил, что `в
+Bean <https://www.openhub.net/accounts/ralphbean>`__ объявил, что `в
 системе fedmsg возможно подписываться на сообщения
 GitHub <http://threebean.org/blog/github2fedmsg/>`__, где уже давно есть
 `развитая система событий и уведомлений в самые разные

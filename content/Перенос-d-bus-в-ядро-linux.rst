@@ -55,7 +55,7 @@ X-Window.
 платформу <http://thread.gmane.org/gmane.linux.kernel/1320740>`__.
 
 И вот, за дело наконец-то взялся `Greg
-Kroah-Hartman <https://www.ohloh.net/accounts/gregkh>`__. Он сообщил,
+Kroah-Hartman <https://www.openhub.net/accounts/gregkh>`__. Он сообщил,
 что работает над совершенно новой реализацией шины сообщений в ядре,
 пока комментаторами названной DBUS 2.0, на базе которой можно будет
 реализовать и D-Bus, и Binder. Она будет отличаться и от уже

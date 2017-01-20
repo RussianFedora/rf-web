@@ -12,7 +12,7 @@
 
 
 Итак, это началось. `Kristian
-Høgsberg <https://www.ohloh.net/accounts/krh>`__, инженер Intel и
+Høgsberg <https://www.openhub.net/accounts/krh>`__, инженер Intel и
 участник проекта Fedora,
 `объявил <https://plus.google.com/+KristianHøgsberg/posts/jaehXgvJUg4>`__
 в своей ленте Google+, что `предложил окончательный вариант

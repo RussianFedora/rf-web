@@ -12,7 +12,7 @@
 
 
 Инженер Red Hat и участник Fedora, `Adam
-Jackson <https://www.ohloh.net/accounts/ajax>`__, начал процесс
+Jackson <https://www.openhub.net/accounts/ajax>`__, начал процесс
 интеграции `XWayland в
 X.org <http://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/37619>`__.
 
@@ -30,7 +30,7 @@ Weston <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/11223>`__.
 
 Продолжает развиваться QXL видеодрайвер, разработанный инженером Red Hat
 и участником Fedora и Debian `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__. Другой инженер Red
+Airlie <https://www.openhub.net/accounts/airlied>`__. Другой инженер Red
 Hat, `Alon Levy <https://fedoraproject.org/wiki/User:Alon>`__, объявил о
 `выходе версии
 0.1.1 <http://lists.freedesktop.org/archives/xorg/2013-October/056105.html>`__

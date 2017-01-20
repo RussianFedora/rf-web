@@ -37,7 +37,7 @@
    opensource-проектов, Apache Software Foundation, да еще и при живом
    LibreOffice, но пусть будет. Кстати, участник проектов Fedora и
    LibreOffice, `Caolán
-   McNamara <http://www.ohloh.net/accounts/caolan>`__ объявил о взятом
+   McNamara <https://www.openhub.net/accounts/caolan>`__ объявил о взятом
    новом рубеже - `300 диалоговых окон конвертированы в стандартный язык
    описаний
    GtkBuilder <http://blogs.linux.ie/caolan/2013/07/15/converting-libreoffice-dialogs-to-ui-format-300-conversions-milestone/>`__.

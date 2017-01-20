@@ -24,7 +24,7 @@ Foundation <http://www.openstack.org/marketplace/training/>`__.
 OpenShift <http://www.redhat.com/about/news/press-archive/2013/9/red-hat-doubles-down-on-enterprise-paas>`__.
 
 Black Duck Software, компания, владеющая проектом
-`Ohloh.net <https://www.ohloh.net/>`__, приглашает на `вебминар по
+`Ohloh.net <https://www.openhub.net/>`__, приглашает на `вебминар по
 OpenStack <http://www.blackducksoftware.com/openstack’s-secrets-success-igniting-rapid-innovation-and-growth-through-community>`__,
 запланированный на 10е октября. На нем будут рассмотрены секреты
 быстрого роста популярности решения, то, как устроено OpenStack изнутри,

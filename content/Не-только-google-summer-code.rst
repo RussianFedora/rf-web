@@ -30,7 +30,7 @@ Băluţă <https://plus.google.com/111045339091370570086/about>`__
 предложила использовать QR-коды в Linux для oops-сообщений, о чем мы
 `уже рассказывали </content/qr-коды-в-ядре>`__. И это еще не все!
 Известный борец с мужским шовинизмом среди разработчиков ядра, инженер
-Intel, `Sarah Sharp <https://www.ohloh.net/accounts/sarahsharp>`__, с
+Intel, `Sarah Sharp <https://www.openhub.net/accounts/sarahsharp>`__, с
 гордостью сообщает в своей ленте Google+, что `еще две девушки сейчас
 работают над ядром в рамках этой
 программы <https://plus.google.com/116960357493251979546/posts/CRw4owgvc1W>`__.

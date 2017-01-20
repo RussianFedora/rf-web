@@ -12,7 +12,7 @@
 
 
 Сегодня исполнилось 5 лет, как `Lennart
-Poettering <http://www.ohloh.net/accounts/mezcalero>`__ `поступил на
+Poettering <https://www.openhub.net/accounts/mezcalero>`__ `поступил на
 работу в Red
 Hat <https://plus.google.com/115547683951727699051/posts/ZphXNvbNB8d>`__
 и с энтузиазмом начал безостановочное улучшение всего подряд.

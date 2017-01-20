@@ -13,7 +13,7 @@
 
 Еще не утихли срачи^W продуктивные обсуждения на
 `Linux.org.ru <http://www.linux.org.ru/>`__ инициативы небезызвестного
-`Lennart Poettering <http://www.ohloh.net/accounts/mezcalero>`__ по
+`Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__ по
 замене *syslog* на
 `Journald <https://docs.google.com/document/pub?id=1IC9yOXj7j6cdLLxWEBAGRL6wl97tFxgjLUEHIX3MSTs&pli=1>`__,
 а ведущие разработчики решений на базе стандарта `RFC 5424
@@ -21,18 +21,18 @@
 чтобы лицом к лицу ответить на суровую критику от Poettering'а.
 На прошедшем недавно Fedora Developer's Conference в чешском городе Брно
 встретились `Rainer
-Gerhards <http://www.ohloh.net/accounts/rgerhards>`__, основной
+Gerhards <https://www.openhub.net/accounts/rgerhards>`__, основной
 разработчик *rsyslog*, `Balazs
-Scheidler <http://www.ohloh.net/accounts/bazsi>`__, основной разработчик
+Scheidler <https://www.openhub.net/accounts/bazsi>`__, основной разработчик
 *syslog-ng*, William Heinbockel, один из соавторов стандарта
 `CEE <http://cee.mitre.org/>`__ со стороны Mitre, `Lennart
-Poettering <http://www.ohloh.net/accounts/mezcalero>`__, `Steve
+Poettering <https://www.openhub.net/accounts/mezcalero>`__, `Steve
 Grubb <http://people.redhat.com/sgrubb/>`__, нынешний мэйнтейнер
 *auditd*, работник Red Hat и участник проекта Fedora. Были и еще
 некоторые заинтересованные лица из числа участников Fedora Project.
 
 По результатам встречи было признано очевидное (о чем и говорил `Lennart
-Poettering <http://www.ohloh.net/accounts/mezcalero>`__) - система
+Poettering <https://www.openhub.net/accounts/mezcalero>`__) - система
 ведения журнала в Linux действительно в печальном наколеночном
 состоянии, негодном для серьезного использования в сложных системах без
 значительной доработки и написания кучи скриптов на shell, perl, sed/awk

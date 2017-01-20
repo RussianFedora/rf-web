@@ -35,7 +35,7 @@
   бизнес-процессу в конкретных компаниях. Как положительный пример
   отношения к проблемным моментам, хочется обратить внимание на
   `доклад <https://lwn.net/Articles/654232/>`__ другого нашего коллеги,
-  `Bastien Nocera <https://www.ohloh.net/accounts/hadess>`__, на недавно
+  `Bastien Nocera <https://www.openhub.net/accounts/hadess>`__, на недавно
   прошедшей конференции `GUADEC 2015 <https://2015.guadec.org/>`__.
 
 

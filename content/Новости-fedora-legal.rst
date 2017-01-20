@@ -31,7 +31,7 @@ BSD <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/1806/focus=1808>`__
 open source разработки и разработчиков. Например, `многие
 слышали <http://www.linux.org.ru/forum/talks/8622450>`__, что не так
 давно, инженер Red Hat `Paolo
-Bonzini <http://www.ohloh.net/accounts/bonzini>`__ покинул проект GNU
+Bonzini <https://www.openhub.net/accounts/bonzini>`__ покинул проект GNU
 из-за разногласий по юридическим вопросам, а совсем недавно Oracle
 `заявила о своих правах на открытый проект
 Vert.x <http://www.h-online.com/open/news/item/VMware-stakes-IP-claim-on-Vert-x-1779548.html>`__,

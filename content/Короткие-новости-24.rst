@@ -14,7 +14,7 @@
 `Не так давно </content/Короткие-новости-20>`__ в LibreOffice было
 сконвертировано 70% диалогов в новый формат GtkBuilder. Разработчики не
 сбавили темпов, и участник проектов Fedora и LibreOffice, `Caolán
-McNamara <http://www.ohloh.net/accounts/caolan>`__, объявил о
+McNamara <https://www.openhub.net/accounts/caolan>`__, объявил о
 `превышении уровня в
 80% <http://caolanm.blogspot.ru/2014/03/700-conversion-target-reached.html>`__.
 

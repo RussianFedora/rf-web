@@ -14,7 +14,7 @@
 `Не прошло и месяца с прошлой публикации статистики Coverity по кодовой
 базе LibreOffice </content/Статистика-coverity-о-libreoffice>`__, а уже
 есть новости. Участник проектов Fedora и LibreOffice, `Caolán
-McNamara <http://www.ohloh.net/accounts/caolan>`__ получил свежие данные
+McNamara <https://www.openhub.net/accounts/caolan>`__ получил свежие данные
 - `теперь в LibreOffice плотность ошибок упала до
 нуля <http://caolanm.blogspot.ru/2014/11/libreoffice-coverity-defect-density-000.html>`__.
 

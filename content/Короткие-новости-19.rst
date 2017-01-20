@@ -60,7 +60,7 @@ Rintel <https://plus.google.com/103747673045238156202/posts/KfWXz8Hod3n>`__)
 пользу Upstart.
 
 Участник проектов Fedora и LibreOffice, `Caolán
-McNamara <http://www.ohloh.net/accounts/caolan>`__, устроил новогоднюю
+McNamara <https://www.openhub.net/accounts/caolan>`__, устроил новогоднюю
 викторину - `угадай архитектуру микропроцессора по
 фотографии <http://caolanm.blogspot.ru/2013/12/guess-architecture.html>`__.
 

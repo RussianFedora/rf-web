@@ -12,7 +12,7 @@
 
 
 `Aleksander
-Morgado <https://www.ohloh.net/accounts/aleksander_morgado>`__, инженер
+Morgado <https://www.openhub.net/accounts/aleksander_morgado>`__, инженер
 дружественной нам компании `Lanedo <http://www.lanedo.com/>`__ и
 активный пользователь Fedora со стажем, анонсировал `долгожданный выход
 ModemManager

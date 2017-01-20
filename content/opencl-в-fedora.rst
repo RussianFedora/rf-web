@@ -32,7 +32,7 @@ ICD <https://bugzilla.redhat.com/887628#c8>`__.
 "идеальную"), и работа по сбору из кусочков полноценной платформы для
 разработки с OpenCL и его использованием уже началась. Работу взялся
 выполнить инженер Red Hat и разработчик oVirt, `Fabian
-Deutsch <https://www.ohloh.net/accounts/fabiand>`__. Он планирует
+Deutsch <https://www.openhub.net/accounts/fabiand>`__. Он планирует
 оформить это, как `фичу Fedora
 21 <https://fedoraproject.org/wiki/User:Fabiand/Changes/OpenCL>`__.
 

@@ -50,7 +50,7 @@ Fedora 18 и Rawhide (Lubomir Rintel `собрал для Fedora
 19 <https://plus.google.com/103747673045238156202/posts/Nzhhq7m52US>`__
 - вот такой вот разнобой с этими PPA).
 
-`Ralph Bean <https://www.ohloh.net/accounts/ralphbean>`__ продолжает
+`Ralph Bean <https://www.openhub.net/accounts/ralphbean>`__ продолжает
 `продолжать улучшать инфраструктуру, добавляя в нее элементы
 соцсети </content/Постепенно-входит-в-строй-appsfedoraprojectorg>`__. В
 строй введен новый узел -

@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Rainer Gerhards <https://www.ohloh.net/accounts/rgerhards>`__ сделал
+`Rainer Gerhards <https://www.openhub.net/accounts/rgerhards>`__ сделал
 схему всех input/output-плагинов для rsyslog:
 |image0|
 Заметьте, сколько бэкендов для хранения бинарных логов. Rainer прекрасно

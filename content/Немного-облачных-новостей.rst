@@ -12,7 +12,7 @@
 
 
 Участник Fedora и член технического комитета OpenStack, `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__ опубликовал
+McLoughlin <https://www.openhub.net/accounts/markmc>`__ опубликовал
 `очередной отчет об октябрьском OpenStack Foundation Board
 Meeting <http://blogs.gnome.org/markmc/2013/10/03/oct-3rd-openstack-foundation-board-meeting/>`__.
 

@@ -15,7 +15,7 @@
 наших товарищей по коммьюнити - `GNU
 Coreutils <http://savannah.gnu.org/projects/coreutils/>`__. Инженер Red
 Hat и участник Fedora `Pádraig
-Brady <https://www.ohloh.net/accounts/pixelbeat>`__ объявил о выходе
+Brady <https://www.openhub.net/accounts/pixelbeat>`__ объявил о выходе
 версии 8.21. В версии в основном представлены исправления ошибок, но
 есть и новшества, например numfmt - программа для изменения формата
 представления чисел. Новость уже обсуждают на ведущем российском сайте о

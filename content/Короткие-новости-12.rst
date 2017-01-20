@@ -37,7 +37,7 @@ Docker <https://review.openstack.org/#/c/32960/>`__. Напомним, что `�
 Canonical <http://cgit.freedesktop.org/xorg/driver/xf86-video-intel/commit/?id=58a761>`__.
 
 Участник Fedora и разработчик LibreOffice `David
-Tardon <https://www.ohloh.net/accounts/dtardon>`__ в своей ленте Google+
+Tardon <https://www.openhub.net/accounts/dtardon>`__ в своей ленте Google+
 `описал увлекательный процесс участия в разработке
 re-lab <https://plus.google.com/109896341870720226179/posts/HegVF6ZpSf9>`__,
 пакета для реверс-инжиниринга проприетарных форматов файлов. Ему это

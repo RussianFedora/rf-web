@@ -12,7 +12,7 @@
 
 
 Наш коллега, мэйнтейнер coreutils, инженер Red Hat и участник Fedora
-`Pádraig Brady <https://www.ohloh.net/accounts/pixelbeat>`__ объявил о
+`Pádraig Brady <https://www.openhub.net/accounts/pixelbeat>`__ объявил о
 выходе coreutils версии 8.22 (предыдущая `версия 8.21 вышла в феврале
 2013го </content/coreutils-821>`__). Новость уже `обсуждают аналитики
 ведущего российского сайта о Linux и открытом

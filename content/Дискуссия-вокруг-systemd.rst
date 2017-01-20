@@ -18,7 +18,7 @@ Google+ <https://plus.google.com/115547683951727699051/posts/X3fUhyJREKq>`__
 Lennart Poettering. Следом в дискуссию
 `вступил <https://plus.google.com/u/0/104365545644317805353/posts/MgAeGR6Pb8p>`__
 мэйнтейнер Fedora и один из ведущих разработчиков OLPC, `Martin
-Langhoff <https://www.ohloh.net/accounts/martin_langhoff>`__. Его точка
+Langhoff <https://www.openhub.net/accounts/martin_langhoff>`__. Его точка
 зрения заключается в том, что есть момент, о котором в общем никто и не
 спорит - внедрение systemd вызовет фундаментальное разделение на
 передовые дистрибутивы, использующие последние "фичи" Linux, и отстающих

@@ -53,7 +53,7 @@ Server" <http://blog.linuxgrrl.com/2013/10/30/fedora-server-working-group-initia
 
 Бессмысленный и злобный троллинг образованцами разработчиков OSS
 приносит свои плоды. `Martin
-Gräßlin <https://www.ohloh.net/accounts/mgraesslin>`__ написал в своей
+Gräßlin <https://www.openhub.net/accounts/mgraesslin>`__ написал в своей
 ленте Google+, что `за прошедший год он порывался несколько раз все
 бросить <https://plus.google.com/115606635748721265446/posts/KAPGX3pHR2H>`__,
 в основном из-за ненависти фанбоев Ubuntu, которые отказывают ему в

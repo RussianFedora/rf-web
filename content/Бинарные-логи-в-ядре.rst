@@ -19,7 +19,7 @@ Corbet <https://plus.google.com/104175436979387006170/posts>`__ пишет на
 LWN, что `систему журналирования ядра Linux вскоре ожидают сильные
 изменения <http://lwn.net/Articles/492125/>`__ (к сожалению, статья за
 paywall). Разработчик udev и systemd `Kay
-Sievers <https://www.ohloh.net/accounts/kaysievers>`__ предложил
+Sievers <https://www.openhub.net/accounts/kaysievers>`__ предложил
 `радикально
 изменить <http://thread.gmane.org/gmane.linux.kernel/1277619>`__
 поведение журналируемой подсистемы ядра.

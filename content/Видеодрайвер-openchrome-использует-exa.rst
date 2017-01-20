@@ -16,11 +16,11 @@
 видеокарт, и находится в недописанном состоянии -
 `chrome <http://thread.gmane.org/gmane.linux.drivers.openchrome.devel/389>`__,
 написанный (вернее недописанный) участником проектов OLPC, Gentoo,
-Kernel и Fedora `Daniel Drake <https://www.ohloh.net/accounts/dsd>`__,
+Kernel и Fedora `Daniel Drake <https://www.openhub.net/accounts/dsd>`__,
 `Unichrome <http://cgit.freedesktop.org/~libv/xf86-video-unichrome/>`__,
 заброшенный основным разработчиком, бывшим инженером Novell и участником
 проектов X.org, Debian и Coreboot `Luc
-Verhaegen <https://www.ohloh.net/accounts/libv>`__ и
+Verhaegen <https://www.openhub.net/accounts/libv>`__ и
 `openChrome <http://www.openchrome.org/>`__, форкнутый от Unichrome и
 разрабатываемый небольшой командой программистов, возглавляемой
 участником Fedora `Xavier

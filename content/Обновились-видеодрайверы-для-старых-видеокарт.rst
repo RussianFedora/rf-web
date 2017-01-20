@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`David Airlie <https://www.ohloh.net/accounts/airlied>`__ в рамках
+`David Airlie <https://www.openhub.net/accounts/airlied>`__ в рамках
 работы по `обновлению X11
 подсистемы </content/Переключающаяся-графика-скоро-в-linux>`__
 немного `обновил драйверы для музейных

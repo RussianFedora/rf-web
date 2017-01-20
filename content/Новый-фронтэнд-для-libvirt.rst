@@ -12,7 +12,7 @@
 
 
 Инженер IBM и разработчик Qemu/KVM, `Anthony
-Liguori <http://www.ohloh.net/accounts/aliguori>`__, в своей ленте
+Liguori <https://www.openhub.net/accounts/aliguori>`__, в своей ленте
 Google+
 `анонсировал <https://plus.google.com/109316704354866510115/posts/d38trgeiV3r>`__
 новый проект - фронтэнд для libvirt, написанный на HTML5,

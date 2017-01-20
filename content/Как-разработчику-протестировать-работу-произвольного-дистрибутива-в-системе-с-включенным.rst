@@ -16,7 +16,7 @@
 Linux-мира. Не говоря уже об ошибках в UEFI реализациях, есть и проблемы
 в дистрибутивах, и их устранение на физическом железе, это трудоемкий
 процесс. Понимая это, участник Fedora и инженер Red Hat, `Cole
-Robinson <http://www.ohloh.net/accounts/aintdiscole>`__ `написал
+Robinson <https://www.openhub.net/accounts/aintdiscole>`__ `написал
 инструкцию <https://fedoraproject.org/wiki/Testing_secureboot_with_KVM>`__
 (на примере установки Fedora 18), как развернуть тестовую UEFI систему
 на базе QEMU/KVM с включенным, полностью вам подконтрольным SecureBoot.

@@ -33,7 +33,7 @@ Cisco), тем самым h.264 становится победителем в �
 `CodecBuddy <https://fedoraproject.org/wiki/Releases/FeatureCodecBuddy>`__,
 но это еще и работать будет лишь на x86\_64 и возможно на ряде
 ARM-систем. Участник коммьюнити Fedora и Xiph Foundation, разработчик
-Bitcoin, `Gregory Maxwell <http://www.ohloh.net/accounts/gmaxwell>`__,
+Bitcoin, `Gregory Maxwell <https://www.openhub.net/accounts/gmaxwell>`__,
 `попросил в списке рассылки IETF сделать заявление от лица
 проекта <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/188096>`__
 о том, какие сложности для нас будут при стандартизации h.264, как

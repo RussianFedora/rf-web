@@ -56,7 +56,7 @@ Weisbecker <https://plus.google.com/117369405244904963316/about>`__
 помогли его коллеги из Red Hat - `Dave
 Young <http://www.linkedin.com/pub/dave-young/4b/a01/a4b>`__, `Doug
 Ledford <https://plus.google.com/117724629050905786176/about>`__, `Dave
-Jones <https://www.ohloh.net/accounts/davej>`__, наши соотечественники
+Jones <https://www.openhub.net/accounts/davej>`__, наши соотечественники
 из Parallels - `Cyrill
 Gorcunov <https://plus.google.com/104753339591125116999/about>`__,
 Stanislav Kinsbursky, и многие другие.

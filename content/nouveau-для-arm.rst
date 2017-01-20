@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Lucas Stach <https://www.ohloh.net/accounts/Lynxeye>`__, разработчик
+`Lucas Stach <https://www.openhub.net/accounts/Lynxeye>`__, разработчик
 embedded-linux, давний пользователь Fedora и недавний участник `Fedora
 ARM SIG <https://fedoraproject.org/wiki/Architectures/ARM>`__,
 представил `начальную поддержку NVIDIA Tegra в

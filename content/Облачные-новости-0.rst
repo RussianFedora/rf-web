@@ -23,7 +23,7 @@ Foundation <http://thenewstack.io/the-new-stack-and-linux-foundation-survey-open
 CRIU теперь есть поддержка
 CGroups <https://plus.google.com/+CriuOrg/posts/4ohsXktufKV>`__. Но вот
 интересно, что объединяет этих двоих?
-`Julien Danjou <https://www.ohloh.net/accounts/jdanjou>`__, разработчик
+`Julien Danjou <https://www.openhub.net/accounts/jdanjou>`__, разработчик
 Awesome и OpenStack, детально рассказывает про то, `как исправить
 архитектурную ошибку
 Ceilometer <https://julien.danjou.info/blog/2014/openstack-ceilometer-the-gnocchi-experiment>`__.

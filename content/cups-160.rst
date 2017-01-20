@@ -12,7 +12,7 @@
 
 
 Активный участник проекта Fedora и работник Red Hat, `Tim
-Waugh <https://www.ohloh.net/accounts/twaugh>`__,
+Waugh <https://www.openhub.net/accounts/twaugh>`__,
 `предупреждает <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/158254>`__
 о готовящемся релизе CUPS. В связи с тем, что разработка ведется
 компанией Apple, то все Linux-зависимые вещи были или скоро будут

@@ -16,7 +16,7 @@
 кратко упомянем ту часть из них, которая показалась нам интересной.
 
 Инженер Red Hat, `Daniel P.
-Berrangé <https://www.ohloh.net/accounts/berrange>`__, продолжает
+Berrangé <https://www.openhub.net/accounts/berrange>`__, продолжает
 улучшать и облагораживать libvirt. Еще в мае он последовательно `улучшил
 производительность ведения журнала событий в
 libvirt <https://www.berrange.com/posts/2014/05/02/improving-libvirt-logging-performance/>`__
@@ -100,7 +100,7 @@ SELinux.**.
 Но не только серверные задачи будут решаться с помощью Docker. Наши
 коллеги активно работают над широким использованием контейнерных
 технологий на десктопе. Участник Fedora, `Christian
-Schaller <https://www.ohloh.net/accounts/Uraeus>`__, разработчик
+Schaller <https://www.openhub.net/accounts/Uraeus>`__, разработчик
 gstreamer и GNOME, `рассказал о текущем состоянии
 дел <http://blogs.gnome.org/uraeus/2014/07/10/desktop-containers-the-way-forward/>`__
 (`заметка уже обсуждается на
@@ -114,7 +114,7 @@ OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40176>`__).
 технологии, типа `Project
 Atomic </content/Еще-одна-облачная-операционная-система>`__ системы
 управления пакетами ненужными? Наш коллега, `Colin
-Walters <https://www.ohloh.net/accounts/colinwalters>`__, считает, что
+Walters <https://www.openhub.net/accounts/colinwalters>`__, считает, что
 `нет, не
 сделал <http://blog.verbum.org/2014/07/10/project-atomic-docker-a-post-package-world/>`__.
 

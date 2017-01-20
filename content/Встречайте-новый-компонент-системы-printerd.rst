@@ -11,10 +11,10 @@
 **Это архивная статья**
 
 
-`Tim Waugh <https://www.ohloh.net/accounts/twaugh>`__, участник Fedora и
+`Tim Waugh <https://www.openhub.net/accounts/twaugh>`__, участник Fedora и
 инженер Red Hat,
 `объявил <http://cyberelk.net/tim/2012/05/10/announcing-printerd/>`__,
-что он и `Richard Hughes <http://www.ohloh.net/accounts/hughsient>`__,
+что он и `Richard Hughes <https://www.openhub.net/accounts/hughsient>`__,
 инженер Red Hat и участник проектов Fedora, Gnome и RussianFedora,
 завершили работу над новым компонентом Linux-десктопа. Встречайте -
 `printerd <http://gitorious.org/printerd>`__. Это новый spooler печати,

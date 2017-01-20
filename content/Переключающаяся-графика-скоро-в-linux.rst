@@ -12,9 +12,9 @@
 
 
 По прошествии четырех лет инженер Red Hat и участник Fedora и Debian
-`David Airlie <https://www.ohloh.net/accounts/airlied>`__ и инженер AMD
+`David Airlie <https://www.openhub.net/accounts/airlied>`__ и инженер AMD
 и участник Debian `Alex
-Deucher <https://www.ohloh.net/accounts/agd5f>`__ `представили
+Deucher <https://www.openhub.net/accounts/agd5f>`__ `представили
 патчи <http://www.phoronix.com/scan.php?page=news_item&px=MTEwMjA>`__
 для поддержки GPU offloading для Intel, NVIDIA и ATI видеокарт с помощью
 технологии DMA-BUF/PRIME. Ожидается поддержка в видеодрайверах для
@@ -83,7 +83,7 @@ init-системы, в живой процесс развития `мертво
 необходимо менять.
 
 `Процитируем <http://definitely-awesome.posterous.com/spotlight-julien-danjou>`__
-`Julien Danjou <https://www.ohloh.net/accounts/jdanjou>`__, участника
+`Julien Danjou <https://www.openhub.net/accounts/jdanjou>`__, участника
 проекта Debian, X11-разработчика и автора
 `Awesome <http://awesome.naquadah.org/>`__: *It's likely impossible to
 fix X11 (properly). But there's no reason to keep X. ...I don't think
@@ -106,13 +106,13 @@ Wayland is better, so it happens*.
 Проблему `озвучил <http://ajaxxx.livejournal.com/60080.html>`__ инженер
 Red Hat и участник Fedora и Russian Fedora (проверьте по статистике
 коммитов на Ohloh!) `Adam
-Jackson <https://www.ohloh.net/accounts/ajax>`__ еще в конце 2008 года,
+Jackson <https://www.openhub.net/accounts/ajax>`__ еще в конце 2008 года,
 признав, что решение будет непростым. Прямая речь: *"Getting this to
 work well should actually be a lot of fun, and there's lots of
 opportunity to sweep away old bad design and come up with something
 good."*. Какие-то костыли для исправления ситуации с работой нескольких
 видеокарт в видеодрайверах были предложены спустя год-полтора. Сначала
-`David Airlie <https://www.ohloh.net/accounts/airlied>`__ написал в 2010
+`David Airlie <https://www.openhub.net/accounts/airlied>`__ написал в 2010
 году `vga\_switcheroo <http://airlied.livejournal.com/70348.html>`__,
 который позволял перезапускать иксы, выбирая видеокарту. Это решение,
 несмотря на его очевидную кривизну, реально использовалось в Ubuntu и
@@ -137,7 +137,7 @@ engineering, как обычно в наколеночных проектах.
 философии) привлекли тяжелую артиллерию - инженеры самых разных компаний
 начали думать, как обойти это ограничение устаревших X11? После
 завершения поигрушек с vga\_switcheroo `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__ предложил
+Airlie <https://www.openhub.net/accounts/airlied>`__ предложил
 `proof-of-concept <http://airlied.livejournal.com/71734.html>`__ нового
 подхода, который он назвал PRIME - GPU offloading. Суть в том, что одна,
 например менее прожорливая электрически, видеокарта работает всегда, а
@@ -148,7 +148,7 @@ Airlie <https://www.ohloh.net/accounts/airlied>`__ предложил
 Airlie: *"To make this as good as Windows we need to seriously
 re-architect the X server + drivers..."*
 Еще через год, в конце 2011, `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__ успешно
+Airlie <https://www.openhub.net/accounts/airlied>`__ успешно
 `продемонстрировал <http://airlied.livejournal.com/75405.html>`__ GPU
 offloading на примере подключения на лету USB-видеоадаптера DisplayLink.
 
@@ -163,20 +163,20 @@ offloading на примере подключения на лету USB-виде
 различных видеоустройств - V4L, X11, видеокамеры и т.п., которая
 позволит при обмене данными между этими устройствами вместо пересылок
 огромных серий байтов в ядро и обратно просто обмениваться адресами этих
-данных. `David Airlie <https://www.ohloh.net/accounts/airlied>`__ быстро
+данных. `David Airlie <https://www.openhub.net/accounts/airlied>`__ быстро
 оценил перспективность такого подхода, и следующий релиз своего PRIME
 уже выпустил, `основанный на
 DMA-BUF <http://airlied.livejournal.com/75555.html>`__. Темпы внедрения
 ощутимо ускорились, и последним куском мозаики был VGEM,
 `представленный <http://www.phoronix.com/scan.php?page=news_item&px=MTA0MTQ>`__
-`Adam Jackson <https://www.ohloh.net/accounts/ajax>`__, который позволит
+`Adam Jackson <https://www.openhub.net/accounts/ajax>`__, который позволит
 использовать различные DMA-BUF оптимизации устройствам, не имеющим
 DRM-драйвера (LLVMpipe). Все было готово - осталось лишь замотать все
 изолентой.
 
 И вот, наконец, возвращаемся к первому абзацу. `David
-Airlie <https://www.ohloh.net/accounts/airlied>`__ и `Alex
-Deucher <https://www.ohloh.net/accounts/agd5f>`__ собрали все куски
+Airlie <https://www.openhub.net/accounts/airlied>`__ и `Alex
+Deucher <https://www.openhub.net/accounts/agd5f>`__ собрали все куски
 вместе, и теперь ничего не останавливает Open Source коммьюнити от
 написания патчей для поддержки SLI/CrossFire или Optimus. Заметьте, как
 тяжело становится догонять проприетарные видеоподсистемы, нескованные

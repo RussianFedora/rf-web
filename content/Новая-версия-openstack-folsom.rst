@@ -17,7 +17,7 @@ IAAS-платформы OpenStack. Эта версия получила кодо
 ее анонс уже `публично обсуждается на
 OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=34964>`__. Наш
 товарищ, участник Fedora, `Mark
-McLoughlin <https://www.ohloh.net/accounts/markmc>`__ (который
+McLoughlin <https://www.openhub.net/accounts/markmc>`__ (который
 предпринимал попытку `выдвинуться в управляющий совет
 OpenStack </content/Участник-fedora-выдвигается-в-управляющий-совет-openstack>`__
 - неудачную, к сожалению), `уже собирал статистику по вкладу компаний в

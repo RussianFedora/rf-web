@@ -13,7 +13,7 @@
 
 Сегодня мэйнтейнер
 `dracut <https://plus.google.com/116442056808259194967/about>`__ `Harald
-Hoyer <https://www.ohloh.net/accounts/backslash>`__ объявил, что
+Hoyer <https://www.openhub.net/accounts/backslash>`__ объявил, что
 `последняя версия будет полностью поддерживать
 systemd <https://plus.google.com/117537647502636167748/posts/X5ApJWecafm>`__,
 как систему первоначальной загрузки внутри initramfs.

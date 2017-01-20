@@ -49,7 +49,7 @@
   Надвигающуюся потенциальную проблему хорошо озвучил в `своей ленте
   Google+ <https://plus.google.com/113713059726404063654/posts/cLVf33eTBKv>`__
   разработчик Coreboot, `Patrick
-  Georgi <https://www.ohloh.net/accounts/patrick_georgi>`__ - UEFI Forum
+  Georgi <https://www.openhub.net/accounts/patrick_georgi>`__ - UEFI Forum
   может запросто спрятать спецификации за некими юридическими
   соглашениями, что будет препятствием для разработчиков, особенно
   разработчиков открытого оборудования.

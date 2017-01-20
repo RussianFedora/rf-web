@@ -16,7 +16,7 @@
   новой порции. Мэйнтейнер и основной разработчик пакета
   `util-linux <http://en.wikipedia.org/wiki/Util-linux>`__, инженер Red
   Hat и участник Fedora, `Karel
-  Zak <https://www.ohloh.net/accounts/kzak>`__, вновь поделился
+  Zak <https://www.openhub.net/accounts/kzak>`__, вновь поделился
   `информацией о последних
   нововведениях <http://karelzak.blogspot.com/2012/09/util-linux-222.html>`__:
 
@@ -29,7 +29,7 @@
    изменения в ядерную подсистему ведения журнала, чтоб такое его
    поведение было вообще возможно, предложил и реализовал разработчик
    udev и systemd `Kay
-   Sievers <https://www.ohloh.net/accounts/kaysievers>`__, о чем `мы уже
+   Sievers <https://www.openhub.net/accounts/kaysievers>`__, о чем `мы уже
    писали </content/Бинарные-логи-в-ядре>`__. Теперь в ядре ведутся
    бинарные логи, между прочим.
 

@@ -39,7 +39,7 @@
   вызвало неодобрение некоторых участников Fedora, и вероятно не будет
   реализовано.
 
-| `Ralph Bean <https://www.ohloh.net/accounts/ralphbean>`__ анонсировал
+| `Ralph Bean <https://www.openhub.net/accounts/ralphbean>`__ анонсировал
   очередное инфраструктурное изменение. `Наша инфраструктура переводится
   на использование открытого сервиса libravatar вместо закрытого и
   проприетарного
@@ -47,7 +47,7 @@
   и другим сервисам рассмотреть возможность такого перехода.
 
 | Инженер Red Hat и участник Fedora и Debian `David
-  Airlie <https://www.ohloh.net/accounts/airlied>`__ анонсировал у себя
+  Airlie <https://www.openhub.net/accounts/airlied>`__ анонсировал у себя
   в блоге `Virgil <http://airlied.livejournal.com/77553.html>`__,
   виртуальный 3D-ускоритель для Qemu. Теперь Qemu полностью догнал по
   десктопным фичам VirtualBox и VMware, и вскоре, как только Virgil

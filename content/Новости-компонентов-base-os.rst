@@ -12,7 +12,7 @@
 
 
 Участник Fedora и нынешний мэйнтейнер grep `Jim
-Meyering <http://www.ohloh.net/accounts/meyering>`__ анонсировал выход
+Meyering <https://www.openhub.net/accounts/meyering>`__ анонсировал выход
 `grep 2.17 <https://savannah.gnu.org/forum/forum.php?forum_id=7885>`__.
 
 В версии значительно ускорена работа grep с multibyte кодировками в паре
@@ -33,7 +33,7 @@ GNU.org <http://www.opennet.ru/opennews/art.shtml?num=39043>`__, в
 После выхода очередного обновления `util-linux версии
 2.24.1 <https://www.kernel.org/pub/linux/utils/util-linux/v2.24/v2.24.1-ReleaseNotes>`__
 его мэйнтейнер и основной разработчик, инженер Red Hat и участник Fedora
-`Karel Zak <https://www.ohloh.net/accounts/kzak>`__, продолжает
+`Karel Zak <https://www.openhub.net/accounts/kzak>`__, продолжает
 знакомить нас с новыми возможностями утилит из пакета (предыдущие
 новости - `раз </content/Короткие-новости-5>`__,
 `два </content/Новости-пакета-util-linux-снова>`__,

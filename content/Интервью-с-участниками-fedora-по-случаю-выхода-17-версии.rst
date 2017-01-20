@@ -17,7 +17,7 @@ Nalley <http://www.linkedin.com/in/davidnalley>`__, community-менеджеро
 из Citrix, `Bill
 Nottingam <http://fedoraproject.org/wiki/User:Notting>`__, ведущим
 инженером Red Hat, участником проекта JBoss `Lincoln
-Baxter <https://www.ohloh.net/accounts/lincolnthree>`__, разработчиком
+Baxter <https://www.openhub.net/accounts/lincolnthree>`__, разработчиком
 ядра `Chris
 Wright <http://en.wikipedia.org/wiki/Chris_Wright_%28programmer%29>`__,
 `Robyn Bergeron <http://fedoraproject.org/wiki/User:Rbergero>`__,
