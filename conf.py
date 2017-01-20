@@ -1244,7 +1244,11 @@ UNSLUGIFY_TITLES = True
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-    'blog_sidebar': """\
+    'blog_sidebar': """
+    <div class="sidebar-module">
+     <a class="gh-events" data-user="RussianFedora" data-count="5" data-skin="dark" data-display-authors="true" data-style=".event{background-color: #3c6eb4; color: #ffffff}" href="https://github.com/RussianFedora">Github events by @RussianFedora</a>
+    <script type="text/javascript" src="/assets/js/gh-events-widget.js" async="true"></script>
+    </div>
     <div class="sidebar-module">
     <h3>О проекте</h3>
     <p>
