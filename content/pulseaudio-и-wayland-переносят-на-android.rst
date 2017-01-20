@@ -25,7 +25,7 @@ PulseAudio <http://arunraghavan.net/2012/01/pulseaudio-vs-audioflinger-fight/>`_
 Все делается дружественной к Fedora компанией Collabora. Ждем переноса
 systemd!
 Кстати, кому не терпится увидеть Wayland - `мы уже
-говорили <http://www.rfremix.ru/content/На-подходе-weston-композитный-менеджер-для-wayland>`__,
+говорили </content/На-подходе-weston-композитный-менеджер-для-wayland>`__,
 что `Richard Hughes <https://www.openhub.net/accounts/hughsient>`__
 работает над LiveCD для тестирования Wayland, и вот - он `объявил в
 своей ленте

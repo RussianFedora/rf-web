@@ -21,7 +21,7 @@ x32 <http://www.phoronix.com/scan.php?page=news_item&px=MTEwMTk>`__, о
 Fedora? <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019>`__
 Незамедлительно были получены неутешительные ответы. Оказывается, что
 Canonical, `как обычно в последнее
-время <http://www.rfremix.ru/content/В-ubuntu-1210-ожидается-полноценная-поддержка-wayland-но-есть-нюанс>`__,
+время </content/В-ubuntu-1210-ожидается-полноценная-поддержка-wayland-но-есть-нюанс>`__,
 не уведомила разработчиков о своих планах - `Josh
 Boyer <https://www.openhub.net/accounts/jwboyer>`__ сообщил, что `полной
 поддержки x32 еще нет в Glibc, и вероятно не будет до версии

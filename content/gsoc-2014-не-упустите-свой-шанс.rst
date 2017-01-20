@@ -12,7 +12,7 @@
 
 
 Некоторое время назад мы уже
-`писали <http://ru.fedoracommunity.org/content/gsoc-2014>`__ о `Google
+`писали </content/gsoc-2014>`__ о `Google
 Summer of Code
 2014 <http://www.google-melange.com/gsoc/homepage/google/gsoc2014>`__, в
 котором участвует как `Fedora
