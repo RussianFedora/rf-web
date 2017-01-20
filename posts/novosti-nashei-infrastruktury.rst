@@ -1,4 +1,4 @@
-.. title: новости нашей инфраструктуры
+.. title: Новости нашей инфраструктуры
 .. slug: novosti-nashei-infrastruktury
 .. date: 2017-01-20 18:23:39 UTC+03:00
 .. tags: fedora-infra, pagure.io, github, gitlab
