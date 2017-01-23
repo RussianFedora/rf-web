@@ -240,14 +240,10 @@
         .. rubric:: Полезные ссылки
            :name: полезные-ссылки
 
-        `selinuxproject.org/page/AVCRules <https://selinuxproject.org/page/AVCRules>`__
-        — описание allow-правил
-        `selinuxproject.org/page/TypeRules <https://selinuxproject.org/page/TypeRules>`__
-        — описание type\_ правил
-        `selinuxproject.org/page/ObjectClassesPerms <https://selinuxproject.org/page/ObjectClassesPerms>`__
-        — список классов и разрешений доступов
-        `danwalsh.livejournal.com <http://danwalsh.livejournal.com/>`__ — блог
-        «отца» SELinux в RedHat и самой refpolicy
+        - `selinuxproject.org/page/AVCRules <https://selinuxproject.org/page/AVCRules>`__ — описание allow-правил
+        - `selinuxproject.org/page/TypeRules <https://selinuxproject.org/page/TypeRules>`__ — описание type\_ правил
+        - `selinuxproject.org/page/ObjectClassesPerms <https://selinuxproject.org/page/ObjectClassesPerms>`__ — список классов и разрешений доступов
+        - `danwalsh.livejournal.com <http://danwalsh.livejournal.com/>`__ — блог «отца» SELinux в RedHat и самой refpolicy
 
         .. |image1| image:: https://habrastorage.org/files/2cd/1b2/b38/2cd1b2b38bed4afe9873520219ade62b.png
            :width: 200px
