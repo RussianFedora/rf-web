@@ -1,7 +1,7 @@
 .. title: Wayland в ChromeOS
 .. slug: wayland-в-chromeos
 .. date: 2016-09-08 16:33:01
-.. tags:
+.. tags: wayland, chromeos, google, android
 .. category:
 .. link:
 .. description:
