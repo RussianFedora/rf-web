@@ -1,7 +1,7 @@
 .. title: Поддержка голосовых кодеков в Fedora
 .. slug: Поддержка-голосовых-кодеков-в-fedora
 .. date: 2012-09-13 17:07:34
-.. tags:
+.. tags: voip, codec, opus, iLBC, IETF
 .. category:
 .. link:
 .. description:
