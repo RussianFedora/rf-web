@@ -1,7 +1,7 @@
 .. title: Истекли патенты на MP3!
 .. slug: Истекли-патенты-на-mp3
 .. date: 2016-11-10 23:02:49
-.. tags:
+.. tags: codec, mp3, патенты
 .. category:
 .. link:
 .. description:

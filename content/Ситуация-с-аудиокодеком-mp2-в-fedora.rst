@@ -1,7 +1,7 @@
 .. title: Ситуация с аудиокодеком MP2 в Fedora
 .. slug: Ситуация-с-аудиокодеком-mp2-в-fedora
 .. date: 2012-08-18 09:54:41
-.. tags:
+.. tags: codec, mp2, mp3, патенты
 .. category:
 .. link:
 .. description:
