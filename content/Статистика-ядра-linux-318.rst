@@ -1,8 +1,8 @@
 .. title: Статистика ядра Linux 3.18
 .. slug: Статистика-ядра-linux-318
 .. date: 2014-12-01 15:01:37
-.. tags:
-.. category:
+.. tags: kernel, statistics
+.. category: статистика
 .. link:
 .. description:
 .. type: text
@@ -45,4 +45,5 @@
 
 .. |image0| image:: http://assets.nydailynews.com/polopoly_fs/1.1407937.1374701046!/img/httpImage/image.jpg_gen/derivatives/gallery_1200/basement.jpg
    :width: 600px
+   :align: center
    :target: http://www.nydailynews.com/entertainment/horror-photography-artist-life-childhood-nightmares-gallery-1.1407950
