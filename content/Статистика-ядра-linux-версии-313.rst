@@ -1,8 +1,8 @@
 .. title: Статистика ядра Linux версии 3.13
 .. slug: Статистика-ядра-linux-версии-313
 .. date: 2014-01-16 14:01:03
-.. tags:
-.. category:
+.. tags: kernel, statistics
+.. category: статистика
 .. link:
 .. description:
 .. type: text

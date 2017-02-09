@@ -1,8 +1,8 @@
 .. title: В очередной раз вышла статистика по ядру Linux (версии 3.9)
 .. slug: В-очередной-раз-вышла-статистика-по-ядру-linux-версии-39
 .. date: 2013-04-18 15:39:24
-.. tags:
-.. category:
+.. tags: kernel, statistics
+.. category: статистика
 .. link:
 .. description:
 .. type: text

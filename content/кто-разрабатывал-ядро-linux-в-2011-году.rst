@@ -1,8 +1,8 @@
 .. title: Кто разрабатывал ядро Linux в 2011 году?
 .. slug: кто-разрабатывал-ядро-linux-в-2011-году
 .. date: 2012-04-04 10:08:50
-.. tags:
-.. category:
+.. tags: kernel, statistics
+.. category: статистика
 .. link:
 .. description:
 .. type: text

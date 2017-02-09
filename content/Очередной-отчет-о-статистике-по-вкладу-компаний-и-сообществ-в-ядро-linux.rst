@@ -1,8 +1,8 @@
 .. title: Очередной отчет о статистике по вкладу компаний и сообществ в ядро Linux
 .. slug: Очередной-отчет-о-статистике-по-вкладу-компаний-и-сообществ-в-ядро-linux
 .. date: 2013-09-17 10:50:56
-.. tags:
-.. category:
+.. tags: kernel, statistics
+.. category: статистика
 .. link:
 .. description:
 .. type: text
