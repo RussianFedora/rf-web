@@ -1,7 +1,7 @@
 .. title: fleet без systemd?
 .. slug: fleet-без-systemd
 .. date: 2014-03-14 14:33:18
-.. tags:
+.. tags: systemd, rhel, debian, ubuntu, canonical, coreos, fleet
 .. category:
 .. link:
 .. description:
@@ -39,4 +39,3 @@ init-системами <http://thread.gmane.org/gmane.linux.coreos.devel/470>`_
 порекомендовали подождать до Ubuntu 14.10, где systemd должен быть уже
 доступен, как опция. Хотя, конечно, мы все знаем, как плавают планы у
 Canonical.
-

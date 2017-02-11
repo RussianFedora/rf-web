@@ -1,7 +1,7 @@
 .. title: Новости CoreOS
 .. slug: Новости-coreos-0
 .. date: 2015-04-09 18:21:32
-.. tags:
+.. tags: coreos, kubernetes, tectonic, google, systemd, rkt, etcd, fleet, flannel, docker, redhat, mirantis, mesosphere, импортозамещение
 .. category:
 .. link:
 .. description:
@@ -43,8 +43,12 @@ Docker (например,
 его безопасность постоянно улучшается нашими коллегами, в целом он
 выглядит очень нерационально спроектированным, неюниксвэйно.
 
-|image0|
+.. image:: http://i.juick.com/p/2775930.png
+   :align: center
+   :target: http://juick.com/datacompboy/2775930
+
 **Docker в продакшене порой выглядит вот так**
+
 Опять же, повторимся, для быстрого развертывания чего-либо Docker все
 также прекрасно подходит. Многие наши коллеги регулярно его используют,
 например для регулярного пересоздания тестовой платформы для
@@ -75,5 +79,3 @@ Unit-тестов, и вполне довольны. Но дело в том, ч
 LibreOffice.
 
 
-.. |image0| image:: http://i.juick.com/p/2775930.png
-   :target: http://juick.com/datacompboy/2775930

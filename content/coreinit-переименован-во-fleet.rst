@@ -1,7 +1,7 @@
 .. title: Coreinit переименован во fleet
 .. slug: coreinit-переименован-во-fleet
 .. date: 2014-02-19 13:19:49
-.. tags:
+.. tags: coreos, fleet, containers
 .. category:
 .. link:
 .. description:

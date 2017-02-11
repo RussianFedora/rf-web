@@ -1,8 +1,8 @@
 .. title: Закончился GUADEC
 .. slug: Закончился-guadec
 .. date: 2014-07-31 17:12:53
-.. tags:
-.. category:
+.. tags: guadec
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
@@ -11,16 +11,17 @@
 **Это архивная статья**
 
 
-| Завершилась конференция пользователей и разработчиков GNOME, `GUADEC
-  2014 <https://www.guadec.org/schedule/>`__. Наших коллег, само собой,
-  там было навалом. Из отчетов посоветуем почитать, что пишет `Jiří
-  Eischmann <https://plus.google.com/112174839778779720402/about>`__ -
-  `первый день <http://fedoramagazine.org/guadec-2014-day-one/>`__,
-  `второй <http://fedoramagazine.org/guadec-2014-day-two-pitivi-automotive-boxes-fleet-commander/>`__,
-  `третий <http://fedoramagazine.org/guadec-day-3-gtk-and-wayland/>`__,
-  `четвертый <http://fedoramagazine.org/guadec-2014-day-four-hardware-new-ide-for-gnome/>`__.
+Завершилась конференция пользователей и разработчиков GNOME, `GUADEC 2014
+<https://www.guadec.org/schedule/>`__. Наших коллег, само собой, там было
+навалом. Из отчетов посоветуем почитать, что пишет `Jiří Eischmann
+<https://plus.google.com/112174839778779720402/about>`__ - `первый день
+<http://fedoramagazine.org/guadec-2014-day-one/>`__, `второй
+<http://fedoramagazine.org/guadec-2014-day-two-pitivi-automotive-boxes-fleet-commander/>`__,
+`третий <http://fedoramagazine.org/guadec-day-3-gtk-and-wayland/>`__,
+`четвертый
+<http://fedoramagazine.org/guadec-2014-day-four-hardware-new-ide-for-gnome/>`__.
 
-  Вкратце, что заметил Jiří:
+Вкратце, что заметил Jiří:
 
 -  `UX <https://ru.wikipedia.org/wiki/Опыт_взаимодействия>`__ в GNOME, и
    тестирование на живых людях.
@@ -56,10 +57,8 @@
    обсуждают на
    OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40307>`__.
 
-
-| 
-| В завершение обратим внимание на пост, написанный по мотивам
-  выступления на GUADEC 2014, про `новый canvas для
-  GNOME <http://www.bassi.io/articles/2014/07/29/guadec-2014-gsk/>`__,
-  идущий на замену Clutter.
-
+ 
+В завершение обратим внимание на пост, написанный по мотивам выступления на
+GUADEC 2014, про `новый canvas для GNOME
+<http://www.bassi.io/articles/2014/07/29/guadec-2014-gsk/>`__, идущий на замену
+Clutter.

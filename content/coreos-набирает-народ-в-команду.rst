@@ -1,7 +1,7 @@
 .. title: CoreOS набирает народ в команду
 .. slug: coreos-набирает-народ-в-команду
 .. date: 2014-08-22 14:03:01
-.. tags:
+.. tags: coreos, hr, etcd, fleet, kubernetes, google
 .. category:
 .. link:
 .. description:
@@ -11,8 +11,8 @@
 **Это архивная статья**
 
 
-| Если кто пропустил, то `CoreOS набирает
-  людей <https://news.ycombinator.com/item?id=8211251>`__:
+Если кто пропустил, то `CoreOS набирает людей
+<https://news.ycombinator.com/item?id=8211251>`__:
 
     CoreOS is hiring in a number of engineers that are passionate about
     infrastructure and open source software.
@@ -41,10 +41,9 @@
     please email our CEO directly with your resume or LinkedIn:
     apolvi@coreos.com**
 
-| 
+.. image:: http://img0.joyreactor.cc/pics/comment/комикс-длиннопост-песочница-1184446.jpeg
+      :align: center
 
-| |image0|
-| **Хотел написать, но их почему-то интересует опыт разработки Gentoo**
+**Хотел написать, но их почему-то интересует опыт разработки Gentoo**
 
-.. |image0| image:: http://img0.joyreactor.cc/pics/comment/комикс-длиннопост-песочница-1184446.jpeg
 

@@ -1,7 +1,7 @@
 .. title: Brandon Philips рассказывает про etcd
 .. slug: brandon-philips-рассказывает-про-etcd
 .. date: 2014-03-21 18:36:00
-.. tags:
+.. tags: coreos, etcd, containers
 .. category:
 .. link:
 .. description:
