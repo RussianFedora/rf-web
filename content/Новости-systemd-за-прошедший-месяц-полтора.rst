@@ -1,7 +1,7 @@
 .. title: Новости systemd за прошедший месяц-полтора.
 .. slug: Новости-systemd-за-прошедший-месяц-полтора
 .. date: 2013-12-12 11:52:52
-.. tags:
+.. tags: systemd, sailfish, jolla, fleet, coreos, containers, kdbus, archlinux, rhel, debian, canonical, upstart
 .. category:
 .. link:
 .. description:
