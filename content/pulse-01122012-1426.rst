@@ -1,7 +1,7 @@
 .. title: Pulse at 01/12/2012 - 14:26
 .. slug: pulse-01122012-1426
 .. date: 2012-01-10 10:40:16
-.. tags:
+.. tags: патенты, legal, cryptography, ecc, bitcoin, voip
 .. category:
 .. link:
 .. description:

@@ -1,7 +1,7 @@
 .. title: Bitcoin и шифрование по ГОСТу вскоре появится в Fedora
 .. slug: bitcoin-и-шифрование-по-ГОСТу-вскоре-появится-в-fedora
 .. date: 2013-10-18 11:37:39
-.. tags:
+.. tags: патенты, legal, cryptography, ecc, ГОСТ, bitcoin
 .. category:
 .. link:
 .. description:

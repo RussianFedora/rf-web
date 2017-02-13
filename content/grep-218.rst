@@ -1,7 +1,7 @@
 .. title: grep 2.18
 .. slug: grep-218
 .. date: 2014-02-24 12:55:01
-.. tags:
+.. tags: grep, oops
 .. category:
 .. link:
 .. description:

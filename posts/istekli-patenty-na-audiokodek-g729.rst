@@ -1,7 +1,7 @@
 .. title: Истекли патенты на аудиокодек G.729
 .. slug: istekli-patenty-na-audiokodek-g729
 .. date: 2017-02-01 20:47:24 UTC+03:00
-.. tags: voip, codec, g.729, патенты
+.. tags: voip, codec, g.729, патенты, legal
 .. category: 
 .. link: 
 .. description: 

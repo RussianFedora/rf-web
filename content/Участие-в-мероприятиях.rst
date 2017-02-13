@@ -1,8 +1,8 @@
 .. title: Участие в мероприятиях
 .. slug: Участие-в-мероприятиях
 .. date: 2012-07-03 12:22:15
-.. tags:
-.. category:
+.. tags: schedule
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
@@ -11,25 +11,23 @@
 **Это архивная статья**
 
 
-| Участники Russian Fedora и Fedora периодически принимают участие в
-  российских мероприятиях, так или иначе связанных с Open Source. В
-  последние несколько недель `Peter
-  Lemenkov <https://www.google.com/profiles/lemenkov>`__ (т.е. я)
-  принимал участие в
+Участники Russian Fedora и Fedora периодически принимают участие в российских
+мероприятиях, так или иначе связанных с Open Source. В последние несколько
+недель `Peter Lemenkov <https://www.google.com/profiles/lemenkov>`__ (т.е. я)
+принимал участие в
 
--  `Moscow Erlang Factory Lite
-   2012 <https://www.erlang-factory.com/conference/Moscow2012/speakers/PeterLemenkov>`__
-   с презентацией, рассказывающей о то, `каковы отношения Erlang и
-   менеджеров
-   пакетов <http://peter.fedorapeople.org/presentations/Moscow_Erlang_Factory_Lite_2012.pdf>`__.
+- `Moscow Erlang Factory Lite 2012
+  <https://www.erlang-factory.com/conference/Moscow2012/speakers/PeterLemenkov>`__
+  с презентацией, рассказывающей о то, `каковы отношения Erlang и менеджеров
+  пакетов
+  <http://peter.fedorapeople.org/presentations/Moscow_Erlang_Factory_Lite_2012.pdf>`__.
 
--  `Четвертом учредительном
-   съезде <http://temychk.livejournal.com/19187.html?nojs=1>`__
-   дружественной нам `Пиратской Партии
-   России <http://pirate-party.ru/>`__, где выступал с `кратким
-   докладом <http://peter.fedorapeople.org/presentations/Pirate_Party_Russia_2012_full.pdf>`__
-   о том, почему патенты на идеи, ПО и бизнес-процессы, это плохо.
+- `Четвертом учредительном съезде
+  <http://temychk.livejournal.com/19187.html?nojs=1>`__ дружественной нам
+  `Пиратской Партии России <http://pirate-party.ru/>`__, где выступал с
+  `кратким докладом
+  <http://peter.fedorapeople.org/presentations/Pirate_Party_Russia_2012_full.pdf>`__
+  о том, почему патенты на идеи, ПО и бизнес-процессы, это плохо.
 
 
-Если хотите встретиться с кем-нибудь из нас, то не пропускайте наши
-анонсы!
+Если хотите встретиться с кем-нибудь из нас, то не пропускайте наши анонсы!

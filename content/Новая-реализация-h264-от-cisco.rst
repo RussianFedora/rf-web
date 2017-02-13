@@ -1,7 +1,7 @@
 .. title: Новая реализация H.264 от Cisco
 .. slug: Новая-реализация-h264-от-cisco
 .. date: 2013-10-31 16:03:17
-.. tags:
+.. tags: h.264, cisco, патенты, legal, vp8, vp9, h.265, mozilla, firefox, 
 .. category:
 .. link:
 .. description:

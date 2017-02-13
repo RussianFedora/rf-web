@@ -1,7 +1,7 @@
 .. title: Короткие новости
 .. slug: Короткие-новости-34
 .. date: 2014-11-24 21:47:08
-.. tags:
+.. tags: grep, kernel, security, golang, gcc, gccgo, llvm, google, community, parallels, freebsd, openid
 .. category:
 .. link:
 .. description:
@@ -14,7 +14,6 @@
 `Jim Meyering <https://www.openhub.net/accounts/meyering>`__ выпустил
 `grep версии
 2.21 <https://savannah.gnu.org/forum/forum.php?forum_id=8152>`__.
-
 Обращаем внимание, что хотя Jim говорит, что это релиз, ускоряющий
 работу, версия у него нечетная. Это значит, что завтра Jim запросто
 может выпустить экстренный багфикс-релиз.

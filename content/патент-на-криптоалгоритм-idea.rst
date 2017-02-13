@@ -1,7 +1,7 @@
 .. title: Патент на криптоалгоритм IDEA 
 .. slug: патент-на-криптоалгоритм-idea
 .. date: 2012-01-14 21:28:09
-.. tags:
+.. tags: патенты, legal, cryptography
 .. category:
 .. link:
 .. description:

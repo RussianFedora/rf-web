@@ -1,7 +1,7 @@
 .. title: MP3 декодер в Fedora? Не раньше 2015 года.
 .. slug: mp3-декодер-в-fedora-Не-раньше-2015-года
 .. date: 2012-05-02 21:01:05
-.. tags: codec, mp3, h.264, патенты
+.. tags: codec, mp3, h.264, патенты, legal
 .. category:
 .. link:
 .. description:

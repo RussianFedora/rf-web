@@ -1,7 +1,7 @@
 .. title: Новости компонентов Base OS
 .. slug: Новости-компонентов-base-os
 .. date: 2014-02-18 18:23:09
-.. tags:
+.. tags: grep, redhat, glibc, util-linux, systemd
 .. category:
 .. link:
 .. description:
@@ -14,7 +14,6 @@
 Участник Fedora и нынешний мэйнтейнер grep `Jim
 Meyering <https://www.openhub.net/accounts/meyering>`__ анонсировал выход
 `grep 2.17 <https://savannah.gnu.org/forum/forum.php?forum_id=7885>`__.
-
 В версии значительно ускорена работа grep с multibyte кодировками в паре
 случаев.
 
@@ -22,7 +21,6 @@ Meyering <https://www.openhub.net/accounts/meyering>`__ анонсировал �
 O'Donell <https://plus.google.com/116746191356411907058/about>`__,
 объявил о выходе `GNU C Library версии
 2.19 <https://savannah.gnu.org/forum/forum.php?forum_id=7882>`__.
-
 Внимательные коллеги-аналитики сумели обсудить `новость на OpenNET.ru за
 неделю до официального анонса на
 GNU.org <http://www.opennet.ru/opennews/art.shtml?num=39043>`__, в

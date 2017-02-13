@@ -1,7 +1,7 @@
 .. title: Вышел grep 2.13
 .. slug: Вышел-grep-213
 .. date: 2012-07-05 09:00:36
-.. tags:
+.. tags: grep
 .. category:
 .. link:
 .. description:

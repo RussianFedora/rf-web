@@ -1,7 +1,7 @@
 .. title: Ситуация с аудиокодеком iLBC в Fedora
 .. slug: ситуация-с-аудиокодеком-ilbc-в-fedora
 .. date: 2012-04-04 22:04:33
-.. tags: voip, codec, g.729, iLBC, патенты, google
+.. tags: voip, codec, g.729, iLBC, патенты, google, legal
 .. category:
 .. link:
 .. description:

@@ -1,7 +1,7 @@
 .. title: Короткие новости
 .. slug: Короткие-новости-26
 .. date: 2014-06-25 11:03:56
-.. tags:
+.. tags: freedreno, oops, broadcom, networkmanager, util-linux, grep, google, coreutils, cryptography
 .. category:
 .. link:
 .. description:
@@ -49,6 +49,7 @@ Bridging <https://en.wikipedia.org/wiki/Data_center_bridging>`__.
 cfdisk <http://karelzak.blogspot.ru/2014/06/new-cfdisk-util-linux-v225.html>`__,
 утилиту из состава util-linux. Получилось неплохо! [STRIKEOUT:Надо
 попробовать на жестком диске, который не жалко].
+
 Еще один наш коллега, Jim Meyering
 `ускорял <https://savannah.gnu.org/forum/forum.php?forum_id=7988>`__ (в
 версии 2.19) grep. Правда почти сразу же пришлось `исправлять
@@ -60,12 +61,12 @@ WM Jones `написал
 miniexpect <https://rwmj.wordpress.com/2014/04/25/miniexpect-a-small-expect-library-for-c/>`__,
 небольшую замену (500 строк кода + pcre в зависимостях).
 
-`Инженеры Google сумели скомпилировать coreutils в единый
-бинарник <https://plus.google.com/+DavidZeuthen/posts/9arrkYLLihd>`__
-(см. `busybox <https://ru.wikipedia.org/wiki/BusyBox>`__). К идее
-необычное внимание проявил Lennart Poettering.
+`Инженеры Google сумели скомпилировать coreutils в единый бинарник
+<https://plus.google.com/+DavidZeuthen/posts/9arrkYLLihd>`__ (см. `busybox
+<https://ru.wikipedia.org/wiki/BusyBox>`__). К идее необычное внимание проявил
+Lennart Poettering. `Тревожно!
+<https://www.linux.org.ru/news/linux-general/7646275#comment-7646591>`__
 
-`Тревожно! <https://www.linux.org.ru/news/linux-general/7646275#comment-7646591>`__
 И напоследок, новости айти-науки. `Galois inc. открыли
 Cryptol <https://news.ycombinator.com/item?id=7642434>`__, DSL для
 криптографии, разработанный для американской военщины. Хоть уже и не
