@@ -1,7 +1,7 @@
 .. title: Продолжение истории с OpenH264 в Fedora
 .. slug: Продолжение-истории-с-openh264-в-fedora
 .. date: 2013-11-10 23:02:49
-.. tags:
+.. tags: h.264, cisco, firefox, gstreamer, mozilla, vp8, skype, vp9, патенты, legal
 .. category:
 .. link:
 .. description:

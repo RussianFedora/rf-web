@@ -1,7 +1,7 @@
 .. title: В Fedora одобрили включение EC-криптографии с алгоритмом secp256k1!
 .. slug: В-fedora-одобрили-включение-ec-криптографии-с-алгоритмом-secp256k1
 .. date: 2015-08-13 16:03:19
-.. tags:
+.. tags: патенты, legal, cryptography, ecc, bitcoin
 .. category:
 .. link:
 .. description:

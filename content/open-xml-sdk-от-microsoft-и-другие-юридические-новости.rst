@@ -1,7 +1,7 @@
 .. title: Open XML SDK от Microsoft и другие юридические новости
 .. slug: open-xml-sdk-от-microsoft-и-другие-юридические-новости
 .. date: 2014-06-27 17:24:42
-.. tags:
+.. tags: microsoft, ooxml, redhat, legal, патенты
 .. category:
 .. link:
 .. description:

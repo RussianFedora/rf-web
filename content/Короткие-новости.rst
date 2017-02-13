@@ -1,7 +1,7 @@
 .. title: Короткие новости
 .. slug: Короткие-новости
 .. date: 2013-01-28 13:10:23
-.. tags:
+.. tags: secureboot, systemd, kernel, FOSDEM, schedule, libreoffice, fudcon, gnome
 .. category:
 .. link:
 .. description:
@@ -24,54 +24,48 @@ systemd <http://0pointer.de/blog/projects/the-biggest-myths>`__. Правда,
 `OpenNET <http://www.opennet.ru/opennews/art.shtml?num=35935>`__), его
 противников это не убедило.
 
-Участник ArchLinux `David
-Herrmann <http://dvdhrm.wordpress.com/about-me/>`__ продолжает работу по
-удалению устаревшего кода виртуальных терминалов из ядра (вы уже слышали
-`о его
-инициативе </content/Идет-работа-по-удалению-виртуальных-терминалов-из-ядра-configvtn>`__).
+Участник ArchLinux `David Herrmann <http://dvdhrm.wordpress.com/about-me/>`__
+продолжает работу по удалению устаревшего кода виртуальных терминалов из ядра
+(вы уже слышали `о его инициативе
+</content/Идет-работа-по-удалению-виртуальных-терминалов-из-ядра-configvtn>`__).
+Он написал современную замену vesafb - dvbe, которую `анонсировал в своем G+
+<https://plus.google.com/112212087950959620804/posts/SRLJk3BkTfW>`__.  Похоже,
+что скоро мы будем иметь все необходимые компоненты для окончательного отказа
+от консоли в ядре.
 
-Он написал современную замену vesafb - dvbe, которую `анонсировал в
-своем
-G+ <https://plus.google.com/112212087950959620804/posts/SRLJk3BkTfW>`__.
+Проходящая на этой неделе в Брюсселе конференция `FOSDEM 2013
+<https://fosdem.org/2013/>`__ будет `очень интересной
+<https://fosdem.org/2013/schedule/events/>`__. В нем принимают участие в т.ч. и
+наши друзья - Lennart Poettering (`2 года с systemd
+<https://fosdem.org/2013/schedule/speaker/lennart_poettering/>`__), Jon Masters
+(`перенос Fedora на 64-битную архитектуру ARM
+<https://fosdem.org/2013/schedule/event/porting_fedora/>`__), Amelia
+Andersdotter из `PPI <http://www.pp-international.net/>`__ (`открытое ПО,
+сообщество и изменения положений об т.н. "интеллектуальной собственности",
+авторских правах и патентах на ПО, бизнес-процессы и идеи
+<https://fosdem.org/2013/schedule/event/keynote_the_devil_is_in_the_details/>`__),
+Michael Biebl (`systemd в Debian
+<https://fosdem.org/2013/schedule/event/debian_systemd/>`__), много участников
+Fedora Java SIG и Fedora Ruby SIG, Richard Fontana (`следующая версия GPL
+<https://fosdem.org/2013/schedule/event/copyleft_next/>`__), Robyn Bergeron,
+David Herrmann (`доклад про kmscon
+<https://fosdem.org/2013/schedule/event/kmscon/>`__, заодно обратите внимание
+на доклад Matthieu Herrb `о будущем X.org на не-Linux системах
+<https://fosdem.org/2013/schedule/event/future_xorg_on_nonlinux/>`__, которое
+стало неясным из-за того, что разработчики игнорируют маргинальные Unix-системы
+в пользу Linux) и многие другие - всех и не перечесть, к сожалению. Если будете
+в Брюсселе, то загляните обязательно!
 
-Похоже, что скоро мы будем иметь все необходимые компоненты для
-окончательного отказа от консоли в ядре.
-
-Проходящая на этой неделе в Брюсселе конференция `FOSDEM
-2013 <https://fosdem.org/2013/>`__ будет `очень
-интересной <https://fosdem.org/2013/schedule/events/>`__. В нем
-принимают участие в т.ч. и наши друзья - Lennart Poettering (`2 года с
-systemd <https://fosdem.org/2013/schedule/speaker/lennart_poettering/>`__),
-Jon Masters (`перенос Fedora на 64-битную архитектуру
-ARM <https://fosdem.org/2013/schedule/event/porting_fedora/>`__), Amelia
-Andersdotter из `PPI <http://www.pp-international.net/>`__ (`открытое
-ПО, сообщество и изменения положений об т.н. "интеллектуальной
-собственности", авторских правах и патентах на ПО, бизнес-процессы и
-идеи <https://fosdem.org/2013/schedule/event/keynote_the_devil_is_in_the_details/>`__),
-Michael Biebl (`systemd в
-Debian <https://fosdem.org/2013/schedule/event/debian_systemd/>`__),
-много участников Fedora Java SIG и Fedora Ruby SIG, Richard Fontana
-(`следующая версия
-GPL <https://fosdem.org/2013/schedule/event/copyleft_next/>`__), Robyn
-Bergeron, David Herrmann (`доклад про
-kmscon <https://fosdem.org/2013/schedule/event/kmscon/>`__, заодно
-обратите внимание на доклад Matthieu Herrb `о будущем X.org на не-Linux
-системах <https://fosdem.org/2013/schedule/event/future_xorg_on_nonlinux/>`__,
-которое стало неясным из-за того, что разработчики игнорируют
-маргинальные Unix-системы в пользу Linux) и многие другие - всех и не
-перечесть, к сожалению. Если будете в Брюсселе, то загляните
-обязательно!
-Участник проектов Fedora и LibreOffice, `Caolán
-McNamara <https://www.openhub.net/accounts/caolan>`__ сообщает о `прогрессе
-в конвертации интерфейсов
-LibreOffice <http://blogs.linux.ie/caolan/2013/01/24/converting-libreoffice-dialogs-to-ui-format-100-conversions-milestone/>`__
-с самописного формата описаний виджетов на язык
-`GLADE <http://glade.gnome.org/>`__. Кстати, он также выступит на FOSDEM
-2013, где ожидается очень интересная секция LibreOffice, в работе
-которой также примут участие `Eilidh
-McAdam <https://plus.google.com/116318183327257359654/about>`__,
-`Fridrich Strba <https://plus.google.com/108382325637135111255/about>`__
-и другие.
+Участник проектов Fedora и LibreOffice, `Caolán McNamara
+<https://www.openhub.net/accounts/caolan>`__ сообщает о `прогрессе в
+конвертации интерфейсов LibreOffice
+<http://blogs.linux.ie/caolan/2013/01/24/converting-libreoffice-dialogs-to-ui-format-100-conversions-milestone/>`__
+с самописного формата описаний виджетов на язык `GLADE
+<http://glade.gnome.org/>`__. Кстати, он также выступит на FOSDEM 2013, где
+ожидается очень интересная секция LibreOffice, в работе которой также примут
+участие `Eilidh McAdam
+<https://plus.google.com/116318183327257359654/about>`__, `Fridrich Strba
+<https://plus.google.com/108382325637135111255/about>`__ и другие.
 
 На прошедшей недавно конференции
 `FUDCon <https://fedoraproject.org/wiki/FUDCon:Lawrence_2013>`__ `Tom

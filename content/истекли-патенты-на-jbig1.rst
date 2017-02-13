@@ -1,7 +1,7 @@
 .. title: Истекли патенты на JBIG1
 .. slug: истекли-патенты-на-jbig1
 .. date: 2012-03-30 13:39:25
-.. tags:
+.. tags: патенты, legal
 .. category:
 .. link:
 .. description:

@@ -1,7 +1,7 @@
 .. title: Новости GCC за начало года
 .. slug: Новости-gcc-за-начало-года
 .. date: 2015-03-15 20:00:51
-.. tags:
+.. tags: gcc, llvm, emacs, community, rms, redhat, gsoc, grep
 .. category:
 .. link:
 .. description:
@@ -100,6 +100,7 @@ GNU" <http://thread.gmane.org/gmane.emacs.devel/182433/focus=182519>`__.
 
 |image0|
 **Коллега-аналитик рационально оценивает высказывания RMS**
+
 Продолжим хорошими новостями. Инженер Red Hat, `Pedro
 Alves <https://www.openhub.net/accounts/palves>`__ начал работу по
 `переводу GDB с C на

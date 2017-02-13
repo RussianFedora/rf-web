@@ -1,7 +1,7 @@
 .. title: Продолжение истории с ECC в Fedora - теперь печальные новости
 .. slug: Продолжение-истории-с-ecc-в-fedora-теперь-печальные-новости
 .. date: 2013-10-23 10:43:13
-.. tags:
+.. tags: патенты, legal, ecc, cryptography, bitcoin, openssl, ГОСТ
 .. category:
 .. link:
 .. description:

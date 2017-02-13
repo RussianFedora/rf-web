@@ -1,7 +1,7 @@
 .. title: OpenStack Foundation намеревается присоединиться к Open Invention Network
 .. slug: openstack-foundation-намеревается-присоединиться-к-open-invention-network
 .. date: 2013-08-08 16:08:48
-.. tags:
+.. tags: openstack, legal, oin, патенты
 .. category:
 .. link:
 .. description:

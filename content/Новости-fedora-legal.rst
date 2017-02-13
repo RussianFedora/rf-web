@@ -1,7 +1,7 @@
 .. title: Новости Fedora Legal
 .. slug: Новости-fedora-legal
 .. date: 2013-01-21 12:28:13
-.. tags:
+.. tags: патенты, legal, oin, oracle, gnu
 .. category:
 .. link:
 .. description:

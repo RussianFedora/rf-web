@@ -1,8 +1,8 @@
 .. title: Вышел OpenStack 2014.2 Juno
 .. slug: Вышел-openstack-20142-juno
 .. date: 2014-10-17 14:51:13
-.. tags:
-.. category:
+.. tags: openstack, clouds, statistics, mirantis, rackspace, redhat, sdn, oin, патенты, legal, docker
+.. category: статистика
 .. link:
 .. description:
 .. type: text
@@ -56,7 +56,6 @@ Jacques </content/Текущая-ситуация-на-рынке-виртуал
 Red Hat, разумеется, собирается играть активную роль в этом проекте, и
 обладает собственным видением ситуации (и многочисленными разработчиками
 и неофициальным влиянием на другие коммьюнити опенсорс-разработчиков.
-
 Ознакомьтесь с выступлением `Chris
 Wright <https://www.linkedin.com/pub/chris-wright/1/385/b73>`__ на
 `Collaboration Summit
@@ -78,12 +77,10 @@ Network недавно `предупредило честных людей, чт
 нет никаких возможностей защищать своих пользователей и разработчиков от
 патентных
 троллей <http://www.theregister.co.uk/2014/10/02/oin_openstack_warning/>`__.
-
 Сейчас OIN расширяет свой защитный экран на OpenStack, и уже
 прикрывается 33 Python-пакета. Сейчас `к OIN начали активно подключаться
 новые
 пользователи <http://www.infoworld.com/article/2690911/open-source-software/oin-grows-despite-trolls-facing-hard-times.html?utm_content=buffer0ffea>`__.
-
 Проняло даже стартапы и азиатские компании, которые, как и некоторые
 отечественные игроки рынка, раньше не верили, что законы США
 распространяются и на них. Неудивительно, т.к. ущерб от американских
