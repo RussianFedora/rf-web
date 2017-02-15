@@ -1,8 +1,8 @@
 .. title: Pulse at 01/10/2012 - 10:28
 .. slug: pulse-01102012-1028
 .. date: 2012-01-10 10:28:12
-.. tags:
-.. category:
+.. tags: erlang, fesco, haskell. gnome, systemd, openstack
+.. category: Fedora Changes
 .. link:
 .. description:
 .. type: text

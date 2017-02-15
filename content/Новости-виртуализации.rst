@@ -1,7 +1,7 @@
 .. title: Новости виртуализации
 .. slug: Новости-виртуализации
 .. date: 2013-12-16 00:48:01
-.. tags:
+.. tags: virtualization, ksyslabs, genode, parallels, criu, systemd, siemens, jailhouse, realtime, ocaml, xen, mirageos, osv, cloudius, docker, clouds, kvm, qemu, microsoft, legal
 .. category:
 .. link:
 .. description:
@@ -11,126 +11,117 @@
 **Это архивная статья**
 
 
-| За недавнее время в виртуализации произошло много нового. Во-1
-  поздравляем наших друзей `ksys labs <http://ksyslabs.ru/>`__ с
-  `выходом версии 13.11 фреймворка
-  Genode <http://genode.org/documentation/release-notes/13.11>`__, для
-  сборки микроядерной операционной системы. В этой версии, помимо все
-  прочего, улучшена поддержка Qt5. Коллеги-аналитики `уже обсудили
-  новость на
-  OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38549>`__
-| Наши друзья из Parallels `выпустили CRIU версии
-  1.0 <https://plus.google.com/+CriuOrg/posts/bgv1RXTLxgH>`__. В
-  репозитория Fedora его изначально включили, как
-  `crtools <http://koji.fedoraproject.org/koji/packageinfo?packageID=15351>`__,
-  но недавно, по случаю выхода новой версии, наконец-то переименовали в
-  `criu <http://koji.fedoraproject.org/koji/packageinfo?packageID=17458>`__.
+За недавнее время в виртуализации произошло много нового. Во-1 поздравляем
+наших друзей `ksys labs <http://ksyslabs.ru/>`__ с `выходом версии 13.11
+фреймворка Genode <http://genode.org/documentation/release-notes/13.11>`__, для
+сборки микроядерной операционной системы. В этой версии, помимо все прочего,
+улучшена поддержка Qt5. Коллеги-аналитики `уже обсудили новость на OpenNET.ru
+<http://www.opennet.ru/opennews/art.shtml?num=38549>`__
 
-  В версии 1.0 в общем радикально новых вещей не было, и номер означает
-  лишь пригодность к реальной работе (вы, кстати, уже могли слышать, что
-  `приложение уже используют </content/Отчет-о-развитии-criu>`__). Парни
-  на лаврах не почивают, и развивают проект дальше - `в планах сделать
-  CRIU
-  модульным <https://plus.google.com/+CriuOrg/posts/Fu3pNm82zS8>`__, с
-  системой плугинов, что поможет с dump/restore сложных приложений,
-  когда знание business-specific деталей работы приложения может помочь
-  более эффективно его дампить. Для начала планируется создать
-  дополнения для обработки приложений с соединениями с D-BUS и systemd,
-  затем работающие с блочными устройствами.
+Наши друзья из Parallels `выпустили CRIU версии 1.0
+<https://plus.google.com/+CriuOrg/posts/bgv1RXTLxgH>`__. В репозитория Fedora
+его изначально включили, как `crtools
+<http://koji.fedoraproject.org/koji/packageinfo?packageID=15351>`__, но
+недавно, по случаю выхода новой версии, наконец-то переименовали в `criu
+<http://koji.fedoraproject.org/koji/packageinfo?packageID=17458>`__.
 
-| Месяц выдался богатым на новые гипервизоры. Сначала разработчик Qemu,
-  инженер Siemens, Jan Kiszka, объявил о выходе нового гипервизора,
-  `Jailhouse <http://thread.gmane.org/gmane.comp.emulators.kvm.devel/116825>`__,
-  предназначенного для запуска real-time приложений и операционных
-  систем внутри Linux (новость `уже обсуждается на
-  OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38473>`__).
+В версии 1.0 в общем радикально новых вещей не было, и номер означает лишь
+пригодность к реальной работе (вы, кстати, уже могли слышать, что `приложение
+уже используют </content/Отчет-о-развитии-criu>`__). Парни на лаврах не
+почивают, и развивают проект дальше - `в планах сделать CRIU модульным
+<https://plus.google.com/+CriuOrg/posts/Fu3pNm82zS8>`__, с системой плугинов,
+что поможет с dump/restore сложных приложений, когда знание business-specific
+деталей работы приложения может помочь более эффективно его дампить. Для начала
+планируется создать дополнения для обработки приложений с соединениями с D-BUS
+и systemd, затем работающие с блочными устройствами.
 
-  Затем `Xen Project объявил о выпуске написанной на Ocaml системы
-  виртуализации - Mirage
-  OS <http://xenproject.org/about/in-the-news/162-xen-project-releases-mirage-os-welcomes-arm-as-newest-member.html>`__,
-  работающей поверх Xen, и метящей в ту же нишу, что и `OSv от Cloudius
-  Systems </content/Еще-одна-совершенно-новая-облачная-система-osv>`__,
-  но предлагающей разрабатывать целевое ПО на Ocaml. Коллеги-аналитики
-  уже `обсуждают маркетинговые перспективы системы на
-  OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38621>`__. А
-  мы сейчас обсуждаем возможность выступления на нашем следующем ивенте
-  представителя Cloudius Systems, с обзором перспективных систем
-  виртуализации, так что не пропустите.
+Месяц выдался богатым на новые гипервизоры. Сначала разработчик Qemu, инженер
+Siemens, Jan Kiszka, объявил о выходе нового гипервизора, `Jailhouse
+<http://thread.gmane.org/gmane.comp.emulators.kvm.devel/116825>`__,
+предназначенного для запуска real-time приложений и операционных систем внутри
+Linux (новость `уже обсуждается на OpenNET.ru
+<http://www.opennet.ru/opennews/art.shtml?num=38473>`__).
 
-| Отступив от темы виртуализации, наш коллега, `Rich W.M.
-  Jones <http://people.redhat.com/~rjones/>`__ постоянно заявляет, что
-  ставка на Ocaml, это не так и плохо. Ему часто задают вопросы, почему
-  virt-builder написан на Ocaml? И наконец-то `он написал пост об
-  этом <http://rwmj.wordpress.com/2013/11/11/why-is-virt-builder-written-in-ocaml/>`__.
+Затем `Xen Project объявил о выпуске написанной на Ocaml системы виртуализации
+- Mirage OS
+<http://xenproject.org/about/in-the-news/162-xen-project-releases-mirage-os-welcomes-arm-as-newest-member.html>`__,
+работающей поверх Xen, и метящей в ту же нишу, что и `OSv от Cloudius Systems
+</content/Еще-одна-совершенно-новая-облачная-система-osv>`__, но предлагающей
+разрабатывать целевое ПО на Ocaml. Коллеги-аналитики уже `обсуждают
+маркетинговые перспективы системы на OpenNET.ru
+<http://www.opennet.ru/opennews/art.shtml?num=38621>`__. А мы сейчас обсуждаем
+возможность выступления на нашем следующем ивенте представителя Cloudius
+Systems, с обзором перспективных систем виртуализации, так что не пропустите.
 
-  Сразу сообщим заключительный вывод автора - Ocaml, это хорошо, а если
-  вы программист, но не понимаете его, то вам нужно сменить профессию на
-  более соответствующую вашему низкому уровню интеллекта. Так то.
+Отступив от темы виртуализации, наш коллега, `Rich W.M.  Jones
+<http://people.redhat.com/~rjones/>`__ постоянно заявляет, что ставка на Ocaml,
+это не так и плохо. Ему часто задают вопросы, почему virt-builder написан на
+Ocaml? И наконец-то `он написал пост об этом
+<http://rwmj.wordpress.com/2013/11/11/why-is-virt-builder-written-in-ocaml/>`__.
+Сразу сообщим заключительный вывод автора - Ocaml, это хорошо, а если вы
+программист, но не понимаете его, то вам нужно сменить профессию на более
+соответствующую вашему низкому уровню интеллекта. Так то.
 
 
-|image0|
+.. image:: http://troll-face.ru/static/images/okay_guy.jpg
+   :align: center
 
-| 
-| Возвращаясь к виртуализации - разработчики OSv, Cloudius Systems,
-  `присоединились к Linux
-  Foundation <http://www.linuxfoundation.org/news-media/announcements/2013/12/cloudius-systems-hsa-foundation-and-valve-join-linux-foundation>`__.
+Возвращаясь к виртуализации - разработчики OSv, Cloudius Systems,
+`присоединились к Linux Foundation
+<http://www.linuxfoundation.org/news-media/announcements/2013/12/cloudius-systems-hsa-foundation-and-valve-join-linux-foundation>`__.
+Поздравляем!
 
-  Поздравляем!
-| В Fedora, наконец-то, `включили
-  Docker <http://goldmann.pl/blog/2013/12/03/even-more-docker-fedora-news/>`__!
-  Пакет называется
-  `docker-io <http://koji.fedoraproject.org/koji/packageinfo?packageID=17053>`__,
-  т.к. имя docker уже было занято какой-то никому не нужной утилитой для
-  замшелого window manager из 1990х. Для включения пришлось закрыть 19
-  багов. Включили `недавно вышедший релиз
-  0.7 <http://blog.docker.io/2013/11/docker-0-7-docker-now-runs-on-any-linux-distribution/>`__,
-  в котором благодаря Red Hat больше не требуются Ubuntu-специфичные
-  патчи для ядра. Участник проектов GNOME и Fedora, `Alexander
-  Larsson <https://www.openhub.net/accounts/alexl>`__, дал
-  `интервью <http://opensource.com/business/13/11/docker-fedora-red-hat-collaboration>`__,
-  в котором рассказал, как протекал процесс включения в Fedora, зачем
-  это было нужно, и как это изменит обычный процесс работы с
-  виртуальными машинами (в пользу контейнеров).
+В Fedora, наконец-то, `включили Docker
+<http://goldmann.pl/blog/2013/12/03/even-more-docker-fedora-news/>`__!  Пакет
+называется `docker-io
+<http://koji.fedoraproject.org/koji/packageinfo?packageID=17053>`__, т.к. имя
+docker уже было занято какой-то никому не нужной утилитой для замшелого window
+manager из 1990х. Для включения пришлось закрыть 19 багов. Включили `недавно
+вышедший релиз 0.7
+<http://blog.docker.io/2013/11/docker-0-7-docker-now-runs-on-any-linux-distribution/>`__,
+в котором благодаря Red Hat больше не требуются Ubuntu-специфичные патчи для
+ядра. Участник проектов GNOME и Fedora, `Alexander Larsson
+<https://www.openhub.net/accounts/alexl>`__, дал `интервью
+<http://opensource.com/business/13/11/docker-fedora-red-hat-collaboration>`__,
+в котором рассказал, как протекал процесс включения в Fedora, зачем это было
+нужно, и как это изменит обычный процесс работы с виртуальными машинами (в
+пользу контейнеров).
 
-| Вообще, именно с Docker связывают свои надежды довольно много людей. В
-  нем `видят подход к безопасности виртуализации
-  будущего <http://www.esecurityplanet.com/open-source-security/is-docker-the-future-of-virtualization-security.html>`__
-  или даже `будущее
-  Cloud-технологий <http://www.wired.com/wiredenterprise/2013/11/docker-linux>`__.
+Вообще, именно с Docker связывают свои надежды довольно много людей. В нем
+`видят подход к безопасности виртуализации будущего
+<http://www.esecurityplanet.com/open-source-security/is-docker-the-future-of-virtualization-security.html>`__
+или даже `будущее Cloud-технологий
+<http://www.wired.com/wiredenterprise/2013/11/docker-linux>`__.  Недаром `на
+прошедшем в Гонконге OpenStack саммите к проекту был проявлен заметный интерес
+<http://www.wired.com/wiredenterprise/2013/11/docker-linux>`__.  Тем не менее,
+традиционный Qemu/KVM свое еще покажет, и у нас есть кое-какие новости.
 
-  Недаром `на прошедшем в Гонконге OpenStack саммите к проекту был
-  проявлен заметный
-  интерес <http://www.wired.com/wiredenterprise/2013/11/docker-linux>`__.
+До нас дошли слухи, что один из больших пользователей Xen решил начать переход
+своей инфраструктуры на Qemu/KVM, и этот переход будет фатален для всего
+проекта Xen. Если мы в ближайшее время услышим подтверждение тому, что сказал
+нам наш скромный и нетщеславный информатор, то мы обязательно назовем имя
+компании. Это, конечно, непроверенная информация, но отказ от Xen в пользу Qemu
+не может не радовать.
 
-  Тем не менее, традиционный Qemu/KVM свое еще покажет, и у нас есть
-  кое-какие новости.
+Конечно, еще более радуют истории отказа от проприетарных средств виртуализации
+в пользу, но тут и так понятно, что процесс идет - современная виртуализация,
+это прежде всего виртуализация для последующей консолидации (т.е. в облака), а
+тут открытые решения явно выглядят лучше, и попытавшись сначала бороться,
+проприетарные вендоры пытаются впрыгнуть в поезд (`причем порой довольно
+успешно </content/Облачные-новости>`__).
 
-| До нас дошли слухи, что один из больших пользователей Xen решил начать
-  переход своей инфраструктуры на Qemu/KVM, и этот переход будет фатален
-  для всего проекта Xen. Если мы в ближайшее время услышим подтверждение
-  тому, что сказал нам наш скромный и нетщеславный информатор, то мы
-  обязательно назовем имя компании. Это, конечно, непроверенная
-  информация, но отказ от Xen в пользу Qemu не может не радовать.
+Разработчик Kernel и Qemu/KVM, бывший инженер Red Hat и нынешний разработчик
+компании Cloudius Systems, `Avi Kivity
+<http://www.linkedin.com/in/avikivity>`__ дал `интервью
+<http://www.eweek.com/cloud/how-did-kvm-virtualization-get-into-the-linux-kernel.html/>`__,
+в котором рассказал, насколько сложно или просто было добиться включения KVM в
+kernel.
 
-  Конечно, еще более радуют истории отказа от проприетарных средств
-  виртуализации в пользу, но тут и так понятно, что процесс идет -
-  современная виртуализация, это прежде всего виртуализация для
-  последующей консолидации (т.е. в облака), а тут открытые решения явно
-  выглядят лучше, и попытавшись сначала бороться, проприетарные вендоры
-  пытаются впрыгнуть в поезд (`причем порой довольно
-  успешно </content/Облачные-новости>`__).
-
-| Разработчик Kernel и Qemu/KVM, бывший инженер Red Hat и нынешний
-  разработчик компании Cloudius Systems, `Avi
-  Kivity <http://www.linkedin.com/in/avikivity>`__ дал
-  `интервью <http://www.eweek.com/cloud/how-did-kvm-virtualization-get-into-the-linux-kernel.html/>`__,
-  в котором рассказал, насколько сложно или просто было добиться
-  включения KVM в kernel. После его ухода проект не потерял в динамике,
-  и недавно инженер Amazon, бывший инженер IBM, `Anthony
-  Liguori <https://www.openhub.net/accounts/aliguori>`__, объявил о выходе
-  `Qemu версии
-  1.7 <http://thread.gmane.org/gmane.comp.emulators.qemu/246050>`__. В
-  этой версии было внедрено довольно много интересного:
+После его ухода проект не потерял в динамике, и недавно инженер Amazon, бывший
+инженер IBM, `Anthony Liguori <https://www.openhub.net/accounts/aliguori>`__,
+объявил о выходе `Qemu версии 1.7
+<http://thread.gmane.org/gmane.comp.emulators.qemu/246050>`__. В этой версии
+было внедрено довольно много интересного:
 
 -  В гостевых системах PowerPC теперь поддерживается дамп памяти
 -  Улучшена поддержка USB 3.0
@@ -143,41 +134,33 @@
 -  TCG теперь поддерживает любимую некоторыми гентушниками `x32
    ABI </content/Будет-ли-x32-архитектура-в-fedora>`__
 
-| 
-| `Обязательно ознакомьтесь с полным списком
-  изменений <http://wiki.qemu.org/ChangeLog/1.7>`__. И тут же проект
-  начал работу над фичами версии 2.0. Antony кратко рассказал о них в
-  своей презентации на `CloudOpen
-  2013 </content/Выложили-видеозаписи-с-linuxcon-и-cloudopen-2013>`__.
+`Обязательно ознакомьтесь с полным списком изменений
+<http://wiki.qemu.org/ChangeLog/1.7>`__.
 
-  Если кто-то пропустил, то `вот его
-  презентация <http://events.linuxfoundation.org/sites/events/files/slides/cloudopen-liguori.pdf>`__
-  и `видеозапись его
-  выступления <http://www.youtube.com/watch?v=VZSH9RzCl-k>`__. Это,
-  конечно, пока по большей части планы, но одно можно сказать
-  определенно - раз IBM пообещал, что в 2014 году `Qemu/KVM будет
-  работать на микропроцессорах архитектуры
-  Power <http://www.zdnet.com/ibm-will-be-bringing-kvm-linux-virtualization-to-power-in-2014-7000024039/>`__,
-  то это точно будет. Раньше они с Power продавали свой проприетарный
-  PowerVM, но похоже, что в лесу что-то произошло.
+И тут же проект начал работу над фичами версии 2.0. Antony кратко рассказал о
+них в своей презентации на `CloudOpen 2013
+</content/Выложили-видеозаписи-с-linuxcon-и-cloudopen-2013>`__.  Если кто-то
+пропустил, то `вот его презентация
+<http://events.linuxfoundation.org/sites/events/files/slides/cloudopen-liguori.pdf>`__
+и `видеозапись его выступления <http://www.youtube.com/watch?v=VZSH9RzCl-k>`__.
+Это, конечно, пока по большей части планы, но одно можно сказать определенно -
+раз IBM пообещал, что в 2014 году `Qemu/KVM будет работать на микропроцессорах
+архитектуры Power
+<http://www.zdnet.com/ibm-will-be-bringing-kvm-linux-virtualization-to-power-in-2014-7000024039/>`__,
+то это точно будет. Раньше они с Power продавали свой проприетарный PowerVM, но
+похоже, что в лесу что-то произошло.
 
-| И забавная новость. В то время, как открытые стандарты (ну, хотя-бы
-  гибридные) виртуализации и облачных технологий захватывают рынки, `от
-  Microsoft разбегаются немногочисленные пользователи их
-  виртуализационных
-  решений <http://www.channelregister.co.uk/2013/12/12/feature_microsoft_caught_in_virtual_monkey_trap/>`__.
+И забавная новость. В то время, как открытые стандарты (ну, хотя-бы гибридные)
+виртуализации и облачных технологий захватывают рынки, `от Microsoft
+разбегаются немногочисленные пользователи их виртуализационных решений
+<http://www.channelregister.co.uk/2013/12/12/feature_microsoft_caught_in_virtual_monkey_trap/>`__.
+Проблема в том, что обилие угроз в адрес пользователя в договорах и лицензиях
+на продукты Microsoft приводит к тому, что даже если щедро оплатить все из них,
+то становится просто непонятно, не нарушишь ли ты очередной закон, сделав
+что-нибудь на базе купленного задорого решения.
 
-  Проблема в том, что обилие угроз в адрес пользователя в договорах и
-  лицензиях на продукты Microsoft приводит к тому, что даже если щедро
-  оплатить все из них, то становится просто непонятно, не нарушишь ли ты
-  очередной закон, сделав что-нибудь на базе купленного задорого
-  решения.
-
-
-|image1|
-
-.. |image0| image:: http://troll-face.ru/static/images/okay_guy.jpg
-.. |image1| image:: http://fc05.deviantart.net/fs7/i/2005/217/4/b/The_Seven_Deadly_Sins__AVARICE_by_blackeri.jpg
+.. image:: http://fc05.deviantart.net/fs7/i/2005/217/4/b/The_Seven_Deadly_Sins__AVARICE_by_blackeri.jpg
+   :align: center
    :width: 450px
    :height: 600px
    :target: http://dahlig.deviantart.com/art/The-Seven-Deadly-Sins-AVARICE-21405868

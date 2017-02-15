@@ -1,7 +1,7 @@
 .. title: Участие в мероприятиях
 .. slug: Участие-в-мероприятиях
 .. date: 2012-07-03 12:22:15
-.. tags: schedule
+.. tags: schedule, erlang
 .. category: мероприятия
 .. link:
 .. description:

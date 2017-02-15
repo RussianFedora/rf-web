@@ -1,7 +1,7 @@
 .. title: Erlang получает поддержку systemd!
 .. slug: erlang-получает-поддержку-systemd
 .. date: 2013-12-19 01:01:33
-.. tags:
+.. tags: erlang, systemd, travelping, journald, basho, opensuse
 .. category:
 .. link:
 .. description:

@@ -1,8 +1,8 @@
 .. title: Выпуск Fedora 24!
 .. slug: Выпуск-fedora-24
 .. date: 2016-06-21 18:28:31
-.. tags:
-.. category:
+.. tags: erlang, golang, docker, node.js, python, systemd, 
+.. category: Fedora Changes
 .. link:
 .. description:
 .. type: text
@@ -11,9 +11,9 @@
 **Это архивная статья**
 
 
-| После нескольких переносов даты релиза, в последнее время ставших
-  закономерностью, состоялся выпуск Fedora 24! Как обычно, обновились
-  версии **основных системных компонентов и прикладного ПО**:
+После нескольких переносов даты релиза, в последнее время ставших
+закономерностью, состоялся выпуск Fedora 24! Как обычно, обновились версии
+**основных системных компонентов и прикладного ПО**:
 
 -  kernel 4.5
 -  glibc 2.23
@@ -85,14 +85,12 @@
 -  `разделение пакетов
    systemd <https://fedoraproject.org/wiki/Changes/systemd_package_split>`__
 
-| Также стоит отметить готовность репозиториев `Russian
-  Fedora <http://mirror.yandex.ru/fedora/russianfedora/russianfedora/>`__
-  для Fedora 24. Образы RFRemix 24 уже на подходе!
-| >>> `Загрузить <http://getfedora.org>`__
-| >>> `Обновление с предыдущих
-  выпусков <http://fedoraproject.org/wiki/Upgrading>`__
-| >>> `Примечания к
-  выпуску <https://docs.fedoraproject.org/en-US/Fedora/24/html/Release_Notes/>`__
-| >>> `Известные
-  ошибки <http://fedoraproject.org/wiki/Common_F24_bugs>`__
-| >>> `Подробности <http://fedoramagazine.org/fedora-24-released/>`__
+Также стоит отметить готовность репозиториев `Russian Fedora
+<http://mirror.yandex.ru/fedora/russianfedora/russianfedora/>`__ для Fedora 24.
+Образы RFRemix 24 уже на подходе!
+
+>>> `Загрузить <http://getfedora.org>`__
+>>> `Обновление с предыдущих выпусков <http://fedoraproject.org/wiki/Upgrading>`__
+>>> `Примечания к выпуску <https://docs.fedoraproject.org/en-US/Fedora/24/html/Release_Notes/>`__
+>>> `Известные ошибки <http://fedoraproject.org/wiki/Common_F24_bugs>`__
+>>> `Подробности <http://fedoramagazine.org/fedora-24-released/>`__

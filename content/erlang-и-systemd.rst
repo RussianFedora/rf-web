@@ -1,7 +1,7 @@
 .. title: Erlang и systemd
 .. slug: erlang-и-systemd
 .. date: 2014-07-13 17:50:18
-.. tags:
+.. tags: erlang, systemd, redhat, rabbitmq, openstack, couchdb
 .. category:
 .. link:
 .. description:
@@ -22,24 +22,22 @@ Kornilov </content/erlang-продолжает-получать-поддержк
 notification <http://pkgs.fedoraproject.org/cgit/erlang.git/commit/?id=0585732>`__,
 что повышает надежность старта приложений, требующих запущенного epmd.
 
-Благодаря новой библиотеке
-`erlang-sd\_notify <https://github.com/lemenkov/erlang-sd_notify>`__,
-для поддержки system notification, инженеру Red Hat, `John
-Eckersberg <https://github.com/jeckersb>`__, удалось `изменить типа
-systemd-сервиса для RabbitMQ на
-Notify <http://pkgs.fedoraproject.org/cgit/rabbitmq-server.git/commit/?id=eea61e0>`__
-(пользователи Red Hat OpenStack 5.0 `смогут воспользоваться результатами
-нашей работы <https://rhn.redhat.com/errata/RHEA-2014-0845.html>`__),
-что резко повысит надежность запуска RabbitMQ в облаках. До сих пор
-`SysV init-скрипт RabbitMQ содержал большое количество
-хаков <https://bugzilla.redhat.com/show_bug.cgi?id=1112770#c0>`__, и все
-равно `часто ничего не
-работало <https://bugzilla.redhat.com/show_bug.cgi?id=1104193#c2>`__.
-
+Благодаря новой библиотеке `erlang-sd\_notify
+<https://github.com/lemenkov/erlang-sd_notify>`__, для поддержки system
+notification, инженеру Red Hat, `John Eckersberg
+<https://github.com/jeckersb>`__, удалось `изменить типа systemd-сервиса для
+RabbitMQ на Notify
+<http://pkgs.fedoraproject.org/cgit/rabbitmq-server.git/commit/?id=eea61e0>`__
+(пользователи Red Hat OpenStack 5.0 `смогут воспользоваться результатами нашей
+работы <https://rhn.redhat.com/errata/RHEA-2014-0845.html>`__), что резко
+повысит надежность запуска RabbitMQ в облаках. До сих пор `SysV init-скрипт
+RabbitMQ содержал большое количество хаков
+<https://bugzilla.redhat.com/show_bug.cgi?id=1112770#c0>`__, и все равно `часто
+ничего не работало <https://bugzilla.redhat.com/show_bug.cgi?id=1104193#c2>`__.
 Такова ненадежность и хрупкость портянок на Bash, из которых состоят
-SysV-скрипты. И это, между прочим, ПО уровня Enterprise, на котором
-работают миллионные и миллиардные сервисы, так что понятно, что творится
-в других случаях.
+SysV-скрипты. И это, между прочим, ПО уровня Enterprise, на котором работают
+миллионные и миллиардные сервисы, так что понятно, что творится в других
+случаях.
 
 Помимо этого, разработчик Litecoin и Bitcoin, основатель Fedora
 Community, `Warren Togami <https://github.com/wtogami>`__, взялся за
