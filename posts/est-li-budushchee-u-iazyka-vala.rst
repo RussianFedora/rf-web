@@ -31,5 +31,5 @@
 <https://internals.rust-lang.org/t/rust-and-gnome-meeting-notes/4339>`_.
 
 Мы революцию не проспим - у нас уже есть `Fedora Rust SIG
-<https://fedoraproject.org/wiki/SIGs/Rust>`_
+<https://fedoraproject.org/wiki/SIGs/Rust>`_.
 
