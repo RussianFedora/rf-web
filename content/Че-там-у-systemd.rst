@@ -1,7 +1,7 @@
 .. title: "Че там у systemd"
 .. slug: Че-там-у-systemd
 .. date: 2015-06-24 10:50:27
-.. tags:
+.. tags: systemd, kdbus, kernel, debian, containers, criu, udisks
 .. category:
 .. link:
 .. description:
@@ -73,11 +73,9 @@ systemd-nspawn <https://github.com/systemd/systemd/issues/258>`__. Мы
 использования, но, к сожалению, Lennart отказался оценить перспективы
 этого решения, т.к. `мол CRIU не поддерживает 100% имеющегося
 ПО <https://github.com/systemd/systemd/issues/258#issuecomment-112825756>`__.
-
 Очень и очень печально, чего уж там.
 
 Ну и напоследок, новость не о systemd, но о платформе systemd/Linux.
-
 Наши коллеги, вместе с нашими друзьями из Canonical и Debian, недавно
 представили `уже вторую официальную версию
 storaged <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/208289>`__,
@@ -85,4 +83,3 @@ storaged <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/208289>`__,
 полностью управляемого по D-Bus (kdbus / sd-bus). Стандартизация
 стремительно наступает на юниксвэйную свободу выбора из нескольких
 вариантов.
-
