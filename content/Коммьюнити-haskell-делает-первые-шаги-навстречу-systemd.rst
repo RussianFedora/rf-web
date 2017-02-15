@@ -1,7 +1,7 @@
 .. title: Коммьюнити Haskell делает первые шаги навстречу systemd
 .. slug: Коммьюнити-haskell-делает-первые-шаги-навстречу-systemd
 .. date: 2013-10-23 11:20:13
-.. tags:
+.. tags: haskell, systemd, golang, coreos, etcd
 .. category:
 .. link:
 .. description:

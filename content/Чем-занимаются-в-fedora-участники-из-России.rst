@@ -1,8 +1,8 @@
 .. title: Чем занимаются в Fedora участники из России?
 .. slug: Чем-занимаются-в-fedora-участники-из-России
 .. date: 2012-05-18 14:49:49
-.. tags:
-.. category:
+.. tags: community
+.. category: Fedora Changes
 .. link:
 .. description:
 .. type: text

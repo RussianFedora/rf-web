@@ -1,7 +1,7 @@
 .. title: Слияния и объединения
 .. slug: Слияния-и-объединения
 .. date: 2015-09-01 11:05:01
-.. tags:
+.. tags: vmware, openstack, containers, clouds, amqp, rabbitmq, qpid, erlang, zeromq, redhat, mirantis, coreos, 
 .. category:
 .. link:
 .. description:
@@ -49,8 +49,12 @@ ZeroMQ <https://www.facebook.com/oleg.i.tsarev/posts/10206505560627604>`__.
 
 Получилось внушительно.
 
-|image0|
+.. image:: http://s00.yaplakal.com/pics/pics_original/3/0/0/612003.jpg
+   :width: 400px
+   :height: 300px
+
 **Коллеги узнали, что ты решил использовать ZeroMQ**
+
 Конечно, с RabbitMQ `есть нюансы
 использования <http://www.refactorium.com/distributed_systems/messaging/rabbit/>`__,
 все-таки CAP-теорему так просто не объехать, но все ведущие
@@ -81,8 +85,3 @@ Sachs <http://fortune.com/2015/08/24/goldman-sachs-backs-mirantis-openstack/>`__
 Wars <https://en.wikipedia.org/wiki/Unix_wars>`__, только про
 OpenStack), но в мире OSS воевать непросто да и бессмысленно - лучше
 сотрудничать.
-
-
-.. |image0| image:: http://s00.yaplakal.com/pics/pics_original/3/0/0/612003.jpg
-   :width: 400px
-   :height: 300px

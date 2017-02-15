@@ -1,7 +1,7 @@
 .. title: Референсная реализация языка Go доступна в Fedora
 .. slug: Референсная-реализация-языка-go-доступна-в-fedora
 .. date: 2013-06-13 10:23:22
-.. tags:
+.. tags: gccgo, golang, iron.io
 .. category:
 .. link:
 .. description:

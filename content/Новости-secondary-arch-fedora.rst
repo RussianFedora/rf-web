@@ -1,7 +1,7 @@
 .. title: Новости secondary arch Fedora
 .. slug: Новости-secondary-arch-fedora
 .. date: 2012-06-16 00:19:40
-.. tags:
+.. tags: ocaml, linaro, kernel
 .. category:
 .. link:
 .. description:
@@ -12,16 +12,15 @@
 
 
 `Richard W.M. Jones <http://people.redhat.com/~rjones/>`__ завершил
-портирование Ocaml на архитектуру PPC64. Результат доступен в
-`git-репозитории <http://git.fedorahosted.org/git/?p=fedora-ocaml.git>`__.
+портирование Ocaml на архитектуру PPC64. Результат доступен в `git-репозитории
+<http://git.fedorahosted.org/git/?p=fedora-ocaml.git>`__.  Успел как раз к
+официальному `анонсу выхода
+<http://lists.fedoraproject.org/pipermail/ppc/2012-June/001717.html>`__ Fedora
+17 для архитектур PowerPC/PPC64/PPC64v7.
 
-Успел как раз к официальному `анонсу
-выхода <http://lists.fedoraproject.org/pipermail/ppc/2012-June/001717.html>`__
-Fedora 17 для архитектур PowerPC/PPC64/PPC64v7. А в это время инженер
-Calxeda, Mark Langsdorf, представил
-`патч <http://thread.gmane.org/gmane.linux.redhat.fedora.arm/3388>`__
-для запуска Fedora 17 на серверах их производства, который тут же был
-принят.
+А в это время инженер Calxeda, Mark Langsdorf, представил `патч
+<http://thread.gmane.org/gmane.linux.redhat.fedora.arm/3388>`__ для запуска
+Fedora 17 на серверах их производства, который тут же был принят.
 
 Также надо отметить прошедшее недавно мероприятие - `Linaro
 Connect <https://plus.google.com/103294826956432430431/about>`__, на

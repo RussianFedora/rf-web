@@ -1,7 +1,7 @@
 .. title: Различия между kdbus и Binder
 .. slug: Различия-между-kdbus-и-binder
 .. date: 2014-01-16 11:00:01
-.. tags:
+.. tags: kdbus, android 
 .. category:
 .. link:
 .. description:

@@ -1,7 +1,7 @@
 .. title: Закончился GUADEC
 .. slug: Закончился-guadec
 .. date: 2014-07-31 17:12:53
-.. tags: guadec
+.. tags: guadec, gnome, libreoffice, wayland
 .. category: мероприятия
 .. link:
 .. description:

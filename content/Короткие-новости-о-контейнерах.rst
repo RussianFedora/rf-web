@@ -27,7 +27,7 @@ GNOME предлагает запускать в контейнерах граф
 
 
 .. image:: https://hsto.org/getpro/habr/comment_images/ae7/a02/a05/ae7a02a059319a7a85cddf73b67a593c.jpg
-        :align: center
+   :align: center
 
 **Анонимные аналитики негативно оценивают грядущие улучшения в
 systemd/Linux платформе**

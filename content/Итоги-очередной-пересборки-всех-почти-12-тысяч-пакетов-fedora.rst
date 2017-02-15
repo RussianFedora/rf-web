@@ -1,8 +1,8 @@
 .. title: Итоги очередной пересборки всех почти 12 тысяч пакетов Fedora
 .. slug: Итоги-очередной-пересборки-всех-почти-12-тысяч-пакетов-fedora
 .. date: 2012-07-23 09:34:19
-.. tags:
-.. category:
+.. tags: gcc
+.. category: Fedora Changes
 .. link:
 .. description:
 .. type: text

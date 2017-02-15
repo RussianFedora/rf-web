@@ -1,7 +1,7 @@
 .. title: Разработка systemd переехала на GitHub!
 .. slug: Разработка-systemd-переехала-на-github
 .. date: 2015-06-02 21:47:44
-.. tags:
+.. tags: systemd, github, community, kernel, testing, ocaml
 .. category:
 .. link:
 .. description:
