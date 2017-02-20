@@ -1,7 +1,7 @@
 .. title: Разработчики CoreOS перешли на Kubernetes
 .. slug: razrabotchiki-coreos-pereshli-na-kubernetes
 .. date: 2017-02-11 12:30:23 UTC+03:00
-.. tags: coreos, fleet, kubernetes, containers 
+.. tags: coreos, fleet, kubernetes, containers, eol
 .. category: 
 .. link: 
 .. description: 
