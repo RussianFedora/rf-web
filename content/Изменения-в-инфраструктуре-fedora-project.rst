@@ -1,7 +1,7 @@
 .. title: Изменения в инфраструктуре Fedora Project.
 .. slug: Изменения-в-инфраструктуре-fedora-project
 .. date: 2012-08-22 14:48:09
-.. tags:
+.. tags: fedora-infra, gluster, amqp, qpid, zeromq
 .. category:
 .. link:
 .. description:

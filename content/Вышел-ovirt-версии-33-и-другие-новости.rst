@@ -1,7 +1,7 @@
 .. title: Вышел oVirt версии 3.3 и другие новости
 .. slug: Вышел-ovirt-версии-33-и-другие-новости
 .. date: 2013-09-19 11:18:26
-.. tags:
+.. tags: ovirt, kvm, openstack, gluster, posix, intel, chromium, wayland, google, collabora, wildfly, gnome
 .. category:
 .. link:
 .. description:
@@ -44,32 +44,31 @@ RPi <http://www.linuxfoundation.org/news-media/blogs/browse/2013/09/raspberry-pi
 Collabora, `о чем мы вам уже
 рассказывали </content/Короткие-новости-6>`__.
 
-`Переименнованный из JBoss в WildFly </content/Короткие-новости-5>`__
-известный сервер приложений наконец-то `появился в Fedora 20 под новым
-именем <http://goldmann.pl/blog/2013/09/18/wildfly-is-approaching-fedora/>`__.
-
-При обновлении до Fedora 20 для конечных пользователей ничего не должно
-измениться, но если вы обнаружили недоделку, то напишите в Bugzilla.
-
-Наши коллеги исправят.
+`Переименнованный из JBoss в WildFly </content/Короткие-новости-5>`__ известный
+сервер приложений наконец-то `появился в Fedora 20 под новым именем
+<http://goldmann.pl/blog/2013/09/18/wildfly-is-approaching-fedora/>`__.  При
+обновлении до Fedora 20 для конечных пользователей ничего не должно измениться,
+но если вы обнаружили недоделку, то напишите в Bugzilla.  Наши коллеги
+исправят.
 
 Появился первый обзор грядущей фичи внешнего вида GNOME 3.10 -
 `Client-Side
 Decorations <http://worldofgnome.org/csds-came-to-stay-in-gnome-3-10/>`__.
-
 Выглядит миленько.
 
 Lennart Poettering и его шайка Linux-хулиганов посетили LinuxCon, где
 плодотворно поработали - разработка, исправление ошибок,
 документирование:
-`|image0|
-На фото - так протекает типичный день разработчика
-systemd. <https://plus.google.com/108087225644395745666/posts/QPDbmiSN5JH>`__
+
+.. image:: https://lh5.googleusercontent.com/-JPjDyjfI0nA/UjoxUtsTdcI/AAAAAAAAF_8/eVvrlu0h_ec/w1192-h894-no/13+-+1
+   :align: center
+   :width: 400px
+   :height: 300px
+
+**На фото - так протекает типичный день разработчика systemd.**
+
 И в заключение, опять новость с LinuxCon - `Intel объявил, что
 приближается
 вендокапец <http://www.opennet.ru/opennews/art.shtml?num=37945>`__.
 
 
-.. |image0| image:: https://lh5.googleusercontent.com/-JPjDyjfI0nA/UjoxUtsTdcI/AAAAAAAAF_8/eVvrlu0h_ec/w1192-h894-no/13+-+1
-   :width: 400px
-   :height: 300px

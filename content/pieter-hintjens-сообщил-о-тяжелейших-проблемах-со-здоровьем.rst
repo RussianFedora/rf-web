@@ -1,7 +1,7 @@
 .. title:  Pieter Hintjens сообщил о тяжелейших проблемах со здоровьем
 .. slug: pieter-hintjens-сообщил-о-тяжелейших-проблемах-со-здоровьем
 .. date: 2016-04-19 16:24:40
-.. tags:
+.. tags: amqp, zeromq, community, eol
 .. category:
 .. link:
 .. description:
@@ -38,8 +38,7 @@ Message-oriented Middleware, и `к которым было много
 нельзя переоценить. Что бы дальше ни произошло, мы желаем ему только
 хорошего (насколько это возможно в его ситуации).
 
-|image0|
+.. image:: https://jaxenter.com/wp-content/uploads/2015/07/BoeAWxjB_400x400-300x300.jpeg
+   :align: center
+
 **Кот и Pieter Hintjens**
-
-.. |image0| image:: https://jaxenter.com/wp-content/uploads/2015/07/BoeAWxjB_400x400-300x300.jpeg
-

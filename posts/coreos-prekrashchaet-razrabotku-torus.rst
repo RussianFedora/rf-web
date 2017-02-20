@@ -1,7 +1,7 @@
 .. title: CoreOS прекращает разработку Torus
 .. slug: coreos-prekrashchaet-razrabotku-torus
 .. date: 2017-02-20 13:35:20 UTC+03:00
-.. tags: coreos, torus, dss, eol
+.. tags: coreos, torus, dds, eol
 .. category: 
 .. link: 
 .. description: 
@@ -13,7 +13,7 @@
 `отказывается от дальнейшей разработки Torus
 <https://github.com/coreos/torus/commit/4df3e56>`_.
 
-Torus, это был проект `распределенного хранилища (DSS)
+Torus, это был проект `распределенного хранилища (DDS)
 <https://en.wikipedia.org/wiki/Distributed_data_store>`_, о котором `мы вам
 рассказывали
 </content/coreos-представил-новое-распределенное-хранилище-torus/>`_. С первых

@@ -1,7 +1,7 @@
 .. title: Weave
 .. slug: weave
 .. date: 2014-09-09 17:25:47
-.. tags:
+.. tags: rabbitmq, weave, sdn, golang
 .. category:
 .. link:
 .. description:
@@ -17,7 +17,9 @@
 кластере <http://www.infoq.com/news/2014/09/zettio_releases_weave>`__ -
 `Weave <https://github.com/zettio/weave/>`__.
 
-|image0|
+.. image:: https://raw.githubusercontent.com/zettio/weave/master/docs/deployment.png
+   :algn: center
+
 Weave уже традиционно написан на Go, и позволяет создавать виртуальные
 сети невероятно легко. Хосты могут подключаться и отключаться
 динамически, поддерживается автоконфигурация, и возможно прозрачное
@@ -26,7 +28,3 @@ Weave уже традиционно написан на Go, и позволяе�
 не требующую конфигурации приватную сеть из A,B и C). Опять же, отрадно
 видеть еще одну реализацию `service
 discovery </content/Краткий-обзор-облачных-средств-service-discovery>`__.
-
-
-.. |image0| image:: https://raw.githubusercontent.com/zettio/weave/master/docs/deployment.png
-

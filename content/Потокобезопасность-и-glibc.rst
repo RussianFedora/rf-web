@@ -1,7 +1,7 @@
 .. title: Потокобезопасность и Glibc
 .. slug: Потокобезопасность-и-glibc
 .. date: 2014-09-12 16:39:54
-.. tags:
+.. tags: glibc, posix
 .. category:
 .. link:
 .. description:
