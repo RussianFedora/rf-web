@@ -2,7 +2,7 @@
 .. slug: одобрено-еще-несколько-новых-фич-fedora-17
 .. date: 2012-01-24 12:54:49
 .. tags:
-.. category:
+.. category: Fedora Changes
 .. link:
 .. description:
 .. type: text

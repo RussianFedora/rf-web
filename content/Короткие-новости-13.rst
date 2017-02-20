@@ -1,7 +1,7 @@
 .. title: Короткие новости
 .. slug: Короткие-новости-13
 .. date: 2013-09-16 11:08:52
-.. tags: импортозамещение, tizen, systemd, wayland, x,org, gnome, coreutils, rhel, ocaml, voip
+.. tags: импортозамещение, tizen, systemd, wayland, x11, gnome, coreutils, rhel, ocaml, voip
 .. category:
 .. link:
 .. description:

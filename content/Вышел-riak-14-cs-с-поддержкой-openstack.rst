@@ -1,7 +1,7 @@
 .. title: Вышел Riak 1.4 CS с поддержкой OpenStack
 .. slug: Вышел-riak-14-cs-с-поддержкой-openstack
 .. date: 2013-08-13 22:19:33
-.. tags:
+.. tags: riak, dds, openstack, posix, clouds
 .. category:
 .. link:
 .. description:
@@ -41,13 +41,8 @@ POSIX вымирающим видом в
 На фото (из серии "наши лица") - участник Fedora доволен тем, как
 работает Riak из коробки.
 
-+---------------------------------------------------------------------------------------------------------------------+
-| |image0|                                                                                                            |
-+---------------------------------------------------------------------------------------------------------------------+
-| Альбом: `2012-11-11 <https://picasaweb.google.com/100847761632965615215/20121111?authuser=0&feat=embedwebsite>`__   |
-+---------------------------------------------------------------------------------------------------------------------+
-
-.. |image0| image:: https://lh4.googleusercontent.com/-_9So1xL9eKY/UJ_Frjx-c7I/AAAAAAAAHAg/QYrMLJM0P_o/s400/me_riak_t_shirt.jpg
+.. image:: https://lh4.googleusercontent.com/-_9So1xL9eKY/UJ_Frjx-c7I/AAAAAAAAHAg/QYrMLJM0P_o/s400/me_riak_t_shirt.jpg
+   :align: center
    :width: 400px
    :height: 400px
    :target: https://picasaweb.google.com/lh/photo/I4WDMbYGajpJBHss6I85r9MTjNZETYmyPJy0liipFm0?feat=embedwebsite

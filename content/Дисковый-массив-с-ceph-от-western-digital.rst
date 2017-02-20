@@ -1,7 +1,7 @@
 .. title: Дисковый массив с Ceph от Western Digital 
 .. slug: Дисковый-массив-с-ceph-от-western-digital
 .. date: 2016-04-29 14:23:05
-.. tags:
+.. tags: western digital, ceph, redhat, posix, xfs, 
 .. category:
 .. link:
 .. description:
@@ -21,10 +21,13 @@ ethernet-адаптера, объединенные физически в кон
 
 |WaspV3\_PCBA-1|
 |Wasp-8TB-Top-Bot|
+
 Такие вот "умные" 8-терабайтные диски собираются по 500 в стандартную
 стойку от SuperMicro, и образуют 4-петабайтный массив с возможностью
 отдачи данных до 10-гигабит/c.
+
 |Front view - 25 new enclosures-small|
+
 Внутри используется Ceph, и весь массив проектировался с помощью
 инженеров Red Hat, чьим подразделением и является компания Inktank,
 `купленная Red Hat пару лет

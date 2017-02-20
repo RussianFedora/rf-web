@@ -1,7 +1,7 @@
 .. title: Слияния и объединения
 .. slug: Слияния-и-объединения
 .. date: 2015-09-01 11:05:01
-.. tags: vmware, openstack, containers, clouds, amqp, rabbitmq, qpid, erlang, zeromq, redhat, mirantis, coreos, 
+.. tags: vmware, openstack, containers, clouds, amqp, rabbitmq, qpid, erlang, zeromq, redhat, mirantis, coreos
 .. category:
 .. link:
 .. description:
@@ -50,6 +50,7 @@ ZeroMQ <https://www.facebook.com/oleg.i.tsarev/posts/10206505560627604>`__.
 Получилось внушительно.
 
 .. image:: http://s00.yaplakal.com/pics/pics_original/3/0/0/612003.jpg
+   :align: center
    :width: 400px
    :height: 300px
 

@@ -1,7 +1,7 @@
 .. title: Pulseaudio 9.0
 .. slug: pulseaudio-90
 .. date: 2016-06-23 17:34:19
-.. tags: pulseaudio, memfd
+.. tags: pulseaudio, memfd, posix
 .. category:
 .. link:
 .. description:

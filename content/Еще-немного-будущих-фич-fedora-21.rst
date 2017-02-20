@@ -1,7 +1,7 @@
 .. title: Еще немного будущих фич Fedora 21
 .. slug: Еще-немного-будущих-фич-fedora-21
 .. date: 2014-03-21 12:50:56
-.. tags: systemd, gcc, x.org
+.. tags: systemd, gcc, x11
 .. category: Fedora Changes
 .. link:
 .. description:

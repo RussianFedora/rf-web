@@ -1,15 +1,14 @@
 .. title: Вышел OpenStack Kilo и другие новости
 .. slug: Вышел-openstack-kilo-и-другие-новости
 .. date: 2015-05-04 19:25:49
-.. tags:
-.. category:
+.. tags: openstack, mirantis, redhat, golang, dds, ricon, seagate, kinetic, ceph, gluster, posix, 
+.. category: статистика
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
 **Это архивная статья**
-
 
 `Официально объявлено о выходе OpenStack
 Kilo <https://www.openstack.org/software/kilo/press-release>`__, уже
@@ -21,11 +20,13 @@ OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=42150>`__.
 этой версии OpenStack. Как и всегда радуемся успехам наших
 соотечественников из Mirantis, и ведущей роли наших коллег из Red Hat.
 
-|image0|
-Из интересных новостей стоит отметить инициативу группы разработчиков
-OpenStack по `переписыванию компонентов Swift на
-golang <http://thread.gmane.org/gmane.comp.cloud.openstack.devel/52553>`__.
+.. |image0| image:: https://bitergia.files.wordpress.com/2015/04/companies-contributions.png
+   :align: center
+   :target: http://blog.bitergia.com/2015/04/30/kilo-the-new-openstack-release/
 
+Из интересных новостей стоит отметить инициативу группы разработчиков OpenStack
+по `переписыванию компонентов Swift на golang
+<http://thread.gmane.org/gmane.comp.cloud.openstack.devel/52553>`__.
 Теоретически это должно повысить производительность, а как оно реально
 получится - посмотрим.
 
@@ -80,7 +81,7 @@ platform <http://www.theregister.co.uk/2015/04/24/seagate_to_opensource_kinetics
 preserve the POSIX API will go the way of the dodo bird"*. Может и не
 стоить тащить этот POSIX? Но хозяин-барин, конечно.
 
-Напомним, основной проблемой POSIX, `архитектурно подразумевающей
+Для справки, основной проблемой POSIX, `архитектурно подразумевающей
 существование в системе некоего
 синглтона <https://en.wikipedia.org/wiki/File_locking>`__, эффективно
 упорядочивающего операции над FS самим своим существованием, является
@@ -110,10 +111,7 @@ Twitter лочили бы всю систему, когда кто-нибудь 
 как полагает ряд экспертов, не такая уж и проблема. А вот `отсутствие
 fsck <http://ceph.com/docs/master/cephfs/>`__ - это уже стоп-слово.
 
-|image1|
+.. image:: https://pbs.twimg.com/media/Bx2AO-JCMAIcuHb.jpg
+   :align: center
+
 **Играл с клубком, забыл stop word**
-
-.. |image0| image:: https://bitergia.files.wordpress.com/2015/04/companies-contributions.png
-   :target: http://blog.bitergia.com/2015/04/30/kilo-the-new-openstack-release/
-.. |image1| image:: https://pbs.twimg.com/media/Bx2AO-JCMAIcuHb.jpg
-

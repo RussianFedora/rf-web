@@ -1,7 +1,7 @@
 .. title: Brandon Philips рассказывает о новых фичах etcd 0.5.x
 .. slug: brandon-philips-рассказывает-о-новых-фичах-etcd-05x
 .. date: 2014-11-03 11:32:24
-.. tags:
+.. tags: coreos, etcd
 .. category:
 .. link:
 .. description:

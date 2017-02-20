@@ -1,7 +1,7 @@
 .. title: Статья о CoreOS
 .. slug: Статья-о-coreos
 .. date: 2013-08-22 11:11:08
-.. tags:
+.. tags: coreos
 .. category:
 .. link:
 .. description:
@@ -29,4 +29,3 @@ Garage <http://www.wired.com/wiredenterprise/2013/08/coreos-the-new-linux/>`__.
 Google+ <https://plus.google.com/111049168280159033135/posts/fwFgpk1Tmik>`__
 нашего товарища, Greg Kroah-Hartman, и с `обсуждением на Hacker
 News <https://news.ycombinator.com/item?id=6249724>`__.
-
