@@ -2,7 +2,7 @@
 .. slug: fedora-18-release-party-Москва
 .. date: 2013-01-16 16:49:04
 .. tags:
-.. category:
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
@@ -16,11 +16,9 @@ Fedora 18 Release Party!
 
 **Время проведения:** суббота, 19 января, с 14:00
 
-| 
-| **Место проведения:** `хакспейс "Нейрон" <http://neuronspace.ru/>`__,
-  `Москва, Лужнецкая набережная 2/4, строение 17, офис 444
-  (мансарда) <http://maps.yandex.ru/-/CVF2qW9D>`__.
-
+**Место проведения:** `хакспейс "Нейрон" <http://neuronspace.ru/>`__, `Москва,
+Лужнецкая набережная 2/4, строение 17, офис 444 (мансарда)
+<http://maps.yandex.ru/-/CVF2qW9D>`__.
 
 В программе:
 
@@ -34,20 +32,19 @@ Fedora 18 Release Party!
 -  Много разговоров о жизни и всяком таком
 -  После официальной части - массовый поход на каток
 
-Приглашаются все желающие. Приносите свои железки, большие и маленькие,
-а розетку и подключение к сети предоставим на месте.
-
+Приглашаются все желающие. Приносите свои железки, большие и маленькие, а
+розетку и подключение к сети предоставим на месте.
 
 Регистрация не требуется, но по возможности сообщите нам о своем участии
 через любой из каналов связи - соц.сети
-(`ВК <http://vk.com/russianfedora>`__,
-`FB <http://www.facebook.com/events/472127379491138/>`__,
+(`ВК <https://vk.com/russianfedora>`__,
+`FB <https://www.facebook.com/events/472127379491138/>`__,
 `G+ <https://plus.google.com/events/cmjg00pt3ntan1hrcju7kkn1c5s>`__),
 `джаббер <http://jc.jabber.ru/search.html?search=fedora>`__,
 почту и т.п.
 
-Для тех же, кто не может присоединиться вживую - подключайтесь онлайн,
-через jabber-канал
-`fedora@conference.jabber.ru <http://jc.jabber.ru/search.html?search=fedora>`__
-(вариант с Google Hangouts также рассматривается).
+Для тех же, кто не может присоединиться вживую - подключайтесь онлайн, через
+jabber-канал `fedora@conference.jabber.ru
+<http://jc.jabber.ru/search.html?search=fedora>`__ (вариант с Google Hangouts
+также рассматривается).
 
