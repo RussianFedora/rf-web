@@ -1,8 +1,8 @@
 .. title: Интервью с Christian Hergert об IDE для GNOME – Builder
 .. slug: Интервью-с-christian-hergert-об-ide-для-gnome-–-builder
 .. date: 2015-01-13 02:57:04
-.. tags:
-.. category:
+.. tags: gnome
+.. category: интервью
 .. link:
 .. description:
 .. type: text
