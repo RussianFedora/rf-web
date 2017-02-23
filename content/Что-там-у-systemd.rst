@@ -1,7 +1,7 @@
 .. title: Что там у systemd?
 .. slug: Что-там-у-systemd
 .. date: 2016-04-13 15:50:32
-.. tags:
+.. tags: systemd, kdbus, docker, bsd, github, bmw, automotive
 .. category:
 .. link:
 .. description:
@@ -62,7 +62,6 @@ systemd-фобии, в этом ничего нет. И как только та
 приобретут некий опыть работы с сервисами в продакшене, они задаются
 странными вопросами, порой оканчивающиеся `созданием примитивной
 init-системы <http://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>`__.
-
 Проблематика-то есть, и отрицать ее странно, но systemd это неюниксвэй и
 ужос-ужос, вот и приходится мучаться.
 
@@ -81,12 +80,11 @@ systemd <https://www.opennet.ru/opennews/art.shtml?num=43833>`__. Т.к.
 богатой функциональности GitHub, отсутствующей у ряда свободных (с их
 т.з.) хостингов, удалось легко `прикрутить CI для всех
 пулл-реквестов <https://plus.google.com/+MartinPitti/posts/fjGYfENHo15>`__.
-
 Доступна теперь и формальная статистика, по которой можно `строить
 красивые графики и визуализировать здоровье
 проекта <https://in.waw.pl/~zbyszek/blog/how-is-systemd-doing-on-github.html>`__.
-
 Пока все выглядит хорошо!
+
 И забавная новость - `systemd теперь используется в электромобилях
 BMW <https://geektimes.ru/post/272082/>`__. Как мы и
 `предупреждали </content/systemd-теперь-и-в-вашем-bmw>`__. В ВАЗ 2104

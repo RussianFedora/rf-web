@@ -1,8 +1,8 @@
 .. title: Слайды с выступления Павла Емельянова на Devops Moscow Meetup
 .. slug: Слайды-с-выступления-Павла-Емельянова-на-devops-moscow-meetup
 .. date: 2014-11-03 11:19:51
-.. tags:
-.. category:
+.. tags: parallels, docker, containers, criu
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
