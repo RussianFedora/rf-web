@@ -1,8 +1,8 @@
 .. title: Dan Walsh о том, почему SELinux не защищает Firefox
 .. slug: dan-walsh-о-том-почему-selinux-не-защищает-firefox
 .. date: 2015-08-12 11:05:44
-.. tags:
-.. category:
+.. tags: selinux, firefox, x11, wayland, android, docker, security
+.. category: начинающим
 .. link:
 .. description:
 .. type: text

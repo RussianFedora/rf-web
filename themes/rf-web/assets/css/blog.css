@@ -239,6 +239,11 @@ h6, .h6 {
   color: #999;
 }
 
+/*
+ * Enable center-aligned paragraphs as proposed here:
+ * https://stackoverflow.com/questions/14819093/best-way-to-align-center-a-paragraph-with-restructuredtext
+ */
+.align-center {text-align: center;}
 
 /*
  * Footer

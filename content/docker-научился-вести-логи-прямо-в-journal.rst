@@ -1,7 +1,7 @@
 .. title: Docker научился вести логи прямо в Journal
 .. slug: docker-научился-вести-логи-прямо-в-journal
 .. date: 2015-05-13 12:16:38
-.. tags:
+.. tags: docker, systemd, logging
 .. category:
 .. link:
 .. description:

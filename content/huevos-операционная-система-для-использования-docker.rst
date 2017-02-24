@@ -1,7 +1,7 @@
 .. title: HuevOS - операционная система для использования Docker
 .. slug: huevos-операционная-система-для-использования-docker
 .. date: 2015-02-27 23:22:13
-.. tags:
+.. tags: docker
 .. category:
 .. link:
 .. description:
@@ -17,9 +17,12 @@ HuevOS <https://testingclouds.wordpress.com/2015/02/27/introducing-huevosrancher
 Полагаем, что система будет популярна на около-линуксовых русскоязычных
 ресурсах.
 
-|image0|
-**Символом системы выбран петух.**
-
-.. |image0| image:: https://testingclouds.files.wordpress.com/2015/02/huevos.png
+.. image:: https://testingclouds.files.wordpress.com/2015/02/huevos.png
+   :align: center
    :width: 600px
    :target: https://testingclouds.files.wordpress.com/2015/02/huevos.png
+
+.. class:: align-center
+
+**Символом системы выбран петух.**
+
