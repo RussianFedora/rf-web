@@ -192,30 +192,17 @@
         -  `user <https://habrahabr.ru/search/?q=%5Buser%5D&target_type=posts>`__
 
 
-.. |image1| image:: https://habrastorage.org/files/829/d07/444/829d074443b74f6a95df53a53eebfb7b.png
-   :align: center
-   :width: 200px
-.. |image2| image:: https://habrastorage.org/files/64c/20c/918/64c20c918d5148c3953d88379bdad32e.png
-   :align: center
-.. |image3| image:: https://habrastorage.org/files/ac9/f41/176/ac9f41176ddc48c0a13ab559a4c78845.png
-   :align: center
-.. |image4| image:: https://habrastorage.org/files/8a9/6e0/bea/8a96e0beab6e4e36b274e71e9b50ebf0.png
-   :align: center
-.. |image5| image:: https://habrastorage.org/files/8cc/2bb/04e/8cc2bb04e9464fc0bc9d981770c4a01c.png
-   :align: center
-.. |image6| image:: https://habrastorage.org/files/911/3a1/a48/9113a1a48ef9422e9aaa75f60846fad8.png
-   :align: center
-.. |image7| image:: https://habrastorage.org/files/afd/8ed/592/afd8ed5926724579ada8ee12358e47cd.png
-   :align: center
-.. |image8| image:: https://habrastorage.org/files/055/362/fb1/055362fb184e413bb6a26d2bef7e9cb7.png
-   :align: center
-.. |image9| image:: https://habrastorage.org/files/a92/44f/dea/a9244fdeac2147519701918460b41127.png
-   :align: center
-.. |image10| image:: https://habrastorage.org/files/379/f4d/8a6/379f4d8a6bf4443da05519df94b93422.png
-   :align: center
-.. |image11| image:: https://habrastorage.org/files/5c4/9f6/41a/5c49f641a61c45a19a767f382d5f7650.png
-   :align: center
-.. |image12| image:: https://habrastorage.org/files/52c/35a/ddd/52c35addd0194e2589981ac40313b77b.png
-   :align: center
-.. |image13| image:: https://habrastorage.org/files/559/d30/6a4/559d306a4b8248ad801a7e79e57142e2.png
-   :align: center
+        .. |image1| image:: https://habrastorage.org/files/829/d07/444/829d074443b74f6a95df53a53eebfb7b.png
+           :width: 200px
+        .. |image2| image:: https://habrastorage.org/files/64c/20c/918/64c20c918d5148c3953d88379bdad32e.png
+        .. |image3| image:: https://habrastorage.org/files/ac9/f41/176/ac9f41176ddc48c0a13ab559a4c78845.png
+        .. |image4| image:: https://habrastorage.org/files/8a9/6e0/bea/8a96e0beab6e4e36b274e71e9b50ebf0.png
+        .. |image5| image:: https://habrastorage.org/files/8cc/2bb/04e/8cc2bb04e9464fc0bc9d981770c4a01c.png
+        .. |image6| image:: https://habrastorage.org/files/911/3a1/a48/9113a1a48ef9422e9aaa75f60846fad8.png
+        .. |image7| image:: https://habrastorage.org/files/afd/8ed/592/afd8ed5926724579ada8ee12358e47cd.png
+        .. |image8| image:: https://habrastorage.org/files/055/362/fb1/055362fb184e413bb6a26d2bef7e9cb7.png
+        .. |image9| image:: https://habrastorage.org/files/a92/44f/dea/a9244fdeac2147519701918460b41127.png
+        .. |image10| image:: https://habrastorage.org/files/379/f4d/8a6/379f4d8a6bf4443da05519df94b93422.png
+        .. |image11| image:: https://habrastorage.org/files/5c4/9f6/41a/5c49f641a61c45a19a767f382d5f7650.png
+        .. |image12| image:: https://habrastorage.org/files/52c/35a/ddd/52c35addd0194e2589981ac40313b77b.png
+        .. |image13| image:: https://habrastorage.org/files/559/d30/6a4/559d306a4b8248ad801a7e79e57142e2.png
