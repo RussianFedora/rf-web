@@ -1,7 +1,7 @@
 .. title: Docker перешел на runC!
 .. slug: docker-перешел-на-runc
 .. date: 2016-04-15 17:07:08
-.. tags:
+.. tags: docker, systemd
 .. category:
 .. link:
 .. description:

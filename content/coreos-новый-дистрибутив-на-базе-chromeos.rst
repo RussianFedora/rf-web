@@ -1,7 +1,7 @@
 .. title: CoreOS - новый дистрибутив на базе ChromeOS
 .. slug: coreos-новый-дистрибутив-на-базе-chromeos
 .. date: 2013-07-31 16:44:38
-.. tags:
+.. tags: coreos, clouds, systemd, docker, criu, golang, etcd
 .. category:
 .. link:
 .. description:
