@@ -32,6 +32,6 @@ Docker так, чтобы было одновременно в продакше�
 
         <iframe src="//coub.com/embed/dqujg?muted=false&autostart=false&originalSize=false&startWithHD=false" allowfullscreen="true" frameborder="0" width="640" height="360"></iframe>
 
-.. class:: center
+.. class:: align-center
 
 **Инженеры в целом положительно оценивают перспективы Docker**
