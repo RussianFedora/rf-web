@@ -1,8 +1,8 @@
 .. title: Материалы с GNU Tools Cauldron 2013
 .. slug: Материалы-с-gnu-tools-cauldron-2013
 .. date: 2013-08-21 09:44:49
-.. tags:
-.. category:
+.. tags: gcc, google
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
