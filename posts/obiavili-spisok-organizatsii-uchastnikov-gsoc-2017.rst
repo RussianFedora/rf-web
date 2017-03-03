@@ -2,7 +2,7 @@
 .. slug: obiavili-spisok-organizatsii-uchastnikov-gsoc-2017
 .. date: 2017-02-27 20:39:19 UTC+03:00
 .. tags: gsoc, google, летняя практика
-.. category: мероприятия, начинающим
+.. category: начинающим
 .. link: 
 .. description: 
 .. type: text
