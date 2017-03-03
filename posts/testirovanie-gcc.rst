@@ -10,7 +10,7 @@
 
 Не так давно `вышел SystemTap 3.1
 <https://www.mail-archive.com/linux-kernel@vger.kernel.org/msg1336080.html>`_,
-и в честь этого события хотелось бы поговорить о тестирования.
+и в честь этого события хотелось бы поговорить о тестировании.
 
 Наш коллега, инженер Red Hat, `David Malcolm
 <http://fedoraproject.org/wiki/User:Dmalcolm>`_, опубликовал заметку о том,
