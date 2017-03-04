@@ -1,7 +1,7 @@
 .. title: GPL.next
 .. slug: gplnext
 .. date: 2012-07-04 10:00:11
-.. tags:
+.. tags: legal
 .. category:
 .. link:
 .. description:
