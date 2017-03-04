@@ -1,7 +1,7 @@
 .. title: Выборы в совет директоров OpenStack Foundation
 .. slug: Выборы-в-совет-директоров-openstack-foundation
 .. date: 2015-01-14 16:49:39
-.. tags:
+.. tags: openstack, clouds, elections
 .. category:
 .. link:
 .. description:
@@ -22,7 +22,6 @@ OpenStack Foundation управляется советом директоров,
 
 Выборы этого года `начались 12 января и продлятся до 16
 января <https://www.openstack.org/election/2015-individual-director-election/>`__.
-
 Голосовать могут все, кто обладает хотя бы полугодичным стажем члена
 OpenStack Foundation, что довольно честно.
 

@@ -1,7 +1,7 @@
 .. title: Open CASCADE и Fedora
 .. slug: open-cascade-и-fedora
 .. date: 2013-12-26 13:11:29
-.. tags:
+.. tags: legal, debian, opencascade
 .. category:
 .. link:
 .. description:
@@ -11,51 +11,45 @@
 **Это архивная статья**
 
 
-`Open CASCADE <http://www.opencascade.org/>`__, это широко популярный в
-узких кругах `продукт, сочетающий в себе набор библиотек и средств
-разработки ПО, ориентированного на 3D-моделирование, в особенности
-систем автоматизированного
-проектирования <http://ru.wikipedia.org/wiki/Open_CASCADE_Technology>`__.
-
-На базе фреймворка построены такие продукты, как
-`SALOME <http://www.salome-platform.org/>`__,
-`FreeCAD <http://www.freecadweb.org/>`__ и `ряд проприетарных
-продуктов <http://www.opencascade.org/showroom/screenshots/>`__.
+`Open CASCADE <http://www.opencascade.org/>`__, это широко популярный в узких
+кругах `продукт, сочетающий в себе набор библиотек и средств разработки ПО,
+ориентированного на 3D-моделирование, в особенности систем автоматизированного
+проектирования <http://ru.wikipedia.org/wiki/Open_CASCADE_Technology>`__.  На
+базе фреймворка построены такие продукты, как `SALOME
+<http://www.salome-platform.org/>`__, `FreeCAD <http://www.freecadweb.org/>`__
+и `ряд проприетарных продуктов
+<http://www.opencascade.org/showroom/screenshots/>`__.
 
 В проекте Fedora, разумеется, есть заинтересованные люди, которые в т.ч.
-используют ПО такого уровня, и были попытки включить в репозиторий как
-`Open CASCADE <https://bugzilla.redhat.com/458974>`__, так и
-`FreeCAD <https://bugzilla.redhat.com/459125>`__. К сожалению, они хоть
-и были, но закончились ничем. Дело в том, что Open CASCADE
-распространялся под открытой, но несвободной `Open CASCADE Technology
-Public
-License <https://fedoraproject.org/wiki/Licensing/Open_CASCADE_Technology_Public_License>`__,
+используют ПО такого уровня, и были попытки включить в репозиторий как `Open
+CASCADE <https://bugzilla.redhat.com/458974>`__, так и `FreeCAD
+<https://bugzilla.redhat.com/459125>`__. К сожалению, они хоть и были, но
+закончились ничем. Дело в том, что Open CASCADE распространялся под открытой,
+но несвободной `Open CASCADE Technology Public License
+<https://fedoraproject.org/wiki/Licensing/Open_CASCADE_Technology_Public_License>`__,
 а несвободное ПО и контент запрещены к включению в Fedora. Переговоры с
-разработчиками Open CASCADE об изменении условий лицензирования велись
-как
-`публично <http://www.opencascade.org/org/forum/thread_15859/?forum=3>`__,
-так и по внутренним каналам, и в переговорах и консультациях участвовало
-много известных лиц, как от Fedora Project, так и от Debian Community -
-от нашего коллеги, участника Fedora Legal, юриста SFLC и патентного
-адвоката Red Hat, `Richard
-Fontana <http://en.wikipedia.org/wiki/Richard_Fontana>`__, до `Richard
-Matthew Stallman <http://stallman.org/>`__, но все закончилось
-безрезультатно. В конце концов, сообщество Debian решилось на включение
-Open CASCADE несмотря на очевидное нарушение лицензии будущими
-пользователями пакетов из репозиториев Debian, но потом `удалило почти
-отовсюду <http://packages.debian.org/search?keywords=cascade&searchon=names&suite=all&section=all>`__.
+разработчиками Open CASCADE об изменении условий лицензирования велись как
+`публично <http://www.opencascade.org/org/forum/thread_15859/?forum=3>`__, так
+и по внутренним каналам, и в переговорах и консультациях участвовало много
+известных лиц, как от Fedora Project, так и от Debian Community - от нашего
+коллеги, участника Fedora Legal, юриста SFLC и патентного адвоката Red Hat,
+`Richard Fontana <http://en.wikipedia.org/wiki/Richard_Fontana>`__, до `Richard
+Matthew Stallman <http://stallman.org/>`__, но все закончилось безрезультатно.
+В конце концов, сообщество Debian решилось на включение Open CASCADE несмотря
+на очевидное нарушение лицензии будущими пользователями пакетов из репозиториев
+Debian, но потом `удалило почти отовсюду
+<http://packages.debian.org/search?keywords=cascade&searchon=names&suite=all&section=all>`__.
 
-Кстати, одна из причин, почему Debian не фигурирует в новостях про
-крупные переходы с чего-нибудь проприетарного на Linux, это вот такое
-студенческое раздолбайство и хипповский пофигизм по отношению к
-юридическим вопросам (не единственная, конечно, причина, почему Debian
-теряет популярность, и есть много других - `технологическое
-отставание </content/Новости-systemd-за-прошедший-месяц-полтора>`__,
-появление Canonical и создание дистрибутива Ubuntu, отсутствие
-коммерческих компаний за проектом Debian и т.п.). Мы наблюдаем
-интересную тенденцию - если еще лет 5 назад по вопросам лицензий народ
-интересовался мнением коммьюнити Debian, то теперь, по таким проблемам,
-за советом обращаются в Fedora Legal.
+Кстати, одна из причин, почему Debian не фигурирует в новостях про крупные
+переходы с чего-нибудь проприетарного на Linux, это вот такое студенческое
+раздолбайство и хипповский пофигизм по отношению к юридическим вопросам (не
+единственная, конечно, причина, почему Debian теряет популярность, и есть много
+других - `технологическое отставание
+</content/Новости-systemd-за-прошедший-месяц-полтора>`__, появление Canonical и
+создание дистрибутива Ubuntu, отсутствие коммерческих компаний за проектом
+Debian и т.п.). Мы наблюдаем интересную тенденцию - если еще лет 5 назад по
+вопросам лицензий народ интересовался мнением коммьюнити Debian, то теперь, по
+таким проблемам, за советом обращаются в Fedora Legal.
 
 Проходило время, и компания-разработчик Open CASCADE начала понимать
 сложившуюся ситуацию, и начала движение в сторону коммьюнити вокруг
@@ -83,4 +77,3 @@ Legal <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/2090>`__,
 интересного фреймворка в Fedora.
 
 Мы будем следить за развитием событий.
-

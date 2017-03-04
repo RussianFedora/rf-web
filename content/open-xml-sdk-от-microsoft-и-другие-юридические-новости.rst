@@ -32,7 +32,6 @@ OOXML <https://github.com/OfficeDev/Open-Xml-Sdk>`__ (обсуждают на
 опубликовал результаты своей работы, статью о том, почему OOXML просто
 не может быть стандартом - `**Complex singularity versus
 openness** <https://joinup.ec.europa.eu/elibrary/case/complex-singularity-versus-openness>`__.
-
 Работа уже получила хвалебные отзывы от наших друзей - `от Carlo
 Piana <https://plus.google.com/+CarloPiana/posts/SkFg6VwuEG4>`__ и `от
 Jan
@@ -50,7 +49,6 @@ Fontana <http://en.wikipedia.org/wiki/Richard_Fontana>`__, объявил в
 своем твиттере, что `участие в проекте JBoss больше не требует
 подписывания
 CLA <https://twitter.com/richardfontana/status/477320000881975296>`__.
-
 Это был последний проект под управлением Red Hat, который требовал
 подписи CLA. Кстати, недавно `от CLA отказались и в
 Joyent <https://www.joyent.com/blog/broadening-node-js-contributions>`__.
