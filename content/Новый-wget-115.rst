@@ -1,7 +1,7 @@
 .. title: Новый wget 1.15
 .. slug: Новый-wget-115
 .. date: 2014-01-23 10:39:38
-.. tags:
+.. tags: wget, cryptography, security
 .. category:
 .. link:
 .. description:

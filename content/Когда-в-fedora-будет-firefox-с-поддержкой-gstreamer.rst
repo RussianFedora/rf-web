@@ -1,7 +1,7 @@
 .. title: Когда в Fedora будет Firefox с поддержкой gstreamer
 .. slug: Когда-в-fedora-будет-firefox-с-поддержкой-gstreamer
 .. date: 2013-04-05 16:35:59
-.. tags: firefox, gstreamer, патенты
+.. tags: firefox, gstreamer, html5, патенты
 .. category:
 .. link:
 .. description:
