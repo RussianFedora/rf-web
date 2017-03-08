@@ -21,5 +21,5 @@ GNOME не было.
 рецептами в удобном консольном режиме с помощью мощного интерфейса SQL-команд,
 но выглядит неплохо.
 
-.. image: https://blogs.gnome.org/mclasen/files/2017/03/appdata-news.png
+.. image:: https://blogs.gnome.org/mclasen/files/2017/03/appdata-news.png
    :align: center

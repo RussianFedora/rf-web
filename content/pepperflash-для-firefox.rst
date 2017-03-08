@@ -1,7 +1,7 @@
 .. title: Pepperflash для Firefox
 .. slug: pepperflash-для-firefox
 .. date: 2015-01-23 10:59:22
-.. tags:
+.. tags: firefox
 .. category:
 .. link:
 .. description:

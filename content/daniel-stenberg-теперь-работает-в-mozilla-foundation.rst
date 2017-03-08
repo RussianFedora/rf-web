@@ -1,7 +1,7 @@
 .. title: Daniel Stenberg теперь работает в Mozilla Foundation
 .. slug: daniel-stenberg-теперь-работает-в-mozilla-foundation
 .. date: 2013-12-15 13:33:51
-.. tags:
+.. tags: mozilla, hr
 .. category:
 .. link:
 .. description:

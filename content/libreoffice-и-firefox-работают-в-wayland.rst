@@ -1,7 +1,7 @@
 .. title: LibreOffice и Firefox работают в Wayland.
 .. slug: libreoffice-и-firefox-работают-в-wayland
 .. date: 2015-07-20 16:09:22
-.. tags:
+.. tags: wayland, qt, gtk, firefox, libreoffice, eclipse
 .. category:
 .. link:
 .. description:
@@ -40,14 +40,15 @@ X11-прослойкой для Wayland (XWayland). Ну или гораздо �
 `LibreOffice </content/libreoffice-медленно-переходит-на-gtk3>`__
 выбрали обновление до GTK3. Поразительно, но результат не заставил себя
 ждать!
+
 На днях `Jiří
 Eischmann <https://fedoraproject.org/wiki/User:Eischmann>`__ объявил в
 своей ленте Google+, что `Firefox нативно работает в
 Wayland <https://plus.google.com/112174839778779720402/posts/BB586bhiyKH>`__.
-
 Коллеги-аналитики сразу же скептически заметили, что Jiří не показал
 скриншот, что может означать "запускается", а не "работает", но даже
 так, это серьезное достижение!
+
 В отличие от несколько поспешного анонса от Jiří, другой наш коллега,
 `Caolán McNamara <https://www.openhub.net/accounts/caolan>`__, подошел к
 делу основательнее. В его объявлении о том, что `LibreOffice работает в
@@ -55,15 +56,18 @@ Wayland <http://caolanm.blogspot.com/2015/07/libreoffice-on-wayland.html>`__,
 есть скриншот! Коллеги-аналитики сразу же скептически заметили, что
 Caolán не показал скринкаст, что может означать "запускается", а не
 "работает", но даже так, это серьезное достижение!
-|image0|
+
+.. image:: https://2.bp.blogspot.com/-NQCynqSyvgA/VakMSd8a-hI/AAAAAAAABZ0/bucLRBXIRG4/Screenshot%2Bfrom%2B2015-07-17%2B15-03-52.png
+   :align: center
+   :target: https://2.bp.blogspot.com/-NQCynqSyvgA/VakMSd8a-hI/AAAAAAAABZ0/bucLRBXIRG4/Screenshot%2Bfrom%2B2015-07-17%2B15-03-52.png
+
+.. class:: align-center
+
 **LibreOffice в Wayland**
+
 Из других новостей - инженер Red Hat, `Leo
 Ufimttsev <https://ca.linkedin.com/pub/leo-ufimtsev/31/201/55>`__, ведет
 работу по переводу Eclipse на GTK3, и заодно `начал работу по запуску
 его в
 Wayland <https://plus.google.com/+LeoUfimtsev/posts/VsgP1kEmE7Y>`__.
-
 Пожелаем удачи соотечественнику!
-
-.. |image0| image:: https://2.bp.blogspot.com/-NQCynqSyvgA/VakMSd8a-hI/AAAAAAAABZ0/bucLRBXIRG4/Screenshot%2Bfrom%2B2015-07-17%2B15-03-52.png
-   :target: https://2.bp.blogspot.com/-NQCynqSyvgA/VakMSd8a-hI/AAAAAAAABZ0/bucLRBXIRG4/Screenshot%2Bfrom%2B2015-07-17%2B15-03-52.png

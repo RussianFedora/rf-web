@@ -1,7 +1,7 @@
 .. title: Christopher “Monty” Montgomery уходит из Red Hat в Mozilla
 .. slug: christopher-“monty”-montgomery-уходит-из-red-hat-в-mozilla
 .. date: 2013-10-16 09:50:03
-.. tags:
+.. tags: mozilla, hr, redhat
 .. category:
 .. link:
 .. description:
