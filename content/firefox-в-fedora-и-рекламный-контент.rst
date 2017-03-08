@@ -1,7 +1,7 @@
 .. title: Firefox в Fedora и рекламный контент
 .. slug: firefox-в-fedora-и-рекламный-контент
 .. date: 2014-11-19 14:46:54
-.. tags:
+.. tags: firefox, mozilla, privacy, security, legal
 .. category:
 .. link:
 .. description:
@@ -10,20 +10,21 @@
 
 **Это архивная статья**
 
+Постепенно набирает обороты `обсуждение в рассылке fedora-devel нововведения от
+MoFo <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240>`__ -
+показа рекламы на стартовой странице, с учетом истории пользователя.  Горячие
+головы даже `предлагают удалить Firefox из репозиториев
+<http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240/focus=201246>`__,
+мол `midori <http://midori-browser.org/>`__ или `Epiphany
+<https://wiki.gnome.org/Apps/Web>`__ вполне достаточно.
 
-Постепенно набирает обороты `обсуждение в рассылке fedora-devel
-нововведения от
-MoFo <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240>`__
-- показа рекламы на стартовой странице, с учетом истории пользователя.
+Для тех, кто интересуется, что конкретно так возмутило некоторых наших коллег,
+есть скриншот (обратите внимание на рекламу Booking.com в верхнем ряду плиток):
 
-Горячие головы даже `предлагают удалить Firefox из
-репозиториев <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240/focus=201246>`__,
-мол `midori <http://midori-browser.org/>`__ или
-`Epiphany <https://wiki.gnome.org/Apps/Web>`__ вполне достаточно. Для
-тех, кто интересуется, что конкретно так возмутило некоторых наших
-коллег, есть скриншот (обратите внимание на рекламу Booking.com в
-верхнем ряду плиток):
-|image0|
+.. image:: https://i.imgur.com/byR9jZF.png
+   :align: center
+   :width: 713px
+
 Формальной проблемой является то, что мы не поставляем ПО, которое без
 разрешения пользователя собирает о нем данные и направляет неведомо
 куда. Одним из контр-примеров является yum, который для получения списка
@@ -35,8 +36,14 @@ MoFo <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240>`__
 песочку, сильно эту гору слежки уже не изменить, но и заниматься этим
 неохота.
 
-|image1|
+.. image:: http://ic.pics.livejournal.com/lattona/24142880/48759/48759_original.jpg
+   :align: center
+   :target: https://lattona.livejournal.com/62647.html
+
+.. class:: align-center
+
 **Современный интернет**
+
 Слон в лавке, которого многие предпочитают не замечать, это то, что MoFo
 требует от коммьюнити никак не вмешиваться в исходники Firefox без
 явного разрешения, угрожая изъять право распространять результат под
@@ -56,9 +63,3 @@ MoFo <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240>`__
 Firefox у нас нет, править его исходники нам нельзя, а ломать все из-за
 одной (пока) рекламной плитки на дефолтной странице, это как-то уж
 слишком круто. Будем ждать развития браузеров на базе WebKit или Blink.
-
-
-.. |image0| image:: https://i.imgur.com/byR9jZF.png
-   :width: 713px
-.. |image1| image:: http://ic.pics.livejournal.com/lattona/24142880/48759/48759_original.jpg
-   :target: https://lattona.livejournal.com/62647.html

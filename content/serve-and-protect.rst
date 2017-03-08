@@ -1,7 +1,7 @@
 .. title: To Serve and Protect!
 .. slug: serve-and-protect
 .. date: 2014-01-02 19:57:54
-.. tags:
+.. tags: security, nsa, systemd
 .. category:
 .. link:
 .. description:
@@ -9,7 +9,6 @@
 .. author: Peter Lemenkov
 
 **Это архивная статья**
-
 
 Если вы еще не видели эту запись, то сперва посмотрите, а потом
 возвращайтесь - стоит того! Нас особенно поразило, что спецслужбы

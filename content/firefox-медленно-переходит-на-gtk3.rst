@@ -1,7 +1,7 @@
 .. title: Firefox медленно переходит на GTK3
 .. slug: firefox-медленно-переходит-на-gtk3
 .. date: 2014-01-13 23:05:33
-.. tags:
+.. tags: firefox, gtk
 .. category:
 .. link:
 .. description:
