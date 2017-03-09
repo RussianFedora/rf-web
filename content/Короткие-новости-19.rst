@@ -30,9 +30,9 @@ Hat показатели все лучше и лучше благодаря та
 Инженер Red Hat, `Denys
 Vlasenko <http://busybox.net/~vda/resume/denys_vlasenko.htm>`__, объявил
 о выходе `Busybox
-1.22 <http://thread.gmane.org/gmane.linux.busybox/38548>`__. Новость уже
+1.22 <https://thread.gmane.org/gmane.linux.busybox/38548>`__. Новость уже
 обсуждается `на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38766>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38766>`__.
 
 `Rich WM Jones <http://people.redhat.com/~rjones/>`__
 `бэкпортировал <http://rwmj.wordpress.com/2013/12/31/fedora-21-has-a-working-ocaml-arm64/>`__
@@ -41,9 +41,9 @@ OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38766>`__.
 с помощью
 Qemu <http://rwmj.wordpress.com/2013/12/22/how-to-run-aarch64-binaries-on-an-x86-64-host-using-qemu-userspace-emulation/>`__,
 Debian начал определяться насчет
-`Upstart <http://thread.gmane.org/gmane.linux.debian.devel.bugs.general/1111305>`__
+`Upstart <https://thread.gmane.org/gmane.linux.debian.devel.bugs.general/1111305>`__
 и
-`systemd <http://thread.gmane.org/gmane.linux.debian.devel.bugs.general/1111305/focus=1111585>`__.
+`systemd <https://thread.gmane.org/gmane.linux.debian.devel.bugs.general/1111305/focus=1111585>`__.
 
 Наши коллеги (`Martin
 Langhoff <https://plus.google.com/+MartinLanghoff/posts/TrWNksRHHZF>`__,
@@ -62,10 +62,10 @@ Rintel <https://plus.google.com/103747673045238156202/posts/KfWXz8Hod3n>`__)
 Участник проектов Fedora и LibreOffice, `Caolán
 McNamara <https://www.openhub.net/accounts/caolan>`__, устроил новогоднюю
 викторину - `угадай архитектуру микропроцессора по
-фотографии <http://caolanm.blogspot.ru/2013/12/guess-architecture.html>`__.
+фотографии <http://caolanm.blogspot.com/2013/12/guess-architecture.html>`__.
 
 Попробуйте!
 |image0|
 
 .. |image0| image:: http://4.bp.blogspot.com/-gWAshqm51fU/UsMVYnho4tI/AAAAAAAAAmY/F-qWz26sXFo/multiarch.jpg
-   :target: http://caolanm.blogspot.ru/2013/12/guess-architecture.html
+   :target: http://caolanm.blogspot.com/2013/12/guess-architecture.html

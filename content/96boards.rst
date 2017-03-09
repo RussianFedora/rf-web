@@ -1,15 +1,12 @@
 .. title: 96Boards
 .. slug: 96boards
 .. date: 2015-02-09 13:57:16
-.. tags:
+.. tags: arm, linaro
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Linaro `официально
 анонсировал <http://www.linaro.org/news/linaro-announces-96boards-initiative-accelerate-arm-software-development/>`__
@@ -29,4 +26,3 @@ ARM-платформы </content/Новости-arm>`__ (и systemd/Linux-пла
 `сообщает <https://plus.google.com/+JonMasters/posts/hwvcqoGbdKx>`__,
 что Fedora ARM уже работает на выпущенном оборудовании, а на выходящем
 обязательно будет работать и Red Hat Linux.
-

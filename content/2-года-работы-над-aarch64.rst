@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Присоединившийся `чуть больше года назад к Red
 Hat </content/Новости-fedora-arm-sig-1>`__ embedded-разработчик `Marcin
 Juszkiewicz <https://www.openhub.net/accounts/hrw>`__, недавно
@@ -29,4 +26,3 @@ Embedded Nonsence Hacks на
 AArch64 <http://nullr0ute.com/2014/10/fedora-aarch64-device-tree-and-u-boot-support/>`__.
 
 Бояться нечего - U-Boot и DeviceTree будут работать.
-

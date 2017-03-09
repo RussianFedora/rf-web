@@ -58,7 +58,7 @@
 | Отдельно хотелось бы поздравить нашего товарища из Киева, `Minh
   Ngo <https://fedoraproject.org/wiki/User:Minh>`__, который будет
   участвовать в GSoC этого года в проекте
-  `LibreOffice <http://fridrich.blogspot.ru/2013/05/libreoffice-google-summer-of-code-2013.html>`__
+  `LibreOffice <http://fridrich.blogspot.com/2013/05/libreoffice-google-summer-of-code-2013.html>`__
   - он займется интеграцией VLC в этот популярный офисный пакет.
 
   Поздравляем и желаем успешно завершить задуманное!

@@ -28,5 +28,5 @@ Qcow2-дисков <https://www.berrange.com/posts/2015/03/17/qemu-qcow2-built-i
 опубликовали обзорную статью о виртуализации на
 ARM <http://genode.org/documentation/articles/arm_virtualization>`__, а
 Vasily A. Sartakov (ksys labs) поделился `своими впечатлениями от FOSDEM
-2015 <http://systemsandme.blogspot.ru/2015/02/fosdem15-microkernel-devroom.html>`__.
+2015 <http://systemsandme.blogspot.com/2015/02/fosdem15-microkernel-devroom.html>`__.
 

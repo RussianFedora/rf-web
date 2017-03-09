@@ -17,7 +17,7 @@ Skeggs <https://www.openhub.net/accounts/darktama>`__, добавил `подд�
 nouveau <http://www.phoronix.com/scan.php?page=news_item&px=MTUwNzk>`__.
 
 Новость уже обсуждается на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38384>`__ и
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38384>`__ и
 `Linux.org.ru <https://www.linux.org.ru/forum/talks/9796268>`__.
 
 Коллеги-аналитики недоумевают, как же так - что ни хорошая новость про
@@ -27,7 +27,7 @@ Apple, Google, Facebook, Intel, Parallels, и многих других боль
 маленьких компаниях. Возвращаясь к nouveau, `David
 Airlie <https://www.openhub.net/accounts/airlied>`__ недавно `выпустил
 версию
-1.0.10 <http://thread.gmane.org/gmane.comp.freedesktop.xorg.nouveau/14840>`__.
+1.0.10 <https://thread.gmane.org/gmane.comp.freedesktop.xorg.nouveau/14840>`__.
 
 ARM переходит на ACPI, `ну вы про это уже
 знаете </content/Опубликованы-рекомендации-для-разработчиков-оборудования-на-базе-aarch64-64-битный-arm>`__.
@@ -40,7 +40,7 @@ ACPI <https://plus.google.com/+OlofJohansson/posts/JLgGcQ4SXud>`__.
 Участник проектов Fedora и LibreOffice, инженер Red Hat, `Caolán
 McNamara <https://www.openhub.net/accounts/caolan>`__, объявил о `полном
 переходе с устаревшего класса строк в LibreOffice на
-новый <http://caolanm.blogspot.ru/2013/11/unistring.html>`__. В
+новый <http://caolanm.blogspot.com/2013/11/unistring.html>`__. В
 OpenOffice было аж два класса для строк, "старый" (совсем старый) и
 "новый" (которому более 13 лет). Из интересных ограничений,
 накладываемых использованием этим "новым" классом было ограничение в 64
@@ -50,7 +50,7 @@ OpenOffice было аж два класса для строк, "старый" (
 
 `David Herrmann <http://dvdhrm.github.io/>`__ `начал работу над
 реализацией Wifi-Display /
-Miracast <http://www.opennet.ru/opennews/art.shtml?num=38353>`__.
+Miracast <https://www.opennet.ru/opennews/art.shtml?num=38353>`__.
 
 Инженер Red Hat и мэйнтейнер libssh, `Andreas
 Schneider <https://www.openhub.net/accounts/asn>`__, обращает наше
@@ -64,14 +64,14 @@ Schneider <https://www.openhub.net/accounts/asn>`__, обращает наше
 Теперь видно, какие фичи когда и куда были добавлены.
 
 `Вышел SystemTap
-2.4 <http://thread.gmane.org/gmane.linux.kernel/1590886>`__. Из новостей
+2.4 <https://thread.gmane.org/gmane.linux.kernel/1590886>`__. Из новостей
 - теперь с помощью libvirt им можно анализировать виртуальные машины.
 
 Начали анонсироваться и обсуждаться фичи будущей Fedora 21. Уже
 анонсировали `поддержку OpenCL в
-Fedora <http://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1197>`__,
+Fedora <https://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1197>`__,
 и `обновление Python3 до версии
-3.4 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1196>`__.
+3.4 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1196>`__.
 
 `Продолжаются дебаты вокруг архитектуры
 Phonon </content/Выбросят-ли-из-phonon-поддержку-alsaoss-в-пользу-pulseaudio>`__.

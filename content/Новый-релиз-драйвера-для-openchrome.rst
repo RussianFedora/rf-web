@@ -14,7 +14,7 @@
 Участник Fedora `Xavier
 Bachelot <http://www.linkedin.com/pub/xavier-bachelot/8/ba2/367>`__
 вновь анонсировал `выход новой версии
-драйвера <http://thread.gmane.org/gmane.linux.drivers.openchrome.devel/593>`__
+драйвера <https://thread.gmane.org/gmane.linux.drivers.openchrome.devel/593>`__
 для видеокарт Via. Вы уже знаете, что `ситуация с драйверами для этой
 видеокарты не очень
 хорошая </content/Видеодрайвер-openchrome-использует-exa>`__, и тем

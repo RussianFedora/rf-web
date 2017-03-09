@@ -15,7 +15,7 @@
 присоединением к клубу пользователей
 systemd <http://www.sabayon.org/article/rolling-out-systemd>`__. Новость
 уже `обсуждается на
-OpenNET <http://www.opennet.ru/opennews/art.shtml?num=36704>`__. Как и в
+OpenNET <https://www.opennet.ru/opennews/art.shtml?num=36704>`__. Как и в
 случае с переходом Arch Linux, было заявлено, что альтернатива (т.е.
 OpenRC) будет некоторое время доступна, но вспоминая историю Arch и
 SysV-скриптов, наверное не стоит закладываться на то, что альтернативная

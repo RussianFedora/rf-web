@@ -13,6 +13,6 @@
 
 Эта новость немного запоздала, но все же - наши друзья из проекта OLPC
 `выпустили обновление для 12й версии своей
-системы <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/168197>`__,
+системы <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/168197>`__,
 основанной на Fedora.
 

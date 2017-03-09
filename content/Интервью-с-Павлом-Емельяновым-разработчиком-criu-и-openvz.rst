@@ -16,6 +16,6 @@
 разработчиком CRIU и OpenVZ и архитектором департамента серверной
 виртуализации компании Parallels.
 
-`Почитайте <http://habrahabr.ru/company/parallels/blog/190066/>`__, это
+`Почитайте <https://habrahabr.ru/company/parallels/blog/190066/>`__, это
 интересно.
 

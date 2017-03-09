@@ -20,7 +20,7 @@ NVIDIA <http://cgit.freedesktop.org/nouveau/linux-2.6/commit/?id=261c16a6a044eb1
 коллега `David Airlie <https://www.openhub.net/accounts/airlied>`__
 представил на рассмотрение `первый вариант реализации независимого
 управления энергопотреблением для систем с несколькими
-видеокартами <http://thread.gmane.org/gmane.comp.video.dri.devel/73709>`__
+видеокартами <https://thread.gmane.org/gmane.comp.video.dri.devel/73709>`__
 (сейчас, несмотря на реализацию долгожданного `GPU
 offloading </content/Переключающаяся-графика-скоро-в-linux>`__ в X.org
 1.13 все видеопроцессоры одновременно работают, что делает бессмысленным

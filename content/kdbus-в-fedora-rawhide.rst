@@ -14,7 +14,7 @@
 После `включения поддержки kdbus в сборках ядра для Fedora
 Rawhide </content/kdbus-включили-в-fedora-rawhide>`__, он `стал доступен
 и в
-userspace-приложениях <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/209922>`__!
+userspace-приложениях <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/209922>`__!
 Для тестирования пока нужно добавить строчку *"kdbus=1"* к параметрам
 ядра, и он загрузится systemd автоматически.
 

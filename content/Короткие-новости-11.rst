@@ -34,7 +34,7 @@ FB). А мы от всего нашего коммьюнити поздравл�
 без существенных потерь!
 В инфраструктуре Fedora пополнение. `Nick
 Bebout <https://fedoraproject.org/wiki/User:Nb>`__
-`объявил <http://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2905>`__
+`объявил <https://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2905>`__
 о вводе в строй `сервера
 GPG-ключей <https://keys.fedoraproject.org/>`__, интерфейс для которого
 создала `Maria Leandro <http://tatica.org/en/about/>`__. Если кто не в
@@ -61,7 +61,7 @@ Herrmann <http://dvdhrm.wordpress.com/about-me/>`__ опубликовал `ст
 о технологии "Render
 Nodes" <http://dvdhrm.wordpress.com/2013/09/01/splitting-drm-and-kms-device-nodes/>`__,
 которую включают в ядро 3.12. Заметку уже обсуждают аналитики
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=37797>`__.
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=37797>`__.
 
 `Команда разработчиков LibreOffice из SUSE целиком переходит к нашим
 друзьям, в компанию
@@ -90,7 +90,7 @@ libvirt <http://rwmj.wordpress.com/2013/09/03/an-arm-libvirt-guest-on-an-x86-64-
 так <https://fedoraproject.org/wiki/User:Peter#Bragging_Rights>`__.
 
 Возвращаясь к новостям графической подсистемы. `Weston адаптируют для
-IVI-систем <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10493>`__.
+IVI-систем <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10493>`__.
 
 Мы уже рассказывали, что системы IVI будут строиться на базе
 `Wayland </content/Короткие-новости-6>`__ и
@@ -126,7 +126,7 @@ DE <https://plus.google.com/107555540696571114069/posts/Bt4kY2yNyxy>`__?
 недоделанных из-за нехватки разработчиков вариантов.
 
 `На OpenNET.ru собирают
-вопросы <http://www.opennet.ru/opennews/art.shtml?num=37802>`__
+вопросы <https://www.opennet.ru/opennews/art.shtml?num=37802>`__
 известному разработчику Linux, нынешнему fellow Parallels (уж не знаем,
 как перевести эту должность на русский), Алексею Кузнецову. Кстати,
 недавно `проскочило интервью с

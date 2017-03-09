@@ -20,7 +20,7 @@ Guide <http://docs.fedoraproject.org/en-US/Fedora_Draft_Documentation/0.1/html/P
 Пока это только черновик, но он уже доступен для перевода, и по всей
 видимости, дальнейшие правки будут незначительными. Поэтому если у вас
 есть желание —
-`присоединяйтесь <http://fedoraproject.org/wiki/L10N/ru#Join>`__ к
+`присоединяйтесь <https://fedoraproject.org/wiki/L10N/ru#Join>`__ к
 команде локализации для работы над ним!
 Кроме этого в Fedora давно существует руководство по RPM (`RPM
 Guide <http://docs.fedoraproject.org/en-US/Fedora_Draft_Documentation/0.1/html/RPM_Guide/index.html>`__),

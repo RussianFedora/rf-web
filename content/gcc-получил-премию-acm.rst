@@ -36,12 +36,12 @@ Cauldron <https://gcc.gnu.org/wiki/cauldron2014>`__ в Кембридже, а
 2.20 и 2.21, новости о GCC JIT (о котором мы `уже
 упоминали </content/Короткие-новости-про-основные-компоненты-системы-base-os>`__),
 новые архитектуры и `много чего
-еще <http://thread.gmane.org/gmane.comp.gcc.devel/136633>`__.
+еще <https://thread.gmane.org/gmane.comp.gcc.devel/136633>`__.
 
 Из других новостей про GCC - известный местный хулиган и матершинник,
 Linus Torvalds, не оценил последних новостей, и как обычно особо не
 выбирая возражения `назвал GCC полным
-дерьмом <http://thread.gmane.org/gmane.linux.kernel/1754527/focus=1755529>`__.
+дерьмом <https://thread.gmane.org/gmane.linux.kernel/1754527/focus=1755529>`__.
 
 
 .. |image0| image:: https://rhelblog.files.wordpress.com/2014/07/gcc_acm_award.jpg

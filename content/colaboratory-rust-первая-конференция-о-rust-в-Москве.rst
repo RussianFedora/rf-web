@@ -122,10 +122,10 @@
   разработчик GCC, GDB и binutils, `Tom
   Tromey <https://www.openhub.net/accounts/tromey>`__, представил
   `патчсет с поддержкой Rust в
-  GDB <http://thread.gmane.org/gmane.comp.gdb.patches/116164>`__. Патчи
+  GDB <https://thread.gmane.org/gmane.comp.gdb.patches/116164>`__. Патчи
   сразу заинтересовали других разработчиков GDB, и Tom представил уже
   `вторую версию
-  патчсета <http://thread.gmane.org/gmane.comp.gdb.patches/116205>`__,
+  патчсета <https://thread.gmane.org/gmane.comp.gdb.patches/116205>`__,
   исправленную и дополненную. Скоро можно будет отлаживать программы на
   Rust в GDB!
 | Вот, правда, для их отладки нужно их сначала собрать, а с этим у нас

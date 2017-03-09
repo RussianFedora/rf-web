@@ -12,7 +12,7 @@
 
 
 `Вышел Qemu
-2.6.0 <http://thread.gmane.org/gmane.comp.emulators.qemu/410994>`__!
+2.6.0 <https://thread.gmane.org/gmane.comp.emulators.qemu/410994>`__!
 `Изменений довольно много <http://wiki.qemu.org/ChangeLog/2.6>`__, но из
 значительных особо отметим OpenGL в "безголовых" конфигурациях со SPICE,
 эмуляцию Raspberry Pi 2, аутентификация при доступе к удаленным блочным

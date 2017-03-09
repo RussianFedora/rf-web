@@ -33,7 +33,7 @@ Debian <https://www.linux.org.ru/forum/talks/9198145#comment-9199627>`__.
 systemd (причем даже то, что раньше критиковали), тем самым расписываясь
 во вторичности своего проекта, поэтому неудивительно, что `участники
 Debian заинтересовались оригиналом, и стрелка качнулась в правильную
-сторону <http://www.opennet.ru/opennews/art.shtml?num=37032>`__. Сейчас
+сторону <https://www.opennet.ru/opennews/art.shtml?num=37032>`__. Сейчас
 Michael Stapelberg пытается разуверить скептиков, серией постов, в
 которых он разоблачает мифы о systemd. `Пока доступен лишь первый
 пост <http://people.debian.org/~stapelberg//2013/06/09/systemd-bloat.html>`__,
@@ -52,11 +52,11 @@ systemd <https://plus.google.com/107956312959748542910/posts/FssTwA3Vqz2>`__.
 Напомним, что `Golang с недавних пор доступен в
 Fedora </content/Референсная-реализация-языка-go-доступна-в-fedora>`__,
 и, например, у `Fedora Erlang
-SIG <http://fedoraproject.org/wiki/Erlang>`__ есть планы на Fedora 20,
+SIG <https://fedoraproject.org/wiki/Erlang>`__ есть планы на Fedora 20,
 включающие systemd и Go.
 
 `Год назад мы говорили </content/systemd-и-wayland>`__, что `Keith Packard
-<http://en.wikipedia.org/wiki/Keith_Packard>`__ сообщил, что планируется
+<https://en.wikipedia.org/wiki/Keith_Packard>`__ сообщил, что планируется
 использовать systemd в Wayland. Эти планы начали материализовываться - инженер
 Intel, `Ander Conselvan de Oliveira
 <https://www.openhub.net/accounts/anderco>`__, включил `первоначальную
@@ -84,8 +84,8 @@ Heo <https://plus.google.com/109921140855127484054/about>`__, инженер Red
 после нескольких месяцев обсуждений вместе с другими заинтересованными
 участниками договорились, что управление cgroups будет производиться с помощью
 API, предоставляемого systemd (`раз
-<http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/11381>`__ и `два
-<http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/11248>`__).  Это
+<https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/11381>`__ и `два
+<https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/11248>`__).  Это
 означает большие изменения для облачных систем и систем виртуализации, которые
 придется переписать на использование systemd. У маргинальных дистрибутивов есть
 два варианта - еще немного форкнуть базовые системы (хотя c udev получилось

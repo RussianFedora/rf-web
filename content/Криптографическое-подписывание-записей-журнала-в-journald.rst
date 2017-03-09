@@ -24,6 +24,6 @@
 лучше использовать надежное).
 
 Новость уже обсуждается аналитиками `на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=34630>`__ и `на
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=34630>`__ и `на
 Linux.org.ru <https://www.linux.org.ru/forum/talks/8135190>`__.
 

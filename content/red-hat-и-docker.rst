@@ -28,7 +28,7 @@
   совместимость с проверенными решениями:
 
 -  Удаление AuFS в пользу thin provisioning `на основе device
-   mapper <http://fedoraproject.org/wiki/Features/ThinProvisioning>`__.
+   mapper <https://fedoraproject.org/wiki/Features/ThinProvisioning>`__.
 
 -  Поддержка Docker в Libvirt.
 

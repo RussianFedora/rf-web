@@ -20,14 +20,14 @@
 
 Как обычно, любой желающий может предложить свой вариант на `специальной
 странице в
-вики <http://fedoraproject.org/wiki/Name_suggestions_for_Fedora_18>`__,
+вики <https://fedoraproject.org/wiki/Name_suggestions_for_Fedora_18>`__,
 перед этим обязательно(!) ознакомившись с
-`правилами <http://fedoraproject.org/wiki/Guidelines_for_release_names>`__.
+`правилами <https://fedoraproject.org/wiki/Guidelines_for_release_names>`__.
 
 Кроме правил и воображения вас ничто не должно ограничивать!
 Интересно посмотреть, кто будет соревноваться с Beefy Miracle :)
 Ну а историю названий Fedora можно посмотреть
-`здесь <http://fedoraproject.org/wiki/History_of_Fedora_release_names>`__.
+`здесь <https://fedoraproject.org/wiki/History_of_Fedora_release_names>`__.
 
 UPD. Названия можно будет добавлять до 27 марта включительно.
 

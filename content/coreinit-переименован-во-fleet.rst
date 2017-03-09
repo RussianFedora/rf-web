@@ -1,15 +1,12 @@
 .. title: Coreinit переименован во fleet
 .. slug: coreinit-переименован-во-fleet
 .. date: 2014-02-19 13:19:49
-.. tags: coreos, fleet, containers
+.. tags: coreos, fleet, containers, systemd, etcd
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Coreinit, проект по расширению кластерных возможностей systemd, `о
 котором мы уже вскользь
@@ -27,6 +24,10 @@ fleet было приурочено к выходу `версии
 написали `обзорную статью по
 fleet <https://coreos.com/blog/cluster-level-container-orchestration/>`__
 и сделали видеопрезентацию:
+
+.. youtube:: u91DnN-yaJ8
+   :align: center
+
 Fleet в целом принят очень хорошо, и уже был отмечен такими видными
 разработчиками systemd, как `Greg
 Kroah-Hartman <https://plus.google.com/111049168280159033135/posts/f7A7tLG4sfT>`__

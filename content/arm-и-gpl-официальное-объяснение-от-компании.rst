@@ -1,15 +1,12 @@
 .. title: ARM и GPL - официальное объяснение от компании
 .. slug: arm-и-gpl-официальное-объяснение-от-компании
 .. date: 2015-04-30 20:44:56
-.. tags:
+.. tags: arm, legal, gpl
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Компания ARM ответила на `вал обвинений </content/arm-и-gpl>`__,
 прокатившийся по социальным сетям. В официальной ленте Google+ компании

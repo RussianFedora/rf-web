@@ -12,7 +12,7 @@
 
 
 `Вышел systemd
-230 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/36521>`__.
+230 <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/36521>`__.
 
 Фич довольно много, например systemctl revert, которая удаляет
 пользовательские изменения к указанному systemd-юниту (напомним, трогать

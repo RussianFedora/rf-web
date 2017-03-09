@@ -44,7 +44,7 @@
     operating system.*
 
 Новость уже обсуждается на российских интернет-сайтах - `например, на
-OpenNET <http://www.opennet.ru/opennews/art.shtml?num=34230>`__. Краткое
+OpenNET <https://www.opennet.ru/opennews/art.shtml?num=34230>`__. Краткое
 изложение с комментариями доступно на
 `Muktware <http://www.muktware.com/3807/fsf-criticises-ubuntu-dropping-grub-2-secure-boot>`__.
 

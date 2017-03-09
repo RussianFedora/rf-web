@@ -19,7 +19,7 @@
 -  deltrarpm теперь включен по умолчанию
 -  dnf-automatic теперь может не только отправлять результаты выполнения
    действий в почту или в stdio, но и в `motd (Message of the
-   day) <http://en.wikipedia.org/wiki/Motd_%28Unix%29>`__.
+   day) <https://en.wikipedia.org/wiki/Motd_%28Unix%29>`__.
 
 -  Очень сильно ускорено автодополнение в bash за счёт использования
    sqlite в связке с dnf-plugins-core и за счёт использования python API

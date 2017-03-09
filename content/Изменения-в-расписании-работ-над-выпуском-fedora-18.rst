@@ -19,7 +19,7 @@
 — выход альфа-версии Fedora 18;
 20 сентября
 — `тестовый
-день <http://fedoraproject.org/wiki/Test_Day:2012-09-20_l10n>`__,
+день <https://fedoraproject.org/wiki/Test_Day:2012-09-20_l10n>`__,
 тестируем переводы;
 02 октября
 — дедлайн переводов ПО для установочных образов.
@@ -29,4 +29,4 @@
 нормальные установочные образы (они будут использоваться больше года).
 
 Официальная страница с расписанием -
-http://fedoraproject.org/wiki/Releases/18/Schedule
+https://fedoraproject.org/wiki/Releases/18/Schedule

@@ -37,12 +37,12 @@ Google+ <https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/K22yyHRc6
 таких проектов, как kernel и bitcoin, инженер BitPay, `Jeff
 Garzik <https://plus.google.com/105424721218711536033/about>`__,
 `заинтересовался вопросом еще в 2008
-году <http://thread.gmane.org/gmane.linux.kernel/681003>`__, и сразу
+году <https://thread.gmane.org/gmane.linux.kernel/681003>`__, и сразу
 после обсуждения тогда и была добавлена необходимая поддержка в ядро.
 
 Еще через несколько лет была добавлена поддержка в
-`Qemu <http://thread.gmane.org/gmane.comp.emulators.qemu/156744>`__, и в
-`libvirt <http://thread.gmane.org/gmane.comp.emulators.libvirt/73027>`__,
+`Qemu <https://thread.gmane.org/gmane.comp.emulators.qemu/156744>`__, и в
+`libvirt <https://thread.gmane.org/gmane.comp.emulators.libvirt/73027>`__,
 которая была реализована инженерами Red Hat, IBM и Collabora. В хостовых
 машинах c Fedora 19 и выше все уже работает, т.к. когда все кирпичики
 стали доступны, то `Virtio-RNG был оформлен фичей Fedora
@@ -50,7 +50,7 @@ Garzik <https://plus.google.com/105424721218711536033/about>`__,
 Virtio-RNG будет доступен как в `выходящей в этом году
 RHEL7 <https://bugzilla.redhat.com/923008>`__, так и `был бэкпортирован
 в
-RHEL6 <http://thread.gmane.org/gmane.comp.emulators.ovirt.user/13042/focus=13050>`__.
+RHEL6 <https://thread.gmane.org/gmane.comp.emulators.ovirt.user/13042/focus=13050>`__.
 
 Так что в будущем выбирайте облачных провайдеров с облаками на основе
 RHEL6 / RHEL7 или Fedora (облака на базе Fedora предлагают, например,

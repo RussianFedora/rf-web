@@ -15,7 +15,7 @@
 немногих разработчиков в Canonical и разработчик GNOME, написал пост, в
 котором высказал точку зрения, что `какой используется Display Server,
 это неважно для
-приложений <http://bobthegnome.blogspot.ru/2014/03/why-display-server-doesnt-matter.html>`__,
+приложений <http://bobthegnome.blogspot.com/2014/03/why-display-server-doesnt-matter.html>`__,
 ведь они используют не платформо-специфичные вызовы, а тулкиты, в
 которых уже все сделано.
 
@@ -119,6 +119,6 @@ systemd </content/ubuntu-переходит-на-systemd>`__.
 пойдет на пользу всем.
 
 **UPD** статью
-`прокомментировал <http://aseigo.blogspot.ru/2014/03/more-on-why-display-server-does-matter.html>`__
+`прокомментировал <http://aseigo.blogspot.com/2014/03/more-on-why-display-server-does-matter.html>`__
 и `Aaron Seigo <https://www.openhub.net/accounts/aseigo>`__.
 

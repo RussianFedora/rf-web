@@ -15,7 +15,7 @@
 `достигла версии
 12 <http://labs.twistedmatrix.com/2012/02/announcing-twisted-120.html>`__,
 анонсировали `обновление Twisted в Rawhide до этой
-версии <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/159579>`__.
+версии <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/159579>`__.
 
 Пока неясно, будет-ли апдейт доступен в F-17 или только в F-18.
 

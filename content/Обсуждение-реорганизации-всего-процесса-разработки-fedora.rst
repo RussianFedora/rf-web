@@ -16,12 +16,12 @@
   участник `Fedora Cloud
   SIG <https://fedoraproject.org/wiki/Cloud_SIG>`__ и инженер Red Hat,
   выступил с `предложением разделить Fedora на несколько
-  частей <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/183231>`__
+  частей <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/183231>`__
   - базовая часть, общая для всех, и надстройки, создаваемые в рамках
   рабочих групп. Базовая часть будет иметь необычное и свежее название -
   Fedora Core. Его предложение уже с интересом изучается русскоязычными
   аналитиками на
-  `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=37501>`__
+  `OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=37501>`__
 | Проблема, которую пытается решить Matthew, заключается в том, что у
   нас, внутри проекта, есть части, движущиеся с разной скоростью.
 
@@ -68,7 +68,7 @@
   обсуждалось </content/Будущее-проекта-epel>`__ разделение EPEL на ряд
   слоев, обновляющихся с разной скоростью, плюс недавно Red Hat
   официально представила `Software
-  Collections <http://www.opennet.ru/opennews/art.shtml?num=37106>`__,
+  Collections <https://www.opennet.ru/opennews/art.shtml?num=37106>`__,
   содержащие **актуальные** версии современного ПО для разработки.
 
   Некоторые аналитики даже поспешили сделать вывод, что Red Hat нужно

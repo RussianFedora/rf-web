@@ -15,7 +15,7 @@
 Bottomley <http://www.linkedin.com/pub/james-bottomley/9/902/725>`__,
 CTO компании "Parallels", анонсировал собственную разработку - `UEFI
 firmware для загрузки в KVM с поддержкой Secure
-Boot <http://thread.gmane.org/gmane.linux.kernel/1319543>`__. Вы можете
+Boot <https://thread.gmane.org/gmane.linux.kernel/1319543>`__. Вы можете
 скачать готовый blob, добавить к нему ваши ключи, и система в
 виртуальном окружении будет загружаться в защищенном режиме.
 

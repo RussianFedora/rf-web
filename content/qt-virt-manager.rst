@@ -14,7 +14,7 @@
 Устав смотреть на virt-manager, медленно поедающий оперативную память,
 наш коллега по проекту, скромно представляющийся своим псевдонимом,
 F1@sh, `официально
-анонсировал <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/207069>`__
+анонсировал <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/207069>`__
 свою новую разработку.
 
 Встречайте

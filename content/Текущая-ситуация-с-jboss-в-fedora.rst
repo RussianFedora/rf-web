@@ -22,7 +22,7 @@ Fedora <https://fedoraproject.org/wiki/Test_Day:2012-04-17_JBoss_Application_Ser
 которая уже исправляется - можно считать, что в целом оно работает!
 Парни провели просто огромную заботу - упаковали и включили в Fedora
 `сто с лишним библиотек и
-приложений <http://fedoraproject.org/wiki/JBossAS7#Current_progress>`__.
+приложений <https://fedoraproject.org/wiki/JBossAS7#Current_progress>`__.
 
 Это было очень непросто, так как традиционно Java-приложения не
 отличаются высоким уровнем внимания к вопросам их распространения.

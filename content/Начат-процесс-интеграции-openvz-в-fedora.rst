@@ -24,7 +24,7 @@
 
 Сегодня инженер Parallels, Glauber Costa `объявил о начале работы по
 интеграции OpenVZ в
-Fedora <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/169510>`__.
+Fedora <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/169510>`__.
 
 Начал он с `vzctl <https://bugzilla.redhat.com/866495>`__, набора утилит
 для управления контейнерами, но планирует также включить и crtools,
@@ -32,7 +32,7 @@ Fedora <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/169510>`__.
 2012 <http://events.yandex.ru/events/yac/2012/>`__, могли ознакомиться с
 этой технологией по докладам разработчиков OpenVZ). Lennart Poettering
 не преминул `напомнить разработчикам о расширенном API для систем
-виртуализации <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/169510/focus=169515>`__,
+виртуализации <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/169510/focus=169515>`__,
 которое нужно для более эффективной работы systemd в контейнере.
 
 

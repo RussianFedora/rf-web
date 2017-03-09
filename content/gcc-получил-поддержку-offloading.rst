@@ -14,7 +14,7 @@
 Наш коллега, `Nick
 Clifton <https://fedoraproject.org/wiki/User:Nickc>`__, обратил наше
 внимание, что спустя год `после анонса начала
-работы <http://thread.gmane.org/gmane.comp.gcc.devel/132346>`__, в GCC
+работы <https://thread.gmane.org/gmane.comp.gcc.devel/132346>`__, в GCC
 появился `offloading <https://gcc.gnu.org/wiki/Offloading>`__.
 
 Функционально, это реализовано так - фрагменты программы при сборке GCC

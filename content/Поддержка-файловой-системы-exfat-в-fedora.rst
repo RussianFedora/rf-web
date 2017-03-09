@@ -14,7 +14,7 @@
 По нашему
 `запросу <https://bugzilla.redhat.com/show_bug.cgi?id=822046>`__ юристы
 Fedora проверили легальность включения поддержки файловой системы
-`exFAT <http://ru.wikipedia.org/wiki/ExFAT>`__ в дистрибутив и
+`exFAT <https://ru.wikipedia.org/wiki/ExFAT>`__ в дистрибутив и
 репозитории. К сожалению `открытая
 реализация <http://code.google.com/p/exfat/>`__ данной ФС **не
 допускается** в основной Fedora. `Tom "spot"

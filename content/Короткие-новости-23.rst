@@ -12,7 +12,7 @@
 
 
 Kay Sievers `анонсировал systemd
-212 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/18085>`__.
+212 <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/18085>`__.
 
 Из заметного - логи теперь можно перенаправить на удаленную машину.
 

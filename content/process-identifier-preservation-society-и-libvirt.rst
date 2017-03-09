@@ -41,7 +41,7 @@
   приводимой в пример довольно радикальной `презентации с Linux Plumber
   Conference
   2012 <http://groveronline.com/wp-content/uploads/2014/09/all-plumbing-needs-an-api.pdf#7>`__
-  нашего коллеги `Andy Grover <https://openhub.net/accounts/agrover>`__.
+  нашего коллеги `Andy Grover <https://www.openhub.net/accounts/agrover>`__.
 
   Инженер Red Hat, `Daniel P.
   Berrangé <https://www.openhub.net/accounts/berrange>`__, расстроившись

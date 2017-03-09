@@ -12,7 +12,7 @@
 
 
 Компания Red Hat
-`объявила <http://www.redhat.com/about/news/press-archive/2014/4/red-hat-to-acquire-inktank-provider-of-ceph>`__
+`объявила <https://www.redhat.com/about/news/press-archive/2014/4/red-hat-to-acquire-inktank-provider-of-ceph>`__
 о том, что покупает компанию `Inktank <http://www.inktank.com/>`__,
 основного разработчика распределенной файловой системы
 `Ceph <http://ceph.com/>`__.

@@ -13,7 +13,7 @@
 
 Итак, сегодня мы анонсируем финальный выпуск RERemix Linux Desktop 6.2.
 RERemix Linux Desktop - это ремикс, основанный на Scientific Linux и
-репозиториях `EPEL <http://fedoraproject.org/wiki/EPEL>`__,
+репозиториях `EPEL <https://fedoraproject.org/wiki/EPEL>`__,
 `PUIAS <http://puias.math.ias.edu/>`__,
 `ELRepo <http://elrepo.org/tiki/tiki-index.php>`__ и Russian Fedora.
 

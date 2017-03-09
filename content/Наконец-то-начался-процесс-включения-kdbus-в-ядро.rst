@@ -14,7 +14,7 @@
 Гентушник и дистрохоппер `Greg
 Kroah-Hartman <http://www.kroah.com/log/>`__ `представил первый вариант
 патчсета для
-kdbus <http://thread.gmane.org/gmane.linux.kernel.api/5501>`__. Если все
+kdbus <https://thread.gmane.org/gmane.linux.kernel.api/5501>`__. Если все
 будет хорошо, то можно будет успеть к версии 3.19. В целом довольно
 быстро получилось - `понадобилось чуть менее пары
 лет </content/Перенос-d-bus-в-ядро-linux>`__, чтоб представить первый

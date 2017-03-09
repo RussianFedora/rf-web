@@ -12,9 +12,9 @@
 
 
 | Вниманию пользователей тачпадов, `Peter
-  Hutterer <http://fedoraproject.org/wiki/User:Whot>`__, разработчик
+  Hutterer <https://fedoraproject.org/wiki/User:Whot>`__, разработчик
   X.org, `просит вас о
-  помощи <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/197965>`__.
+  помощи <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/197965>`__.
 
   Для исправления ряда проблем в libinput, библиотеке ввода-вывода
   Wayland, ему нужна информация, которую может быть получена лишь с
@@ -25,7 +25,7 @@
   параметрами, затем поработать на клавиатуре, повозить мышкой, но не
   трогать тачпад. После этого произвести еще пару действий (пожалуйста,
   `прочтите письмо, что прислал Peter - там указаны точные
-  инструкции <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/197965>`__),
+  инструкции <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/197965>`__),
   и отослать полученные данные.
 
 | `Инструкция на

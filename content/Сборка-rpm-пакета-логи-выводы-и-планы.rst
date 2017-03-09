@@ -31,7 +31,7 @@ Guide <http://docs.fedoraproject.org/en-US/Fedora_Draft_Documentation/0.1/html/P
 
 Ну и конечно за самой актуальной информацией нужно обращаться к `Fedora
 Packaging
-Guidelines <http://fedoraproject.org/wiki/Packaging:Guidelines>`__.
+Guidelines <https://fedoraproject.org/wiki/Packaging:Guidelines>`__.
 
 Следующий семинар такого же формата мы постараемся посвятить сборке
 собственного LiveCD (если уговорим ведущего и определимся со временем).

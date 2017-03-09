@@ -14,7 +14,7 @@
 | |ROSS 2012| Дословно **Spherical Cow** переводится как "сферическая
   корова", но более точным аналогом в русском языке будет выражение
   `сферический конь в
-  вакууме <http://ru.wikipedia.org/wiki/Сферический_конь_в_вакууме>`__.
+  вакууме <https://ru.wikipedia.org/wiki/Сферический_конь_в_вакууме>`__.
 
 | Имя было выбрано голосованием участников сообщества. Голоса в итоговом
   зачете распределились следующим образом:
@@ -32,5 +32,5 @@
     821 :: Pop Soda
     536 :: Ketchy Ketchup
 
-.. |ROSS 2012| image:: http://upload.wikimedia.org/wikipedia/commons/2/23/SphericalCow2.gif
+.. |ROSS 2012| image:: https://upload.wikimedia.org/wikipedia/commons/2/23/SphericalCow2.gif
 

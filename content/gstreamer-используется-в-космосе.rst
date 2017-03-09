@@ -13,7 +13,7 @@
 
 С удовольствием узнали, что `GStreamer используется в одном из проектов
 European Space
-Agency <http://thread.gmane.org/gmane.comp.video.gstreamer.devel/52220>`__.
+Agency <https://thread.gmane.org/gmane.comp.video.gstreamer.devel/52220>`__.
 
 Планируется развертывание на МКС в 2015 году. Мы очень рады за
 разработчиков этого фреймворка, который получил такое неожиданное

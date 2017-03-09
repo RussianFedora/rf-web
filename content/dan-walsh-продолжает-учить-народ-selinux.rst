@@ -1,15 +1,12 @@
 .. title: Dan Walsh продолжает учить народ SELinux
 .. slug: dan-walsh-продолжает-учить-народ-selinux
 .. date: 2016-06-08 16:32:11
-.. tags: selinux, security, docker, containers, 
+.. tags: selinux, security, docker, containers
 .. category: начинающим
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наш коллега, `Dan Walsh <http://people.redhat.com/dwalsh/>`__, продолжает
 рассказывать о неочевидных вещах, связанных с SELinux.

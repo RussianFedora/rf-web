@@ -23,5 +23,5 @@ Rich W.M. Jones демонстрирует
 RPM/DNF </content/Планы-по-rpmyumdnf-на-ближайшую-пятилетку>`__. Ждем.
 
 Кстати, `вышла альфа-версия RPM
-4.12.0 <http://thread.gmane.org/gmane.linux.rpm.maintenance/2453>`__.
+4.12.0 <https://thread.gmane.org/gmane.linux.rpm.maintenance/2453>`__.
 

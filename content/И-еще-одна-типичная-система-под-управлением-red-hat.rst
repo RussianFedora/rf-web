@@ -13,7 +13,7 @@
 
 CERN объявил, что `на Large Hadron Collider (LHC) Logging Server будет
 работать
-RHEL <http://www.redhat.com/about/news/press-archive/2014/4/cern-deploys-red-hat-platform>`__.
+RHEL <https://www.redhat.com/about/news/press-archive/2014/4/cern-deploys-red-hat-platform>`__.
 
 Ну, с другой стороны, а что еще можно было туда поставить?
 |image0|

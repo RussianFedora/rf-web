@@ -15,7 +15,7 @@
 коллега, `Nikos
 Mavrogiannopoulos <https://www.openhub.net/accounts/nmav>`__, был
 вынужден отвлечься, чтобы `выкатить промежуточную версию -
-3.4.13 <http://thread.gmane.org/gmane.comp.encryption.gpg.gnutls.devel/8572>`__.
+3.4.13 <https://thread.gmane.org/gmane.comp.encryption.gpg.gnutls.devel/8572>`__.
 
 Оказалось, что если приложение, слинкованное с библиотекой, запущено с
 setuid, то появляется возможность перезаписать произвольный файл в

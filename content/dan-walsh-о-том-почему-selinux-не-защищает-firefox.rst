@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Dan решил объяснить, почему SELinux не смог бы предотвратить `недавнюю
 уязвимость в
 Firefox <https://www.linux.org.ru/news/mozilla/11841470>`__. К
@@ -76,4 +73,3 @@ GitHub <https://github.com/projectatomic/atomic-site/issues/161>`__,
 чтобы не повторяться вновь и вновь. Конечно, лучше бы вам вообще не
 использовать Docker для контейнеров, т.к. systemd и сопутствующее ПО
 предоставляют гораздо больше возможностей для этого.
-

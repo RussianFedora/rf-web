@@ -25,7 +25,7 @@ gettext <https://blogs.gnome.org/mclasen/2016/07/21/using-modern-gettext/>`__.
 Gtkbuilder, \*.appdata.xml, \*.metainfo.xml), включение и использование
 переведенных строк, и удобство подключения новых XML-форматов к gettext.
 
-`Peter Hutterer <http://fedoraproject.org/wiki/User:Whot>`__ объявил,
+`Peter Hutterer <https://fedoraproject.org/wiki/User:Whot>`__ объявил,
 что `libinput окончательно
 завершен <https://who-t.blogspot.com/2016/07/libinput-is-done.html>`__.
 

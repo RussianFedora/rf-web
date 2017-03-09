@@ -12,7 +12,7 @@
 
 
 Сегодня `Panu Matilainen <https://www.openhub.net/accounts/pmatilai>`__
-`объявил <http://thread.gmane.org/gmane.linux.rpm.announce/29>`__ о
+`объявил <https://thread.gmane.org/gmane.linux.rpm.announce/29>`__ о
 выходе следующей версии RPM - 4.10.\ `Список изменений не очень
 шокирующий <http://rpm.org/wiki/Releases/4.10.0>`__, и в основном
 включает исправления ошибок и небольшие улучшения, незаметные для т.н.

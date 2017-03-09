@@ -12,7 +12,7 @@
 
 
 | `Red Hat выпустила RHEL 7
-  Beta <http://www.redhat.com/about/news/archive/2013/12/red-hat-announces-availability-of-red-hat-enterprise-linux-7-beta>`__.
+  Beta <https://www.redhat.com/about/news/archive/2013/12/red-hat-announces-availability-of-red-hat-enterprise-linux-7-beta>`__.
 
   `На Linux.org.ru сообщают
   коллеги-аналитики <https://www.linux.org.ru/news/redhat/9924168>`__,

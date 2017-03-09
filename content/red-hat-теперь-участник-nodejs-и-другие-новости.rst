@@ -24,7 +24,7 @@ FeedHenry </content/ceylon-110-и-rust-012>`__.
 для стандарта
 C11 <http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1967.htm>`__ (об
 этом `уже писали на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=43062>`__), а
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=43062>`__), а
 тут придется с ними сотрудничать. Но, кстати, удалять собрались `уже
 четвертый неправильный способ работы со
 строками </content/Новый-раунд-добавления-strlcpy-в-glibc>`__, так что
@@ -58,7 +58,7 @@ ppc64le <https://github.com/ocaml/ocaml/pull/225>`__. Понятно, что
 унифицированный бэкенд гораздо лучше, чем разномастные сторонние патчи,
 поэтому наш коллега, Rich WM Jones, объявил, что `Ocaml-пакеты в Fedora
 теперь будут собираться с помощью
-upstream-бэкенда <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/211213>`__.
+upstream-бэкенда <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/211213>`__.
 
 Кстати, насчет доступных и надежных дистрибутивов для альтернативных
 платформ - `CentOS уже появился для i686, и скоро появится для ppc64 /

@@ -1,20 +1,17 @@
 .. title: Captain ARMerica 2
 .. slug: captain-armerica-2
 .. date: 2015-04-30 10:48:57
-.. tags: arm, paypal, amd, 
+.. tags: arm, paypal, amd
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Наш коллега, Jon Masters, `снова </content/captain-armerica>`__
 приоделся:
 
-.. |image0| image:: https://lh5.googleusercontent.com/-5JmzXPVjBBg/VUBKTzQK95I/AAAAAAABNiQ/mGukjBJl-kM/sbsa_hoodie.jpg
+.. image:: https://lh5.googleusercontent.com/-5JmzXPVjBBg/VUBKTzQK95I/AAAAAAABNiQ/mGukjBJl-kM/sbsa_hoodie.jpg
    :align: center
    :target: https://plus.google.com/+JonMasters/posts/SL96Qjd5ypG
 

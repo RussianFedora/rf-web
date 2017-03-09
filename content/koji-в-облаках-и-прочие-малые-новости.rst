@@ -13,7 +13,7 @@
 
 `Mohammed Morsi <http://www.linkedin.com/in/mmorsi>`__ сделал подробную
 инструкцию о том, `как развернуть Koji в
-облаках <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/170097>`__.
+облаках <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/170097>`__.
 
 Жаль, конечно, что новость затерялась на фоне очередного
 rollingrelease-срача - перенос инфраструктурных компонентов в облака,
@@ -21,7 +21,7 @@ rollingrelease-срача - перенос инфраструктурных ко
 собирает RPM-пакеты.
 
 `В очередной раз закончилась ничем попытка перенести Unity в
-Fedora <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/170196>`__.
+Fedora <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/170196>`__.
 
 Пока Unity не заработает на непатченных системных компонентах GNOME, об
 этом можно даже и не думать, и удивительно, что люди в одиночку пытаются

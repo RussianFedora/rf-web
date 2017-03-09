@@ -15,7 +15,7 @@
 поэтому `Adam Jackson <https://www.openhub.net/accounts/ajax>`__, участник
 Fedora, Russian Fedora (проверьте по его статистике на Ohloh!) и
 мэйнтейнер Debian, `удалил их из Fedora
-18 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/163376>`__
+18 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/163376>`__
 (затронет только действительно старые карты, типа S3 Trio64V+). Однако,
 есть проблема - некоторые действительно старые видеокарты все еще можно
 использовать тем, кого не очень интересуют 3D FPS игры, плюс некоторые

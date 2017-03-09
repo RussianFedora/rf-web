@@ -14,7 +14,7 @@
 `Open CASCADE <http://www.opencascade.org/>`__, это широко популярный в узких
 кругах `продукт, сочетающий в себе набор библиотек и средств разработки ПО,
 ориентированного на 3D-моделирование, в особенности систем автоматизированного
-проектирования <http://ru.wikipedia.org/wiki/Open_CASCADE_Technology>`__.  На
+проектирования <https://ru.wikipedia.org/wiki/Open_CASCADE_Technology>`__.  На
 базе фреймворка построены такие продукты, как `SALOME
 <http://www.salome-platform.org/>`__, `FreeCAD <http://www.freecadweb.org/>`__
 и `ряд проприетарных продуктов
@@ -33,7 +33,7 @@ CASCADE <https://bugzilla.redhat.com/458974>`__, так и `FreeCAD
 и по внутренним каналам, и в переговорах и консультациях участвовало много
 известных лиц, как от Fedora Project, так и от Debian Community - от нашего
 коллеги, участника Fedora Legal, юриста SFLC и патентного адвоката Red Hat,
-`Richard Fontana <http://en.wikipedia.org/wiki/Richard_Fontana>`__, до `Richard
+`Richard Fontana <https://en.wikipedia.org/wiki/Richard_Fontana>`__, до `Richard
 Matthew Stallman <http://stallman.org/>`__, но все закончилось безрезультатно.
 В конце концов, сообщество Debian решилось на включение Open CASCADE несмотря
 на очевидное нарушение лицензии будущими пользователями пакетов из репозиториев
@@ -55,9 +55,9 @@ Debian и т.п.). Мы наблюдаем интересную тенденци
 сложившуюся ситуацию, и начала движение в сторону коммьюнити вокруг
 дистрибутивов. С выходом Open CASCADE 6.5 `внимательные участники Fedora
 Project заметили смягчение условий лицензионного
-соглашения <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/1325/focus=1327>`__,
+соглашения <https://thread.gmane.org/gmane.linux.redhat.fedora.legal/1325/focus=1327>`__,
 которое, к сожалению, `в целом так и осталось
-несвободным <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/1325/focus=1328>`__.
+несвободным <https://thread.gmane.org/gmane.linux.redhat.fedora.legal/1325/focus=1328>`__.
 
 Неожиданно, на форуме Open CASCADE появился
 `анонс <http://dev.opencascade.org/index.php?q=node/908>`__, в котором
@@ -71,7 +71,7 @@ CASCADE Technology Public License `перенесена в
 архив <http://www.opencascade.org/getocc/license/license_old/>`__. К
 несчастью, они не стали использовать LGPL как есть, а добавили свою
 часть, и это `потребовало изучения Fedora
-Legal <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/2090>`__,
+Legal <https://thread.gmane.org/gmane.linux.redhat.fedora.legal/2090>`__,
 но мы предполагаем, что FE-Legal в этот раз одобрит лицензию, и
 заинтересованные люди наконец-то смогут завершить включение этого
 интересного фреймворка в Fedora.

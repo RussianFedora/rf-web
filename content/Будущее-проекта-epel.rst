@@ -21,7 +21,7 @@ Smoogen <https://plus.google.com/101738702159626103832/about>`__
 приглашает на ближайший FUDcon `обсудить руководящие принципы EPEL,
 организацию проекта, требования к мэйнтейнерам, условия, при которых
 допускаются "большие"
-апдейты <http://thread.gmane.org/gmane.linux.redhat.fedora.epel.devel/8007>`__.
+апдейты <https://thread.gmane.org/gmane.linux.redhat.fedora.epel.devel/8007>`__.
 
 В комментариях уже завязалось интересное обсуждение.
 

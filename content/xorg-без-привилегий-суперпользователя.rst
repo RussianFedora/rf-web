@@ -16,13 +16,13 @@ Goede <https://github.com/jwrdegoede>`__, добился работы X без
 дополнительных привилегий, и без одновременного доступа к /dev/ttyXX.
 
 Первая серия патчей `уже отправлена им в список
-рассылки <http://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/39393>`__.
+рассылки <https://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/39393>`__.
 
 Идея запускать такой сложный кусок системы, как X, не под
 суперпользователем (и без suid-бита) `не
 нова <https://lwn.net/Articles/341033/>`__. С ней `экспериментировал
 Intel в рамках уже давно забытого проекта
-moblin <http://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/1158>`__,
+moblin <https://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/1158>`__,
 потом `Canonical попыталась
 реализовать <https://wiki.ubuntu.com/X/Rootless>`__, но столкнулась с
 рядом проблем, `и отложила

@@ -15,7 +15,7 @@
   скорректированы ближайшие планы GNOME по поддержке Wayland, о чем нам
   `рассказывает <http://blogs.gnome.org/mclasen/2013/08/05/gnome-wayland-plans/>`__
   в своем блоге `Matthias
-  Clasen <http://fedoraproject.org/wiki/User:Mclasen>`__. Запланировано
+  Clasen <https://fedoraproject.org/wiki/User:Mclasen>`__. Запланировано
   следующее:
 
 -  К версии 3.10 будет доступно технологическое превью GNOME shell на

@@ -14,7 +14,7 @@
 `Прошло примерно три месяца с его появления в
 Fedora </content/kdbus-в-fedora-rawhide>`__, как неожиданно, без
 объяснения причин, `в Fedora Rawhide отключили
-kdbus <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/213235>`__.
+kdbus <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/213235>`__.
 
 Известному хулигану и матершиннику Линусу Торвальдсу это точно
 понравится. Особенно после того, как недавно `заметили падение

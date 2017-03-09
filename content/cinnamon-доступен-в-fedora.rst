@@ -30,5 +30,5 @@ MATE <https://github.com/mate-desktop>`__, высказываются сомне
 оказалось, что он не работает, если собирается с GCC 4.7.x (для сборки
 также требуются какие-то дополнительные патчи), поэтому его собирают
 пока с GCC 4.6.x. `Почитайте обсуждение по поводу
-Unity <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/166904>`__.
+Unity <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/166904>`__.
 

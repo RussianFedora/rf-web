@@ -71,7 +71,7 @@
   переносить с помощью Docker компоненты Enterprise архитектуры в
   облако, например гибридное (`рост интереса к гибридным облакам входит
   в TOP-15 прогнозов на 2014й год от Red
-  Hat <http://www.redhat.com/about/news/archive/2013/12/15-infrastructure-predictions-for-2014>`__).
+  Hat <https://www.redhat.com/about/news/archive/2013/12/15-infrastructure-predictions-for-2014>`__).
 
   Тут и хранилище нужно посерьезнее, и SELinux включенный. Dan взялся за
   задачу, но с интересом увидел, что Docker написан на Go. Матерого

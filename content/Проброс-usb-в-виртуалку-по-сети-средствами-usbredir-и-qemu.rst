@@ -20,7 +20,7 @@
   `usbredir <https://github.com/SPICE/usbredir>`__. С его помощью можно
   как раз пробросить [STRIKEOUT:USB-ключ для 1С] произвольное
   USB-устройство в виртуалку. Отрадно, что появляются `хаутушки по этой
-  теме <http://habrahabr.ru/post/265065/>`__:
+  теме <https://habrahabr.ru/post/265065/>`__:
 
     Проброс USB в виртуалку по сети средствами usbredir и qemu
 
@@ -29,10 +29,10 @@
        <div class="hubs">
 
     `Системное
-    администрирование <http://habrahabr.ru/hub/sys_admin/>`__\ \*,
-    `Виртуализация <http://habrahabr.ru/hub/virtualization/>`__\ \*,
-    `Open source <http://habrahabr.ru/hub/open_source/>`__\ \*,
-    `\*nix <http://habrahabr.ru/hub/nix/>`__\ \*
+    администрирование <https://habrahabr.ru/hub/sys_admin/>`__\ \*,
+    `Виртуализация <https://habrahabr.ru/hub/virtualization/>`__\ \*,
+    `Open source <https://habrahabr.ru/hub/open_source/>`__\ \*,
+    `\*nix <https://habrahabr.ru/hub/nix/>`__\ \*
 
     .. raw:: html
 

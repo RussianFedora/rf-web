@@ -34,7 +34,7 @@ ARM-разработчики) - его даже немного жалко, т.к
 это очень здорово, что уровень унификации ARM достигает уровня
 x86/x86\_64 машин. Как сказал наш коллега, `Adam
 Jackson <https://www.openhub.net/accounts/ajax>`__, `Linux, это не
-выбор <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/73297/focus=73313>`__,
+выбор <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/73297/focus=73313>`__,
 это жесткая стандартизация, - повторим за ним это еще раз.
 
 К сожалению, Jon отключил комментации у себя в Google+, поэтому

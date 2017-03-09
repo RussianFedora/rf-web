@@ -14,7 +14,7 @@
 Участник проектов Fedora и LibreOffice, `Caolán
 McNamara <https://www.openhub.net/accounts/caolan>`__, в своем блоге
 приводит `статистику
-Coverity <http://caolanm.blogspot.ru/2014/11/libreoffice-coverity-defect-density-002.html>`__,
+Coverity <http://caolanm.blogspot.com/2014/11/libreoffice-coverity-defect-density-002.html>`__,
 регулярно собираемую по всему проекту. Сейчас Coverity выдает такие
 сведения - в LibreOffice 7,2 миллиона строк кода, и средняя плотность
 ошибок составляет 0,02. Плотность, это количество ошибок на 1000 строк

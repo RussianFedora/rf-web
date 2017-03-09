@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Peter Hutterer <http://fedoraproject.org/wiki/User:Whot>`__ объявил
+`Peter Hutterer <https://fedoraproject.org/wiki/User:Whot>`__ объявил
 сегодня о `выходе Synaptics
 1.6.0 <http://who-t.blogspot.com/2012/05/whats-new-in-synaptics-160.html>`__
 - драйвере устройств ввода для тачпадов и подобного оборудования.

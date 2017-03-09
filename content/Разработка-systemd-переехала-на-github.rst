@@ -12,7 +12,7 @@
 
 
 `Официально
-объявлено <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/32544>`__,
+объявлено <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/32544>`__,
 что разработка systemd полностью переезжает на GitHub. Клонируйте
 `репозитарий <https://github.com/systemd/systemd>`__, присылайте
 pull-реквесты.

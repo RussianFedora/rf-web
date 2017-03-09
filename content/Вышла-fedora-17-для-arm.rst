@@ -18,7 +18,7 @@
 платформ - Versatile Express (QEMU), Trimslice, Beagleboard xM,
 Pandaboard, Kirkwood Plugs, Highbank и iMX. Перед использованием,
 обратите внимание на `замечания по
-установке <http://fedoraproject.org/wiki/Architectures/ARM/Fedora_17_GA>`__.
+установке <https://fedoraproject.org/wiki/Architectures/ARM/Fedora_17_GA>`__.
 
 Мы `уже
 говорили </content/Новости-secondary-arch-fedora>`__,

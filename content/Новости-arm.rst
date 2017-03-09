@@ -16,7 +16,7 @@
   Clark <https://github.com/robclark>`__, потратил несколько лет своей
   жизни, чтоб к декабрю 2014 года у него появилась `возможность играть в
   supertuxkart на ARM-платформе с видеочипом Adreno
-  A4xx <http://bloggingthemonkey.blogspot.ru/2014/12/a4xx-in-holiday-spirit.html>`__.
+  A4xx <http://bloggingthemonkey.blogspot.com/2014/12/a4xx-in-holiday-spirit.html>`__.
 
   [STRIKEOUT:`А чего добился
   ты? <https://lurkmore.to/Сперва_добейся>`__]

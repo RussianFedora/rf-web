@@ -12,15 +12,15 @@
 
 
 Наконец-то `вышел Qemu
-2.4 <http://thread.gmane.org/gmane.comp.emulators.qemu/355495>`__. В
+2.4 <https://thread.gmane.org/gmane.comp.emulators.qemu/355495>`__. В
 `большом списке изменений <http://wiki.qemu.org/ChangeLog/2.4>`__
 хотелось бы выделить поддержку VirtIO GPU, `разработанного нашим
 коллегой David
-Airlie <http://thread.gmane.org/gmane.linux.kernel.virtualization/25063>`__,
+Airlie <https://thread.gmane.org/gmane.linux.kernel.virtualization/25063>`__,
 горячее удаление памяти, улучшение в зеркалировании блочных устройств.
 
 `Одновременно выпустили багфикс-релиз Qemu
-2.3.1 <http://thread.gmane.org/gmane.comp.emulators.qemu/355494>`__.
+2.3.1 <https://thread.gmane.org/gmane.comp.emulators.qemu/355494>`__.
 
 Вообще, несмотря на взрывной рост интереса к контейнерам, отметим, что
 старый конь борозды не испортит. Учитывая `пока что нерешенные проблемы
@@ -53,7 +53,7 @@ Containers <https://lwn.net/Articles/644675/>`__, в рамках которог
 и разработкой специального firmware, `Paolo
 Bonzini <https://www.openhub.net/accounts/bonzini>`__ официально объявил
 о выходе
-`qboot <http://thread.gmane.org/gmane.comp.emulators.kvm.devel/136158>`__,
+`qboot <https://thread.gmane.org/gmane.comp.emulators.kvm.devel/136158>`__,
 специальном firmware и инструкции для пересборки Qemu, позволявшим
 запустить исполнение виртуальной машины через 40 миллисекунд, вместо
 обычных 500-700. Дальше, конечно, время тратится на запуск ядра, initrd,

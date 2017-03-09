@@ -12,7 +12,7 @@
 
 
 Мэйнтейнер и основной разработчик пакета
-`util-linux <http://en.wikipedia.org/wiki/Util-linux>`__, инженер Red
+`util-linux <https://en.wikipedia.org/wiki/Util-linux>`__, инженер Red
 Hat и участник Fedora `Karel
 Zak <https://www.openhub.net/accounts/kzak>`__ поделился `последними
 новостями <http://karelzak.blogspot.com/2012/05/eject1-sulogin1-wdctl1.html>`__.
@@ -22,7 +22,7 @@ Zak <https://www.openhub.net/accounts/kzak>`__ поделился `послед�
 было остановлено несколько лет назад. Karel переделал ее совместно с
 молодым инженером Red Hat, Michal Luscon, который попал на эту должность
 благодаря `своему
-участию <http://fedoraproject.org/wiki/Summer_Coding_2010_student_application_-_Michal_Luscon>`__
+участию <https://fedoraproject.org/wiki/Summer_Coding_2010_student_application_-_Michal_Luscon>`__
 `в летних Open Source
 инициативах <https://fedoraproject.org/wiki/Summer_Coding>`__ от Fedora
 и Google - напоминаем студентам, что активное участие в Open Source

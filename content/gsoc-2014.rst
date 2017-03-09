@@ -12,7 +12,7 @@
 
 
 | Мы немного запоздали, но тем не менее - `официально
-  анонсировали <http://google-opensource.blogspot.ru/2014/02/mentoring-organizations-for-google.html>`__
+  анонсировали <http://google-opensource.blogspot.com/2014/02/mentoring-organizations-for-google.html>`__
   список организаций, допущенных до участия в Google Summer of Code
   2014. Мы снова в списке, но, конечно, кроме Fedora Project допущены
   еще `много известных проектов и

@@ -1,20 +1,17 @@
 .. title: Короткие новости
 .. slug: Короткие-новости-26
 .. date: 2014-06-25 11:03:56
-.. tags: freedreno, oops, broadcom, networkmanager, util-linux, grep, google, coreutils, cryptography
+.. tags: arm, freedreno, oops, broadcom, networkmanager, util-linux, grep, google, coreutils, cryptography
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Участник Fedora ARM SIG, `Rob Clark <https://github.com/robclark>`__,
 продолжает работу над проектом freedreno. В последнее время он не только
 реализовал
-`XA-ускорение <http://thread.gmane.org/gmane.comp.freedesktop.xorg.announce/2157>`__
+`XA-ускорение <https://thread.gmane.org/gmane.comp.freedesktop.xorg.announce/2157>`__
 (2D-ускорение EXA, реализованное на базе Gallium3D), `OpenGL
 2.0 <http://bloggingthemonkey.blogspot.com/2014/05/freedreno-turns-gl-20-today.html>`__,
 `поддержку sRGB текстур и OpenGL
@@ -46,7 +43,7 @@ Bridging <https://en.wikipedia.org/wiki/Data_center_bridging>`__.
 
 Наш коллега, `Karel Zak <https://www.openhub.net/accounts/kzak>`__,
 `полностью переписал
-cfdisk <http://karelzak.blogspot.ru/2014/06/new-cfdisk-util-linux-v225.html>`__,
+cfdisk <http://karelzak.blogspot.com/2014/06/new-cfdisk-util-linux-v225.html>`__,
 утилиту из состава util-linux. Получилось неплохо! [STRIKEOUT:Надо
 попробовать на жестком диске, который не жалко].
 
@@ -74,5 +71,4 @@ Cryptol <https://news.ycombinator.com/item?id=7642434>`__, DSL для
 днях было анонсировано, что защищенное и математически проверенное
 `микроядро seLK <http://sel4.systems/>`__ будет вскоре открыто. Новость
 уже `обсуждается на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40075>`__.
-
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40075>`__.

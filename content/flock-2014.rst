@@ -1,15 +1,12 @@
 .. title: Flock 2014
 .. slug: flock-2014
 .. date: 2014-07-02 14:35:04
-.. tags:
-.. category:
+.. tags: flock, schedule
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Готовимся к посещению конференции `Flock
 2014 <http://flocktofedora.org/>`__, которая пройдет с 6 по 9 августа в

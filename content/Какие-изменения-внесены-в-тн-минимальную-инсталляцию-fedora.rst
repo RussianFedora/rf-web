@@ -19,10 +19,10 @@
 машин (а с развитием систем виртуализации и облачных технологий, даже
 такой быстро развивающийся дистрибутив, как Fedora `становится очень
 привлекательным на
-серверах <http://www.opennet.ru/opennews/art.shtml?num=37090>`__),
+серверах <https://www.opennet.ru/opennews/art.shtml?num=37090>`__),
 создателей специализированных сборок на базе нашего дистрибутива. Однако
 и минимальный набор пакетов изменяется со временем. Для любопытствующих
 `Adam Williamson <http://www.happyassassin.net/about/>`__ опубликовал
 разницу между минимальным набором Fedora 16 и Fedora 19 -
-`ознакомьтесь <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/181161>`__.
+`ознакомьтесь <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/181161>`__.
 

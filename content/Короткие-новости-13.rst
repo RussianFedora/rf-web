@@ -1,15 +1,12 @@
 .. title: Короткие новости
 .. slug: Короткие-новости-13
 .. date: 2013-09-16 11:08:52
-.. tags: импортозамещение, tizen, systemd, wayland, x11, gnome, coreutils, rhel, ocaml, voip
+.. tags: камаз, импортозамещение, tizen, arm, freedreno, systemd, wayland, x11, gnome, coreutils, rhel, ocaml, voip
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `КамАЗ выбрал
 Tizen <https://ru.intel.com/business/community/index.php?automodule=blog&blogid=7605&showentry=4318>`__,
@@ -22,7 +19,7 @@ Tizen <https://ru.intel.com/business/community/index.php?automodule=blog&blogid=
 компании Igalia, `Carlos Garcia
 Campos <https://www.openhub.net/accounts/carlosgc>`__, объявил о выходе
 новой версии WebKitGTK+, `который теперь может работать на
-Wayland <http://thread.gmane.org/gmane.os.opendarwin.webkit.gtk/1561>`__,
+Wayland <https://thread.gmane.org/gmane.os.opendarwin.webkit.gtk/1561>`__,
 без X11. Это очень важный шаг вперед, к GNOME без зависимости от иксов.
 
 В полном соответствии с `ранее анонсированным
@@ -47,7 +44,7 @@ Wayland <https://bugzilla.redhat.com/1007445>`__. Мы не эксперимен
 
 Уже известный вам участник Fedora ARM SIG, Rob Clark, `еще больше
 разогнал
-freedreno <http://bloggingthemonkey.blogspot.ru/2013/09/freedreno-update-moar-fps.html>`__.
+freedreno <http://bloggingthemonkey.blogspot.com/2013/09/freedreno-update-moar-fps.html>`__.
 
 Rich W.M. Jones объявил, что `обновляет Ocaml в Fedora до недавно
 вышедшей версии
@@ -67,4 +64,3 @@ Fedora,
 Но не расстраивайтесь - будет видеотрансляция. Также мы выложим видеозаписи с
 докладами участников и их презентации. Ну и не пропускайте наших будущих
 анонсов.
-

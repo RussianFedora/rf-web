@@ -13,7 +13,7 @@
 
 Наши друзья из проекта `Coreboot <http://www.coreboot.org/>`__
 анонсировали идею для подарка на Новый Год. Paul Menzel
-`сообщает <http://thread.gmane.org/gmane.linux.bios/74431>`__, что
+`сообщает <https://thread.gmane.org/gmane.linux.bios/74431>`__, что
 Mini-ITX материнская плата `ASRock
 E350M1 <http://www.coreboot.org/ASRock_E350M1>`__ полностью
 поддерживается. Что немаловажно, она вполне доступна в российских

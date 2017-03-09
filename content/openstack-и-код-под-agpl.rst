@@ -12,20 +12,20 @@
 
 
 Во время `одного из
-обсуждений <http://thread.gmane.org/gmane.comp.cloud.openstack.devel/19930>`__
+обсуждений <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/19930>`__
 дизайна компонента `Marconi <https://wiki.openstack.org/wiki/Marconi>`__
 (набор сервисов и API для организации шины данных в OpenStack), как само
 собой разумеющийся факт было высказано, что зависимость Marconi от
 NoSQL-базы MongoDB, `лицензированной под Affero
 GPL <http://www.mongodb.org/about/licensing/>`__, это проблема. Ряд
 участников обсуждения `попросили аргументированно объяснить
-ситуацию <http://thread.gmane.org/gmane.comp.cloud.openstack.devel/19930/focus=20053>`__.
+ситуацию <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/19930/focus=20053>`__.
 
 На просьбу откликнулся известный юрист, `Gil
 Yehuda <https://twitter.com/gyehuda>`__.
 
 `В своем
-письме <http://thread.gmane.org/gmane.comp.cloud.openstack.devel/19930/focus=20073>`__,
+письме <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/19930/focus=20073>`__,
 которое он попросил переслать в список рассылки OpenStack, Gil
 настоятельно советует не добавлять зависимость от AGPL-компонентов,
 особенно от MongoDB, которая, по его словам, лицензирована в очень

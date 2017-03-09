@@ -13,7 +13,7 @@
 
 На сайте OpenNET опубликовали радостную новость - `представлен прототип
 автомобильной информационно-развлекательной системы, развиваемой Linux
-Foundation <http://www.opennet.ru/opennews/art.shtml?num=36717>`__ на
+Foundation <https://www.opennet.ru/opennews/art.shtml?num=36717>`__ на
 базе systemd. Вы уже могли слышать, что `systemd теперь будет и в вашей
 BMW, Cadillac, GMC, Chevrolet, Opel, Jaguar, Land Rover, Peugeot,
 Citroën, Renault, Nissan, Volkswagen и некоторых других

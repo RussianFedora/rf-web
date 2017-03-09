@@ -25,7 +25,7 @@
   <https://fedoraproject.org/wiki/Changes/AllwinnerSunxiSupport>`__
   (используются, например, в `CubieTruck <http://www.cubietruck.com/>`__).
   Работа будет проведена в рамках `Fedora ARM SIG
-  <http://fedoraproject.org/wiki/Architectures/ARM>`__. До сих пор Fedora на
+  <https://fedoraproject.org/wiki/Architectures/ARM>`__. До сих пор Fedora на
   этой платформе работала благодаря ремиксу, а теперь планируется включить все
   нужное прямо в Fedora для ARM. К сожалению, поддержка графического режима
   работы пока не планируется.

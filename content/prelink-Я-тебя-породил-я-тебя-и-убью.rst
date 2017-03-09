@@ -18,12 +18,12 @@
 участником проектов Fedora и GCC, `Jakub
 Jelinek <https://www.openhub.net/accounts/Jakub_Jelinek>`__. Все началось
 с [STRIKEOUT:крика "A король-то голый!"]
-`письма <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/187118>`__
+`письма <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/187118>`__
 от `Dhiru Kholia <https://github.com/kholia>`__, криптоаналитика,
 известного `недавним исследованием протокола
 DropBox <http://www.openwall.com/presentations/WOOT13-Security-Analysis-of-Dropbox/>`__,
 закончившимся `его
-реверс-инжинирингом <http://www.opennet.ru/opennews/art.shtml?num=37758>`__,
+реверс-инжинирингом <https://www.opennet.ru/opennews/art.shtml?num=37758>`__,
 участника проектов Fedora и OpenWall, инженера Red Hat. В письме Dhiru с
 недоумением отмечает, что использование prelink не показало значимых
 ускорений на имевшихся в его распоряжении конфигурациях, и спрашивал,
@@ -31,7 +31,7 @@ DropBox <http://www.openwall.com/presentations/WOOT13-Security-Analysis-of-Dropb
 будет замерить существенные различия. В ответ раздался хор проклятий и
 пожеланий скорейшей смерти prelink-у от инженеров Red Hat, намучавшихся
 с ним при `сертификации
-FIPS-140 <http://en.wikipedia.org/wiki/FIPS_140>`__, при верификации RPM
+FIPS-140 <https://en.wikipedia.org/wiki/FIPS_140>`__, при верификации RPM
 (rpm -V), при сборке с -fPIE, да и просто в самых различных местах.
 
 Оказывается, на современных системах уже давно prelink больше гадит, чем

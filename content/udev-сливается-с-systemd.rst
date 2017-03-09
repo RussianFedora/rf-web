@@ -14,7 +14,7 @@
 Разработчик systemd, `Kay
 Sievers <https://www.openhub.net/accounts/kaysievers>`__ объявил о `о
 слиянии кодовой базы systemd и
-udev <http://thread.gmane.org/gmane.linux.hotplug.devel/17392>`__. Для
+udev <https://thread.gmane.org/gmane.linux.hotplug.devel/17392>`__. Для
 тех, кого по неизвестной нетехнической причине не устраивает systemd,
 сохраняется возможность собрать udev отдельно, как минимум еще некоторое
 время.

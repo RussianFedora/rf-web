@@ -16,17 +16,17 @@
 более интересными становятся новости о systemd.
 
 Недавно `вышла довольно проходная версия
-221 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/33079>`__,
+221 <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/33079>`__,
 которую `коллеги-аналитики уже обсуждают на
 Linux.org.ru <https://www.linux.org.ru/news/opensource/11722389>`__. В
 это версии самым замечательным событием было объявление kdbus
 обязательным компонентом, и стабилизация sd-bus. А вот в списке
 разработчиков ядра уже сформировалась группа любителей юниксвэя,
 недовольных kdbus. Хорошо, что их фантазии озвучивает `лишь один
-человек <http://thread.gmane.org/gmane.linux.kernel/1981923>`__, и
+человек <https://thread.gmane.org/gmane.linux.kernel/1981923>`__, и
 особенно хорошо, что известный хулиган и матершинник, Linus Torvalds, `в
 целом одобряет включение kdbus в
-ядро <http://thread.gmane.org/gmane.linux.kernel/1981923/focus=1982561>`__,
+ядро <https://thread.gmane.org/gmane.linux.kernel/1981923/focus=1982561>`__,
 не ведясь на театральные жесты этих ретроградов. Так что близится
 очередная тактическая победа команды systemd, плавно перерастающая в
 стратегическую, когда ПО будет переписываться с использованием новой
@@ -78,7 +78,7 @@ systemd-nspawn <https://github.com/systemd/systemd/issues/258>`__. Мы
 Ну и напоследок, новость не о systemd, но о платформе systemd/Linux.
 Наши коллеги, вместе с нашими друзьями из Canonical и Debian, недавно
 представили `уже вторую официальную версию
-storaged <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/208289>`__,
+storaged <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/208289>`__,
 демона, идущего на замену udisks2, но независимого от окружения GNOME и
 полностью управляемого по D-Bus (kdbus / sd-bus). Стандартизация
 стремительно наступает на юниксвэйную свободу выбора из нескольких

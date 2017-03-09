@@ -15,7 +15,7 @@
 `Fedora 18 для
 PPC64 <https://fedoraproject.org/wiki/Architectures/PowerPC/F18_release_announcement>`__
 и `Fedora 18 для IBM System
-z <http://thread.gmane.org/gmane.comp.emulators.hercules390.general/45321>`__.
+z <https://thread.gmane.org/gmane.comp.emulators.hercules390.general/45321>`__.
 
 Надо отметить, что опоздание в этот раз совсем незначительное, `в
 отличие от предыдущего релиза </content/fedora-17-для-s390x>`__.

@@ -12,7 +12,7 @@
 
 
 На собрании FESCo, прошедшем 30 января 2012 года, `были
-одобрены <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/158842/focus=158866>`__
+одобрены <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/158842/focus=158866>`__
 новые "фичи" Fedora 17:
 
 -  `Переработанные средства создания

@@ -16,7 +16,7 @@
 1.4 <http://lists.freedesktop.org/archives/modemmanager-devel/2014-August/001485.html>`__.
 
 Новость уже обсуждают на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40531>`__.
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40531>`__.
 
 `Digital Ocean официально начал предлагать использовать
 CoreOS <https://coreos.com/blog/digital-ocean-supports-coreos/>`__. Мы

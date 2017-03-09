@@ -23,7 +23,7 @@ systemd-networkd <http://cgit.freedesktop.org/systemd/systemd/commit/?id=cda391c
 
 У systemd-networkd
 `уже <http://www.joachim-breitner.de/blog/664-Switching_to_systemd-networkd>`__
-`появились <http://suihkulokki.blogspot.ru/2014/11/using-networkd-for-kvm-tap-networking.html>`__
+`появились <http://suihkulokki.blogspot.com/2014/11/using-networkd-for-kvm-tap-networking.html>`__
 пользователи, так что при переходе на Fedora 21 можно будет попробовать.
 
 К сожалению, в Fedora 20 networkd не будет.

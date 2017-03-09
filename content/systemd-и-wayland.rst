@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Keith Packard <http://en.wikipedia.org/wiki/Keith_Packard>`__,
+`Keith Packard <https://en.wikipedia.org/wiki/Keith_Packard>`__,
 известный разработчик X.org, фактически один из создателей X Window
 System, выступая на **2012 Linux Foundation Collaboration** с докладом
 по состоянию совместимости X11 и

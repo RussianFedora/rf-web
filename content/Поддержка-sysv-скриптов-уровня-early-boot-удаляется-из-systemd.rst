@@ -14,13 +14,13 @@
 `Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__
 анонсировал `удаление поддержки SysV-скриптов самой ранней стадии
 загрузки из SysV-to-systemd
-генератора <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/6493>`__.
+генератора <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/6493>`__.
 
 Это не затронет уровень совместимости с "обычными" SysV-скриптами - лишь
 ту их часть, что работает на этапе загрузки системы (уровень 'S', 'b' и
 т.п.). Эти уровни никогда не были толком стандартизованы `и их
 реализация отличается от дистрибутива к
-дистрибутиву <http://en.wikipedia.org/wiki/Runlevel>`__. Самое время
+дистрибутиву <https://en.wikipedia.org/wiki/Runlevel>`__. Самое время
 выкинуть их вообще в пользу стандартного решения - service-файлов
 systemd.
 

@@ -12,7 +12,7 @@
 
 
 Наконец-то, после 25й (!) итерации, `OverlayFS включили в дерево
-vfs.git <http://thread.gmane.org/gmane.linux.file-systems.union/23/focus=25>`__.
+vfs.git <https://thread.gmane.org/gmane.linux.file-systems.union/23/focus=25>`__.
 
 Еще пара-тройка шагов, и его включат в официальный Git-репозиторий
 Торвальдса.
@@ -45,7 +45,7 @@ Aurora <https://en.wikipedia.org/wiki/Valerie_Aurora>`__ на LWN.net -
 Debian-based дистрибутивов. Но быстро выяснилось, что это было ошибкой,
 т.к. `система оказалась чрезвычайно сложной, хрупкой, и бесперспективной
 для включения в
-ядро <http://thread.gmane.org/gmane.linux.ubuntu.devel/34927/focus=34955>`__.
+ядро <https://thread.gmane.org/gmane.linux.ubuntu.devel/34927/focus=34955>`__.
 
 Но ущерб поспешными действиями мэйнтейнеров был нанесен - разработчики
 Docker, по наивности полагаясь на возможности, присутствовавшие в самом
@@ -61,12 +61,12 @@ Red Hat появился интерес к Docker </content/red-hat-и-docker>`_
 неповторимого стиля общения в списке рассылки ядра, отозвались о
 патчсете окрыляюще для начинающих - Andrew Morton сказал, что `ему проще
 не принимать
-его <http://thread.gmane.org/gmane.linux.file-systems/54682/focus=54959>`__,
+его <https://thread.gmane.org/gmane.linux.file-systems/54682/focus=54959>`__,
 а на последовавшее предложение перенести функционал в FUSE-модуль в
 userspace, Linus Torvalds, в присутствии разработчика userspace-файловых
 систем, высказался, что `люди, разрабатывающие файловые системы в
 userspace просто
-заблуждаются <http://thread.gmane.org/gmane.linux.file-systems/54682/focus=54983>`__.
+заблуждаются <https://thread.gmane.org/gmane.linux.file-systems/54682/focus=54983>`__.
 
 Получив свою дозу мотиваторов, Miklos за три года совершил еще две
 дюжины попыток, и наконец-то пробился!

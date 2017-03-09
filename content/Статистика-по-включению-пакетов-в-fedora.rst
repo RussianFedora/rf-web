@@ -13,9 +13,9 @@
 
 Вновь начали собирать и публиковать статистику по включению пакетов в
 Fedora. Этим занялся `Ankur
-Sinha <http://fedoraproject.org/wiki/User:Ankursinha>`__. Пока он
+Sinha <https://fedoraproject.org/wiki/User:Ankursinha>`__. Пока он
 подготовил `первый вариант
-отчета <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/178434>`__,
+отчета <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/178434>`__,
 из которого можно сделать некоторые ненаучные выводы. Например,
 получается, что каждый месяц в Fedora включается 150-200 новых пакетов,
 что заметно больше, чем несколько лет назад, когда включалось примерно

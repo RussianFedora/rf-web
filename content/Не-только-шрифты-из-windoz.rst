@@ -19,7 +19,7 @@
 McNamara <https://www.openhub.net/accounts/caolan>`__, начал совсем уж
 необычный эксперимент. `Он устанавливает в Linux-систему шрифты из Mac
 OS X, и пытается их использовать в
-LibreOffice <http://caolanm.blogspot.ru/2014/09/more-font-support.html>`__.
+LibreOffice <http://caolanm.blogspot.com/2014/09/more-font-support.html>`__.
 
 Сразу скажем, что мы не уверены в законности этого действия, если у вас
 нет `легально купленной копии Mac OS

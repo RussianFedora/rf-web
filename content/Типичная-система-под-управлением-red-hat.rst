@@ -20,7 +20,7 @@ Hat:
 ` <http://arstechnica.com/information-technology/2013/10/the-navys-newest-warship-is-powered-by-linux/>`__
 |image0|
 Это строящийся `эсминец типа
-«Замволт» <http://ru.wikipedia.org/wiki/Эскадренные_миноносцы_типа_«Замволт»>`__.
+«Замволт» <https://ru.wikipedia.org/wiki/Эскадренные_миноносцы_типа_«Замволт»>`__.
 
 Завершенный, он будет выглядеть примерно так:
 ` <http://www.jeffhead.com/usn21/ddg1000.htm>`__

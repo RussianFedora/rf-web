@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Если кто пропустил, то `CoreOS набирает людей
 <https://news.ycombinator.com/item?id=8211251>`__:
 
@@ -42,8 +39,8 @@
     apolvi@coreos.com**
 
 .. image:: http://img0.joyreactor.cc/pics/comment/комикс-длиннопост-песочница-1184446.jpeg
-      :align: center
+   :align: center
+
+.. class:: align-center
 
 **Хотел написать, но их почему-то интересует опыт разработки Gentoo**
-
-

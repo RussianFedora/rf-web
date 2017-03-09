@@ -55,7 +55,7 @@
 
 -  Новая среда разработки для GNOME - Builder. `Коллеги-аналитики уже
    обсуждают на
-   OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40307>`__.
+   OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40307>`__.
 
  
 В завершение обратим внимание на пост, написанный по мотивам выступления на

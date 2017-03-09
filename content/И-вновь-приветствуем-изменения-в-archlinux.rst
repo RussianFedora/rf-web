@@ -16,7 +16,7 @@
 `ответил на
 критику <http://allanmcrae.com/2012/08/are-we-removing-what-defines-arch-linux/>`__
 аналитиков с различных Linux-ресурсов (его блог-пост уже обсуждается на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=34575>`__). Он
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=34575>`__). Он
 озвучил новость, которая, в общем, и не новость для тех, кто следит за
 событиями вокруг этого дистрибутива - ArchLinux медленно переходит на
 systemd, как единственную систему загрузки. Участники RussianFedora

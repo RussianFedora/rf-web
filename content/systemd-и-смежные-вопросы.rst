@@ -64,7 +64,7 @@ Google+ <https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/LjkLwkeDi
 Upstart <https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1073433?comments=all>`__,
 приводящий к повреждению файловой системы при отключении (его пост `уже
 перевели на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38943>`__).
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38943>`__).
 
 Прочитайте - возможно, вам больше не будет казаться, что отключение, это
 такой уж и легкий процесс.

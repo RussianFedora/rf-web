@@ -14,16 +14,16 @@
 Те, кто внимательно читает рассылки на kernel.org наверное уже в курсе,
 а для остальных мы с удовольствием сообщаем, что в рассылку kernel-devel
 `впервые прислали патч с мобильного
-телефона <http://thread.gmane.org/gmane.linux.kernel/1556584/focus=1569549>`__.
+телефона <https://thread.gmane.org/gmane.linux.kernel/1556584/focus=1569549>`__.
 
 Конечно, это не совсем патч, но ради события можно и не придираться.
 
 Кстати, о патчах - тут посчитали, что `внесение их в ядро позволяет
 экономить до 250 тысяч долларов на
-патч <http://www.opennet.ru/opennews/art.shtml?num=38098>`__.
+патч <https://www.opennet.ru/opennews/art.shtml?num=38098>`__.
 
 Если кто еще не видел, `на OpenNET.ru выложили интервью с Алексеем
-Кузнецовым <http://www.opennet.ru/opennews/art.shtml?num=38016>`__,
+Кузнецовым <https://www.opennet.ru/opennews/art.shtml?num=38016>`__,
 одним из создателей сетевого стека Linux, а ныне разработчика компании
 Parallels.
 
@@ -74,11 +74,11 @@ cgroups <http://www.freedesktop.org/wiki/Software/systemd/ControlGroupInterface/
 ближайшее время будет установлен по умолчанию на подавляющем большинстве
 Linux-десктопов, конечно кроме тех, у кого что-то типа FVWM.
 
-`Гентушники <http://thread.gmane.org/gmane.linux.gentoo.devel/87146>`__
+`Гентушники <https://thread.gmane.org/gmane.linux.gentoo.devel/87146>`__
 потихоньку соглашаются с участниками Fedora и устанавливают systemd по
 умолчанию для систем с GNOME, а убунтоиды, `то пытаются остаться на
 одной из старых версий
-GNOME <http://thread.gmane.org/gmane.linux.ubuntu.devel.desktop/4357>`__,
+GNOME <https://thread.gmane.org/gmane.linux.ubuntu.devel.desktop/4357>`__,
 то копипастят очередную фичу из systemd в Upstart. Перешли бы на systemd
 давно, и горя бы не знали. `Свои
 соображения <http://blogs.gnome.org/ovitters/2013/09/25/gnome-and-logindsystemd-thoughts/>`__
@@ -119,10 +119,10 @@ KH <https://plus.google.com/u/0/111049168280159033135/posts/Mk9hJjjhj7V>`__.
 И напоследок, несмотря на модный ныне тренд базироваться на LLVM в новых
 проектах, старички с GCC наперевес не сдаются так просто. Наш коллега,
 участник Fedora, разработчик GCC, и инженер Red Hat, `David
-Malcolm <http://fedoraproject.org/wiki/User:Dmalcolm>`__ представил
+Malcolm <https://fedoraproject.org/wiki/User:Dmalcolm>`__ представил
 `встраиваемый JIT компилятор, основанный на
 GCC <http://www.phoronix.com/scan.php?page=news_item&px=MTQ3NTc>`__.
 
 Новость уже `обсуждается на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38075>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38075>`__.
 

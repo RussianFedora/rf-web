@@ -21,7 +21,7 @@ LWN, что `систему журналирования ядра Linux вско
 paywall). Разработчик udev и systemd `Kay
 Sievers <https://www.openhub.net/accounts/kaysievers>`__ предложил
 `радикально
-изменить <http://thread.gmane.org/gmane.linux.kernel/1277619>`__
+изменить <https://thread.gmane.org/gmane.linux.kernel/1277619>`__
 поведение журналируемой подсистемы ядра.
 
 Напомню, какова-же одна из проблем, которую решает проект

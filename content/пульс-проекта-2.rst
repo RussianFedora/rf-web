@@ -14,5 +14,5 @@
 Участник проекта Fedora и по совместительству разработчик RedHat, Peter
 Hutterer, представил первый вариант патчей, добавляющих multitouch в
 X.org. С подробностями `можно ознакомиться на
-Opennet.ru <http://www.opennet.ru/opennews/art.shtml?num=32570>`__.
+Opennet.ru <https://www.opennet.ru/opennews/art.shtml?num=32570>`__.
 

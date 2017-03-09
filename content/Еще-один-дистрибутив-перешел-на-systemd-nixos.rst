@@ -13,9 +13,9 @@
 
 Оказывается, `NixOS <http://nixos.org/nixos/>`__, молодой, амбициозный
 дистрибутив с совершенно `новой системой управления
-пакетами <http://en.wikipedia.org/wiki/Nix_package_manager>`__, Nix, `21
+пакетами <https://en.wikipedia.org/wiki/Nix_package_manager>`__, Nix, `21
 января перешел с Upstart на
-systemd <http://thread.gmane.org/gmane.linux.distributions.nixos/10197>`__.
+systemd <https://thread.gmane.org/gmane.linux.distributions.nixos/10197>`__.
 
 Поздравляем его участников! Теперь им получится меньше времени уделять
 низкоуровневой организации дистрибутива, что позволит сосредоточиться на

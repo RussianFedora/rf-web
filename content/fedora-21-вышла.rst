@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Ура! <http://thread.gmane.org/gmane.linux.redhat.fedora.general/451727>`__
+`Ура! <https://thread.gmane.org/gmane.linux.redhat.fedora.general/451727>`__
 |image0|
 **В промерзших подвалах дата-центров уже началось безудержное веселье!**
 

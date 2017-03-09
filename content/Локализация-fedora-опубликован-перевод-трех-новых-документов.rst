@@ -24,7 +24,7 @@
    Fedora <http://docs.fedoraproject.org/ru-RU/Fedora_Contributor_Documentation/1/html/Fedora_Elections_Guide/index.html>`__
 
 | 
-| Спасибо `Daniel Cabrera <http://fedoraproject.org/wiki/User:Logan>`__
+| Спасибо `Daniel Cabrera <https://fedoraproject.org/wiki/User:Logan>`__
   за помощь и оперативность, благодаря ему наши переводы опубликованы на
   `docs.fedoraproject.org <http://docs.fedoraproject.org>`__.
 
@@ -48,7 +48,7 @@
 | Перевод *Руководства системного администратора* будет опубликован, как
   только мы закончим работу над ним. К сожалению, нас мало и работа идет
   медленно, поэтому если у вас есть желание и возможность помочь,
-  `присоединяйтесь <http://fedoraproject.org/wiki/L10N/ru#Join>`__ к
+  `присоединяйтесь <https://fedoraproject.org/wiki/L10N/ru#Join>`__ к
   команде локализации Fedora.
 
 | Если вы обнаружите ошибки или неточности в переведенных документах,

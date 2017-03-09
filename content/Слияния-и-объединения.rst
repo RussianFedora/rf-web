@@ -80,7 +80,7 @@ Intel <http://techcrunch.com/2015/08/23/mirantis-announces-second-straight-100m-
 и даже `Mirantis и Goldman
 Sachs <http://fortune.com/2015/08/24/goldman-sachs-backs-mirantis-openstack/>`__
 (Голдманы, как и все финансисты, очень любят открытое, `даже
-оборудование <http://habrahabr.ru/company/kingservers/blog/255291/>`__).
+оборудование <https://habrahabr.ru/company/kingservers/blog/255291/>`__).
 
 Некоторые даже всерьез используют термин OpenStack Wars (как `Unix
 Wars <https://en.wikipedia.org/wiki/Unix_wars>`__, только про

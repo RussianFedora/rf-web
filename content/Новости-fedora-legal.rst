@@ -24,7 +24,7 @@ Fedora Legal недавно
 открытые лицензии - GPL/BSD/MIT варианты. Например, недавно убедили
 разработчиков `CBMC <http://www.cprover.org/cbmc/>`__ `изменить
 лицензионное соглашение с самодельной лицензии на вариант
-BSD <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/1806/focus=1808>`__.
+BSD <https://thread.gmane.org/gmane.linux.redhat.fedora.legal/1806/focus=1808>`__.
 
 Вообще, не стоит недооценивать важность работы команды Fedora Legal в
 проекте Fedora. Юридические тонкости могут быть очень болезненными для

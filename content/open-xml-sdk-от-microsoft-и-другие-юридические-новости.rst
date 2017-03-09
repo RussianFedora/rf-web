@@ -13,7 +13,7 @@
 
 Недавно Microsoft `выложила исходники SDK для работы с
 OOXML <https://github.com/OfficeDev/Open-Xml-Sdk>`__ (обсуждают на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40084>`__). В
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40084>`__). В
 целом, конечно, мы всегда одобряем движение в сторону открытости, но к
 этой новости хочется добавить еще кое-что.
 
@@ -45,7 +45,7 @@ Wildeboer <https://plus.google.com/+jwildeboer/posts/1r5t1jaduKs>`__.
 
 Из других новостей, участник Fedora Legal, юрист SFLC и патентный
 адвокат Red Hat, `Richard
-Fontana <http://en.wikipedia.org/wiki/Richard_Fontana>`__, объявил в
+Fontana <https://en.wikipedia.org/wiki/Richard_Fontana>`__, объявил в
 своем твиттере, что `участие в проекте JBoss больше не требует
 подписывания
 CLA <https://twitter.com/richardfontana/status/477320000881975296>`__.
@@ -57,11 +57,11 @@ Joyent <https://www.joyent.com/blog/broadening-node-js-contributions>`__.
 патентов", как напрямую взаимодействуя с судами, так и проводя
 разъяснительную работу с ширнармассами. После недавнего `ошеломляющего
 решения Верховного суда США по делу "Alice Corp. против CLS Bank
-International" <http://www.opennet.ru/opennews/art.shtml?num=40048>`__ у
+International" <https://www.opennet.ru/opennews/art.shtml?num=40048>`__ у
 многих людей возникли вопросы о том, насколько важна эта новость.
 
 Вице-президент Red Hat, `Rob
-Tiller <http://www.redhat.com/about/company/management/bios/management-team-rob-tiller-bio>`__
+Tiller <https://www.redhat.com/about/company/management/bios/management-team-rob-tiller-bio>`__
 в своей
 `статье <http://opensource.com/law/14/6/supreme-court-invalidates-software-patent>`__
 проанализировал решение суда и оценил ее влияние на дальнейшие

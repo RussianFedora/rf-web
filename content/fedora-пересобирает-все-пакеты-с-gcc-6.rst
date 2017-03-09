@@ -21,12 +21,12 @@ Fedora с помощью нового GCC 6 (`будет
 В нашем списке рассылки необычно большое количество зашедших в тупик
 мэйнтейнеров, которые попытались самостоятельно справиться с ошибками -
 навскидку,
-`один <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/216934>`__,
-`два <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/216905>`__,
-`три <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/216862>`__,
-`четыре <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/216855>`__,
-`пять <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/216842>`__,
-`шесть <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/216794>`__.
+`один <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/216934>`__,
+`два <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/216905>`__,
+`три <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/216862>`__,
+`четыре <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/216855>`__,
+`пять <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/216842>`__,
+`шесть <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/216794>`__.
 
 Прорвемся, конечно.
 

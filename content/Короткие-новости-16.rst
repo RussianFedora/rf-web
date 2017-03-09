@@ -41,7 +41,7 @@
 
 `Red Hat запустило новую программу, чтоб убеждать Enterprise-клиентов
 переходить на
-OpenStack <http://www.redhat.com/about/news/press-archive/2013/10/red-hat-launches-new-initiative-to-drive-enterprise-adoption-of-openstack>`__.
+OpenStack <https://www.redhat.com/about/news/press-archive/2013/10/red-hat-launches-new-initiative-to-drive-enterprise-adoption-of-openstack>`__.
 
 `Mairin Duffy написала отчет о первом собрании рабочей группы по созданию
 "Fedora Server"

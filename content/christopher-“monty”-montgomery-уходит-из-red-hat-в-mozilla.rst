@@ -8,12 +8,9 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Инженер Red Hat, создатель формата Ogg и аудиокодека Vorbis, участник
 Fedora, `Christopher “Monty”
-Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__ сообщил,
+Montgomery <https://en.wikipedia.org/wiki/Chris_Montgomery>`__ сообщил,
 что `он переходит на работу в
 Mozilla <http://xiphmont.livejournal.com/61125.html>`__. Немного жаль,
 но одновременно и радостно от перспектив, которые открываются перед

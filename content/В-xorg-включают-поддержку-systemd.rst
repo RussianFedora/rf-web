@@ -17,7 +17,7 @@ Goede <https://github.com/jwrdegoede>`__, продолжил работу по
 X.org </content/xorg-без-привилегий-суперпользователя>`__. Он приступил
 к более решительным шагам и предложил `патчи для включения в X.org
 socket activation и дальнейшей интеграции с
-systemd-logind <http://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/39533>`__.
+systemd-logind <https://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/39533>`__.
 
 Конечно пока это будет compile-time switch, и никто не требует срочно
 отказываться от поддержки устаревших Unix-систем в X.org.

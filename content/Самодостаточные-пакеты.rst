@@ -25,7 +25,7 @@ Canonical <https://insights.ubuntu.com/2016/06/14/universal-snap-packages-launch
 `пересказан <http://news.softpedia.com/news/snap-packages-become-the-universal-binary-format-for-all-gnu-linux-distributions-505241.shtml>`__
 с также традиционным энтузиазмом пользователей Ubuntu. `Наши коллеги
 восприняли анонс с также традиционным
-недоумением <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/220046>`__.
+недоумением <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/220046>`__.
 
 |image0|
 К сожалению, только социально-организационными проблемами тут не

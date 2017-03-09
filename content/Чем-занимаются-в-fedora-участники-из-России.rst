@@ -63,7 +63,7 @@ Erlang-стека <https://bugzilla.redhat.com/buglist.cgi?query_format=advanced
 пакетов <https://admin.fedoraproject.org/pkgdb/users/packages/peter?acls=owner>`__
 (а их аж 86 штук!). Кроме того, он собирается на досуге посетить `Ubuntu
 Install
-Fest <http://www.nixp.ru/news/19-%D0%BC%D0%B0%D1%8F-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D0%B5%D1%82-Ubuntu-12-04-InstallFest.html>`__,
+Fest <https://www.nixp.ru/news/19-%D0%BC%D0%B0%D1%8F-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D0%B5%D1%82-Ubuntu-12-04-InstallFest.html>`__,
 но это не совсем относится к Fedora :)
 Участник `mihkulemin <https://fedoraproject.org/wiki/User:Mkulemin>`__
 занимается включением пакета

@@ -32,7 +32,7 @@
   интеграция с большим количеством интернет-сервисов, таких, как Flickr,
   OpenStreetMap, ну более лучшее оформление. А нам уже интересно, что же
   будет в GNOME 3.12? Наш коллега, `Matthias
-  Clasen <http://fedoraproject.org/wiki/User:Mclasen>`__ `начал
+  Clasen <https://fedoraproject.org/wiki/User:Mclasen>`__ `начал
   планирование фич GNOME
   3.12 <https://wiki.gnome.org/ThreePointEleven/Features>`__, среди
   которых
@@ -70,14 +70,14 @@
 
   GSoC этого года уже завершен, а мы рекомендуем студентам и аспирантам
   уже начать готовиться `к GSoC 2014, который уже
-  анонсирован <http://www.opennet.ru/opennews/art.shtml?num=38111>`__.
+  анонсирован <https://www.opennet.ru/opennews/art.shtml?num=38111>`__.
 
 | По переносу на Wayland, как обычно идут `согласно озвученному
   графику </content/Планы-gnome-на-wayland>`__. `GNOME 3.10 уже работает
   в Fedora
   20 <https://plus.google.com/100767727489577050265/posts/41KMBwqQ6tV>`__,
   и `есть инструкция по
-  запуску <http://gcampax.blogspot.ru/2013/10/every-frame-matters.html>`__
+  запуску <http://gcampax.blogspot.com/2013/10/every-frame-matters.html>`__
   (и `еще одна от Matthias
   Clasen <http://blogs.gnome.org/mclasen/2013/10/03/gnome-wayland-in-fedora/>`__),
   правда степень работоспособности зависит от видеокарты. Пока

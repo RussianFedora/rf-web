@@ -19,11 +19,11 @@ Wi-Fi <http://redmine.russianfedora.pro/issues/1002>`__ после выхода 
 `Fedora <https://bugzilla.redhat.com/show_bug.cgi?id=810773>`__.
 
 Сообщаем, что ошибка уже `отловлена и
-исправлена <http://thread.gmane.org/gmane.linux.kernel.wireless.general/88543>`__
+исправлена <https://thread.gmane.org/gmane.linux.kernel.wireless.general/88543>`__
 и участник Fedora и инженер Red Hat `John
 Linville <https://plus.google.com/109077466532189569553/posts>`__ `ее
 уже
-включил <http://thread.gmane.org/gmane.linux.kernel.commits.head/314751>`__
+включил <https://thread.gmane.org/gmane.linux.kernel.commits.head/314751>`__
 в ядро (будет доступно с версии 3.3.2).
 
 В общем, это досадный рабочий момент, ничего особенного - всяко бывает.
@@ -32,5 +32,5 @@ Linville <https://plus.google.com/109077466532189569553/posts>`__ `ее
 интересно ознакомиться тем, кто еще не знает, как же ведутся обсуждения
 среди kernel-разрабочиков.
 
-`Ознакомьтесь <http://thread.gmane.org/gmane.linux.kernel/1280458/focus=8575>`__
+`Ознакомьтесь <https://thread.gmane.org/gmane.linux.kernel/1280458/focus=8575>`__
 :).

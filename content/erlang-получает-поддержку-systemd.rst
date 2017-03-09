@@ -8,16 +8,13 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 `Языки программирования постепенно обрастают библиотеками для работы с
 systemd </content/Коммьюнити-haskell-делает-первые-шаги-навстречу-systemd>`__.
 
 `Holger Winkelmann <https://github.com/hwinkel>`__, основатель компании
 `Tavelping GmbH <http://www.travelping.com/>`__ и ее управляющий, в
 рассылке разработчиков Erlang
-`анонсировал <http://thread.gmane.org/gmane.comp.lang.erlang.general/71041>`__
+`анонсировал <https://thread.gmane.org/gmane.comp.lang.erlang.general/71041>`__
 выход `ejournald <https://github.com/travelping/ejournald>`__,
 библиотеки для работы с Journald, и
 `lager\_journald\_backend <https://github.com/travelping/lager_journald_backend>`__,
@@ -42,4 +39,3 @@ EPMD </content/Коммьюнити-haskell-делает-первые-шаги-�
 представил `еще один вариант совместной работы этих
 компонентов <https://github.com/matwey/otp/commits/systemd>`__. Мы
 обязательно попробуем включить его патчи в ближайшую сборку Erlang.
-

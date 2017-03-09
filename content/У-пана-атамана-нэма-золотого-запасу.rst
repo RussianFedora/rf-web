@@ -12,5 +12,5 @@
 
 
 У GNOME Foundation `кончились
-деньги <http://thread.gmane.org/gmane.comp.gnome.foundation.general/9824>`__.
+деньги <https://thread.gmane.org/gmane.comp.gnome.foundation.general/9824>`__.
 

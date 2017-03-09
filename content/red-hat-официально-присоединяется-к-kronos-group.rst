@@ -20,7 +20,7 @@ Group <https://blogs.gnome.org/uraeus/2015/04/17/red-hat-joins-khronos/>`__.
 стандартизации графических API, таких, как OpenGL, OpenCL, Vulkan.
 
 Русскоязычные `коллеги-аналитики уже обсуждают эту новость на
-OpenNET <http://www.opennet.ru/opennews/art.shtml?num=42060>`__.
+OpenNET <https://www.opennet.ru/opennews/art.shtml?num=42060>`__.
 
 Хочется лишь сказать, что давно было пора.
 

@@ -60,13 +60,13 @@ systemd, о чем теперь официально объявлено в `ан
 небольшого патча для systemd в
 `Polipo <http://www.pps.univ-paris-diderot.fr/~jch/software/polipo/>`__
 идет уже несколько лет. `Автор Polipo был против включения в 2012
-году <http://thread.gmane.org/gmane.comp.web.polipo.user/2840/focus=2871>`__,
+году <https://thread.gmane.org/gmane.comp.web.polipo.user/2840/focus=2871>`__,
 выкатив ряд надуманных возражений (зависимость от хидеров из systemd,
 затем, уже после отказа от них, он начал всерьез упоминать про runit, и
 притворяться, что размер патча слишком большой, чтоб его просмотреть).
 Прошла пара лет, и он уже после дежурных проклятий в сторону systemd, на
 которые мы внимания уже не обращаем, `пообещал заревьюить
-его <http://thread.gmane.org/gmane.comp.web.polipo.user/3332/focus=3334>`__,
+его <https://thread.gmane.org/gmane.comp.web.polipo.user/3332/focus=3334>`__,
 да так и замылил это дело. Но разработчики не сдаются, и `вновь оформили
 pull request <https://github.com/jech/polipo/pull/54>`__ - вода камень
 точит. Вообще, проблема в том, что Polipo, это нынешний де-факто
@@ -86,7 +86,7 @@ systemd до версии
 production-системах, наслаждаясь возможностями по управлению сетью. К
 сожалению, код очень экспериментальный, и `порой на ровном месте
 возникают не очень понятные
-эффекты <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/28075>`__.
+эффекты <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/28075>`__.
 
 Нас, конечно, проблемы не пугают!
 

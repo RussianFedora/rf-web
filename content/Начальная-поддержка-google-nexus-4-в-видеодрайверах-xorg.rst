@@ -17,6 +17,6 @@
 Clark <https://github.com/robclark>`__ продолжает продолжать развивать
 открытый видеодрайвер `freedreno <http://freedreno.github.io/>`__. На
 днях он `добавил **самую базовую** поддержку чипа
-a320 <http://bloggingthemonkey.blogspot.ru/2013/04/a320-first-renders.html>`__,
+a320 <http://bloggingthemonkey.blogspot.com/2013/04/a320-first-renders.html>`__,
 который используется, например, в телефонах Nexus 4.
 

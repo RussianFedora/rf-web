@@ -22,7 +22,7 @@ OpenCL <http://www.phoronix.com/scan.php?page=news_item&px=MTEwMTE>`__.
 
 На прямой вопрос о том, когда ожидать открытую реализацию OpenCL в
 Fedora, `David Airlie <https://www.openhub.net/accounts/airlied>`__
-`ответил <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/166990/focus=166999>`__,
+`ответил <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/166990/focus=166999>`__,
 что к сожалению библиотека для OpenCL внутри Mesa еще плохо
 спроектирована (что совсем неудивительно для настолько раннего этапа) -
 она использует самодельные сборочные скрипты на питоне, и ее сборка это

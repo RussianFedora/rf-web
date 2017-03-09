@@ -12,14 +12,14 @@
 
 
 `Наконец-то вышла Fedora
-22 <http://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2990>`__!
+22 <https://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2990>`__!
 Конечно, некоторые наши коллеги уже переехали на Fedora 23, но, тем не
 менее, новость для конечных пользователей прекрасная. `Коллеги-аналитики
 уже обсуждают новость на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=42302>`__, ну а
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=42302>`__, ну а
 мы пойдем обновлять продакшен-сервера до 22й версии.
 
 Ну и одновременно с Fedora 22 для основных архитектур, `вышла сборка
 Fedora 22 для
-AArch64 <http://thread.gmane.org/gmane.linux.redhat.fedora.arm/9475>`__.
+AArch64 <https://thread.gmane.org/gmane.linux.redhat.fedora.arm/9475>`__.
 

@@ -23,7 +23,7 @@ O'Donell <https://plus.google.com/116746191356411907058/about>`__,
 2.19 <https://savannah.gnu.org/forum/forum.php?forum_id=7882>`__.
 Внимательные коллеги-аналитики сумели обсудить `новость на OpenNET.ru за
 неделю до официального анонса на
-GNU.org <http://www.opennet.ru/opennews/art.shtml?num=39043>`__, в
+GNU.org <https://www.opennet.ru/opennews/art.shtml?num=39043>`__, в
 момент появления анонса в списке рассылки. Непонятно, почему Carlos
 затянул еще на неделю с анонсом на GNU.org, но главное, что наконец-то
 это было сделано.

@@ -11,10 +11,10 @@
 **Это архивная статья**
 
 Постепенно набирает обороты `обсуждение в рассылке fedora-devel нововведения от
-MoFo <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240>`__ -
+MoFo <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240>`__ -
 показа рекламы на стартовой странице, с учетом истории пользователя.  Горячие
 головы даже `предлагают удалить Firefox из репозиториев
-<http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240/focus=201246>`__,
+<https://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240/focus=201246>`__,
 мол `midori <http://midori-browser.org/>`__ или `Epiphany
 <https://wiki.gnome.org/Apps/Web>`__ вполне достаточно.
 
@@ -54,7 +54,7 @@ MoFo <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240>`__ -
 
 Еще из интересных моментов можно отметить, что разработчики полагают,
 что `Epiphany будет готов примерно к Fedora 23 или Fedora
-25 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240/focus=201254>`__,
+25 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/201240/focus=201254>`__,
 и тогда можно будет предлагать его дефолтным браузером (разумеется,
 оставив Firefox в репозиториях).
 

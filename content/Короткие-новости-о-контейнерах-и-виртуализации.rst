@@ -102,7 +102,7 @@ SELinux.**.
 `рассказал о текущем состоянии дел
 <http://blogs.gnome.org/uraeus/2014/07/10/desktop-containers-the-way-forward/>`__
 (`заметка уже обсуждается на OpenNET.ru
-<http://www.opennet.ru/opennews/art.shtml?num=40176>`__). Сделано уже довольно
+<https://www.opennet.ru/opennews/art.shtml?num=40176>`__). Сделано уже довольно
 много, и пока мы идем по роадмапу, который составил давным давно Lennart
 Poettering, в очередной раз обогнав время.
 
@@ -144,7 +144,7 @@ Poettering, в очередной раз обогнав время.
 то время, как Project Atomic еще требует полировки.
 
 И наконец, очень интересная новость! Google
-`анонсировал <http://googlecloudplatform.blogspot.ru/2014/07/welcome-microsoft-redhat-ibm-docker-and-more-to-the-kubernetes-community.html>`__
+`анонсировал <http://googlecloudplatform.blogspot.com/2014/07/welcome-microsoft-redhat-ibm-docker-and-more-to-the-kubernetes-community.html>`__
 проект
 `Kubernetes <https://github.com/GoogleCloudPlatform/kubernetes>`__
 (анонс `обсуждают на
@@ -153,7 +153,7 @@ OpenNET.ru <http://opennet.ru/opennews/art.shtml?num=40181>`__). Это
 `etcd <http://thenewstack.io/about-etcd-the-distributed-key-value-store-used-for-kubernetes-googles-cluster-container-manager/>`__
 и systemd. В проекте принимают участие такие компании, как Microsoft,
 Red Hat (`почитайте
-анонс <http://www.redhat.com/about/news/archive/2014/7/red-hat-and-google-collaborate-on-kubernetes-to-manage-docker-containers-at-scale>`__),
+анонс <https://www.redhat.com/about/news/archive/2014/7/red-hat-and-google-collaborate-on-kubernetes-to-manage-docker-containers-at-scale>`__),
 IBM, Docker, Mesosphere, CoreOS и SaltStack. Для нас эта новость
 наконец-то ответила на вопрос, почему в последнее время инженеры Google
 присоединились к разработке systemd. Пока доступно лишь управление

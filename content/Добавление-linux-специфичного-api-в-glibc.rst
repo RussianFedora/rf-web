@@ -76,7 +76,7 @@ GNU к названию ядра дистрибутива и ходящими б
 как бы формализовать его появление тоже шло. Все сдвинулось с мертвой
 точки в конце 2012 - начале 2013 года, когда гентушник Mike Frysinger
 `выписал доводы за и против включения дополнительного API ядра в
-Glibc <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/28894>`__.
+Glibc <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/28894>`__.
 
 Тогда результата не получилось, т.к. вопрос серьезный и всплыло много
 нюансов - дополнительная библиотека liblinux, как поступать на
@@ -87,14 +87,14 @@ Glibc <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/28894>`__.
 Недавнее включение (обновление) поддержки futex в Glibc `вновь плавно
 привело к идее формального описания критериев для добавления
 Linux-специфичного
-API <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/45178/focus=46026>`__.
+API <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/45178/focus=46026>`__.
 
 На этот раз дело дошло до
-`документации <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/46039>`__.
+`документации <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/46039>`__.
 
 В целом народ согласен с документом - пора бы начать добавлять API из
 Linux без оглядки на совместимость с каким-нибудь TruOpenUnixWorks. Из
 забавного, `появление и обсуждение этого RFC затормозило включение в
 Glibc функционала для поддержки
-kdbus <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/45884/focus=46926>`__.
+kdbus <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/45884/focus=46926>`__.
 

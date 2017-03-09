@@ -16,9 +16,9 @@ Morgado <https://www.openhub.net/accounts/aleksander_morgado>`__, инженер
 дружественной нам компании `Lanedo <http://www.lanedo.com/>`__ и
 активный пользователь Fedora со стажем, анонсировал `долгожданный выход
 ModemManager
-1.0.0 <http://thread.gmane.org/gmane.linux.network.networkmanager.devel/23845>`__,
+1.0.0 <https://thread.gmane.org/gmane.linux.network.networkmanager.devel/23845>`__,
 вспомогательный компонент NetworkManager, предназначенный для управления
 модемами и устройствами сотовой связи. Новость уже обсуждается на
-`OpenNET <http://www.opennet.ru/opennews/art.shtml?num=37462>`__ и
+`OpenNET <https://www.opennet.ru/opennews/art.shtml?num=37462>`__ и
 `Linux.org.ru <https://www.linux.org.ru/news/internet/9381309>`__.
 

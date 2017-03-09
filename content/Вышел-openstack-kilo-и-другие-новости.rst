@@ -14,7 +14,7 @@
 Kilo <https://www.openstack.org/software/kilo/press-release>`__, уже
 одинадцатой версии OpenStack. Пресс-релиз уже перевели на русский и
 `обсуждают на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=42150>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=42150>`__.
 
 Одновременно опубликовали и радующую глаз статистику по разработчикам
 этой версии OpenStack. Как и всегда радуемся успехам наших
@@ -26,7 +26,7 @@ OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=42150>`__.
 
 Из интересных новостей стоит отметить инициативу группы разработчиков OpenStack
 по `переписыванию компонентов Swift на golang
-<http://thread.gmane.org/gmane.comp.cloud.openstack.devel/52553>`__.
+<https://thread.gmane.org/gmane.comp.cloud.openstack.devel/52553>`__.
 Теоретически это должно повысить производительность, а как оно реально
 получится - посмотрим.
 

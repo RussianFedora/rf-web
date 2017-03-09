@@ -40,7 +40,7 @@
   котором приняли участие и upstream-разработчики, Kent Overstreet и
   Rolf Fokkens. После нескольких дней ожидания, Rolf `отписался по
   итогам тестового
-  дня <http://thread.gmane.org/gmane.linux.kernel.bcache.devel/2036/focus=2155>`__.
+  дня <https://thread.gmane.org/gmane.linux.kernel.bcache.devel/2036/focus=2155>`__.
 
   К сожалению, в тестах SSD Cache приняло участие лишь три добровольца,
   что было ниже, чем ожидали ребята. Rolf предполагает, что столь низкая

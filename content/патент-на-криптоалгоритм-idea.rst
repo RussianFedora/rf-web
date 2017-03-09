@@ -12,7 +12,7 @@
 
 
 Один из участников Fedora `обратил
-внимание <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/1465>`__
+внимание <https://thread.gmane.org/gmane.linux.redhat.fedora.legal/1465>`__
 в сентябре 2011 года, что патент на криптоалгоритм IDEA, как ему
 показалось, истек. Этот вопрос поставили на обсуждение в Fedora Legal
 Team (один из участников которого, это небезызвестный юрист `Richard

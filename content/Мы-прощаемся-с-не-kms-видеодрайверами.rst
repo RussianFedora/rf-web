@@ -14,7 +14,7 @@
 | `Adam Jackson <https://www.openhub.net/accounts/ajax>`__ объявил, что
   `больше не будет поддерживать в актуальном состоянии видеодрайверы,
   которые не поддерживают
-  KMS <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/185346>`__
+  KMS <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/185346>`__
   (это второй этап `удаления видеодрайверов для старых
   видеокарт </content/Новые-видеодрайверы-c-поддержкой-kms-для-старых-видеокарт>`__).
 
@@ -22,6 +22,6 @@
 
 | 
 | Если у кого-то видеокарта в компьютере построена на базе `S3
-  Virge <http://en.wikipedia.org/wiki/S3_ViRGE>`__, то самое время
+  Virge <https://en.wikipedia.org/wiki/S3_ViRGE>`__, то самое время
   вмешаться. Ну или наконец-то проапгрейдиться.
 

@@ -12,7 +12,7 @@
 
 
 Разработчики Google совершили очередную попытку `включить CGroup
-Namespaces <http://thread.gmane.org/gmane.linux.kernel.containers/28647>`__
+Namespaces <https://thread.gmane.org/gmane.linux.kernel.containers/28647>`__
 в ядро. Проблема, которую они пытаются решить, это отсутствие своего
 пространства имен для CGroups. Кто умеет читать cgroupfs, тот получает
 полный список CGroups на хостовой машине. Это и безопасникам не
@@ -21,7 +21,7 @@ Namespaces <http://thread.gmane.org/gmane.linux.kernel.containers/28647>`__
 производится мигрирование.
 
 Очередная попытка включить
-`libweston <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/17785>`__
+`libweston <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/17785>`__
 в дерево Weston. Целью проекта - превратить Weston из референсного
 композитора Wayland в базу для создания композиторов.
 
@@ -43,7 +43,7 @@ WebM- и MP4-видеоролики.
 
 Наши коллеги озаботились еще одной задачей, которую обычно не замечают -
 `постоянные сетевые
-соединения <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/201039>`__,
+соединения <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/201039>`__,
 независимые от используемых сетевых адаптеров. Непонятно, почему нужно
 разрываются соединения, когда сменяется Wi-Fi-точка доступа? Если не
 использовать SCTP и IPv6, то возможное решение задачи звучит, как SDN
@@ -59,10 +59,10 @@ Disney.
 
 Продолжает рассыпаться Debian. Устав бороться с луддитами, `из коммюнити
 уходит Joey
-Hess <http://thread.gmane.org/gmane.linux.debian.devel.general/198651>`__.
+Hess <https://thread.gmane.org/gmane.linux.debian.devel.general/198651>`__.
 
 `Коллеги-аналитики уже обсуждают на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=41024>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=41024>`__.
 
 Интересно, как себя чувствуют в HP, `после того, как начали
 проектировать свое коммерческое облачное решение на базе

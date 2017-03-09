@@ -17,7 +17,7 @@ Code </content/google-code-официально-закрывается>`__ и `�
 GitLab B.V. хостинга
 Gitorious <https://about.gitlab.com/2015/03/03/gitlab-acquires-gitorious/>`__?
 Оказалось, что `довольно
-много <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/206007>`__.
+много <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/206007>`__.
 
 Patrick просто погрепал по spec-файлам, так что итоговое число будет
 больше, потому что есть пакеты, которые хостятся на Google Code или
@@ -27,7 +27,7 @@ Gitorious, но информация об этом в spec-файлах отсу
 Кстати, наши упрямые коллеги, которые были не как все, уже переносят
 проекты. Например, `Nikos Mavrogiannopoulos <https://github.com/nmav>`__
 начал `перенос GnuTLS на
-GitLab <http://thread.gmane.org/gmane.network.gnutls.general/3778>`__.
+GitLab <https://thread.gmane.org/gmane.network.gnutls.general/3778>`__.
 
 Ну хоть так, хотя, конечно, надо было бы на GitHub.
 

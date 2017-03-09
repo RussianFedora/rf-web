@@ -51,7 +51,7 @@
 
 | Инженер Red Hat и участник проектов Fedora и GCC, `Jakub
   Jelinek <https://www.openhub.net/accounts/Jakub_Jelinek>`__, анонсировал
-  `GCC 4.8.2 <http://thread.gmane.org/gmane.comp.gcc.devel/132910>`__.
+  `GCC 4.8.2 <https://thread.gmane.org/gmane.comp.gcc.devel/132910>`__.
 
   Его уже `собрали для Fedora 19 и
   выше <http://koji.fedoraproject.org/koji/packageinfo?packageID=40>`__.

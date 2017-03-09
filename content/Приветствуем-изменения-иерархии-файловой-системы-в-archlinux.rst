@@ -21,9 +21,9 @@
 Мы, разумеется, только приветствуем внедрение тех нововведений, что были
 популяризированы и протестированы у нас (см. `What's this /run directory
 doing on my system and where does it come
-from? <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/146976>`__
+from? <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/146976>`__
 и
-`Features:UsrMove <http://fedoraproject.org/wiki/Features/UsrMove>`__),
+`Features:UsrMove <https://fedoraproject.org/wiki/Features/UsrMove>`__),
 за что нас, как уже было не раз сказано, почему-то пытаются оскорбить
 называя "бета-тестерами" с характерной уничижительной интонацией.
 

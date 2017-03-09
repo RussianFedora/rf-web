@@ -1,15 +1,12 @@
 .. title: Coreutils 8.21
 .. slug: coreutils-821
 .. date: 2013-02-18 21:31:13
-.. tags:
+.. tags: coreutils
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Обновился один из наиболее известных проектов, поддерживаемый силами
 наших товарищей по коммьюнити - `GNU
@@ -24,4 +21,3 @@ Linux и открытом ПО -
 
 К сожалению, эта версия не будет представлена в Fedora 18 - только в
 Fedora 19.
-

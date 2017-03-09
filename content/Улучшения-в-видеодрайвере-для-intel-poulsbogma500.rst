@@ -12,8 +12,8 @@
 
 
 Известный пользователь (`и бывший
-мэйнтейнер <http://fedoraproject.org/wiki/AlanCox>`__) Fedora, `Alan
-Cox <http://en.wikipedia.org/wiki/Alan_Cox>`__ в своей ленте Google+
+мэйнтейнер <https://fedoraproject.org/wiki/AlanCox>`__) Fedora, `Alan
+Cox <https://en.wikipedia.org/wiki/Alan_Cox>`__ в своей ленте Google+
 `анонсировал серьезные
 улучшения <https://plus.google.com/u/0/111104121194250082892/posts/8y3pnmC6NsC>`__
 в драйвере для видеоадаптеров семейства Poulsbo / GMA500. Ситуация с

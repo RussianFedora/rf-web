@@ -1,23 +1,18 @@
 .. title: 29 марта: Тестовый день Gnome Shell Software Rendering
 .. slug: 29-марта-тестовый-день-gnome-shell-software-rendering
 .. date: 2012-03-28 22:16:42
-.. tags:
-.. category:
+.. tags: testing, gnome
+.. category: Тестовые дни Fedora
 .. link:
 .. description:
 .. type: text
 .. author: bookwar
 
-**Это архивная статья**
-
-
 Приглашаем принять участие в завтрашнем тестировании работы Gnome Shell
 на системах без аппаратной поддержки 3D.
 
-
 Тестирование очень простое: достаточно загрузить Live-образ и проверить,
 что запустился Gnome Shell.
-
 
 К тестированию приглашаются:
 
@@ -29,7 +24,6 @@
 
 ну и, разумеется, все остальные участники, желающие посмотреть на Gnome
 практически 3.4 в действии.
-
 
 Инструкция по участию: `Test Day: 2012-03-29 Gnome Shell Software
 Rendering <https://fedoraproject.org/wiki/Test_Day:2012-03-29_Gnome_Shell_Software_Rendering>`__

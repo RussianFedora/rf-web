@@ -13,7 +13,7 @@
 
 Из-за отсутствия мэйнтейнера и постоянных проблем со сборкой с внешними
 (не bundled) библиотеками, mplayer
-`удален <http://thread.gmane.org/gmane.linux.redhat.fedora.rpmfusion.devel/11521>`__
+`удален <https://thread.gmane.org/gmane.linux.redhat.fedora.rpmfusion.devel/11521>`__
 из репозиториев RPMFusin со статусом "нет мэйнтейнера".
 Основной проблемой mplayer является его тесная интеграция с приватным
 API ffmpeg, благодаря чему практически невозможно пересобрать и

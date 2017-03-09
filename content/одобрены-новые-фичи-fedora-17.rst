@@ -12,7 +12,7 @@
 
 
 На прошедшем 16 января 2012 года FESCo были
-`одобрены <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/158203>`__
+`одобрены <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/158203>`__
 следующие "фичи" будущей Fedora 17:
 
 -  `Обновление до KDE

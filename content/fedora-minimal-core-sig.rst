@@ -17,10 +17,10 @@
 заметил, что `минимальная конфигурация тянет за собой
 пол-иксов <https://bugzilla.redhat.com/show_bug.cgi?id=874378>`__, о чем
 сразу же `сообщил в
-рассылке <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/170599>`__.
+рассылке <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/170599>`__.
 
 Завязалось обсуждение, по результатам которого было
-`объявлено <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/170682>`__
+`объявлено <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/170682>`__
 о создании новой группы по интересам - `Fedora Minimal Core
 SIG <https://fedoraproject.org/wiki/SIGs/Minimal_Core>`__. Целью группы
 будет работа над поддержкой минимального варианта системы в
@@ -33,7 +33,7 @@ SIG <https://fedoraproject.org/wiki/SIGs/Minimal_Core>`__. Целью групп
 
 Первым действием участников новосозданной группы стало `предложение по
 удалению polkit (бывший PolicyKit) из минимального
-набора <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/170759>`__
+набора <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/170759>`__
 (что выглядит довольно разумно, особенно учитывая, что polkit теперь
 тянет виртуальную машину JS).
 

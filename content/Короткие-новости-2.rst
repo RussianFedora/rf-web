@@ -35,8 +35,8 @@ DevConf.cz <https://www.youtube.com/user/RedHatCzech/videos?view=0&flow=grid>`__
 
 Во-1 объявили о своей поддержке Wayland представители проектов по
 созданию таких окружений рабочего стола, как
-`Enlightenment <http://www.opennet.ru/opennews/art.shtml?num=36399>`__,
-`GNOME <http://thread.gmane.org/gmane.comp.gnome.release-team/1765>`__
+`Enlightenment <https://www.opennet.ru/opennews/art.shtml?num=36399>`__,
+`GNOME <https://thread.gmane.org/gmane.comp.gnome.release-team/1765>`__
 (и уже `составили план по переходу <https://live.gnome.org/Wayland>`__),
 `KDE <http://www.thepowerbase.com/2013/03/two-major-kde-developers-weigh-in-on-mir-wayland/>`__.
 
@@ -93,7 +93,7 @@ Jelínek <https://www.openhub.net/accounts/Jakub_Jelinek>`__ объявил о
 4.8.0 <http://www.phoronix.com/scan.php?page=news_item&px=MTMyOTM>`__.
 
 Это - `одна из фич будущей Fedora
-19 <http://fedoraproject.org/wiki/Features/GCC48>`__. Напоминаю, `в
+19 <https://fedoraproject.org/wiki/Features/GCC48>`__. Напоминаю, `в
 отличие от ряда других дистрибутивов, с выходом новой версии GCC мы
 обязательно пересобираем им все дерево пакетов </content/gcc-470>`__.
 

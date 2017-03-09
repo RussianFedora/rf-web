@@ -13,7 +13,7 @@
 
 Короткий ответ - Fedora 17 `**не готова** для использования на
 планшетах, как полноценная замена
-Android <http://thread.gmane.org/gmane.linux.redhat.fedora.arm/3013>`__,
+Android <https://thread.gmane.org/gmane.linux.redhat.fedora.arm/3013>`__,
 так как нет открытых драйверов для видеокарт и нет поддержки тачскринов
 на нужном уровне. Зная это, `Richard W.M.
 Jones <http://people.redhat.com/~rjones/>`__ спросил, `можно ли

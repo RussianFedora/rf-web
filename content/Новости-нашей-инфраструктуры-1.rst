@@ -13,7 +13,7 @@
 
 Поступило интересное и неоднозначное предложение - `исключить gcc,
 gcc-c++ и make из пакетов, устанавливаемых по умолчанию при сборке в
-Koji <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/203292>`__.
+Koji <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/203292>`__.
 
 Рациональное зерно есть - языки C и C++ медленно сдают современным
 молодежным языкам программирования, и приложения, написанные на этих
@@ -45,7 +45,7 @@ Brown <https://sysrich.co.uk/?page_id=7>`__, в рамках работы по
 Red Hat и участник Fedora, `Sérgio Durigan
 Júnior <https://fedoraproject.org/wiki/User:Sergiodj>`__, объявил, что
 он `настроил BuildBot для
-GDB <http://thread.gmane.org/gmane.comp.gdb.devel/35262>`__. Пока
+GDB <https://thread.gmane.org/gmane.comp.gdb.devel/35262>`__. Пока
 крутится на его личном домене, но понятно, что как только отполируют, то
 перенесут куда-нибудь на официальный домен.
 

@@ -1,15 +1,12 @@
 .. title: Bundled libraries - немного статистики и комментариев к ней
 .. slug: bundled-libraries-немного-статистики-и-комментариев-к-ней
 .. date: 2012-04-07 01:11:29
-.. tags:
-.. category:
+.. tags: security
+.. category: начинающим
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 В Fedora принята довольно строгая политика по отношению к библиотекам -
 если приложение требует какую-либо библиотеку, то оно должно
@@ -57,7 +54,7 @@ Fedora требует исключать так называемые bundled lib
 по безопасности, работающий на НАТО и ЦРУ, математик, специализирующийся
 на формальных методах (к сожалению, подавляющая часть его работ
 засекречена его работодателями) и участник соответствующей `Fedora
-Formal Methods SIG <http://fedoraproject.org/wiki/FormalMethods>`__,
+Formal Methods SIG <https://fedoraproject.org/wiki/FormalMethods>`__,
 `David A. Wheeler <http://www.dwheeler.com/>`__ указывает на `недавний
 отчет <https://www.aspectsecurity.com/blog/the-unfortunate-reality-of-insecure-libraries/>`__
 от компании Aspect Security (к сожалению, он registerwalled). В отчете
@@ -76,7 +73,7 @@ Formal Methods SIG <http://fedoraproject.org/wiki/FormalMethods>`__,
 
 Немного отвлекшись сообщим, что ситуация с Java в Fedora именно потому и
 не очень хороша, что участники `Fedora Java
-SIG <http://fedoraproject.org/wiki/SIGs/Java>`__ двигаются очень
+SIG <https://fedoraproject.org/wiki/SIGs/Java>`__ двигаются очень
 медленно, тратя время на расплетение клубка bundled libraries, которые
 наворотили вокруг своих приложений Java-разработчики.
 
@@ -97,4 +94,3 @@ SIG <http://fedoraproject.org/wiki/SIGs/Java>`__ двигаются очень
 openSUSE, тратят время на такую странную задачу - выкусывать библиотеки
 из tarball и собирать с уже имеющимися. Так было, есть и будет - и ныне,
 и присно, и во веки веков.
-

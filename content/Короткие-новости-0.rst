@@ -36,10 +36,10 @@ OpenStack </content/Статистика-по-вкладу-компаний-в-�
 интервью. Кстати, раз уж заговорили об облаках,
 `пишут <http://www.zdnet.com/red-hat-embraces-hadoop-and-big-data-7000011572/>`__,
 что планируется более тесная интеграция `Red Hat Storage
-Server <http://www.redhat.com/products/storage-server/>`__ и
+Server <https://www.redhat.com/products/storage-server/>`__ и
 `Hadoop <http://hadoop.apache.org/>`__.
 
-`Keith Packard <http://en.wikipedia.org/wiki/Keith_Packard>`__
+`Keith Packard <https://en.wikipedia.org/wiki/Keith_Packard>`__
 опубликовал заметку о `DRI3 / DRI-Next /
 DRI3000 <http://keithp.com/blogs/DRI3000/>`__, следующей версии Direct
 Rendering. В ней произойдет дальнейший отход от устаревшей модели

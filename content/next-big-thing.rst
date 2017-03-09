@@ -73,7 +73,7 @@ Suehle <https://fedoraproject.org/wiki/User:Rsuehle>`__ выступила на
 Internet-of-Things <https://developerblog.redhat.com/2015/03/31/internet-of-things-insights-from-red-hat/>`__.
 
 Ничего удивительного, кстати. Свои варианты развитя IoT есть и `у
-IBM <http://habrahabr.ru/company/ibm/blog/256737/>`__, и `у
+IBM <https://habrahabr.ru/company/ibm/blog/256737/>`__, и `у
 Google <https://geektimes.ru/company/iridiummobile/blog/249858/>`__.
 
 

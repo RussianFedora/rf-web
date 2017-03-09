@@ -29,7 +29,7 @@ systemd некоторым не терпится (и почему-то не хо
 CoreOS </content/coreos-новый-дистрибутив-на-базе-chromeos>`__ пришел
 любитель Ubuntu и спросил, `есть ли планы по интеграции fleet с
 альтернативными
-init-системами <http://thread.gmane.org/gmane.linux.coreos.devel/470>`__?
+init-системами <https://thread.gmane.org/gmane.linux.coreos.devel/470>`__?
 Как вы помните, fleet, это `надстройка над systemd и etcd, работающая,
 как init-система для целого
 кластера </content/coreinit-переименован-во-fleet>`__. Спрашивающий

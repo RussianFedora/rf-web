@@ -15,7 +15,7 @@
 McNamara <https://www.openhub.net/accounts/caolan>`__, благодаря уже
 известному вам `переходу с устаревшего класса строк в LibreOffice на
 новый </content/Короткие-новости-17>`__, наконец-то
-`исхитрился <http://caolanm.blogspot.ru/2014/01/long-writer-paragraphs.html>`__
+`исхитрился <http://caolanm.blogspot.com/2014/01/long-writer-paragraphs.html>`__
 пофиксить `десятилетний
 баг <https://issues.apache.org/ooo/show_bug.cgi?id=17171>`__ в
 LibreOffice / OpenOffice.org. Конечно, в Apache OpenOffice его уже никто
@@ -23,10 +23,10 @@ LibreOffice / OpenOffice.org. Конечно, в Apache OpenOffice его уже
 тревожить ПО с кладбища проектов, когда есть хороший LibreOffice?
 Это не все новости от McNamara. Он с гордостью объявляет, что `перевел
 уже 70% диалогов LibreOffice в новый формат
-GtkBuilder <http://caolanm.blogspot.ru/2014/01/622-conversions-70-complete.html>`__.
+GtkBuilder <http://caolanm.blogspot.com/2014/01/622-conversions-70-complete.html>`__.
 
 `Недавно
-вышедший <http://www.opennet.ru/opennews/art.shtml?num=38823>`__ Rust
+вышедший <https://www.opennet.ru/opennews/art.shtml?num=38823>`__ Rust
 0.9 `доступен в дополнительном репозитории
 Fedora <http://dummdida.tumblr.com/post/73231010247/rust-0-9-in-fedora>`__,
 созданном благодаря
@@ -41,13 +41,13 @@ Schneider <https://www.openhub.net/accounts/asn>`__ анонсировал вы�
 (в виде callback), алгоритмы ECDSA и ECDH и поддержка Kerberos.
 
 Наконец-то появились `"официальные" образы Fedora для
-Docker <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/190356>`__.
+Docker <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/190356>`__.
 
 В кавычках, потому что их собрала не RelEng группа, а наш коллега
 `Lokesh Mandvekar <https://github.com/lsm5>`__.
 
 `Выпущена Fedora 20 для System
-z <http://thread.gmane.org/gmane.comp.emulators.hercules390.general/48264>`__.
+z <https://thread.gmane.org/gmane.comp.emulators.hercules390.general/48264>`__.
 
 И забавная новогодняя новость, если кто упустил - `Eric S Raymonds
 предложил перевести Emacs c Bazaar на

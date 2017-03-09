@@ -39,7 +39,7 @@
 
    Обратите внимание на страницу - там перечисляется их часть. Также
    интересная `дискуссия происходит в списке
-   рассылки <http://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/947/focus=964>`__.
+   рассылки <https://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/947/focus=964>`__.
 
 -  Запланированы улучшения в `консольном интерфейсе к
    NetworkManager <https://fedoraproject.org/wiki/Features/NetworkManagerCLIAddConnection>`__.

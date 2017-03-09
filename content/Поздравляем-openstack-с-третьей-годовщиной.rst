@@ -38,14 +38,14 @@ Bryant <https://www.openhub.net/accounts/russellb>`__ в своем блоге
 
 В этом году Red Hat `доработала распределенную файловую систему
 GlusterFS до полного соответствия требованиям
-OpenStack <http://www.redhat.com/about/news/archive/2013/4/gluster-is-openStack-ready>`__,
+OpenStack <https://www.redhat.com/about/news/archive/2013/4/gluster-is-openStack-ready>`__,
 и `полностью открыла все ее
-компоненты <http://www.opennet.ru/opennews/art.shtml?num=36865>`__. Но
+компоненты <https://www.opennet.ru/opennews/art.shtml?num=36865>`__. Но
 на самом деле, надо признать, подход GlusterFS к распределенным сетям
 критикуется некоторыми специалистами. Например, на прошедшей конференции
 `RICON <http://ricon.io/>`__, организуемой разработчиками Riak (который
 с недавних пор `доступен в Fedora из
-коробки <http://fedoraproject.org/wiki/Features/Riak>`__), инженером
+коробки <https://fedoraproject.org/wiki/Features/Riak>`__), инженером
 Seagate, James Hughes, было сказано, что *"Any distributed filesystem
 like GlusterFS or Ceph that tries to preserve the POSIX API will go the
 way of the dodo bird"*. Разработчик GlusterFS и
@@ -86,4 +86,4 @@ Python <http://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/>`__
 В блоге `Mirantis <http://www.mirantis.ru/>`__ на Habrahabr появилось
 еще несколько статей по OpenStack-тематике. `Почитайте обязательно, если
 интересуетесь
-вопросом <http://habrahabr.ru/users/mirantis_openstack/topics/>`__.
+вопросом <https://habrahabr.ru/users/mirantis_openstack/topics/>`__.

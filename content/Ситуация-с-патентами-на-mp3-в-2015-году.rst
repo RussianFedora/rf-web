@@ -12,7 +12,7 @@
 
 
 Начиная с `2007
-года <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/68011>`__
+года <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/68011>`__
 мы стараемся регулярно поднимать вопрос о патентной чистоте MP3-кодеков.
 
 Еще в 2012 году даже `декодер нельзя было включить без разрешения
@@ -21,7 +21,7 @@
 Заканчивается 2015 год, и неожиданно ситуация получила развитие. `Joshua
 Cogliati <https://en.wikipedia.org/wiki/User:Jrincayc>`__ выступил с
 собственным `исследованием патентной чистоты стандарта
-MP3 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/213664>`__,
+MP3 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/213664>`__,
 в котором он делает неожиданный вывод, что к нынешнему моменту и
 кодирование и декодирование в MP3 патентно чисты!
 К сожалению, этот вопрос нельзя публично обсуждать, т.к. сам факт

@@ -15,7 +15,7 @@
 объявила об `официальной поддержке Fedora
 ARM <https://plus.google.com/113210185268665255819/posts/RHRwJMC1a1v>`__,
 как операционной системе для `недавно
-выпущенного <http://www.opennet.ru/opennews/art.shtml?num=37437>`__
+выпущенного <https://www.opennet.ru/opennews/art.shtml?num=37437>`__
 миникомпьютера `Utilite <http://utilite-computer.com/>`__. Ранее
 поддерживались только Ubuntu и Android.
 

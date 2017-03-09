@@ -8,13 +8,10 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Karanbir Singh сегодня объявил, что `CentOS переходит под патронаж Red
-Hat <http://thread.gmane.org/gmane.linux.centos.announce/8098>`__. Анонс
+Hat <https://thread.gmane.org/gmane.linux.centos.announce/8098>`__. Анонс
 уже обсуждают коллеги-аналитики на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38807>`__ и на
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38807>`__ и на
 `Linux.org.ru <https://www.linux.org.ru/news/redhat/10025931>`__.
 
 Теперь-то уж CentOS будет неотъемлемой частью нашего сообщества. Как вы

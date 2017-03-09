@@ -14,7 +14,7 @@
 | Все больше и больше появляется материалов по systemd! Вот, на днях на
   известном ресурсе Хабрахабр появилась `обучалочка по управлению
   журналированием в
-  systemd <http://habrahabr.ru/company/selectel/blog/264731/>`__:
+  systemd <https://habrahabr.ru/company/selectel/blog/264731/>`__:
 
     Управление логгированием в systemd tutorial
 
@@ -23,8 +23,8 @@
        <div class="hubs">
 
     `Системное
-    администрирование <http://habrahabr.ru/hub/sys_admin/>`__\ \*, `Блог
-    компании Селектел <http://habrahabr.ru/company/selectel/>`__
+    администрирование <https://habrahabr.ru/hub/sys_admin/>`__\ \*, `Блог
+    компании Селектел <https://habrahabr.ru/company/selectel/>`__
 
     .. raw:: html
 

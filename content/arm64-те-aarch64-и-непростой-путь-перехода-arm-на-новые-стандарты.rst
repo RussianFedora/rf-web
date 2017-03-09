@@ -1,7 +1,7 @@
 .. title: ARM64, т.е. AArch64, и непростой путь перехода ARM на новые стандарты
 .. slug: arm64-те-aarch64-и-непростой-путь-перехода-arm-на-новые-стандарты
 .. date: 2013-12-13 15:21:10
-.. tags:
+.. tags: arm, rhel, acpi, uefi, kernel, linaro
 .. category:
 .. link:
 .. description:
@@ -115,4 +115,3 @@ UEFI <https://lwn.net/Articles/575363/>`__, и `включен базовый
 функционал ACPI для ARM64 <https://lwn.net/Articles/575482/>`__. Этак
 дело пойдет, и не придется пересобирать ядро 2.6.17.4 и старые версии
 U-Boot с out-of-tree патчами!
-

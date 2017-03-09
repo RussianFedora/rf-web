@@ -1,8 +1,8 @@
 .. title: 8 октября - тестовый день виртуализации Fedora 20
 .. slug: 8-октября-тестовый-день-виртуализации-fedora-20
 .. date: 2013-10-07 12:55:16
-.. tags:
-.. category:
+.. tags: testing, virtualization, kvm
+.. category: Тестовые дни Fedora
 .. link:
 .. description:
 .. type: text

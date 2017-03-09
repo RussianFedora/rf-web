@@ -16,7 +16,7 @@
   1.2 утилиты для сборки RPM, `mock <https://fedorahosted.org/mock/>`__.
 
   Michael Šimáček решил поподробнее
-  `рассказать <http://xpath-of-light.blogspot.ca/2014/10/new-features-in-mock-12.html>`__
+  `рассказать <http://xpath-of-light.blogspot.com/2014/10/new-features-in-mock-12.html>`__
   о нововведениях в этой версии. которых больше, чем было анонсировано.
 
   И действительно, список новинок довольно значителен:

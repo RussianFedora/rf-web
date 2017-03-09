@@ -64,7 +64,7 @@ Wayland <http://www.phoronix.com/scan.php?page=news_item&px=MTMyMDY>`__.
 
 Прошло несколько лет, и наконец это свершилось - `в инфраструктуре
 Fedora появился
-OpenID-провайдер <http://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2871>`__.
+OpenID-провайдер <https://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2871>`__.
 
 Вообще, конечно, *дорого яичко ко Христову дню*, но все-равно - может
 кому-то еще пригодится.
@@ -77,12 +77,12 @@ OpenID-провайдер <http://thread.gmane.org/gmane.linux.redhat.fedora.cor
 Более-менее благополучно закончилась неприятная история с пакетом
 `Tor <https://www.torproject.org/>`__ в репозитории Fedora. Не будем
 вдаваться в подробности, но `сейчас у пакета новый
-мэйнтейнер <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/176091>`__,
+мэйнтейнер <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/176091>`__,
 от которого можно ожидать лучшего сопровождения.
 
 Закономерный шаг - Red Hat объявила, что `возглавит процесс дальнейшей
 разработки в проекте OpenJDK
-6 <http://www.opennet.ru/opennews/art.shtml?num=36332>`__. Непонятно,
+6 <https://www.opennet.ru/opennews/art.shtml?num=36332>`__. Непонятно,
 что будет с другими версиями, зато понятно, почему они так поступают -
 никакого доверия к Oracle нет.
 
@@ -97,7 +97,7 @@ Project <https://github.com/fedora-infra>`__, обращает наше вним
 
 По итогам прошедшего `DevConf 2013 <http://devconf.cz/>`__ были
 сформулированы и предложены `изменения в процесс внесения изменений в
-Fedora <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/176231>`__.
+Fedora <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/176231>`__.
 
 Грубо говоря, авторам предложения хочется иметь более стабильный
 Rawhide, для чего они хотят разделить все пакеты в Fedora на несколько
@@ -111,10 +111,10 @@ Rawhide, для чего они хотят разделить все пакет�
 к нам присоединился `Rob Clark <https://github.com/robclark>`__, и уже
 есть результат - `Fedora 18 и gnome-shell работают на HP TouchPad с
 открытыми
-видеодрайверами <http://bloggingthemonkey.blogspot.ru/2013/03/fedora-18-gnome-shell-freedreno.html>`__.
+видеодрайверами <http://bloggingthemonkey.blogspot.com/2013/03/fedora-18-gnome-shell-freedreno.html>`__.
 
 `Вышел systemd
-198 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/9360>`__.
+198 <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/9360>`__.
 
 Список изменений огромен, но среди прочего хочется отметить поддержку
 нового стандарта от freedesktop.org - `правила установки и конфигурации
@@ -126,11 +126,11 @@ Rawhide, для чего они хотят разделить все пакет�
 `gummiboot <http://freedesktop.org/wiki/Software/gummiboot>`__,
 загрузчик для UEFI, написанный разработчиком systemd и udev, участником
 Fedora и инженером Red Hat, `Kay
-Sievers <www.openhub.net/accounts/kaysievers>`__.
+Sievers <https://www.openhub.net/accounts/kaysievers>`__.
 
 И просто очень смешная новость - `выявлена возможность совершения
 удалённой DoS-атаки на телевизоры
-Samsung <http://www.opennet.ru/opennews/art.shtml?num=36322>`__:
+Samsung <https://www.opennet.ru/opennews/art.shtml?num=36322>`__:
 |image0|
 
 .. |image0| image:: http://i1086.photobucket.com/albums/j460/bi0tech/total_recall_petrosian.gif

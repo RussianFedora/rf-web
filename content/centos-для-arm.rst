@@ -1,19 +1,15 @@
 .. title: CentOS для ARM
 .. slug: centos-для-arm
 .. date: 2014-03-27 12:54:57
-.. tags:
+.. tags: centos, arm, 
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 `Неопределенность с поддержкой ARM в
 CentOS </content/centos-начинает-набирать-скорость>`__ была недолгой.
-
 Karanbir Singh объявил, что `планируется пересборка RHEL и для
 ARM <http://www.karan.org/blog/2014/03/26/the-arm-plan-for-centos/>`__.
 
@@ -29,4 +25,3 @@ ARM <http://www.karan.org/blog/2014/03/26/the-arm-plan-for-centos/>`__.
 Будет задействовано оборудование `Veridis, ARM as a Service
 Cloud <http://www.boston.co.uk/solutions/viridis/viridis-cloud.aspx>`__,
 работающее под управлением Fedora 19.
-

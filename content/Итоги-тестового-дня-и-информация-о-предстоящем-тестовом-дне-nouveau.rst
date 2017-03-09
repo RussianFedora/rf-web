@@ -15,7 +15,7 @@
   подсистемы в Fedora.
 
 | Второй тестовый день пройдёт уже под знамёнами
-  `Nouveau <http://ru.wikipedia.org/wiki/Nouveau>`__ графики.
+  `Nouveau <https://ru.wikipedia.org/wiki/Nouveau>`__ графики.
 
   Подробности на `официальной
   странице <https://fedoraproject.org/wiki/Test_Day:2013-04-24_Nouveau>`__.

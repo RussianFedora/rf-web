@@ -36,7 +36,7 @@ freedreno работал в `X.org без привилегий
 Печальная, но предсказуемая новость - `единственный доброволец,
 разрабатывающий Real-Time Linux, прекращает дальнейшую разработку из-за
 несправедливости этого
-мира <http://thread.gmane.org/gmane.linux.kernel/1740314/focus=12370>`__.
+мира <https://thread.gmane.org/gmane.linux.kernel/1740314/focus=12370>`__.
 
 С 2013 года `ситуация сильно не
 изменилась <http://lwn.net/Articles/572740/>`__ - Red Hat ему немного
@@ -44,7 +44,7 @@ freedreno работал в `X.org без привилегий
 компаний-пользователей результатами его труда, денег ему никто не дал.
 
 Коллеги-аналитики уже [STRIKEOUT:сказали ненужно] `обсудили на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40162>`__, а
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40162>`__, а
 нам хотелось бы добавить, что ситуация (в более мелком масштабе,
 конечно) повторяется у нас регулярно - некие юзеры приходят к нам и
 требуют от нас того-то и этого-то. Если мы соглашаемся, то обычно не
@@ -54,14 +54,14 @@ OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40162>`__, а
 Наши участники не только занимаются очень серьезными системными вещами,
 но и порой наталкиваются на совсем легкие проблемы, о которых и пишут.
 
-`Peter Hutterer <http://fedoraproject.org/wiki/User:Whot>`__ во время
+`Peter Hutterer <https://fedoraproject.org/wiki/User:Whot>`__ во время
 работы над X.org столкнулся с тем, что из-за различий в пакетных
 менеджерах pkg-config устанавливается по-разному. Он написал о том, `как
 установить \*.pc файлы в разных
 дистрибутивах <http://who-t.blogspot.com.au/2014/05/configure-fails-with-no-package-foo.html>`__.
 
 Появился первый коммерческий продукт, использующий Wayland -
-`RealVNC <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/15644>`__.
+`RealVNC <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/15644>`__.
 
 Ну, конечно, Wayland уже используется в автомобилях и IVI-системах, но
 из коробочного ПО мы не слышали, чтоб кто-то еще уже поддерживал.

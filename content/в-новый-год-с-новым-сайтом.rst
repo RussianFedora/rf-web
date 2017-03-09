@@ -29,8 +29,8 @@ jabber-канале fedora@conference.jabber.ru.
 
 Коллектив Russian Fedora выражает особую благодарность за работу над
 сайтом администратору
-`Aliaric <http://fedoraproject.org/wiki/User:Aliaric>`__-у, дизайнеру
-`Inkscaper <http://fedoraproject.org/wiki/User:Inkscaper>`__-у и
+`Aliaric <https://fedoraproject.org/wiki/User:Aliaric>`__-у, дизайнеру
+`Inkscaper <https://fedoraproject.org/wiki/User:Inkscaper>`__-у и
 бессменному идейному вдохновителю -
 `Mama-sun <https://fedoraproject.org/wiki/User:Mamasun>`__.
 

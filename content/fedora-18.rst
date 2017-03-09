@@ -12,5 +12,5 @@
 
 
 С 10 февраля
-`началась <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/159405>`__
+`началась <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/159405>`__
 сборка пакетов с тэгом fc18. Ждем Fedora 18!
