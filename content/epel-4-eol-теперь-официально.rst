@@ -1,7 +1,7 @@
 .. title: EPEL 4 EOL - теперь официально
 .. slug: epel-4-eol-теперь-официально
 .. date: 2012-03-01 09:29:37
-.. tags:
+.. tags: epel, eol
 .. category:
 .. link:
 .. description:

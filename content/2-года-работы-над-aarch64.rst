@@ -1,7 +1,7 @@
 .. title: 2 года работы над AArch64
 .. slug: 2-года-работы-над-aarch64
 .. date: 2014-10-16 18:18:59
-.. tags:
+.. tags: arm, sbsa
 .. category:
 .. link:
 .. description:

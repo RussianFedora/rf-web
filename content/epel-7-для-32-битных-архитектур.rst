@@ -1,7 +1,7 @@
 .. title: EPEL 7 для 32-битных архитектур
 .. slug: epel-7-для-32-битных-архитектур
 .. date: 2014-03-22 17:05:04
-.. tags:
+.. tags: epel
 .. category:
 .. link:
 .. description:

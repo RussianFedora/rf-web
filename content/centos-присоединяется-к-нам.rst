@@ -1,7 +1,7 @@
 .. title: CentOS присоединяется к нам!
 .. slug: centos-присоединяется-к-нам
 .. date: 2014-01-09 10:25:20
-.. tags:
+.. tags: centos, redhat, epel
 .. category:
 .. link:
 .. description:
@@ -47,7 +47,7 @@ Linux, но в этот раз выкупили проект целиком). А
 
 Мы с радостью приветствуем наших новых коллег в нашем дружном
 коммьюнити!
-|image0|
 
-.. |image0| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg/374px-Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg/374px-Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg
+   :align: center
    :target: https://ru.wikipedia.org/wiki/Притча_о_блудном_сыне

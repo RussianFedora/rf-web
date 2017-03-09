@@ -1,7 +1,7 @@
 .. title: Будущее проекта EPEL
 .. slug: Будущее-проекта-epel
 .. date: 2012-11-23 10:36:19
-.. tags:
+.. tags: epel, fudcon
 .. category:
 .. link:
 .. description:

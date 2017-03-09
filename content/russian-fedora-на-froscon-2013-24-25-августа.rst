@@ -1,8 +1,8 @@
 .. title: Russian Fedora на FrOSCon 2013 - 24-25 августа
 .. slug: russian-fedora-на-froscon-2013-24-25-августа
 .. date: 2013-07-19 14:55:19
-.. tags:
-.. category:
+.. tags: devconf.cz, froscon, schedule
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text

@@ -1,7 +1,7 @@
 .. title: ACPI это не firmware
 .. slug: acpi-это-не-firmware
 .. date: 2014-03-22 21:31:49
-.. tags:
+.. tags: arm, acpi, canonical
 .. category:
 .. link:
 .. description:
@@ -11,29 +11,27 @@
 **Это архивная статья**
 
 
-| `Призыв Марка Шатлворта отказаться от проприетарного
-  firmware </content/mark-shuttleworth-против-sbsa>`__, в частности от
-  ACPI, продолжает обсуждаться в блогосфере. Ну, конечно, это типичная
-  ситуация для вбросов от Canonical.
+`Призыв Марка Шатлворта отказаться от проприетарного firmware
+</content/mark-shuttleworth-против-sbsa>`__, в частности от ACPI, продолжает
+обсуждаться в блогосфере. Ну, конечно, это типичная ситуация для вбросов от
+Canonical.
 
-| Уже тогда Olof Johansson
-  `заметил <https://plus.google.com/+OlofJohansson/posts/PnYVv3Mw7mD>`__,
-  что Марк путает ACPI и
-  `SMM <https://en.wikipedia.org/wiki/System_Management_Mode#Problems>`__,
-  а сейчас это `подчеркнул в своем
-  посте <https://plus.google.com/+GraemeGregory/posts/MaEhEZzXUC9>`__
-  инженер Linaro, Graeme Gregory. ACPI, это не firmware, а описание
-  системы, дополненное документированным байткодом, исполняющимся ядром
-  операционной системы. Т.е. это вполне открытый стандарт, которым `с
-  недавних пор управляет UEFI
-  Forum </content/Новости-основных-компонентов-base-os>`__, а не
-  какой-нибудь `злой вендор <http://www.microsoft.com>`__.
+Уже тогда Olof Johansson `заметил
+<https://plus.google.com/+OlofJohansson/posts/PnYVv3Mw7mD>`__, что Марк путает
+ACPI и `SMM <https://en.wikipedia.org/wiki/System_Management_Mode#Problems>`__,
+а сейчас это `подчеркнул в своем посте
+<https://plus.google.com/+GraemeGregory/posts/MaEhEZzXUC9>`__ инженер Linaro,
+Graeme Gregory. ACPI, это не firmware, а описание системы, дополненное
+документированным байткодом, исполняющимся ядром операционной системы. Т.е. это
+вполне открытый стандарт, которым `с недавних пор управляет UEFI Forum
+</content/Новости-основных-компонентов-base-os>`__, а не какой-нибудь `злой
+вендор <http://www.microsoft.com>`__.
 
-| Народ почти разобрался, и начал глумиться над Марком, когда в комменты
-  к `одобрительному
-  посту <https://plus.google.com/111049168280159033135/posts/bFyQKjuKfms>`__
-  у Greg Kroah-Hartman пришел известный хулиган и матершинник Linus
-  Torvalds, и началось:
+Народ почти разобрался, и начал глумиться над Марком, когда в комменты к
+`одобрительному посту
+<https://plus.google.com/111049168280159033135/posts/bFyQKjuKfms>`__ у Greg
+Kroah-Hartman пришел известный хулиган и матершинник Linus Torvalds, и
+началось:
 
 ::
 
@@ -48,13 +46,10 @@
     too.  What a grown up awesome dude you are, fuck off back to your cave and shut
     up until you have worthwhile comments to make! 
 
-| 
-| Мы с интересом продолжаем следить за дискуссией двух разработчиков
-  ядра. Вообще, походу `у них в ядре там
-  весело </content/Что-происходит-на-мероприятиях-kernel-девелоперов>`__.
+Мы с интересом продолжаем следить за дискуссией двух разработчиков ядра.
+Вообще, походу `у них в ядре там весело
+</content/Что-происходит-на-мероприятиях-kernel-девелоперов>`__.
 
-  К сожалению, наш коллега и специалист по ACPI, Jon Masters, не
-  участвует в последнее время в плодотворных обсуждениях, т.к.
-  `готовится к Бостонскому
-  Марафону <https://plus.google.com/+JonMasters/posts/3FDh2kGZG2d>`__.
-
+К сожалению, наш коллега и специалист по ACPI, Jon Masters, не участвует в
+последнее время в плодотворных обсуждениях, т.к.  `готовится к Бостонскому
+Марафону <https://plus.google.com/+JonMasters/posts/3FDh2kGZG2d>`__.

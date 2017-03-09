@@ -1,7 +1,7 @@
 .. title: Вышел RERemix Linux Desktop 6.2 Beta
 .. slug: вышел-reremix-linux-desktop-62-beta
 .. date: 2012-02-07 15:14:58
-.. tags:
+.. tags: epel
 .. category:
 .. link:
 .. description:

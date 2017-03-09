@@ -1,7 +1,7 @@
 .. title: Расписание DevConf.cz 2017
 .. slug: raspisanie-devconfcz-2017
 .. date: 2017-01-18 17:07:00 UTC+03:00
-.. tags: devconfcz, schedule
+.. tags: devconf.cz, schedule
 .. category: мероприятия
 .. link: 
 .. description: 

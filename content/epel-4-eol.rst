@@ -1,7 +1,7 @@
 .. title: EPEL 4 EOL
 .. slug: epel-4-eol
 .. date: 2012-02-01 23:15:16
-.. tags:
+.. tags: epel, eol
 .. category:
 .. link:
 .. description:
