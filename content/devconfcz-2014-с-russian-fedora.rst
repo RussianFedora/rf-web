@@ -1,8 +1,8 @@
 .. title: DevConf.cz 2014 с Russian Fedora
 .. slug: devconfcz-2014-с-russian-fedora
 .. date: 2014-01-13 14:08:11
-.. tags:
-.. category:
+.. tags: devconf.cz
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text

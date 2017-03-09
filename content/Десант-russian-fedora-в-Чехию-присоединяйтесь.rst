@@ -1,8 +1,8 @@
 .. title: Десант Russian Fedora в Чехию - присоединяйтесь!
 .. slug: Десант-russian-fedora-в-Чехию-присоединяйтесь
 .. date: 2013-01-20 17:58:57
-.. tags:
-.. category:
+.. tags: devconf.cz, schedule
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
@@ -11,7 +11,10 @@
 **Это архивная статья**
 
 
-|devconf.cz|
+.. image:: /sites/default/files/pulse/deconf.png
+   :align: center
+   :width: 350px
+   :target: http://devconf.cz/
 
 Через месяц, 23-24 февраля, в штаб-квартире Red Hat в Брно состоится
 ежегодная конференция `Developer Conference
@@ -52,6 +55,3 @@ jabber-канале fedora@conference.jabber.ru
 `почта <http://lists.russianfedora.ru/listinfo/russian-fedora>`__ и
 т.д.).
 
-.. |devconf.cz| image:: /sites/default/files/pulse/deconf.png
-   :width: 350px
-   :target: http://devconf.cz/

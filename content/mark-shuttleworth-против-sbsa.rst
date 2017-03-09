@@ -1,7 +1,7 @@
 .. title: Mark Shuttleworth против SBSA
 .. slug: mark-shuttleworth-против-sbsa
 .. date: 2014-03-18 13:35:47
-.. tags:
+.. tags: arm, sbsa, canonical
 .. category:
 .. link:
 .. description:
@@ -42,4 +42,3 @@ Party <http://www.markshuttleworth.com/archives/1295>`__, вместе с
 Lennart Poettering и другими разработчиками. Выходит так, что в этот
 почетный список заносят тех, кто фактически определяет развитие Open
 Source, так что это действительно почетно.
-

@@ -1,8 +1,8 @@
 .. title: DevConf.cz 2015 - Call for Papers
 .. slug: devconfcz-2015-call-papers
 .. date: 2014-09-10 22:58:45
-.. tags:
-.. category:
+.. tags: devconf.cz
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text

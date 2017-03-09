@@ -1,8 +1,8 @@
 .. title: Расписание FOSDEM 2015 и DevConf.cz 2015
 .. slug: Расписание-fosdem-2015-и-devconfcz-2015
 .. date: 2015-01-12 17:37:03
-.. tags:
-.. category:
+.. tags: FOSDEM, devconf.cz, schedule
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
