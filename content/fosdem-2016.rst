@@ -1,8 +1,8 @@
 .. title: FOSDEM 2016
 .. slug: fosdem-2016
 .. date: 2016-02-03 18:11:16
-.. tags:
-.. category:
+.. tags: FOSDEM, containers, parallels, clouds, weave, flannel, debian, epel,  devconf.cz
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
@@ -34,10 +34,9 @@ Smoogen <https://fedoraproject.org/wiki/StephenSmoogen>`__, и нам
 
 Посмотрим, что получится.
 
-|image0|
+.. image:: https://d2jhuj1whasmze.cloudfront.net/photos/normal/gjEQO.jpg
+   :align: center
+   :target: http://ow.ly/i/gjEQO
+
 Приезжайте на `DevConf.cz <http://devconf.cz/>`__, который состоится с 5
 по 7 февраля 2016.
-
-
-.. |image0| image:: https://d2jhuj1whasmze.cloudfront.net/photos/normal/gjEQO.jpg
-   :target: http://ow.ly/i/gjEQO

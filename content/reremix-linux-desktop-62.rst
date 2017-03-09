@@ -1,7 +1,7 @@
 .. title: RERemix Linux Desktop 6.2
 .. slug: reremix-linux-desktop-62
 .. date: 2012-03-01 14:56:41
-.. tags:
+.. tags: epel
 .. category:
 .. link:
 .. description:
