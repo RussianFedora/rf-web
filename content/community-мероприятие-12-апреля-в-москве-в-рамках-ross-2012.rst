@@ -2,14 +2,11 @@
 .. slug: community-мероприятие-12-апреля-в-москве-в-рамках-ross-2012
 .. date: 2012-04-04 12:19:15
 .. tags:
-.. category:
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: mama-sun
-
-**Это архивная статья**
-
 
 |ROSS 2012| Рада сообщить, что **12 апреля 2012** в Москве пройдет одно
 занимательное мероприятие. В этот день состоится `Russian Open Source
@@ -60,4 +57,3 @@ Facebook, Rutracker.org и многие другие.
 Приходите! Будет интересно! :)
 
 .. |ROSS 2012| image:: http://www.pcweek.ru/foss/conference/logo-ross.gif
-

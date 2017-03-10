@@ -1,18 +1,15 @@
 .. title: CoLaboratory: Rust - первая конференция о Rust в Москве
 .. slug: colaboratory-rust-первая-конференция-о-rust-в-Москве
 .. date: 2016-04-28 11:04:31
-.. tags:
-.. category:
+.. tags: rust
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
-| 17 мая в столице состоится `первая конференция разработчиков на языке
-  Rust <http://www.meetup.com/Rust-в-Москве/events/230631395/>`__.
+17 мая в столице состоится `первая конференция разработчиков на языке Rust
+<http://www.meetup.com/Rust-в-Москве/events/230631395/>`__.
 
 
     Rust — современный системный язык программирования с мощной системой
@@ -111,25 +108,21 @@
     проекты, использующие Rust и Haskell одновременно и обсудим прочие
     связанные с этим вопросы.
 
+Мероприятие состоится в `штаб-квартире "Лаборатории Касперского"
+<https://maps.google.com/maps?f=q&hl=en&q=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B5+%D1%88%D0%BE%D1%81%D1%81%D0%B5%2C+39%D0%90%2C+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81+2%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+ru>`__.
 
-| 
-| Мероприятие состоится в `штаб-квартире "Лаборатории
-  Касперского" <https://maps.google.com/maps?f=q&hl=en&q=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B5+%D1%88%D0%BE%D1%81%D1%81%D0%B5%2C+39%D0%90%2C+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81+2%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+ru>`__.
+Внимание, `**Требуется регистрация!**
+<https://laboratoriya-kasperskogo.timepad.ru/event/323535/>`__
 
-  Внимание, `**Требуется
-  регистрация!** <https://laboratoriya-kasperskogo.timepad.ru/event/323535/>`__
-| Из других новостей про этот язык - участник Fedora, инженер Red Hat и
-  разработчик GCC, GDB и binutils, `Tom
-  Tromey <https://www.openhub.net/accounts/tromey>`__, представил
-  `патчсет с поддержкой Rust в
-  GDB <https://thread.gmane.org/gmane.comp.gdb.patches/116164>`__. Патчи
-  сразу заинтересовали других разработчиков GDB, и Tom представил уже
-  `вторую версию
-  патчсета <https://thread.gmane.org/gmane.comp.gdb.patches/116205>`__,
-  исправленную и дополненную. Скоро можно будет отлаживать программы на
-  Rust в GDB!
-| Вот, правда, для их отладки нужно их сначала собрать, а с этим у нас
-  не все гладко. `Включение Rust в Fedora что-то застряло на ровном
-  месте <https://bugzilla.redhat.com/915043>`__. Уже три года, как на
-  месте топчемся.
+Из других новостей про этот язык - участник Fedora, инженер Red Hat и
+разработчик GCC, GDB и binutils, `Tom Tromey
+<https://www.openhub.net/accounts/tromey>`__, представил `патчсет с поддержкой
+Rust в GDB <https://thread.gmane.org/gmane.comp.gdb.patches/116164>`__. Патчи
+сразу заинтересовали других разработчиков GDB, и Tom представил уже `вторую
+версию патчсета <https://thread.gmane.org/gmane.comp.gdb.patches/116205>`__,
+исправленную и дополненную. Скоро можно будет отлаживать программы на Rust в
+GDB!
 
+Вот, правда, для их отладки нужно их сначала собрать, а с этим у нас не все
+гладко. `Включение Rust в Fedora что-то застряло на ровном месте
+<https://bugzilla.redhat.com/915043>`__. Уже три года, как на месте топчемся.

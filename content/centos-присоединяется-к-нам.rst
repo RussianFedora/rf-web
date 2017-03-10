@@ -1,7 +1,7 @@
 .. title: CentOS присоединяется к нам!
 .. slug: centos-присоединяется-к-нам
 .. date: 2014-01-09 10:25:20
-.. tags: centos, redhat, epel
+.. tags: centos, redhat, rhel, epel, hr
 .. category:
 .. link:
 .. description:

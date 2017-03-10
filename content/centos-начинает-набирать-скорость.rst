@@ -1,15 +1,12 @@
 .. title: CentOS начинает набирать скорость
 .. slug: centos-начинает-набирать-скорость
 .. date: 2014-01-19 12:38:21
-.. tags:
+.. tags: centos, openshift, centos dojo, scientific linux
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Сразу после `присоединения CentOS к нашей семье дружественных
 проектов </content/centos-присоединяется-к-нам>`__ пошли хорошие
