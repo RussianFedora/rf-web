@@ -16,7 +16,7 @@
 фреймворка Genode <http://genode.org/documentation/release-notes/13.11>`__, для
 сборки микроядерной операционной системы. В этой версии, помимо все прочего,
 улучшена поддержка Qt5. Коллеги-аналитики `уже обсудили новость на OpenNET.ru
-<http://www.opennet.ru/opennews/art.shtml?num=38549>`__
+<https://www.opennet.ru/opennews/art.shtml?num=38549>`__
 
 Наши друзья из Parallels `выпустили CRIU версии 1.0
 <https://plus.google.com/+CriuOrg/posts/bgv1RXTLxgH>`__. В репозитория Fedora
@@ -37,10 +37,10 @@
 
 Месяц выдался богатым на новые гипервизоры. Сначала разработчик Qemu, инженер
 Siemens, Jan Kiszka, объявил о выходе нового гипервизора, `Jailhouse
-<http://thread.gmane.org/gmane.comp.emulators.kvm.devel/116825>`__,
+<https://thread.gmane.org/gmane.comp.emulators.kvm.devel/116825>`__,
 предназначенного для запуска real-time приложений и операционных систем внутри
 Linux (новость `уже обсуждается на OpenNET.ru
-<http://www.opennet.ru/opennews/art.shtml?num=38473>`__).
+<https://www.opennet.ru/opennews/art.shtml?num=38473>`__).
 
 Затем `Xen Project объявил о выпуске написанной на Ocaml системы виртуализации
 - Mirage OS
@@ -49,7 +49,7 @@ Linux (новость `уже обсуждается на OpenNET.ru
 </content/Еще-одна-совершенно-новая-облачная-система-osv>`__, но предлагающей
 разрабатывать целевое ПО на Ocaml. Коллеги-аналитики уже `обсуждают
 маркетинговые перспективы системы на OpenNET.ru
-<http://www.opennet.ru/opennews/art.shtml?num=38621>`__. А мы сейчас обсуждаем
+<https://www.opennet.ru/opennews/art.shtml?num=38621>`__. А мы сейчас обсуждаем
 возможность выступления на нашем следующем ивенте представителя Cloudius
 Systems, с обзором перспективных систем виртуализации, так что не пропустите.
 
@@ -120,7 +120,7 @@ kernel.
 После его ухода проект не потерял в динамике, и недавно инженер Amazon, бывший
 инженер IBM, `Anthony Liguori <https://www.openhub.net/accounts/aliguori>`__,
 объявил о выходе `Qemu версии 1.7
-<http://thread.gmane.org/gmane.comp.emulators.qemu/246050>`__. В этой версии
+<https://thread.gmane.org/gmane.comp.emulators.qemu/246050>`__. В этой версии
 было внедрено довольно много интересного:
 
 -  В гостевых системах PowerPC теперь поддерживается дамп памяти

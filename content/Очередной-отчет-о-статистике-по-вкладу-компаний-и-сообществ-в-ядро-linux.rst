@@ -19,7 +19,7 @@ Linux в 2012
 выложенный на LWN, и на `отчет по 2011
 году </content/кто-разрабатывал-ядро-linux-в-2011-году>`__ от Linux
 Foundation). Новость `уже обсуждается на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=37926>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=37926>`__.
 
 Изменений мало - лидеры все те же, правда вот увеличился вклад
 "железячных" компаний (спасибо, Android!), из Top 25 исчезла компания

@@ -12,7 +12,7 @@
 
 
 Наши друзья из Qemu только что
-`сообщили <http://thread.gmane.org/gmane.comp.emulators.qemu/194776>`__
+`сообщили <https://thread.gmane.org/gmane.comp.emulators.qemu/194776>`__
 о выходе новой версии своего продукта - Qemu 1.4.0. Среди набора фич и
 улучшений, в которых, например, есть `multiqueue в
 VirtIO <https://fedoraproject.org/wiki/Features/MQ_virtio_net>`__

@@ -13,13 +13,13 @@
 
 Почти с самого появления было понятно, что systemd претендует не на
 связку monit+sysv, но на гораздо большее. С `анонсом systemd
-215 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/20783>`__
+215 <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/20783>`__
 (обсуждение `на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40132>`__) это
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40132>`__) это
 было объявлено официально, в виде `доклада на FUDCON +
 GNOME.Asia <http://0pointer.de/blog/projects/fudcon-gnomeasia.html>`__
 (`слайды <http://0pointer.de/public/gnomeasia2014.pdf>`__ и `обсуждение
-на OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40148>`__).
+на OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40148>`__).
 
 Теперь это официальная Linux-платформа, конструктор для создания
 Linux-системы. Логи, сеть, контейнеры, оборудование, пользователи - все
@@ -85,7 +85,7 @@ out-of-tree патчи), но `с недавних пор появился ст�
 полуофициальный репозиторий с ядрами, в которых включены тестовые
 фичи <http://fedoramagazine.org/try-out-experimental-linux-kernel-features-with-the-kernel-playground/>`__,
 и среди прочего там доступен kdbus (новость уже `обсуждается на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40172>`__).
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40172>`__).
 
 
 .. |image0| image:: http://samlib.ru/img/z/zelbai/treshiugar/shitopodelatx1.jpg

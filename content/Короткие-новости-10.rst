@@ -12,7 +12,7 @@
 
 
 `Все машины-сборщики Fedora переведены с RHEL6 на Fedora
-19 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/185384>`__.
+19 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/185384>`__.
 
 Это виртуальные машины, а хостовые системы все также работают под RHEL6.
 
@@ -21,10 +21,10 @@
 
 `Fedora рассталась еще с несколькими устаревшими приложениями, среди
 которых
-DirectFB <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/185408>`__.
+DirectFB <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/185408>`__.
 
 Red Hat `представило программу сертификации по
-OpenStack <http://www.redhat.com/about/news/archive/2013/8/red-hat-announces-new-openstack-certification>`__.
+OpenStack <https://www.redhat.com/about/news/archive/2013/8/red-hat-announces-new-openstack-certification>`__.
 
 `Начата работа <https://bugzilla.redhat.com/1000662>`__ по включению в
 Fedora `Docker <https://www.docker.io/>`__, системы по управлению

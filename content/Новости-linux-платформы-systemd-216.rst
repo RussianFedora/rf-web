@@ -28,7 +28,7 @@
 
 | Из последних новостей о платформе стоит поставить на первое место
   `выход systemd
-  216 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/22172>`__.
+  216 <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/22172>`__.
 
   Среди большого количества изменений хочется выделить то, что в нем
   улучшена работа DNS-резолвера (вернее в нем теперь включен полноценный
@@ -38,7 +38,7 @@
   ядра </content/Идет-работа-по-удалению-виртуальных-терминалов-из-ядра-configvtn>`__).
 
   Коллеги-аналитики уже обсуждают изменения на
-  `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40414>`__ и
+  `OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40414>`__ и
   `Linux.org.ru <https://www.linux.org.ru/news/linux-general/10782717>`__.
 
   Системные администраторы локальных машин немного запаниковали, и

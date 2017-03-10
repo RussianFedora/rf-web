@@ -25,7 +25,7 @@ Dan `объявил <http://danwalsh.livejournal.com/69035.html>`__, что
 `DAC-проверки <https://ru.wikipedia.org/wiki/Избирательное_управление_доступом>`__
 для случая mmap\_zero будут выполняться перед `проверками
 MAC <https://ru.wikipedia.org/wiki/Мандатное_управление_доступом>`__
-(`патч <http://thread.gmane.org/gmane.comp.security.selinux/20251>`__
+(`патч <https://thread.gmane.org/gmane.comp.security.selinux/20251>`__
 был предложен инженером Red Hat, Paul Moore). Раньше программа под Wine
 зачастую пыталась mmap-ить память начиная с адреса меньшего, чем
 разрешенное пороговое значение в /proc/sys/vm/mmap\_min\_addr , что у

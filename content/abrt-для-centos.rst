@@ -1,18 +1,15 @@
 .. title: ABRT для CentOS!
 .. slug: abrt-для-centos
 .. date: 2014-11-20 12:32:06
-.. tags:
+.. tags: abrt, centos
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 `Сервис ABRT стал доступен и пользователям
-CentOS <http://thread.gmane.org/gmane.linux.centos.announce/8756>`__,
+CentOS <https://thread.gmane.org/gmane.linux.centos.announce/8756>`__,
 начиная с версии 7. Мы исправили довольно много ошибок, благодаря ему,
 хотя. конечно, далеко не все, и появление его в CentOS без всякого
 сомнения окажет благотворное воздействие на качество как RHEL, так и
@@ -23,4 +20,3 @@ CentOS <http://thread.gmane.org/gmane.linux.centos.announce/8756>`__,
 случай - мы не будем распространяться о деталях, а скажем лишь, что в
 проект прислали стэктрейс, из которого можно было узнать сексуальные
 пристрастия приславшего и некоторые его/ее личные данные.
-

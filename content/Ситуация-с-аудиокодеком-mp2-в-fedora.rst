@@ -14,11 +14,11 @@
 После `отрицательного ответа
 </content/mp3-декодер-в-fedora-Не-раньше-2015-года>`__ на возможность включить
 декодер MP3 в Fedora, возник `вопрос
-<http://thread.gmane.org/gmane.linux.redhat.fedora.devel/167785>`__ - ну может
+<https://thread.gmane.org/gmane.linux.redhat.fedora.devel/167785>`__ - ну может
 получится включить хотя бы `MP2 (MPEG1 Layer 2)
-<http://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II>`__? К сожалению ответ все
+<https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II>`__? К сожалению ответ все
 тот же - `нет, это невозможно из-за патентной угрозы
-<http://thread.gmane.org/gmane.linux.redhat.fedora.devel/167785/focus=167789>`__.
+<https://thread.gmane.org/gmane.linux.redhat.fedora.devel/167785/focus=167789>`__.
 
 .. image:: http://media.tumblr.com/tumblr_m6nxdp7tIu1qjvqk7.jpg
    :align: center

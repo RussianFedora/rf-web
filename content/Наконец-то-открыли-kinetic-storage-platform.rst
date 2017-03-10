@@ -38,6 +38,6 @@ buffers <https://developers.google.com/protocol-buffers/>`__. Добавлени
 GlusterFS 3.7.0
 <https://blog.gluster.org/2015/05/glusterfs-3-7-0-has-been-released-introducing-many-new-features-and-improvements/>`__
 (новость уже `обсуждалась на OpenNET.ru
-<http://www.opennet.ru/opennews/art.shtml?num=42257>`__). Из особо
+<https://www.opennet.ru/opennews/art.shtml?num=42257>`__). Из особо
 понравившихся фич можно выделить "bitrot detection", поддержка NFSv4 и pNFS, и
 шардинг, но новинок там гораздо больше.

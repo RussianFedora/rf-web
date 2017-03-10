@@ -16,7 +16,7 @@
 сбавили темпов, и участник проектов Fedora и LibreOffice, `Caolán
 McNamara <https://www.openhub.net/accounts/caolan>`__, объявил о
 `превышении уровня в
-80% <http://caolanm.blogspot.ru/2014/03/700-conversion-target-reached.html>`__.
+80% <http://caolanm.blogspot.com/2014/03/700-conversion-target-reached.html>`__.
 
 Осталось еще немного.
 

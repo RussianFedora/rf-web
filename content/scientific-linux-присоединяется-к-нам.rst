@@ -17,7 +17,7 @@
 что те `подумывают принять
 предложение <http://listserv.fnal.gov/scripts/wa.exe?A2=ind1401&L=scientific-linux-devel&T=0&P=4895>`__
 (новость уже обсуждается на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38999>`__). Мы
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38999>`__). Мы
 бы хотели отметить, что есть еще и отечественные компании, которые
 занимаются пересборкой RHEL, и им тоже могло бы быть интересным
 присоединиться `к

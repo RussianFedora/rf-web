@@ -16,7 +16,7 @@
 есть новости. Участник проектов Fedora и LibreOffice, `Caolán
 McNamara <https://www.openhub.net/accounts/caolan>`__ получил свежие данные
 - `теперь в LibreOffice плотность ошибок упала до
-нуля <http://caolanm.blogspot.ru/2014/11/libreoffice-coverity-defect-density-000.html>`__.
+нуля <http://caolanm.blogspot.com/2014/11/libreoffice-coverity-defect-density-000.html>`__.
 
 На почти 6 миллионов строк кода приходится лишь 21 срабатывание сканнера
 Coverity, и Caolán уверен, что 11 срабатываний, это false positives.

@@ -17,7 +17,7 @@
 строками, падает и еще один бастион `Stringly
 Typed <http://www.globalnerdy.com/2010/05/09/new-programming-jargon/>`__
 подхода в разработке - `Unix
-Pipes <http://en.wikipedia.org/wiki/Pipeline_%28Unix%29>`__. Участник
+Pipes <https://en.wikipedia.org/wiki/Pipeline_%28Unix%29>`__. Участник
 проектов GNOME и Fedora, `Alexander
 Larsson <https://www.openhub.net/accounts/alexl>`__ предложил `радикально
 переработать этот старый
@@ -27,13 +27,13 @@ Larsson <https://www.openhub.net/accounts/alexl>`__ предложил `ради
 возможность обмениваться стандартизированными и типизированными
 структурами данных, например, сериализованными объектами (как это уже
 сделано в `Windows
-PowerShell <http://en.wikipedia.org/wiki/Windows_PowerShell>`__). Из
+PowerShell <https://en.wikipedia.org/wiki/Windows_PowerShell>`__). Из
 плюсов - это позволит выбросить тучу кода из стандартных утилит
 (форматирование, сортировка, раскраска и т.п.), и заменить их
 стандартными препроцессорами нового формата Unix Pipes (которые уже
 написал `Alexander Larsson <https://www.openhub.net/accounts/alexl>`__),
 т.е. coreutils будут правильнее с т.з. `философии
-Unix <http://en.wikipedia.org/wiki/Unix_philosophy>`__. Из минусов - это
+Unix <https://en.wikipedia.org/wiki/Unix_philosophy>`__. Из минусов - это
 изменение, когда его примут в базовые утилиты, сделает их несовместимыми
 с маргинальными Unix- и Linux-системами.
 

@@ -14,6 +14,6 @@
 Наконец-то и разработка RPM перехала на
 `GitHub <https://github.com/rpm-software-management/rpm>`__, о чем
 `официально
-сообщил <http://thread.gmane.org/gmane.linux.rpm.maintenance/2616>`__
+сообщил <https://thread.gmane.org/gmane.linux.rpm.maintenance/2616>`__
 наш коллега, `Florian
 Feisti <https://www.openhub.net/accounts/ffesti>`__. Давно пора!

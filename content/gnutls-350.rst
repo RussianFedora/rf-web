@@ -14,7 +14,7 @@
 GnuTLS, мэйнтейнером которой является инженер Red Hat, `Nikos
 Mavrogiannopoulos <https://www.openhub.net/accounts/nmav>`__, доросла
 `до версии
-3.5.0 <http://thread.gmane.org/gmane.network.gnutls.general/4127>`__. Из
+3.5.0 <https://thread.gmane.org/gmane.network.gnutls.general/4127>`__. Из
 интересного, это поддержка SHA3 для RSA, DSA, ECDSA, и появление
 эллиптической кривой
 `Curve25519 <https://en.wikipedia.org/wiki/Curve25519>`__ (используется

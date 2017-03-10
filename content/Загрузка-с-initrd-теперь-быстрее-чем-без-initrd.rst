@@ -16,7 +16,7 @@ Poettering <https://www.openhub.net/accounts/mezcalero>`__ написал
 `руководство по сокращению времени загрузки
 системы <http://freedesktop.org/wiki/Software/systemd/Optimizations>`__
 (его активно обсуждали, например, `на
-OpenNET <http://www.opennet.ru/opennews/art.shtml?num=33840>`__). С
+OpenNET <https://www.opennet.ru/opennews/art.shtml?num=33840>`__). С
 радостью сообщаем вам, что участник Fedora и инженер Red Hat `Harald
 Hoyer <https://www.openhub.net/accounts/backslash>`__ и разработчик udev и
 systemd `Kay Sievers <https://www.openhub.net/accounts/kaysievers>`__

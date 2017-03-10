@@ -32,5 +32,5 @@
 криптографии. И вот, недавно, участник Fedora Legal Team, Tom Callaway
 подтвердил, что `он работает над анализом текущей ситуации и надеется,
 что в ближайшее время ситуация
-улучшится <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/157640/focus=157954>`__.
+улучшится <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/157640/focus=157954>`__.
 

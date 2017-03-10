@@ -41,17 +41,17 @@ Bash <https://github.com/p8952/bocker>`__. Конечно, одним systemd-ns
 
 Например, `послушайте любопытное выступление Александра Тарасова,
 инженера
-Альфа-банка <http://habrahabr.ru/company/jugru/blog/264669/>`__:
+Альфа-банка <https://habrahabr.ru/company/jugru/blog/264669/>`__:
 Какое у вас сложилось впечатление о развитости и интегрированности
 компонентов инфраструктуры для Docker?
 Вообще, про Docker сейчас интереснее читать не статьи, а читательские
 комментарии к ним, `вот
-тут <http://habrahabr.ru/company/1cloud/blog/263911/#comment_8521177>`__,
+тут <https://habrahabr.ru/company/1cloud/blog/263911/#comment_8521177>`__,
 например. Похоже, что мы проходим первый пик `известной
 кривой <https://en.wikipedia.org/wiki/Hype_cycle>`__, и пользователи уже
 сформировали список желаний. При всем уважении к мнению и опыту `команды
 Iron.io с их колоссальными числами реально работающих
-контейнеров <http://habrahabr.ru/post/247969/>`__, у Docker есть `хорошо
+контейнеров <https://habrahabr.ru/post/247969/>`__, у Docker есть `хорошо
 видимые проблемы <http://sirupsen.com/production-docker/>`__ - особенно
 обратите внимание на файловую систему, журналирование и
 `безопасность </content/Безопасность-docker-будущее>`__. Мы уверены, что
@@ -79,7 +79,7 @@ Docker </content/systemd-теперь-может-импортировать-ко
 Само собой, мы тоже используем Docker сами и помогаем другим.
 
 Пару-тройку недель назад наш коллега, `Dan
-Horák <http://fedoraproject.org/wiki/User:Sharkcz>`__, наконец-то
+Horák <https://fedoraproject.org/wiki/User:Sharkcz>`__, наконец-то
 `собрал Docker для архитектуры
 s390x <https://plus.google.com/117069299461364056986/posts/UaofiQfaSoL>`__.
 

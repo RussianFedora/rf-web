@@ -12,13 +12,13 @@
 
 
 В systemd `теперь есть своя реализация клиента
-d-bus <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/9660>`__.
+d-bus <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/9660>`__.
 
 Сейчас Планируется, что она будет опираться на
 `kdbus </content/Перенос-d-bus-в-ядро-linux>`__.
 
 Участник проектов Fedora и GNOME, Matthias Clasen, `объявил о выходе GTK
-3.8 <http://thread.gmane.org/gmane.comp.gnome.announce/10933>`__. В этой
+3.8 <https://thread.gmane.org/gmane.comp.gnome.announce/10933>`__. В этой
 версии обеспечена минимальная совместимость c Wayland 1.0. Обратите
 внимание, Matthias пишет, что `основные демки GTK уже работают с
 Wayland <https://blogs.gnome.org/mclasen/2013/03/26/adventures-in-wayland/>`__.

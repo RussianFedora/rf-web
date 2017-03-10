@@ -14,11 +14,11 @@
 Инженер Red Hat и участник Fedora, `Adam
 Jackson <https://www.openhub.net/accounts/ajax>`__, начал процесс
 интеграции `XWayland в
-X.org <http://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/37619>`__.
+X.org <https://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/37619>`__.
 
 Интересно, что заодно с Wayland-специфичными патчами он предложил на
 рассмотрение `серию патчей для улучшения запуска Xorg в
-rootless-режиме <http://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/37636>`__.
+rootless-режиме <https://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/37636>`__.
 
 Это тоже нужно для XWayland, но заодно может оказаться полезным для Xorg
 под Mac OS X, Windows, OS/2 и т.п., где он запускается именно в
@@ -26,7 +26,7 @@ rootless-режиме, и где используются out-of-tree патчи
 
 Инженером RealVNC, Andrew Wedgbury, был предложен `еще один вариант
 удаленного доступа до рабочего стола в Wayland-композиторе
-Weston <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/11223>`__.
+Weston <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/11223>`__.
 
 Продолжает развиваться QXL видеодрайвер, разработанный инженером Red Hat
 и участником Fedora и Debian `David
@@ -43,7 +43,7 @@ Clark <https://github.com/robclark>`__ доработал `MSM DRM
 driver <http://www.phoronix.com/scan.php?page=news_item&px=MTQ5MTQ>`__
 ("ядерная" часть драйвера для видеочипов Adreno) так, что он теперь
 поддерживает `PRIME </content/Переключающаяся-графика-скоро-в-linux>`__
-и `Render Nodes <http://www.opennet.ru/opennews/art.shtml?num=37797>`__.
+и `Render Nodes <https://www.opennet.ru/opennews/art.shtml?num=37797>`__.
 
 Ну и раз заговорили про ARM-видеодрайверы, то надо упомянуть и что
 Russell King, широко известный в кругах kernel-разработчиков, продолжает

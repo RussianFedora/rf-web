@@ -50,7 +50,7 @@ GitHub <https://groups.google.com/forum/#!topic/golang-dev/sckirqOWepg>`__.
 Напомним, что недавно `на Git перешел
 Emacs </content/Наше-отношение-к-outreach-program-women-emacs-переходит-на-git-и-другие-новости>`__,
 так что ждем и других. Коллеги-аналитики уже обсуждают новость на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=41059>`__ и
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=41059>`__ и
 `Linux.org.ru <https://www.linux.org.ru/news/google/11034758>`__, и
 задают вопросы, мол почему на Git, и почему на GitHub. Последний вопрос
 нас удивил - неужели кто-то еще не в курсе, что

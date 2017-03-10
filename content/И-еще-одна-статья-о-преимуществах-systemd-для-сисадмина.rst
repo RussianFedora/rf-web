@@ -16,6 +16,6 @@
 `systemd - удобный
 инструмент <http://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRight>`__,
 вносящий много полезных новшеств. Он имеет опыт использования
-`SMF <http://en.wikipedia.org/wiki/Service_Management_Facility>`__ и
+`SMF <https://en.wikipedia.org/wiki/Service_Management_Facility>`__ и
 Upstart, так что ему есть с чем сравнивать.
 

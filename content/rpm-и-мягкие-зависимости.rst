@@ -31,7 +31,7 @@ Conflicts, Obsoletes) в upstream RPM так и не включили, посч�
 Прошло несколько месяцев, и один из разработчиков RPM, наш коллега,
 `Florian Festi <https://fedoraproject.org/wiki/User:Ffesti>`__,
 анонсировал `новое появление мягких и вычисляемых зависимостей в
-RPM <http://thread.gmane.org/gmane.linux.rpm.maintenance/2416>`__. Вновь
+RPM <https://thread.gmane.org/gmane.linux.rpm.maintenance/2416>`__. Вновь
 появятся Recommends/Suggests/Supplements/Enhances, которые частично уже
 используются в SuSE Linux и некоторых других RPM-based дистрибутивах.
 

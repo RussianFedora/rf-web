@@ -12,7 +12,7 @@
 
 
 | `График выхода Fedora
-  21 <http://borntobeopen.blogspot.ru/2014/03/getting-closer-to-fedora-21-schedule.html>`__
+  21 <http://borntobeopen.blogspot.com/2014/03/getting-closer-to-fedora-21-schedule.html>`__
   пока только утряхивается, а фичи будущего релиза уже начали
   появляться. Неопределенность с графиком привела к тому, что большое
   количество фич до сих пор не было анонсировано, и в списке находились

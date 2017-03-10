@@ -18,18 +18,18 @@ x32 <http://www.phoronix.com/scan.php?page=news_item&px=MTEwMTk>`__, о
 здесь <https://sites.google.com/site/x32abi/>`__. Закономерно у
 участников Fedora возник вопрос - `обсуждалась ли возможность включения
 этой новой архитектуры в
-Fedora? <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019>`__
+Fedora? <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019>`__
 Незамедлительно были получены неутешительные ответы. Оказывается, что
 Canonical, `как обычно в последнее
 время </content/В-ubuntu-1210-ожидается-полноценная-поддержка-wayland-но-есть-нюанс>`__,
 не уведомила разработчиков о своих планах - `Josh
 Boyer <https://www.openhub.net/accounts/jwboyer>`__ сообщил, что `полной
 поддержки x32 еще нет в Glibc, и вероятно не будет до версии
-2.16 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019/focus=164020>`__
+2.16 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019/focus=164020>`__
 (а уж только потом можно вести разговор о пересборке ПО). Также `Matthew
 Garrett <https://plus.google.com/109386511629819124958/about>`__ выразил
 сомнение, что `"обычные пользователи" увидят хоть какие-то
-улучшения <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019/focus=164021>`__
+улучшения <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/164019/focus=164021>`__
 (а ухудшения они точно увидят, как всегда бывает с новой архитектурой).
 
 Однако, если найдутся желающие, у которых будет достаточно квалификации,

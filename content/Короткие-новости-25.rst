@@ -35,7 +35,7 @@ David Strauss, CTO компании Pantheon,
 контейнеры, cgroups и systemd.
 
 В Google Cloud Platform теперь `доступна
-RHEL <http://googlecloudplatform.blogspot.ru/2014/04/announcing-red-hat-enterprise-linux.html>`__,
+RHEL <http://googlecloudplatform.blogspot.com/2014/04/announcing-red-hat-enterprise-linux.html>`__,
 присоединившись к SUSE и Microsoft Windows. Конечно, все так же будут
 доступны `Debian и
 CentOS <https://developers.google.com/compute/docs/images#availableimages>`__.
@@ -47,19 +47,19 @@ CentOS <https://developers.google.com/compute/docs/images#availableimages>`__.
 Что бы ни случилось с дистрибутивом или целой операционной системой,
 разработчики-то остаются. Некоторые из них приходят к нам, причем порой
 официально анонсируя это в нашем `списке
-рассылки <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/>`__.
+рассылки <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/>`__.
 
 За последние недели к нам присоединилось довольно много народу, среди
 которых можно особенно выделить `Guy
-Streeter <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/194351>`__,
+Streeter <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/194351>`__,
 занимающегося Unix-системами с конца 1970х, и последние 14 лет
 работающего в Red Hat, и `Michael
-McCune <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/194442>`__,
+McCune <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/194442>`__,
 разработчика с 15-летним стажем, принимавшего участие в разработке
 `Katello <http://www.katello.org/>`__ и
 `Spacewalk <http://spacewalk.redhat.com/>`__. Но особенно нас обрадовала
 новость о том, что `Oden
-Eriksson <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/194345>`__,
+Eriksson <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/194345>`__,
 хорошо известный пользователям дистрибутивов семейства Mandriva,
 присоединяется к нашему коммьюнити.
 

@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Отпраздновав `выход Fedora 21 </content/fedora-21-вышла>`__ и синхронный
 `выпуск RFRemix 21 </content/Выпущены-rfremix-21-и-rfremix-201>`__ мы
 возвращаемся к повседневной рутине.
@@ -41,4 +38,3 @@ OverlayFS </content/overlayfs-включают-в-ядро>`__.
 В ленте Google+ известного гентушника и дистрохоппера Greg KH уже
 `обсуждают
 новость <https://plus.google.com/+gregkroahhartman/posts/ExT46iXqL3K>`__.
-

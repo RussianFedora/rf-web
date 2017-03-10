@@ -12,14 +12,14 @@
 
 
 | `Наконец-то, GCC начал переход на Git с
-  Subversion <http://thread.gmane.org/gmane.comp.gcc.devel/140753>`__!
+  Subversion <https://thread.gmane.org/gmane.comp.gcc.devel/140753>`__!
   Вот этого реально давно ждали!
 | Из других новостей - наш коллега, инженер Red Hat, `Carlos
   O'Donell <https://plus.google.com/116746191356411907058/about>`__,
   `объявил о выходе Glibc
-  2.22 <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/54439>`__
+  2.22 <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/54439>`__
   (уже `перевели на
-  русский <http://www.opennet.ru/opennews/art.shtml?num=42797>`__). К
+  русский <https://www.opennet.ru/opennews/art.shtml?num=42797>`__). К
   сожалению, после прочтения анонса складывается впечатление, что после
   `Glibc 2.20 </content/Новости-systemdlinux-платформы>`__, где объявили
   о слиянии с Eglibc (прощай, Eglibc, `нам будет не хватать
@@ -41,19 +41,19 @@
 
 -  `Идет работа по включению в базовые утилиты поддержки архитектур с
    не-8битным
-   байтом <http://thread.gmane.org/gmane.comp.gdb.patches/106980>`__
+   байтом <https://thread.gmane.org/gmane.comp.gdb.patches/106980>`__
 -  `В GDB появилась поддержка
-   контейнеров <http://thread.gmane.org/gmane.comp.gdb.patches/107000>`__
+   контейнеров <https://thread.gmane.org/gmane.comp.gdb.patches/107000>`__
 -  `В GCC появились
-   unit-тесты <http://thread.gmane.org/gmane.comp.gcc.patches/344304>`__
+   unit-тесты <https://thread.gmane.org/gmane.comp.gcc.patches/344304>`__
 -  `Обсуждается инициатива по добавлению в Glibc врапперов для всего API
    ядра <https://lwn.net/Articles/655028/#Comments>`__
 -  `GCC JIT стал в 5 раз
-   быстрее <http://thread.gmane.org/gmane.comp.gnu.binutils/69948>`__
+   быстрее <https://thread.gmane.org/gmane.comp.gnu.binutils/69948>`__
 -  `Из malloc в Glibc удаляли атомарные
-   операции <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/49099>`__
+   операции <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/49099>`__
 -  `Постоянно ведется работа по увеличению соответствия Glibc
-   стандартам <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/50210>`__
+   стандартам <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/50210>`__
    (еще вопрос, какие конкурирующие открытые решения могут побить Glibc
    по количеству реализованных стандартов)
 -  `В Glibc заметно ускорялись базовые математические
@@ -83,12 +83,12 @@
 
 | Ну и из изменений в Fedora - наконец-то `локали в Glibc будут
   упакованы
-  отдельно <http://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1554>`__
+  отдельно <https://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1554>`__
   (померяйте размер */usr/lib/locale*, если кто-то сомневается, зачем
   это нужно). Раньше для этого, как вариант, приходилось указывать флаги
   для rpm где-нибудь в */etc/rpm/macros.locales*. Вторая новость, это
   `расставание Fedora с давно устаревшей библиотекой
-  librtkaio <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/210690>`__.
+  librtkaio <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/210690>`__.
 
 | И наконец, не совсем про базовые компоненты (хотя кому как) - `Vim
   тоже перешел на

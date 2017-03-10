@@ -18,7 +18,7 @@ Fedora разумеется там присутствовали. Среди вы
 `дальнейшей реорганизации
 GCC <http://www.youtube.com/watch?index=10&gl=CA&list=PLsgS8fWwKJZhrjVEN7tsQyj2nLb5z0n70&v=RFQoIRoiFnA>`__
 и презентацию участника Fedora, инженера Red Hat, `David
-Malcolm <http://fedoraproject.org/wiki/User:Dmalcolm>`__ об `удалении
+Malcolm <https://fedoraproject.org/wiki/User:Dmalcolm>`__ об `удалении
 глобальных состояний из
 GCC <http://dmalcolm.fedorapeople.org/gcc/global-state/>`__. На самом
 деле, этими выступлениями интересные не исчерпываются - пожалуйста,

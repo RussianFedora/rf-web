@@ -22,7 +22,7 @@ Fedora 19.
 связь звучала так: "Beefy miracle — это то, что никто не может
 наблюдать, то, что не существует, и Spherical cow аналогично." Связь
 должна быть максимально интересной и оригинальной и не повторять
-`предыдущие <http://fedoraproject.org/wiki/History_of_Fedora_release_names>`__.
+`предыдущие <https://fedoraproject.org/wiki/History_of_Fedora_release_names>`__.
 
 Тривиальные варианты логической связи, а так же варинты нарушающие какие
 либо патенты будут отклонены Управляющим комитетом.
@@ -32,9 +32,9 @@ Fedora 19.
 вики <https://fedoraproject.org/wiki/Name_suggestions_for_Fedora_19>`__.
 
 Историю названия, как и раньше, можно посмотреть
-`здесь <http://fedoraproject.org/wiki/History_of_Fedora_release_names>`__.
+`здесь <https://fedoraproject.org/wiki/History_of_Fedora_release_names>`__.
 
 Дерзайте!
 P.S. Стоит отметить, что отдельные извинения Робины принесла тем, кто
 жаждал установить связь "between spherical cows having spots, and `Tom
-Callaway <http://fedoraproject.org/wiki/User:Spot>`__." :)
+Callaway <https://fedoraproject.org/wiki/User:Spot>`__." :)

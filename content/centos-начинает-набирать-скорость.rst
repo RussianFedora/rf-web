@@ -22,7 +22,7 @@
 CentOS <https://www.openshift.com/blogs/openshift-welcomes-centos-to-the-red-hat-family-origin-adds-centos-support>`__.
 
 Представители OpenShift присоединятся к `еще не созданной CentOS Cloud
-SIG <http://thread.gmane.org/gmane.linux.centos.devel/9822>`__ и будут
+SIG <https://thread.gmane.org/gmane.linux.centos.devel/9822>`__ и будут
 участвовать в `CentOS Dojo <http://wiki.centos.org/Events/Dojo/>`__.
 
 Кстати, `ближайшее Dojo будет 31го января в
@@ -32,7 +32,7 @@ SIG <http://thread.gmane.org/gmane.linux.centos.devel/9822>`__ и будут
 Присоединяйтесь!
 Участники CentOS и представители Red Hat `пригласили представителей
 Scientific Linux к
-диалогу <http://thread.gmane.org/gmane.linux.scientific.user/5208/focus=5217>`__.
+диалогу <https://thread.gmane.org/gmane.linux.scientific.user/5208/focus=5217>`__.
 
 Раньше активные участники Scientific Linux порой переходили на работу в
 Red Hat, как, например, `Troy
@@ -48,7 +48,7 @@ Dawson <https://fedoraproject.org/wiki/User:Tdawson>`__, о вкладе
 не совсем уж сторонние. Наш коллега, `Andreas
 Thienemann <https://fedoraproject.org/wiki/User:Ixs>`__, выразил интерес
 в `сборке CentOS 7 для
-x86-процессоров <http://thread.gmane.org/gmane.linux.centos.devel/9836>`__,
+x86-процессоров <https://thread.gmane.org/gmane.linux.centos.devel/9836>`__,
 поддержку которых удалили из RHEL 7. Он не только выстрелил в воздух
 идеей, но и `оформил ее в виде патчей для билдсистемы
 CentOS <https://github.com/CentOS/sig-core-bld-seven/pull/1>`__, и

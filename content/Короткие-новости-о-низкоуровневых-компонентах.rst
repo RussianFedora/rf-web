@@ -17,10 +17,10 @@ torrent <https://git.kernel.org/cgit/boot/dracut/dracut.git/commit/?id=338bad6>`
 Нам очень радостно, что продолжается демилитаризация протокола, и
 появляются новые применения. В initrd требуется наличие утилиты
 ctorrent. Коллеги-аналитики уже `обсуждают на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40422>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40422>`__.
 
 `Теперь и лэптоп Toshiba научился определять не падает-ли
-он <http://thread.gmane.org/gmane.linux.drivers.platform.x86.devel/5697>`__.
+он <https://thread.gmane.org/gmane.linux.drivers.platform.x86.devel/5697>`__.
 
 Незаметное на первый взгляд изменение "Toshiba HDD Active Protection
 Sensor", внесенное независимым разработчиком Azael Avalos в Linux 3.17 и
@@ -28,7 +28,7 @@ Sensor", внесенное независимым разработчиком Az
 какие-нибудь скрипты на это событие. Но, наверное, поддержка паркующихся
 головок при падении будет добавлена прямо в systemd. Кстати, `В 3.16 был
 включен аналогичный
-патч <http://thread.gmane.org/gmane.linux.kernel/1722535>`__, под
+патч <https://thread.gmane.org/gmane.linux.kernel/1722535>`__, под
 названием "Dell Latitude freefall driver (ACPI SMO8800/SMO8810)".
 Новости от проекта Coreboot на этой неделе были просто
 сногсшибательными. `Vladimir 'φ-coder/phcoder'
@@ -54,11 +54,11 @@ Brown <http://blog.neil.brown.name/about/>`__, про CGroups. По мере
 выхода новых статей, они будут добавляться.
 
 Кстати, недавно Neil Brown `нашел и исправил серьезную проблему в Linux
-RAID <http://thread.gmane.org/gmane.linux.kernel.stable/103323>`__. `При
+RAID <https://thread.gmane.org/gmane.linux.kernel.stable/103323>`__. `При
 определённых условиях может быть потеря данных в хранилище RAID6.
 
 Проблема проявляется начиная с ядра Linux
-2.6.32 <http://www.opennet.ru/opennews/art.shtml?num=40412>`__. Кто то
+2.6.32 <https://www.opennet.ru/opennews/art.shtml?num=40412>`__. Кто то
 скажет "решето", а мы молча прикинем, сколько же таких хитрых глюков
 содержат проприетарные firmware дорогостоящих железячных
 RAID-контроллеров.
@@ -77,7 +77,7 @@ Ryabitsev <https://plus.google.com/114752601290767897172/about>`__,
 давно нам знакомые в т.ч. и по инфраструктуре Fedora. Они продаются в
 России примерно по три тысячи рублей, так что пробуйте. Новость уже
 обсуждается на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40405>`__.
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40405>`__.
 
 Ну и напоследок, `к Linux Foundation присоединился
 GitHub <http://www.linuxfoundation.org/news-media/announcements/2014/08/linux-foundation-welcomes-newest-members-semiconductor-and-storage>`__.

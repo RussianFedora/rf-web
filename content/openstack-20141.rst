@@ -14,7 +14,7 @@
 `Вышел OpenStack
 2014.1 <http://www.openstack.org/software/icehouse/press-release>`__
 "Icehouse". `Анонс уже перевели на русский и обсуждают на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=39594>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=39594>`__.
 
 Одновременно появилась и `статистика по
 разработчикам <http://blog.bitergia.com/2014/04/17/the-openstack-icehouse-release-activity-and-organizations/>`__
@@ -29,7 +29,7 @@ OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=39594>`__.
 2.0 <http://wiki.qemu.org/ChangeLog/2.0>`__, в который среди прочих
 улучшений добавлена эмуляция фотоаппарата Canon. Аналитики уже обсуждают
 новость на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=39595>`__ и
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=39595>`__ и
 `Linux.org.ru <https://www.linux.org.ru/news/opensource/10396601>`__.
 
 

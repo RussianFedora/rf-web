@@ -15,7 +15,7 @@
 embedded-linux, давний пользователь Fedora и недавний участник `Fedora
 ARM SIG <https://fedoraproject.org/wiki/Architectures/ARM>`__,
 представил `начальную поддержку NVIDIA Tegra в
-Nouveau <http://thread.gmane.org/gmane.comp.video.dri.devel/90694>`__.
+Nouveau <https://thread.gmane.org/gmane.comp.video.dri.devel/90694>`__.
 
 Интересно, что есть и альтернативные проекты по разработке открытого
 видеодрайвера для этой платформы, т.е. похоже, что повторяется ситуация

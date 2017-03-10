@@ -25,7 +25,7 @@ RFRemix 21 включает KDE 4.14, GNOME 3.14, MATE 1.8, Firefox 34, Kernel
 3.17.4, LibreOffce 4.3.4, Chromium 39, Adobe и Pepper Flash, поддержку
 мультимедиа из коробки. В репозитории есть также Viber, Skype, драйвера
 Nvidia и много чего ещё. Краткий обзор новых фич Fedora 21 `доступен по
-ссылке <http://www.opennet.ru/opennews/art.shtml?num=41221>`__.
+ссылке <https://www.opennet.ru/opennews/art.shtml?num=41221>`__.
 
 
 | 

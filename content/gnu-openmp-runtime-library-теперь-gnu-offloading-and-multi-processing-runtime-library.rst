@@ -16,7 +16,7 @@
 После того, как `в libgomp добавили поддержку offloading для Intel
 MIC </content/gcc-получил-поддержку-offloading>`__, а на подходе
 появилась поддержка `OpenACC
-2.0 <http://thread.gmane.org/gmane.comp.gcc.patches/322626>`__ и HSA
+2.0 <https://thread.gmane.org/gmane.comp.gcc.patches/322626>`__ и HSA
 (`вариант гибридной вычислительной архитектуры от
 AMD <https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture>`__),
 то прежнее название уже не соответствовало возможностям проекта. Ну и

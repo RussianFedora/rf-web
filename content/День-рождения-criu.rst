@@ -14,7 +14,7 @@
 У CRIU, проекта от наших друзей из Parallels, `день
 рождения <https://plus.google.com/+CriuOrg/posts/apFwSU9W8Ek>`__!
 Проекту исполнилось `четыре
-года <http://thread.gmane.org/gmane.linux.kernel.containers/20925>`__.
+года <https://thread.gmane.org/gmane.linux.kernel.containers/20925>`__.
 
 Поздравляем!
 |Image and video hosting by TinyPic|

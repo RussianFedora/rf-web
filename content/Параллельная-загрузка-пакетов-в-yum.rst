@@ -14,7 +14,7 @@
 Не прошло и десяти лет (проверьте по `статистике
 коммитов <http://yum.baseurl.org/gitweb?p=yum.git;a=shortlog>`__), как
 yum `научился одновременно скачивать больше одного
-пакета <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/164038>`__,
+пакета <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/164038>`__,
 о чем нам сообщил инженер чешского офиса Red Hat, Zdeněk Pavlas
 (напоминаем, что если вы все еще учитесь, то `у вас есть возможность
 устроиться там на летнюю

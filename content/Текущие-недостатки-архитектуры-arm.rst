@@ -44,7 +44,7 @@
 -  U-Boot порой просто не получается заменить, т.к. под ним или над ним
    есть нестандартный проприетарный блоб или блобы, `как это сделано на
    Raspberry
-   Pi <http://myembeddedlinux.blogspot.ru/2013/05/raspberry-pi-boot-sequence.html>`__.
+   Pi <http://myembeddedlinux.blogspot.com/2013/05/raspberry-pi-boot-sequence.html>`__.
 
 -  Оборудование необходимо для каждой конфигурации описать вручную, с
    помощью `Device Tree <http://www.devicetree.org/Main_Page>`__. Чуть

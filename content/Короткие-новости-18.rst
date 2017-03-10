@@ -27,18 +27,18 @@ Collabora и Lanedo. Если вам будет нужно доработать 
 Участник проектов Fedora и LibreOffice, `Caolán
 McNamara <https://www.openhub.net/accounts/caolan>`__ вновь объявил о
 взятом новом рубеже - `500 диалоговых окон переведено в новый формат
-GtkBuilder <http://caolanm.blogspot.ru/2013/11/converting-libreoffice-dialogs-to.html>`__.
+GtkBuilder <http://caolanm.blogspot.com/2013/11/converting-libreoffice-dialogs-to.html>`__.
 
 Совсем недавно `было сконвертировано всего лишь 300
 диалогов </content/И-опять-новые-фичи-fedora-20>`__.
 
 Cоздатель формата Ogg и аудиокодека Vorbis, участник Fedora, инженер
 Mozilla Foundation, `Christopher “Monty”
-Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__
+Montgomery <https://en.wikipedia.org/wiki/Chris_Montgomery>`__
 `анонсировал выход версии 1.1 аудиокодека
 Opus <http://xiphmont.livejournal.com/62366.html>`__. Новость
 обсуждается на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38601>`__.
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38601>`__.
 
 Участник проектов Fedora и GNOME, инженер Red Hat, `Dan
 Winship <https://fedoraproject.org/wiki/User:Danw>`__, разработал `новый
@@ -55,7 +55,7 @@ Wayland <http://www.tizenexperts.com/2013/11/tizen-3-0-features/>`__.
 
 Анонсированный `переход KDE на SDDM </content/Новые-фичи-fedora-20>`__
 `пришлось отложить с Fedora 20 на Fedora
-21 <http://rdieter.blogspot.ru/2013/11/sddm-change-pushed-back-to-fedora-21.html>`__.
+21 <http://rdieter.blogspot.com/2013/11/sddm-change-pushed-back-to-fedora-21.html>`__.
 
 Уж слишком много проблем и регрессий вылезло.
 
@@ -84,9 +84,9 @@ Ceylon, язык для JVM, разрабатываемый Red Hat, `након
 иначе, но на этом новости о компиляторах не закончились. Наш коллега,
 инженер Red Hat, `Jeff Law <https://www.openhub.net/accounts/JeffLaw>`__
 предложил `отключить сборку Java в GCC, а взамен включить
-Golang <http://thread.gmane.org/gmane.comp.gcc.devel/133244>`__ (его
+Golang <https://thread.gmane.org/gmane.comp.gcc.devel/133244>`__ (его
 предложение `уже обсуждается аналитиками
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38396>`__).
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38396>`__).
 
 Честно говоря, не припоминается что-то, когда последний раз был нужен
 GCJ.

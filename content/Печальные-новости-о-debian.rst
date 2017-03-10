@@ -14,7 +14,7 @@
 Только мы `похвалили их за правильный
 выбор </content/Поздравляем-debian-с-разумным-выбором>`__, как они
 начали колебаться. `Коммьюнити Debian вновь
-парализовало <http://thread.gmane.org/gmane.linux.debian.devel.general/187624>`__
+парализовало <https://thread.gmane.org/gmane.linux.debian.devel.general/187624>`__
 во время выбора из Upstart и systemd. К счастью технический комитет
 наконец-то примет решение по вопросу.
 

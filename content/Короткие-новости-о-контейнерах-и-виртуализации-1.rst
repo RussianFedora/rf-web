@@ -23,10 +23,10 @@ Unix-way разработчиками systemd не позволило включ
 |image0|
 **Приложения в изолированных контейнерах ведут себя хорошо!**
 Red Hat `анонсировал выход RHEL 7 Atomic
-Host <http://www.redhat.com/en/about/blog/small-footprint-big-impact-red-hat-enterprise-linux-7-atomic-host-beta-now-available>`__.
+Host <https://www.redhat.com/en/about/blog/small-footprint-big-impact-red-hat-enterprise-linux-7-atomic-host-beta-now-available>`__.
 
 Как `правильно отметили коллеги-аналитики на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=41047>`__, это
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=41047>`__, это
 ответ на растущий запрос на тонкую платформу для запуска контейнеров в
 облаках. Т.е. мы запускаем Atomic Host в облаке, а уж в нем запускаем
 контейнеры. CoreOS напрягся.

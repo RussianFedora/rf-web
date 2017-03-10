@@ -14,7 +14,7 @@
 С радостью сообщаем, что `Bryan
 O'Sullivan <https://fedoraproject.org/wiki/BryanSullivan>`__, `участник
 Fedora c 10-летним
-стажем <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/5284>`__,
+стажем <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/5284>`__,
 один из участников Fedora Haskell SIG, ныне работающий в Facebook, со
 своими коллегами разработал и недавно представил новый язык
 программирования с PHP-подобным синтаксисом,
@@ -34,7 +34,7 @@ Fedora c 10-летним
 Пока мы рекомендуем начать знакомство с `оригинального анонса на
 Facebook <https://code.facebook.com/posts/264544830379293/hack-a-new-programming-language-for-hhvm/>`__
 и пары статей на русском - `c
-OpenNET <http://www.opennet.ru/opennews/art.shtml?num=39368>`__ и `с
+OpenNET <https://www.opennet.ru/opennews/art.shtml?num=39368>`__ и `с
 Цукерберг
 позвонит <http://www.siliconrus.com/2014/03/facebook-hack-language/>`__
 (эти хипсторы уж точно такой модной игрушки не пропустят).

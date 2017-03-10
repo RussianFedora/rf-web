@@ -1,18 +1,15 @@
 .. title: Autoreconf -ivf вместо ./configure
 .. slug: autoreconf-ivf-вместо-configure
 .. date: 2015-02-09 15:25:52
-.. tags:
-.. category:
+.. tags: security, debian, bitcoin
+.. category: Fedora Changes
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Еще один интересный вопрос `подняли в рассылке
-devel@lists.fedoraproject.org <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/204014>`__
+devel@lists.fedoraproject.org <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/204014>`__
 - не пересобирать ли нам autotools-скрипты всегда, вместо использования
 тех, что лежат в тарболлах? На самом деле, его задают регулярно, но
 мнения наших участников по нему полярно различаются.
@@ -39,4 +36,3 @@ autotools-скрипты <https://wiki.debian.org/Autoreconf>`__, хотя и н
 требуется. У нас, к сожалению, консенсуса пока нет - отдельные
 мэйнтейнеры предпочитают пересобирать, другие отстаивают позицию, что
 пересобирать не надо. Подождем еще пару релизов, наверное.
-

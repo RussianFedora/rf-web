@@ -50,9 +50,9 @@ Chamarthy <https://fedoraproject.org/wiki/User:Kashyapc>`__. Он и
 упомянули </content/Поздравляем-openstack-с-третьей-годовщиной>`__)
 будет впервые включен `Heat <https://wiki.openstack.org/wiki/Heat>`__,
 компонент для
-`оркестровки <http://ru.wikipedia.org/wiki/Оркестровка_%28ИТ%29>`__ всей
+`оркестровки <https://ru.wikipedia.org/wiki/Оркестровка_%28ИТ%29>`__ всей
 облачной системы. Он `доступен в Fedora начиная с 18й
-версии <http://fedoraproject.org/wiki/Features/Heat>`__, но не все
+версии <https://fedoraproject.org/wiki/Features/Heat>`__, но не все
 заметили его появление. Участник Fedora, `Zane
 Bitter <http://www.linkedin.com/in/zanebitter>`__, `обращает наше
 внимание на это
@@ -60,6 +60,6 @@ Bitter <http://www.linkedin.com/in/zanebitter>`__, `обращает наше
 кратко рассказывая о его предназначении и плюсах, которые он привносит
 конечному облачному пользователю. А в блоге компании Mirantis на
 Habrahabr, `появился перевод статьи про другой компонент OpenStack -
-Ceilometer <http://habrahabr.ru/company/mirantis_openstack/blog/189012/>`__
+Ceilometer <https://habrahabr.ru/company/mirantis_openstack/blog/189012/>`__
 (средство мониторинга облачной системы).
 

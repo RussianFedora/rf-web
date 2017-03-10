@@ -12,7 +12,7 @@
 
 
 `В Fedora сняли ряд ограничений на включение эмуляторов в
-дистрибутив <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/2515>`__.
+дистрибутив <https://thread.gmane.org/gmane.linux.redhat.fedora.legal/2515>`__.
 
 В систему уже включен ряд эмуляторов (для Atari, dosbox, эмуляторы
 различных моделей ZX Spectrum, IBM S/370, Amstrad, MSX, SAM Coupé), но
@@ -36,7 +36,7 @@
 образ собирается из исходников, то это должно быть сделано с помощью
 инструментов, доступных в дистрибутиве. Это, кстати, ужесточение
 позиции, и `уже вызвало вопросы по поводу образов
-FreeDOS <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/218977>`__,
+FreeDOS <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/218977>`__,
 которые собираются из открытых исходников с помощью открытого, но
 несвободного компилятора `Watcom C
 Compiler <https://en.wikipedia.org/wiki/Watcom_C/C%2B%2B_compiler>`__.

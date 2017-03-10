@@ -12,7 +12,7 @@
 
 
 Участник Fedora Legal, юрист SFLC и патентный адвокат Red Hat, `Richard
-Fontana <http://en.wikipedia.org/wiki/Richard_Fontana>`__, выложил на
+Fontana <https://en.wikipedia.org/wiki/Richard_Fontana>`__, выложил на
 GitHub `проект следующей лицензии
 GPL <https://github.com/richardfontana/GPL.next>`__ и предлагает всем
 желающим форкать ее и улучшать, для чего `анонсировал это в своей

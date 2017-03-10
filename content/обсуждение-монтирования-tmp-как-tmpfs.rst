@@ -25,13 +25,13 @@ tmpfs <https://fedoraproject.org/wiki/Features/tmp-on-tmpfs>`__, а не
 оперативную память. Но на этом претензии не заканчиваются. Участник
 Fedora, `Richard W.M.
 Jones <https://www.openhub.net/accounts/rwmjones>`__,
-`составил <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/162104/focus=162110>`__
+`составил <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/162104/focus=162110>`__
 краткий список проблем, с которыми придется столкнуться, что породило
 довольно длинную и интересную дискуссию. Также интересные претензии
 изложил участник Fedora `Kevin
 Kofler <https://fedoraproject.org/wiki/User:Kkofler>`__ (один из `бывших
 участников
-FESCo <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/132457>`__)
+FESCo <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/132457>`__)
 на `странице обсуждения
 "фичи" <https://fedoraproject.org/wiki/Talk:Features/tmp-on-tmpfs>`__.
 

@@ -20,7 +20,7 @@ init-систем. Совсем недавно появилась еще пар�
 `beginning <https://github.com/Somasis/beginning>`__ и
 `govisor <https://github.com/gdamore/govisor>`__ (про него даже
 `написали на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=43001>`__).
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=43001>`__).
 
 Одно время программисты писали десятки если не сотни window-менеджеров,
 потом медиаплейеры, а вот теперь стали писать init-системы. Ну что
@@ -36,7 +36,7 @@ GNOME-разработчика Seth Nickell <http://www.osnews.com/story/4711>`_
 Вышедший не так давно `systemd
 226 <http://lists.freedesktop.org/archives/systemd-devel/2015-September/034177.html>`__
 (`новость на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=42936>`__)
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=42936>`__)
 интересен тем, что он не очень интересен. Кроме изменений в
 systemd-networkd там унифицирована работа демона D-Bus и современного
 kdbus. Требуется самый последний dbus 1.10, которого нет даже в Fedora

@@ -43,4 +43,4 @@
    тестирования - на IRC-канале #fedora-test-day сервера FreeNode
 #. Тематическая инструкция `Какие логи необходимо предоставить при
    проблемах с
-   X-сервером <http://fedoraproject.org/wiki/Xorg/Debugging#All_bug_reports>`__
+   X-сервером <https://fedoraproject.org/wiki/Xorg/Debugging#All_bug_reports>`__

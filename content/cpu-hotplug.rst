@@ -12,7 +12,7 @@
 
 
 | Инженер Red Hat, Peter Zijlstra, `переделал механизм CPU hotplug в
-  ядре <http://thread.gmane.org/gmane.linux.kernel/1574737>`__.
+  ядре <https://thread.gmane.org/gmane.linux.kernel/1574737>`__.
 
 | Еще совсем недавно, `технология добавления микропроцессоров без
   остановки
@@ -84,7 +84,7 @@
   "читателей". К процессу обсуждения механизма подключился его коллега
   из Red Hat, Oleg Nesterov, предложивший `вариант уменьшения времени
   ожидания
-  "писателем" <http://thread.gmane.org/gmane.linux.kernel/1574737/focus=1574743>`__
+  "писателем" <https://thread.gmane.org/gmane.linux.kernel/1574737/focus=1574743>`__
   с использованием `RCU <https://lwn.net/Articles/262464/>`__, что еще
   улучшит ситуацию.
 

@@ -13,7 +13,7 @@
 
 Не так давно одна из компаний, которая спонсирует известный
 "юзер-френдли" дистрибутив,
-`объявила <http://www.opennet.ru/opennews/art.shtml?num=30523>`__, что
+`объявила <https://www.opennet.ru/opennews/art.shtml?num=30523>`__, что
 она переходит на `OpenStack <http://openstack.org/>`__, как средство для
 развертывания своего облачного решения. Некоторые специалисты высказали
 предположение, что повторится типичная ситуация - эта компания никак или
@@ -26,11 +26,11 @@
 McLoughlin <https://www.openhub.net/accounts/markmc>`__ собрал
 `статистику <https://github.com/markmc/openstack-gitdm/blob/results/essex/git-stats.txt>`__,
 из которой следует, что инициативы Red Hat по `включению OpenStack в
-Fedora <http://fedoraproject.org/wiki/Features/OpenStack>`__ принесли
+Fedora <https://fedoraproject.org/wiki/Features/OpenStack>`__ принесли
 платформе гораздо больше изменений, чем Canonical. По их итогам Red Hat
 оказался третьим по размеру корпоративным разработчиком OpenStack. А
 ведь были еще и `тестовые дни
-OpenStack <http://fedoraproject.org/wiki/Test_Day:2011-10-20_OpenStack_Test_Day>`__
+OpenStack <https://fedoraproject.org/wiki/Test_Day:2011-10-20_OpenStack_Test_Day>`__
 (и `совсем
 недавно <https://fedoraproject.org/wiki/Test_Day:2012-03-08_OpenStack_Test_Day>`__).
 

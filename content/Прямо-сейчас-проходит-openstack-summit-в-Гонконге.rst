@@ -31,7 +31,7 @@
 
 -  Red Hat анонсировала новую версию своего облачного продукта на базе
    OpenStack - `RHEL OpenStack Platform
-   4.0 <http://www.redhat.com/about/news/press-archive/2013/11/red-hat-extends-openstack-leadership-with-enterprise-class-iaas-and-paas-innovations>`__.
+   4.0 <https://www.redhat.com/about/news/press-archive/2013/11/red-hat-extends-openstack-leadership-with-enterprise-class-iaas-and-paas-innovations>`__.
 
 -  Даже Cisco, и те теперь `предлагают свою облачную платформу на базе
    OpenStack <http://www.enterprisenetworkingplanet.com/datacenter/cisco-productizes-openstack-cloud-support.html>`__,

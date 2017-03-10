@@ -17,7 +17,7 @@
 каждого из пользователей системы. К сожалению, при обновлении до Fedora
 22 вам придется вручную заменить папку на ссылку, как это уже было с
 */bin* */sbin* */lib* и пр., вручную. Lennart Poettering `вкратце
-рассказывает <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/198417/focus=198418>`__
+рассказывает <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/198417/focus=198418>`__
 о подоплеке этого шага и объясняет, почему подход Ubuntu/Debian (со
 ссылкой */run/media/$USER* на */media*) неправильный, и мы так делать не
 будем.

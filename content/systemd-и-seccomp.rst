@@ -33,7 +33,7 @@ embedded-разработчиков (в том числе и решений на
 очереди.
 
 Новость уже обсуждается на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=34352>`__. Еще
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=34352>`__. Еще
 обратите внимание на то, `какие возможности по безопасности уже
 предоставляет
 systemd <http://0pointer.de/blog/projects/security.html>`__.

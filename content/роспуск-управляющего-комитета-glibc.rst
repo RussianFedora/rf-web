@@ -12,14 +12,14 @@
 
 
 Сегодня было объявлено `о самороспуске управляющего комитета
-Glibc <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/19088>`__.
+Glibc <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/19088>`__.
 
 Признав, что текущая модель управления разработкой уже не отвечает
 требованиям времени, было единогласно решено самораспуститься и передать
 управление разработкой в руки сообщества (благо оно вокруг Glibc
 сформировалось очень опытное). Мы ждем больше подробностей в ближайшее
 время, но уже сейчас
-`отзывы <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/19090>`__
+`отзывы <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/19090>`__
 `очень <https://plus.google.com/u/0/101384639386588513837/posts/Pba8zssFP3z>`__
 `положительные <https://plus.google.com/u/0/112648813199640203443/posts/BsYcVZTDvFt>`__.
 

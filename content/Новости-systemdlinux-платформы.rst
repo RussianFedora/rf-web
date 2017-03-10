@@ -24,15 +24,15 @@ systemd <http://blogs.gnome.org/ovitters/2014/09/07/systemd-in-gnome-3-14-and-be
 Пока непонятно, и когда `задействуют systemd user
 sessions </content/Часть-функциональности-gnome-kde-и-xfce-переносят-в-systemd>`__
 вместо gnome-session. `Пост Олава уже обсуждают на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40538>`__,
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40538>`__,
 вместе с новостью о том, что в OpenBSD начали копипастить systemd, чтоб
 им в будущем не остаться с одним FVWM.
 
 `Вышла Glibc
-2.20 <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/44885>`__.
+2.20 <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/44885>`__.
 
 Новость уже `обсуждают на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40537>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40537>`__.
 
 И напоследок - в интернете продолжается бессмысленное сопротивление
 нашим инициативам. Опечаленный ситуацией с победным шествием systemd по

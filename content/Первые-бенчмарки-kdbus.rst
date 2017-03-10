@@ -14,7 +14,7 @@
 Lennart Poettering в рассылке
 `dbus@lists.freedesktop.org <http://lists.freedesktop.org/mailman/listinfo/dbus>`__
 к конце прошлого года анонсировал `общую готовность
-kdbus <http://thread.gmane.org/gmane.comp.freedesktop.dbus/15499>`__ и
+kdbus <https://thread.gmane.org/gmane.comp.freedesktop.dbus/15499>`__ и
 предложил начать процесс портирования приложений с библиотеки dbus1 на
 kdbus. Как обычно, предложение вызвало волну обсуждений - почему kbdus
 требует systemd? что будет с D-Bus под Windoz и Mac OS X? будет ли
@@ -28,7 +28,7 @@ Skalski <https://github.com/lukasz-skalski>`__, который работает 
 `включением kdbus в
 glib <https://github.com/lukasz-skalski/glib-kdbus>`__, сообщил, что
 `провел серию бенчмарков kdbus и
-D-Bus <http://thread.gmane.org/gmane.comp.freedesktop.dbus/15499/focus=15670>`__.
+D-Bus <https://thread.gmane.org/gmane.comp.freedesktop.dbus/15499/focus=15670>`__.
 
 Из тестов складывается очень интересная картина (чем меньше, тем лучше):
 |image0|

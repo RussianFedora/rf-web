@@ -21,12 +21,12 @@ D-Bus в ядро Linux <http://www.kroah.com/log/linux/af_bus.html>`__.
 приложениях, связанных посредством некоей шины, обменивающихся
 сообщениями и посылающим друг другу команды (т.е. не просто шина
 сообщений, но и
-`RPC <http://ru.wikipedia.org/wiki/Remote_Procedure_Call>`__), довольно
+`RPC <https://ru.wikipedia.org/wiki/Remote_Procedure_Call>`__), довольно
 интересна, т.к. позволит изолировать приложения друг от друга. Раньше
-еще использовали `DCOP <http://ru.wikipedia.org/wiki/DCOP>`__, от
+еще использовали `DCOP <https://ru.wikipedia.org/wiki/DCOP>`__, от
 которого отказались в пользу D-Bus, и как занятный курьез можно
 упомянуть
-`ICE <http://en.wikipedia.org/wiki/X_Window_System_protocols_and_architecture#Inter-client_communication>`__,
+`ICE <https://en.wikipedia.org/wiki/X_Window_System_protocols_and_architecture#Inter-client_communication>`__,
 на базе которого и был построен DCOP, и который является частью
 X-Window.
 
@@ -37,13 +37,13 @@ X-Window.
 Показательно, конечно, что самая массовая Linux-платформа, т.е. Android,
 была вынуждена отказаться от D-Bus в том числе и из-за этого. Было
 предпринято несколько попыток включить D-Bus в ядро, например, `в
-сентябре 2010 <http://thread.gmane.org/gmane.linux.kernel/1040481>`__ (о
+сентябре 2010 <https://thread.gmane.org/gmane.linux.kernel/1040481>`__ (о
 своей мотивации автор `подробно
-рассказал <http://alban-apinc.blogspot.ru/2011/12/d-bus-in-kernel-faster.html>`__),
+рассказал <http://alban-apinc.blogspot.com/2011/12/d-bus-in-kernel-faster.html>`__),
 но пока без особого успеха. В качестве побочного проекта было решено
 улучшить UNIX-сокеты, добавив multicast и фильтрование сообщений (одна
 из последних попыток была предпринята в `феврале
-2012 <http://thread.gmane.org/gmane.linux.kernel/1255575>`__).
+2012 <https://thread.gmane.org/gmane.linux.kernel/1255575>`__).
 
 Российские Linux-аналитики до сих пор высказывались по поводу проекта с
 кодовым названием KDBUS сдержанно - `ключевыми словами пока являются
@@ -52,7 +52,7 @@ X-Window.
 Удивительно, но альянс `GENIVI <http://www.genivi.org/>`__
 проигнорировал замечания экспертов русскоязычного сообщества и принял
 новинку с большим энтузиазмом, `встроив его в свою
-платформу <http://thread.gmane.org/gmane.linux.kernel/1320740>`__.
+платформу <https://thread.gmane.org/gmane.linux.kernel/1320740>`__.
 
 И вот, за дело наконец-то взялся `Greg
 Kroah-Hartman <https://www.openhub.net/accounts/gregkh>`__. Он сообщил,

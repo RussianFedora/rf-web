@@ -24,7 +24,7 @@
 Google) освобождаются старые.
 
 Особняком всегда стоял отличный голосовой аудиокодек
-`iLBC <http://en.wikipedia.org/wiki/Internet_Low_Bit_Rate_Codec>`__,
+`iLBC <https://en.wikipedia.org/wiki/Internet_Low_Bit_Rate_Codec>`__,
 который `превосходит по
 показателям <http://www.vocal.com/speech_coders/psqm_data.html>`__
 наглухо запатентованные аналоги от ITU-T, такие, как G.729 и почти
@@ -47,7 +47,7 @@ Sound, создателей iLBC, и выложив в рамках проект
 `WebRTC <http://www.webrtc.org/>`__ под BSD лицензией многие их
 разработки, в число которых попал и iLBC кодек. Участники Fedora-Legal
 `почти сразу
-начали <http://thread.gmane.org/gmane.linux.redhat.fedora.legal/1491/focus=1492>`__
+начали <https://thread.gmane.org/gmane.linux.redhat.fedora.legal/1491/focus=1492>`__
 лицензионный и патентный аудит, и наконец-то сообщили нам хорошие
 новости - `iLBC можно включать в
 Fedora <https://bugzilla.redhat.com/728302#c26>`__. Пока это только

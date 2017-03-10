@@ -13,9 +13,9 @@
 
 Инженер Red Hat и участник проектов Fedora и GCC, `Jakub
 Jelinek <https://www.openhub.net/accounts/Jakub_Jelinek>`__, анонсировал
-`GCC 4.9.0 <http://thread.gmane.org/gmane.comp.gcc.devel/135574>`__
+`GCC 4.9.0 <https://thread.gmane.org/gmane.comp.gcc.devel/135574>`__
 (новость уже обсуждают коллеги-аналитики на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=39621>`__ и
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=39621>`__ и
 `Linux.org.ru <https://www.linux.org.ru/news/gnu/10412218>`__). Эта
 версия GCC запланирована `фичей Fedora
 21 </content/Новые-фичи-fedora-21-0>`__, так что скоро будет полная

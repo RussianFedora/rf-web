@@ -12,7 +12,7 @@
 
 
 | На `последнем собрании
-  FESCo <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/166726/focus=166789>`__
+  FESCo <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/166726/focus=166789>`__
   одобрили еще несколько новых фич будущей Fedora 18:
 
 -  `KDE 4.9 <https://fedoraproject.org/wiki/Features/KDE49>`__.

@@ -1,15 +1,12 @@
 .. title: [Test Day] День тестирования переводов для Fedora 18 перенесен на 28 сентября
 .. slug: test-day-День-тестирования-переводов-для-fedora-18-перенесен-на-28-сентября
 .. date: 2012-09-19 11:32:40
-.. tags:
-.. category:
+.. tags: i18n
+.. category: Тестовые дни Fedora
 .. link:
 .. description:
 .. type: text
 .. author: mama-sun
-
-**Это архивная статья**
-
 
 Как
 `сообщает <http://lists.fedoraproject.org/pipermail/trans-ru/2012-September/001625.html>`__
@@ -35,9 +32,7 @@ Projects <https://fedora.transifex.com/projects/p/fedora/r/fedora-upstream-proje
 Вот списки пакетов в порядке возрастания количества непереведенных
 строк:
 
-.. raw:: html
-
-   <div align="center">
+.. class:: align-center
 
 +--------------------------------------+--------------------------------------+
 | **`Fedora                            | **`Fedora Upstream                   |
@@ -69,7 +64,3 @@ Projects <https://fedora.transifex.com/projects/p/fedora/r/fedora-upstream-proje
 |                                      | -  Entangle                          |
 |                                      | -  virtinst                          |
 +--------------------------------------+--------------------------------------+
-
-.. raw:: html
-
-   </div>

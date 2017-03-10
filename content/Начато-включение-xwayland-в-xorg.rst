@@ -16,7 +16,7 @@ Høgsberg <https://www.openhub.net/accounts/krh>`__, инженер Intel и
 участник проекта Fedora,
 `объявил <https://plus.google.com/+KristianHøgsberg/posts/jaehXgvJUg4>`__
 в своей ленте Google+, что `предложил окончательный вариант
-Xwayland <http://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/40883>`__
+Xwayland <https://thread.gmane.org/gmane.comp.freedesktop.xorg.devel/40883>`__
 для включения в X.org.
 
 Напомним, что `конкурирующему

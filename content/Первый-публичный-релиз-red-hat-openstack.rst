@@ -16,5 +16,5 @@
 OpenStack </content/Статистика-по-вкладу-компаний-в-разработку-openstack>`__,
 появление этой новости было лишь вопросом времени - `выпущена
 демонстрационная версия Red Hat
-OpenStack <http://www.redhat.com/openstack/>`__. Работает на базе RHEL
+OpenStack <https://www.redhat.com/openstack/>`__. Работает на базе RHEL
 6.

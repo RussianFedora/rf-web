@@ -14,7 +14,7 @@
 Участник проектов Fedora и LibreOffice, `Caolán
 McNamara <https://www.openhub.net/accounts/caolan>`__, анонсировал
 `поддержку архитектуры ppc64le в
-LibreOffice <http://caolanm.blogspot.ru/2014/08/ppc64le-libreoffice.html>`__.
+LibreOffice <http://caolanm.blogspot.com/2014/08/ppc64le-libreoffice.html>`__.
 
 Об этой архитектуре `мы уже вкратце
 упомянули </content/Новая-архитектура-ppc64le>`__. Протестировать GUI он
@@ -73,7 +73,7 @@ GSoC <http://danielpocock.com/getting-selected-for-google-summer-of-code-2015>`_
 результатам. В коммьюнити игрушечной операционной системы Haiku (клон
 проприетарной домашней системы BeOS, в которой были воплощены некоторые
 революционные идеи для 1991 года) пришел начинающий и `попросил
-отчитаться <http://thread.gmane.org/gmane.os.haiku.devel/26385>`__ -
+отчитаться <https://thread.gmane.org/gmane.os.haiku.devel/26385>`__ -
 чего добилось коммьюнити в переписывании BeOS за последние несколько
 лет? Почему до сих пор ковыряются с собственным ядром, хотя можно взять
 Linux или одно из многочисленных несовместимых между собой вариантов

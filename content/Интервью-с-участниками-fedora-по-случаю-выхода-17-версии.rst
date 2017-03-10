@@ -15,12 +15,12 @@
 видеоролик, с интервью с рядом участников проекта Fedora - `David
 Nalley <http://www.linkedin.com/in/davidnalley>`__, community-менеджером
 из Citrix, `Bill
-Nottingam <http://fedoraproject.org/wiki/User:Notting>`__, ведущим
+Nottingam <https://fedoraproject.org/wiki/User:Notting>`__, ведущим
 инженером Red Hat, участником проекта JBoss `Lincoln
 Baxter <https://www.openhub.net/accounts/lincolnthree>`__, разработчиком
 ядра `Chris
-Wright <http://en.wikipedia.org/wiki/Chris_Wright_%28programmer%29>`__,
-`Robyn Bergeron <http://fedoraproject.org/wiki/User:Rbergero>`__,
+Wright <https://en.wikipedia.org/wiki/Chris_Wright_%28programmer%29>`__,
+`Robyn Bergeron <https://fedoraproject.org/wiki/User:Rbergero>`__,
 лидером проекта Fedora, и `Greg
 DeKoenigsberg <http://www.linkedin.com/in/gregdek>`__, вице-президентом
 компании Eucalyptus Systems. В `коротком пятиминутном

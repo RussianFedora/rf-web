@@ -12,7 +12,7 @@
 
 
 Недавно `анонсировали CentOS 7 для
-AArch64 <http://thread.gmane.org/gmane.linux.centos.announce/9137>`__, и
+AArch64 <https://thread.gmane.org/gmane.linux.centos.announce/9137>`__, и
 вот - `официально
 объявлено <https://www.redhat.com/en/about/blog/long-arm-linux-red-hat-enterprise-linux-server-arm-development-preview>`__
 о сборке RHEL 7.1 для платформы AArch64.

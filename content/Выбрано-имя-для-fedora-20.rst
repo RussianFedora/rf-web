@@ -12,4 +12,4 @@
 
 
 `Fedora 20 будет называться
-Heisenbug <http://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2906>`__!
+Heisenbug <https://thread.gmane.org/gmane.linux.redhat.fedora.core.announce/2906>`__!

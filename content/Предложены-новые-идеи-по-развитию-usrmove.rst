@@ -14,9 +14,9 @@
 Практически полностью анонимным пользователем Debian, скрывающимся за
 именем Serge, был предложен в рассылке Fedora-Devel `план по дальнейшей
 унификации раскладки файловой
-системы <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/169120>`__,
+системы <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/169120>`__,
 начатый в рамках "фичи"
-`UsrMove <http://fedoraproject.org/wiki/Features/UsrMove>`__. Согласно
+`UsrMove <https://fedoraproject.org/wiki/Features/UsrMove>`__. Согласно
 предложенному плану, в корне файловой системы останутся лишь 4
 директории - /os, /usr, /var, /home. Мы будем следить за развитием
 обсуждения!

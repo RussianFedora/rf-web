@@ -14,7 +14,7 @@
 | `Мы уже сообщали о новостях в этом пакете
   утилит </content/Новости-пакета-util-linux>`__, и пришло время для
   новой порции. Мэйнтейнер и основной разработчик пакета
-  `util-linux <http://en.wikipedia.org/wiki/Util-linux>`__, инженер Red
+  `util-linux <https://en.wikipedia.org/wiki/Util-linux>`__, инженер Red
   Hat и участник Fedora, `Karel
   Zak <https://www.openhub.net/accounts/kzak>`__, вновь поделился
   `информацией о последних

@@ -1,18 +1,17 @@
 .. title: 15 лет проекту GNOME
 .. slug: 15-лет-проекту-gnome
 .. date: 2012-08-15 18:58:17
-.. tags:
+.. tags: gnome
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
+.. image:: http://happybirthdaygnome.org/images/logo.png
+   :align: center
+   :target: http://happybirthdaygnome.org/
+ 
+.. class:: align-center
 
-
-|image0|
 `Поздравляем! <http://happybirthdaygnome.org/>`__
-
-.. |image0| image:: http://happybirthdaygnome.org/images/logo.png
-

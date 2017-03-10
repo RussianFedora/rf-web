@@ -52,7 +52,7 @@ Jonathan Corbet `подводит промежуточный
 В ответ на получившую некую известность среди русскоязычных
 коллег-аналитиков `статью Rich Felker про мнимые или реальные
 архитектурные проблемы
-systemd <http://www.opennet.ru/opennews/art.shtml?num=39050>`__ `Chris
+systemd <https://www.opennet.ru/opennews/art.shtml?num=39050>`__ `Chris
 Siebenmann <http://utcc.utoronto.ca/~cks/>`__ опубликовал заметку, в
 которой излагает в общем-то довольно очевидные вещи - `почему systemd
 выиграла войну, а другие альтернативы

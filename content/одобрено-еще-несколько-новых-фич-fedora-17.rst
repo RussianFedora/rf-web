@@ -12,7 +12,7 @@
 
 
 На прошедшем 23 января 2012 года собрании FESCo
-`одобрили <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/158410/focus=158434>`__
+`одобрили <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/158410/focus=158434>`__
 ряд новых фич Fedora 17, и в этот раз их список очень внушителен:
 
 -  `Включение
@@ -50,7 +50,7 @@
    `предназначенный для облачных вычислений <http://opalang.org/>`__.
 
 -  `Очередные новые индийские
-   языки <http://fedoraproject.org/wiki/Features/Additional_Indic_Langs>`__.
+   языки <https://fedoraproject.org/wiki/Features/Additional_Indic_Langs>`__.
 
 -  `DNSSEC на
    десктопах <https://fedoraproject.org/wiki/Features/DNSSEC_on_workstations>`__.
@@ -79,7 +79,7 @@
    virt-sandbox <https://fedoraproject.org/wiki/Features/VirtSandbox>`__,
    `позволяющего организовать выполнение произвольных пользовательских
    приложений в изолированном окружении, построенном с использованием
-   libvirt <http://www.opennet.ru/opennews/art.shtml?num=32847>`__.
+   libvirt <https://www.opennet.ru/opennews/art.shtml?num=32847>`__.
 
 -  `Включение Non-Uniform Memory Alignment Daemon в
    дистрибутив <https://fedoraproject.org/wiki/Features/numad>`__

@@ -12,7 +12,7 @@
 
 
 `Sabayon окончательно перешел на
-systemd <http://www.opennet.ru/opennews/art.shtml?num=37649>`__.
+systemd <https://www.opennet.ru/opennews/art.shtml?num=37649>`__.
 
 Мэйнтейнер Sabayon, Fabio Erculiani, считает, что `OpenRC движется в
 никуда <https://plus.google.com/u/0/115547683951727699051/posts/Vdpy3K4XLD4>`__,
@@ -28,16 +28,16 @@ Poettering уже добился успеха, и декларативный п�
 инициализации побеждает императивный (SysV).
 
 Участник Fedora, инженер Red Hat, `David
-Miller <http://en.wikipedia.org/wiki/David_S._Miller>`__, анонсировал
+Miller <https://en.wikipedia.org/wiki/David_S._Miller>`__, анонсировал
 выход `GLIBC
-2.18 <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/34237>`__.
+2.18 <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/34237>`__.
 
 Инженер Red Hat, создатель формата Ogg и аудиокодека Vorbis, участник
 Fedora, `Christopher “Monty”
-Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__ выложил
+Montgomery <https://en.wikipedia.org/wiki/Chris_Montgomery>`__ выложил
 презентацию в трех частях разрабатываемого им вместе с коллегами по
 проекту Xiph перспективного `видеокодека
-Daala <http://en.wikipedia.org/wiki/Daala_%28video_codec%29>`__ -
+Daala <https://en.wikipedia.org/wiki/Daala_%28video_codec%29>`__ -
 `первая
 часть <https://people.xiph.org/~xiphmont/demo/daala/demo1.shtml>`__,
 `вторая
@@ -56,7 +56,7 @@ touch-устройств <http://www.phoronix.com/scan.php?page=news_item&px=MTQ
 (touchscreen, touchpad).
 
 И еще о Wayland - `вышла новая версия Hawaii
-Shell <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10228>`__,
+Shell <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10228>`__,
 перспективного DE, разрабатываемого специально для Wayland с нуля (не
 форкая GNOME, например).
 
@@ -66,7 +66,7 @@ Shell <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10228>`__,
 Fiorini <https://plus.google.com/117319527836202971314/about>`__,
 основной разработчик Maui и Hawaii, обычный пользователь ArchLinux, уже
 `начал сравнивать потребление памяти с
-XFCE <http://plfiorini.blogspot.ru/2013/08/hawaii-memory-usage.html>`__.
+XFCE <http://plfiorini.blogspot.com/2013/08/hawaii-memory-usage.html>`__.
 
 Конечно стоит подождать, пока претендент будет обладать тем же набором
 возможностей, что и его соперник, но ведь есть и обратный тренд -

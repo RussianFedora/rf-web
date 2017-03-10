@@ -24,7 +24,7 @@ init-скрипт. Это, разумеется, нестандартное по
 Nottingham <https://www.openhub.net/accounts/notting>`__ и `Michal
 Schmidt <https://fedoraproject.org/wiki/User:Michich>`__ реализовали
 поддержку `произвольных пользовательских команд из
-init-скриптов <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/166326>`__.
+init-скриптов <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/166326>`__.
 
 Вкратце, приложение должно создать файл по адресу
 */usr/libexec/initscripts/legacy-actions/frobozz/xyzzy*, чтоб было

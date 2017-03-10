@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Проект CoreOS продолжает раскрывать свои не очень секретные секреты. В
 еще одном
 `интервью <http://www.activestate.com/blog/2014/03/brandon-philips-explains-etcd>`__
@@ -20,4 +17,3 @@ Philips <https://github.com/philips>`__, рассказывает о etcd. В
 `fleet </content/coreinit-переименован-во-fleet>`__, это один из
 кирпичиков надежной кластерной системы, поэтому если вы интересуетесь
 вопросом, то вам стоит ознакомиться с интервью Брэндона.
-

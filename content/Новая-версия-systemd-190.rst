@@ -12,8 +12,8 @@
 
 
 Bышла `новая версия systemd -
-190 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/6521>`__
+190 <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/6521>`__
 (в этот раз без революционных изменений). Новость уже обсуждается на
-`OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=34902>`__ и
+`OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=34902>`__ и
 `LOR <https://www.linux.org.ru/news/linux-general/8255489>`__.
 

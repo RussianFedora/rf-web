@@ -21,7 +21,7 @@
   OpenSource-проектов, Apache Software Foundation, так что история
   получилась еще смешнее. Драма уже обсуждается коллегами-аналитиками на
   русскоязычных ресурсах -
-  `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=42813>`__ и
+  `OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=42813>`__ и
   `Linux.org.ru <https://www.linux.org.ru/news/openoffice/11872745>`__.
 
 | По существу вопроса добавить наверное нечего - каждому, кто заглянет в
@@ -120,7 +120,7 @@
 
     Гораздо большей проблемой может стать то, что `EFI mixed mode пока
     не полностью подерживается в
-    Linux <http://thread.gmane.org/gmane.linux.kernel.efi/3580>`__.
+    Linux <https://thread.gmane.org/gmane.linux.kernel.efi/3580>`__.
 
     Действительно, уже можно загрузить 64-битный Linux на 32-битном
     UEFI, но когда драйверы начинают обращаться к UEFI, тогда начинаются

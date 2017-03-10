@@ -17,7 +17,7 @@
 Google+
 `анонсировал <https://plus.google.com/115124063126128475540/posts/faar8WcQDg4>`__
 революционное изменение, которое он уже `представил на
-рассмотрение <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/4886>`__
+рассмотрение <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/4886>`__
 разработчикам systemd.
 
 Сначала, он упомянул, что Tizen также переходит с устаревшего SysV на

@@ -14,7 +14,7 @@
 В последнее время участники этой группы были очень заняты. Результат их
 трудов `был
 представлен <http://blogs.arm.com/software-enablement/1012-applied-micro-x-gene-armv8-64-bit-server-showcased-at-red-hat-summit/>`__
-на прошедшем `Red Hat Summit <http://www.redhat.com/summit/>`__. Это
+на прошедшем `Red Hat Summit <https://www.redhat.com/summit/>`__. Это
 Fedora 19, работающая на вскоре выходящем `64-битном ARM-сервере от
 Applied Micro <http://www.apm.com/products/x-gene>`__ - первый в мире
 64-битный ARM-дистрибутив работающий на первом в мире 64-битном
@@ -36,7 +36,7 @@ Jon рассказал во время своей презентации на Re
 непосредственное участие.
 
 Red Hat не только представляет новое железо, но и занимается
-`dogfooding-ом <http://en.wikipedia.org/wiki/Eating_your_own_dog_food>`__.
+`dogfooding-ом <https://en.wikipedia.org/wiki/Eating_your_own_dog_food>`__.
 
 Новое (пока 32-битное) ARM железо от
 `Calxeda <http://www.calxeda.com/>`__
@@ -79,7 +79,7 @@ ARM-систем начиная с 2014
 
 После этого, раз стало возможным запускать GNOME, он `быстро набросал
 инсталлятор для Fedora
-19 <http://bloggingthemonkey.blogspot.ru/2013/06/fedora-19-installer-for-nexus4.html>`__.
+19 <http://bloggingthemonkey.blogspot.com/2013/06/fedora-19-installer-for-nexus4.html>`__.
 
 Обратите внимание, это **не Anaconda**! Еще необходимо заметить, что
 Fedora для Nexus 4 не будет работать на базе CyanogenMod, как это

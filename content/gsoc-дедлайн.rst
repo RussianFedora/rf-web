@@ -12,7 +12,7 @@
 
 
 `Официально
-анонсирован <http://google-opensource.blogspot.ru/2014/04/students-announced-for-google-summer-of.html>`__
+анонсирован <http://google-opensource.blogspot.com/2014/04/students-announced-for-google-summer-of.html>`__
 список студентов, принятых в Google Summer of Code этого года. Это
 значит, что время подавать заявки вышло, и кто не успел - тот опоздал!
 Нам, как патриотам, очень печально видеть, как поднявшись с `восьмого

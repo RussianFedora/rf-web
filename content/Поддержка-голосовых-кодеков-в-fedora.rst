@@ -12,7 +12,7 @@
 
 
 Как многие уже слышали, IETF одобрило
-`принятие <http://www.opennet.ru/opennews/art.shtml?num=34812>`__
+`принятие <https://www.opennet.ru/opennews/art.shtml?num=34812>`__
 `стандартом <https://www.linux.org.ru/news/multimedia/8221347>`__
 новейшего универсального аудиокодека от Xiph.org - Opus. В репозиториях
 Fedora он доступен с ноября 2011 (пока еще не в EPEL), и

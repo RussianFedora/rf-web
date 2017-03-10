@@ -58,5 +58,5 @@
   `RHEL
   5.10 <https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/5/html-single/5.10_Release_Notes/index.html>`__,
   которое уже `обсуждается на
-  OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38048>`__.
+  OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38048>`__.
 

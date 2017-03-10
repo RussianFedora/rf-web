@@ -35,7 +35,7 @@ JavaScript <http://stef.thewalter.net/using-dbus-from-javascript-in-cockpit.html
 
 Среди изменений - сжатие логов, полная поддержка Python 3, и т.д.
 Karel Zak `включил поддержку скриптов sfdisk в fdisk и
-cfdisk <http://karelzak.blogspot.ru/2014/11/sfdisk-scripts.html>`__.
+cfdisk <http://karelzak.blogspot.com/2014/11/sfdisk-scripts.html>`__.
 
 Теперь можно сохранять разбиения дисков в файлы, и потом их загружать.
 

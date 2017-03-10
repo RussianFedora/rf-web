@@ -12,7 +12,7 @@
 
 
 | `Счастливые пользователи продолжают благодарить команду разработчиков
-  systemd <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/13768>`__.
+  systemd <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/13768>`__.
 
   В этот раз свое спасибо сказал еще один embedded-разработчик, инженер
   компании `Axis Communications <http://www.axis.com/ru/>`__. Они сильно
@@ -55,7 +55,7 @@
   разработчиков открытого оборудования.
 
 | `Вышел DNF версии
-  0.4.6 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/187855>`__.
+  0.4.6 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/187855>`__.
 
   Среди фич - долгожданная отмена транзакций (yum history undo) и
   ограничение по количеству устанавливаемых в параллель пакетов (kernel,

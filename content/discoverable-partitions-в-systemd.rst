@@ -13,7 +13,7 @@
 
 Lennart Poettering и его команда `включили в systemd поддержку
 разработанного ими же расширения спецификации
-GPT <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/17524>`__,
+GPT <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/17524>`__,
 `стандартизирующего уникальные GUID для характерных разделов
 Linux <http://www.freedesktop.org/wiki/Specifications/DiscoverablePartitionsSpec/>`__.
 

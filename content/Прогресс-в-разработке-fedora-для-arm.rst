@@ -25,7 +25,7 @@ ARM64 <http://www.hpcwire.com/hpcwire/2012-10-25/arm_red_hat_appliedmicro_to_dev
 Robinson <https://plus.google.com/117898952501074015902/posts>`__
 сообщил более практически ценную новость - `в основной сборке ядра Linux
 для Fedora включена поддержка т.н. Unified Kernel для
-ARM <http://thread.gmane.org/gmane.linux.redhat.fedora.arm/4257>`__. Мы
+ARM <https://thread.gmane.org/gmane.linux.redhat.fedora.arm/4257>`__. Мы
 `уже сообщали </content/Новости-secondary-arch-fedora>`__ о том, что
 ведется работа в этом направлении, и вот - `первые
 результаты <http://pkgs.fedoraproject.org/cgit/kernel.git/commit/?id=faa8d0c>`__

@@ -12,7 +12,7 @@
 
 
 На OpenNET.ru опубликовали `обзорную статью по контейнерной
-виртуализации <http://www.opennet.ru/opennews/art.shtml?num=40126>`__,
+виртуализации <https://www.opennet.ru/opennews/art.shtml?num=40126>`__,
 составленную наполовину из из статьи `Павла
 Емельянова <https://plus.google.com/110944738091046186073/about>`__ из
 Parallels, а наполовину из статьи `James

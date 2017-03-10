@@ -30,7 +30,7 @@ Wildeboer <https://plus.google.com/+jwildeboer/posts/1r5t1jaduKs>`__,
 
 Отрадно, что почти одновременно дружественная нам компания Collabora
 `объявила о начале коммерческой поддержки
-LibreOffice <http://www.opennet.ru/opennews/art.shtml?num=40182>`__. Мы
+LibreOffice <https://www.opennet.ru/opennews/art.shtml?num=40182>`__. Мы
 очень рады за них, особенно в свете перспектив, появившихся из-за
 последних инициатив еврочиновников. Вполне вероятно, что они вскоре
 получат первые контракты на доработку открытого офисного ПО, что всем

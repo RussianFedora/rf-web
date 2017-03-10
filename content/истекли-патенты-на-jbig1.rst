@@ -12,7 +12,7 @@
 
 
 Представители
-`Fedora-Legal <http://fedoraproject.org/wiki/Legal:Main>`__ сообщили
+`Fedora-Legal <https://fedoraproject.org/wiki/Legal:Main>`__ сообщили
 заинтересованным лицам, что последний из `известных
 патентов <http://www.cl.cam.ac.uk/~mgk25/jbigkit/patents/>`__ на JBIG1
 истекает 4го апреля 2012 года. В связи с этим `начат

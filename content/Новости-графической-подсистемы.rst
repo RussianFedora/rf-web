@@ -26,7 +26,7 @@
 | 
 | David сейчас работает над фундаментальным изменением в том, как
   организованы и управляются сессии. Он недавно `опубликовал серию
-  патчей <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/12757>`__
+  патчей <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/12757>`__
   для добавления и удаления доступных устройств в сессии с помощью
   systemd, которая получила `устное одобрение Greg
   Kroah-Hartman <https://plus.google.com/111049168280159033135/posts/58i62a57tWi>`__.
@@ -57,14 +57,14 @@
 
 | Между делом David почти закончил работу над его давней затеей - render
   nodes для X.org. Он `опубликовал вторую ревизию своей серии
-  патчей <http://thread.gmane.org/gmane.comp.video.dri.devel/90493>`__.
+  патчей <https://thread.gmane.org/gmane.comp.video.dri.devel/90493>`__.
 
   Этот функционал позволит задействовать GPU для рендеринга картинки без
   наличия активного дисплея, присоединенного к видеокарте. Это нужно для
   систем с несколькими GPU или для multiseat-систем.
 
 | `Для Wayland предложена концепция системного
-  композитора <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10398>`__.
+  композитора <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/10398>`__.
 
   Раньше, чтоб написать бэкенд, приходилось реализовывать его по-новому
   в каждом композиторе, потому люди просто брали weston, писали для него

@@ -25,7 +25,7 @@
 Планы, конечно, были, и вот, наконец-то, участник Arch Linux, `David Herrmann
 <http://dvdhrm.wordpress.com/about-me/>`__, `предложил первый вариант
 независимой от kdbus подсистемы memfd для включения в ядро
-<http://thread.gmane.org/gmane.comp.video.dri.devel/102241>`__. Его работа уже
+<https://thread.gmane.org/gmane.comp.video.dri.devel/102241>`__. Его работа уже
 получила положительные отклики от `Greg Kroah-Hartman
 <https://plus.google.com/111049168280159033135/posts/KGHK5JNZQuU>`__ и `Lennart
 Poettering

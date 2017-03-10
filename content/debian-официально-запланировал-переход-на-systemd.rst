@@ -12,7 +12,7 @@
 
 
 | `В опубликованных целях на следующий релиз
-  Debian <http://thread.gmane.org/gmane.linux.debian.devel.announce/1845>`__
+  Debian <https://thread.gmane.org/gmane.linux.debian.devel.announce/1845>`__
   мы с удовольствием отмечаем следующие фичи, впервые внедренные в
   Fedora:
 
@@ -49,7 +49,7 @@
 | 
 | Новость уже обсуждается на
   `Linux.org.ru <https://www.linux.org.ru/news/debian/9691153>`__ и
-  `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38152>`__.
+  `OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38152>`__.
 
 | Вообще чувствуется оживление. Хоть и отстают на несколько лет от нас,
   но для Debian по причине `небольшого количества активных участников

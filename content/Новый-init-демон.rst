@@ -12,7 +12,7 @@
 
 
 OpenWRT
-`переходит <http://thread.gmane.org/gmane.comp.embedded.openwrt.devel/25621>`__
+`переходит <https://thread.gmane.org/gmane.comp.embedded.openwrt.devel/25621>`__
 на собственный init-демон,
 `procd <http://wiki.openwrt.org/doc/techref/procd>`__ (не systemd,
 Upstart или OpenRC).

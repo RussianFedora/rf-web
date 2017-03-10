@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Мы `уже упоминали </content/Короткие-новости-о-контейнерах-и-виртуализации>`__
 про доклад Dan Walsh `на тему Docker и SELinux
 <http://blog.docker.com/2014/07/new-dockercon-video-docker-security-renamed-from-docker-and-selinux/>`__,

@@ -16,5 +16,5 @@
 Rawhide (20-51) буквально убивает вашу систему. Если он у вас есть, то
 немедленно откатитесь на предыдущую версию и выполните действия,
 перечисленные
-`здесь <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/166513>`__.
+`здесь <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/166513>`__.
 

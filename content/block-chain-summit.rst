@@ -1,15 +1,12 @@
 .. title: Block Chain Summit
 .. slug: block-chain-summit
 .. date: 2015-04-30 12:58:45
-.. tags:
-.. category:
+.. tags: bitcoin
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Richard Branson <https://en.wikipedia.org/wiki/Richard_Branson>`__,
 миллиардер, плэйбой, и филантроп, `проводит Block Chain Summit на своем
@@ -21,4 +18,3 @@
 Garzik <https://github.com/jgarzik>`__. Будем надеяться, что за
 последние три месяца появились новости про `его космический
 стартап </content/jeff-garzik-на-sxsw>`__.
-

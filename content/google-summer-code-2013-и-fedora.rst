@@ -14,7 +14,7 @@
 Итак, `Google Summer of Code
 2013 <http://www.google-melange.com/gsoc/homepage/google/gsoc2013>`__
 официально
-`анонсировали <http://google-opensource.blogspot.ru/2013/02/flip-bits-not-burgers-google-summer-of.html>`__.
+`анонсировали <http://google-opensource.blogspot.com/2013/02/flip-bits-not-burgers-google-summer-of.html>`__.
 
 Fedora обязательно подаст заявку на участие, так что желающие принять
 участие - начинайте готовиться, смотрите, что в инфраструктуре проекта

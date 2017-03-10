@@ -31,7 +31,7 @@
 
 Что интересно, один из мощнейших тестовых тулкитов, SystemTap, написан в
 основном нашими коллегами. Весной `была выпущена версия
-2.5 <http://thread.gmane.org/gmane.linux.systemtap/22296>`__, в которой
+2.5 <https://thread.gmane.org/gmane.linux.systemtap/22296>`__, в которой
 добавили поддержку UEFI/SecureBoot (уже обсудили на
 `Linux.org.ru <https://www.linux.org.ru/news/opensource/10454975>`__).
 

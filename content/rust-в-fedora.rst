@@ -26,7 +26,7 @@ Rust <https://hacks.mozilla.org/2016/07/shipping-rust-in-firefox/>`__, и
 разработчики Mozilla Foundation всячески призывают следовать их примеру.
 
 Так что инициатива нашего коллеги, `Andy
-Grover <https://openhub.net/accounts/agrover>`__, по `использованию Rust
+Grover <https://www.openhub.net/accounts/agrover>`__, по `использованию Rust
 в системном ПО </content/rust-для-системного-ПО>`__ тоже получила
 поддержку с их стороны. Недавно Andy выступил на ежемесячном митапе по
 Rust, проводимом MoFo. Тема его выступления была - `"Froyo: Using Rust

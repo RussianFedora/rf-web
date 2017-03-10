@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Наконец-то <http://thread.gmane.org/gmane.linux.debian.devel.release/78490>`__!
+`Наконец-то <https://thread.gmane.org/gmane.linux.debian.devel.release/78490>`__!
 Неужели коммьюнити Debian взялось за ум? Вот, что значит положительное
 влияние корпоративного руководства HP на тусовку толкиенистов от
 опенсорса, в которую превращалcя Debian.

@@ -1,15 +1,12 @@
 .. title: FOSDEM 2016
 .. slug: fosdem-2016
 .. date: 2016-02-03 18:11:16
-.. tags: FOSDEM, containers, parallels, clouds, weave, flannel, debian, epel,  devconf.cz
+.. tags: fosdem, containers, parallels, clouds, weave, flannel, debian, epel,  devconf.cz
 .. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Вернулись с `FOSDEM 2016 <https://fosdem.org/2016/>`__.
 

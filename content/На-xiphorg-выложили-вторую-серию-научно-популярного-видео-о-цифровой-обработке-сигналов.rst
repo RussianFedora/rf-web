@@ -13,7 +13,7 @@
 
 Инженер Red Hat, создатель формата Ogg и аудиокодека Vorbis, участник
 Fedora, `Christopher “Monty”
-Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__
+Montgomery <https://en.wikipedia.org/wiki/Chris_Montgomery>`__
 `выпустил <http://xiphmont.livejournal.com/59646.html>`__ следующий
 фильм из серию научно-популярных фильмов о цифровой обработке сигналов:
 |image0|

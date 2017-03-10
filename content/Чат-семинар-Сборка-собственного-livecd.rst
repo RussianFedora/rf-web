@@ -15,5 +15,5 @@
 формате текстового онлайн-чата, которое состоится **24 ноября в 16:00
 MSK** на том же Jabber-канале fedora-classroom@conference.jabber.ru
 На семинаре `Алексей
-Торхов <http://fedoraproject.org/wiki/User:Atorkhov>`__ aka greenlion
+Торхов <https://fedoraproject.org/wiki/User:Atorkhov>`__ aka greenlion
 расскажет о сборке собственного LiveCD (и покажет на практике).

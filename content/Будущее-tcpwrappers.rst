@@ -12,7 +12,7 @@
 
 
 В рассылке systemd `предложили избавиться от
-tcpwrappers <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/17884>`__,
+tcpwrappers <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/17884>`__,
 разработка которых прекратилась в 2003 году. По ходу возникшего
 обсуждения, выяснилось, что из Arch Linux их выкинули года три назад, и
 никто даже и не заметил (правда надо учесть размер пользовательской
@@ -22,7 +22,7 @@ tcpwrappers <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/17884>`__
 улетучились <https://ru.wikipedia.org/wiki/Виноделие#.D0.A5.D1.80.D0.B0.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B8_.D0.B2.D1.8B.D0.B4.D0.B5.D1.80.D0.B6.D0.BA.D0.B0>`__.
 
 Оценив ситуацию, Lennart `предложил избавиться от tcpwrappers в
-Fedora <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/193871>`__,
+Fedora <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/193871>`__,
 изложив свои соображения. Ко всеобщему удивлению на свет стали ползти
 живые пользователи tcpwrappers.
 

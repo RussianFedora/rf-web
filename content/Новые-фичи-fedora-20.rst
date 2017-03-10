@@ -39,7 +39,7 @@
    закончить к Fedora 18, но не удалось в срок решить ряд
    организационных и технических проблем. Даже сейчас `обсуждение этой
    фичи идет
-   непросто <http://thread.gmane.org/gmane.linux.redhat.fedora.documentation/15029>`__,
+   непросто <https://thread.gmane.org/gmane.linux.redhat.fedora.documentation/15029>`__,
    и высказываются различные опасения - от увеличения времени сборки, до
    анархии среди ARM-оборудования, несоответствия доступных фич таковым
    на нынешних основных системах, и проблем с виртуализацией. Но
@@ -59,7 +59,7 @@
 
 -  Включение `Hadoop <https://fedoraproject.org/wiki/Changes/Hadoop>`__,
    известной платформы для решения `Big
-   Data <http://ru.wikipedia.org/wiki/Большие_данные>`__ задач.
+   Data <https://ru.wikipedia.org/wiki/Большие_данные>`__ задач.
 
 -  Оживилась работа над `системой управления сертификатами
    безопасности <https://fedoraproject.org/wiki/Changes/SharedCertificateTools>`__.

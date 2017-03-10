@@ -12,14 +12,14 @@
 
 
 В сети продолжаются протесты против продвижения законопроекта
-`SOPA <http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:SOPA>`__.
+`SOPA <https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:SOPA>`__.
 
 Наиболее яркой акцией является `прекращение
-работы <http://en.wikipedia.org/wiki/Main_Page>`__ англоязычной части
+работы <https://en.wikipedia.org/wiki/Main_Page>`__ англоязычной части
 Википедии (с 5 утра GMT 18 января до 5 утра 19 января). Свое несогласие
 с законопроектом демонстрируют и `другие
 проекты <http://americancensorship.org/supporters.html>`__, например, вы
 можете видеть черную информационную полосу на главном сайте
-`Fedora <http://fedoraproject.org/>`__ и на большинстве страниц вики
+`Fedora <https://fedoraproject.org/>`__ и на большинстве страниц вики
 проекта.
 

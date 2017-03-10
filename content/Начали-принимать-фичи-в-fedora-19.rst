@@ -19,7 +19,7 @@
 -  `3D
    Printing <https://fedoraproject.org/wiki/Features/3D_Printing>`__,
    еще одна инициатива участников `Fedora Robotics
-   SIG <http://fedoraproject.org/wiki/SIGs/Robotics>`__. Пока поддержка
+   SIG <https://fedoraproject.org/wiki/SIGs/Robotics>`__. Пока поддержка
    3D печати в дистрибутивах в целом на низком уровне - не хватает
    собранного ПО, и люди вынуждены качать его откуда-то и компилировать
    самостоятельно. Пора это исправить!

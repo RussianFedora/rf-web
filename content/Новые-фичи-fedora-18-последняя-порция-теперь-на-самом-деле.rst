@@ -17,7 +17,7 @@
   день, практически после собрания, было поставлено на рассмотрение
   FESCo с дюжину новых заявок. Пришлось провести еще один раунд
   обсуждений, `благодаря
-  которому <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/167315/focus=167335>`__
+  которому <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/167315/focus=167335>`__
   успели запрыгнуть в вагон следующие фичи:
 
 -  `Samba 4.0 <https://fedoraproject.org/wiki/Features/Samba4>`__,

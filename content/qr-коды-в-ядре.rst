@@ -17,7 +17,7 @@ systemd </content/systemd-и-встроенный-в-него-http-сервер>
 
 `Teodora Baluta <https://github.com/teobaluta>`__, студентка из Румынии,
 в списке рассылки LKML `предложила первый вариант интеграции QR-кодов
-для kernel oops <http://thread.gmane.org/gmane.linux.kernel/1668215>`__.
+для kernel oops <https://thread.gmane.org/gmane.linux.kernel/1668215>`__.
 
 Мы с радостью поддерживаем начинание, т.к. обычно приходилось фоткать
 oops на телефон, и там зачастую все равно было ничего толком не

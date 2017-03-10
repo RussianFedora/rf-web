@@ -12,7 +12,7 @@
 
 
 На прошедшем сегодня собрании FESCo `начали
-принимать <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/161156>`__
+принимать <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/161156>`__
 "фичи" для Fedora 18. Среди принятых:
 
 -  Одно из больших планирующихся изменений, это `ARM будет основной

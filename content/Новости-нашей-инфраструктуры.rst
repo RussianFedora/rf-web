@@ -12,14 +12,14 @@
 
 
 `Вышла новая версия
-Copr <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/190821>`__,
+Copr <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/190821>`__,
 новой сборочной системы, `о которой вы уже
 слышали </content/rust-copr-и-изменения-в-инфраструктуре>`__. В новой
 версии добавлена возможность сборки для EPEL 7, которую `как раз недавно
-анонсировали <http://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1223>`__.
+анонсировали <https://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1223>`__.
 
 `[STRIKEOUT:Дикий срач] Конструктивный диалог вокруг dnf
-<http://thread.gmane.org/gmane.linux.redhat.fedora.devel/190261>`__,
+<https://thread.gmane.org/gmane.linux.redhat.fedora.devel/190261>`__,
 перспективной замены yum, не был безрезультатным. После недавно вышедшей
 `версии 0.4.10 <http://dnf.baseurl.org/2014/01/02/dnf-0-4-10-released/>`__, в
 которой была добавлена возможность плагинам добавлять команды, быстро вышла

@@ -14,7 +14,7 @@
 Разработчик Arch Linux, `Tom
 Gundersen <https://plus.google.com/+TomGundersen/about>`__, в рассылке
 systemd-devel сегодня `предложил первый вариант системного сервиса,
-networkd <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/13935>`__.
+networkd <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/13935>`__.
 
 Конфигурация сервиса производится с помощью ini-файлов, и сделана
 несовместимой ни с NetworkManager, ни с рекомендуемыми Red Hat способами

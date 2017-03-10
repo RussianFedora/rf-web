@@ -19,7 +19,7 @@
 присоединился <http://www.phoronix.com/scan.php?page=news_item&px=MTMwMjA>`__
 `Rob Clark <https://github.com/robclark>`__, известный разработчик
 X.org, Mesa, Wayland, Kernel. Все участники `Fedora ARM
-SIG <http://fedoraproject.org/wiki/Architectures/ARM>`__ очень этому
+SIG <https://fedoraproject.org/wiki/Architectures/ARM>`__ очень этому
 рады и уже начали праздновать:
 |image0|
 

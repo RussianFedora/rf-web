@@ -74,7 +74,7 @@
    что была более радикальная идея - вообще не устанавливать никакого
    debuginfo, а использовать `использование специализированного
    Web-сервиса и FUSE для получения отладочной
-   информации <http://fedoraproject.org/wiki/Features/DebuginfoFS>`__.
+   информации <https://fedoraproject.org/wiki/Features/DebuginfoFS>`__.
 
    Напоминаем, что речь не идет о разработчиках и тестерах - речь идет о
    том, чтоб увеличить качество автоматизированных багрепортов от
@@ -104,7 +104,7 @@
   наработками <https://fedoraproject.org/wiki/Features/Systemd-unit-cleanup>`__.
 
   Решили, что `"premature optimization is the root of all
-  evil" <http://en.wikipedia.org/wiki/Program_optimization#When_to_optimize>`__,
+  evil" <https://en.wikipedia.org/wiki/Program_optimization#When_to_optimize>`__,
   и сначала надо полностью переключиться на systemd, а уж потом
   оптимизировать и улучшать.
 

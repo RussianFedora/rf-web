@@ -17,7 +17,7 @@
 Google Summer of Code 2014, к делу удалось подключить двух студентов,
 Palenik Mihály и Szymon Kłos, которые уже дожали количество
 несконвертированных диалогов, до `сотни с минусом и
-продолжают <http://caolanm.blogspot.ru/2014/06/dialog-conversion-status-99-to-go.html>`__!
+продолжают <http://caolanm.blogspot.com/2014/06/dialog-conversion-status-99-to-go.html>`__!
 |image0|
 **Студенты вручную конвертируют описания диалоговых окон в новый формат
 GtkBuilder**

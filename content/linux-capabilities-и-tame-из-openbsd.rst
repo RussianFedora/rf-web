@@ -47,7 +47,7 @@
 | А можно ли лучше? Скажем, запустить исполняемый файл с помощью
   fork+exec, и как-то добавить нужные capabilities перед exec или еще
   где-нибудь? Вот этот вопрос как раз и
-  `обеспокоил <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/209431>`__
+  `обеспокоил <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/209431>`__
   нашего коллегу, `Florian Weimer <https://github.com/fweimer>`__.
 
   Интересно, что `в systemd есть пара интересных директив -
@@ -71,10 +71,10 @@
   пользователя, чтобы решить задачу в общем случае, `Andy
   Lutomirski <https://www.linkedin.com/pub/andrew-lutomirski/4/752/18>`__
   ответил однозначно - `нет, это
-  невозможно <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/209431/focus=209438>`__.
+  невозможно <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/209431/focus=209438>`__.
 
   Придется ждать до Linux 4.3, где появятся `ambient
-  capabilities <http://thread.gmane.org/gmane.linux.kernel.api/9023>`__,
+  capabilities <https://thread.gmane.org/gmane.linux.kernel.api/9023>`__,
   над которым как раз и работает Andy.
 
 | Таким образом прямо сейчас функционал capabilities, если не
@@ -84,7 +84,7 @@
   процессов, запущенных от суперпользователя. Это, разумеется, серьезное
   архитектурное ограничение. Мы даже и не ожидали, что Theo de Raadt
   возьмет за базовую модель для `недавно предложенного
-  Tame <http://thread.gmane.org/gmane.os.openbsd.tech/43085>`__ именно
+  Tame <https://thread.gmane.org/gmane.os.openbsd.tech/43085>`__ именно
   Linux capabilities.
 
 | Вообще, мы привыкли, что идеи, предложенные нашими друзьями,
@@ -101,10 +101,10 @@
 
 | Так вот, изначально были предложения разработать для OpenBSD аналог
   seccomp из Linux (`например
-  тут <http://thread.gmane.org/gmane.os.openbsd.tech/41898>`__), но Theo
+  тут <https://thread.gmane.org/gmane.os.openbsd.tech/41898>`__), но Theo
   высказал соображение, что `писать программу для того, чтобы
   обезопасить другую программу, это
-  нерационально <http://thread.gmane.org/gmane.os.openbsd.tech/41898/focus=41904>`__.
+  нерационально <https://thread.gmane.org/gmane.os.openbsd.tech/41898/focus=41904>`__.
 
   После этого, из вариантов был лишь один - `составить список
   привилегий <http://linux.die.net/man/7/capabilities>`__, необходимых

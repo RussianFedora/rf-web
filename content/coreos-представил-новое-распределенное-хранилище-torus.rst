@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Наши друзья из CoreOS `официально
 представили <https://coreos.com/blog/torus-distributed-storage-by-coreos.html>`__
 новое распределенное хранилище -

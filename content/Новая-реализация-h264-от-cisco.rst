@@ -34,7 +34,7 @@ Cisco, то платить вы не обязаны. Если же вы пред
 `откомментировал <http://xiphmont.livejournal.com/61927.html>`__
 создатель формата Ogg и аудиокодека Vorbis, участник Fedora,
 `Christopher “Monty”
-Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__. Он пишет,
+Montgomery <https://en.wikipedia.org/wiki/Chris_Montgomery>`__. Он пишет,
 что пора признать суровую правду - мы, OSS-коммьюнити, проиграли эту
 битву войны, и юзеры будут платить (через включение стоимости лицензий в
 товары, например) рэкетиру. Стартовые условия были неравны. Но война с

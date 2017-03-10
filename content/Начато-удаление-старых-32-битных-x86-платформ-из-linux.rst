@@ -12,7 +12,7 @@
 
 
 `Начато удаление старых 32-битных x86-платформ из
-Linux <http://thread.gmane.org/gmane.linux.kernel/1676284>`__. Удалят
+Linux <https://thread.gmane.org/gmane.linux.kernel/1676284>`__. Удалят
 начиная с версии 3.15. Пока, конечно, затронуты лишь нестандартные
 системы из 1990х (SGI Visual Workstation, Sequent Computer Systems
 NUMAQ, IBM Summit/EXA, IA32-based Unisys ES7000), так что купившим

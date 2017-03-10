@@ -30,7 +30,7 @@
 Понятно, почему нельзя назначить себе группы, но отказаться-то почему
 нельзя? Сходу понять это не получается. Josh Triplett `решил, что это
 ошибка, и прислал патч, исправляющий это
-поведение <http://thread.gmane.org/gmane.linux.man/7385/focus=1830123>`__.
+поведение <https://thread.gmane.org/gmane.linux.man/7385/focus=1830123>`__.
 
 В обсуждении оказалось, что Josh, как и мы, просто был не в курсе
 типичного use case, популярного среди матерых Unix-админов, который
@@ -45,14 +45,14 @@
 
 Кстати, у Josh есть и другие интересные патчи - например, `позволяющий
 процессу иметь несколько
-UID <http://thread.gmane.org/gmane.linux.kernel.api/6151>`__.
+UID <https://thread.gmane.org/gmane.linux.kernel.api/6151>`__.
 
 Сдвинулось с мертвой точки портирование Go на неподдерживаемые Google
 платформы. Во-первых `в GCC включают поддержку Go на
-s390x <http://thread.gmane.org/gmane.comp.gcc.patches/321321>`__.
+s390x <https://thread.gmane.org/gmane.comp.gcc.patches/321321>`__.
 
 Во-вторых `представили первый вариант фронтэнда Go для
-LLVM <http://thread.gmane.org/gmane.comp.compilers.llvm.devel/78981>`__.
+LLVM <https://thread.gmane.org/gmane.comp.compilers.llvm.devel/78981>`__.
 
 Вообще Google очень разумно ограничил язык лишь рядом процессорных
 архитектур и рядом операционных систем, радикально сократив матрицу
@@ -67,7 +67,7 @@ LLVM <http://thread.gmane.org/gmane.comp.compilers.llvm.devel/78981>`__.
 [STRIKEOUT:откинулся и теперь авторитетный программист в Parallels]
 благополучно вернулся к работе. Мы уже видим его в деле, например, в
 обсуждении интересного патчсета от Theodore Tso - `lazytime, замена
-relatime <http://thread.gmane.org/gmane.comp.file-systems.ext4/46800>`__.
+relatime <https://thread.gmane.org/gmane.comp.file-systems.ext4/46800>`__.
 
 Немного истории - в Unix есть три типа таймстемпов у файлов и
 директорий, ctime (время изменения файла или его метаданных), mtime

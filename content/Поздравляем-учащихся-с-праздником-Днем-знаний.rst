@@ -24,14 +24,14 @@
 
 В рамках проекта Fedora сформированы рабочие группы, которые могут быть
 интересны учащимся -
-`SciTech <http://fedoraproject.org/wiki/Category:SciTech_SIG>`__,
-`Astronomy <http://fedoraproject.org/wiki/Category:Astronomy_SIG>`__,
-`Education <http://fedoraproject.org/wiki/SIGs/Education>`__
+`SciTech <https://fedoraproject.org/wiki/Category:SciTech_SIG>`__,
+`Astronomy <https://fedoraproject.org/wiki/Category:Astronomy_SIG>`__,
+`Education <https://fedoraproject.org/wiki/SIGs/Education>`__
 (посвященная учебному процессу в целом), `Formal
-Methods <http://fedoraproject.org/wiki/FormalMethods>`__,
-`GIS <http://fedoraproject.org/wiki/GIS>`__,
-`Medical <http://fedoraproject.org/wiki/SIGs/FedoraMedical>`__,
-`Robotics <http://fedoraproject.org/wiki/SIGs/Robotics>`__ и другие.
+Methods <https://fedoraproject.org/wiki/FormalMethods>`__,
+`GIS <https://fedoraproject.org/wiki/GIS>`__,
+`Medical <https://fedoraproject.org/wiki/SIGs/FedoraMedical>`__,
+`Robotics <https://fedoraproject.org/wiki/SIGs/Robotics>`__ и другие.
 
 В общем пробуйте, изучайте, сравнивайте, задавайте вопросы на форумах -
 пока есть время на учебу (дальше будет гораздо сложнее). Не стесняйтесь

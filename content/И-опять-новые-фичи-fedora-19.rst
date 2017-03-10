@@ -78,7 +78,7 @@
    К сожалению, у Oracle плохие отношения с OpenSource сообществом, и
    практика показывает, что использование даже их якобы открытых и
    свободных технологий может вызвать серьезные проблемы, как `у крупных
-   компаний <http://en.wikipedia.org/wiki/Oracle_v._Google>`__, так и `у
+   компаний <https://en.wikipedia.org/wiki/Oracle_v._Google>`__, так и `у
    простых
    разработчиков <http://www.h-online.com/open/news/item/VMware-stakes-IP-claim-on-Vert-x-1779548.html>`__.
 
@@ -107,7 +107,7 @@
    довольно очевидны. Это - следующий (хотя, повторимся, сильно
    запоздавший) шаг по реализации более амбициозного плана - `Fedora
    Crypto
-   Consolidation <http://fedoraproject.org/wiki/FedoraCryptoConsolidation>`__,
+   Consolidation <https://fedoraproject.org/wiki/FedoraCryptoConsolidation>`__,
    полная реализация которого наконец-то позволит Linux-системам по
    удобству управления сертификатами безопасности догнать проприетарные
    операционные системы, такие как Windows и Mac OS X.

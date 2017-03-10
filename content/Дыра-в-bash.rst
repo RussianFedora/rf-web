@@ -23,7 +23,7 @@ Chazelas <http://stephane.chazelas.free.fr/Stephane-CHAZELAS-2010.html>`__,
 для ее использования не нужно авторизации.
 
 За подробностями предлагаем `сходить на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40667>`__, где
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40667>`__, где
 коллеги-аналитики уже обсуждают новость. Обновления уже доступны, так
 что стоит поскорее обновиться.
 

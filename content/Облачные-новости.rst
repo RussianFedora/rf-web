@@ -12,20 +12,20 @@
 
 
 | `Вышел новый релиз OpenStack под кодовым именем
-  "Havana" <http://thread.gmane.org/gmane.comp.cloud.openstack.announce/38>`__.
+  "Havana" <https://thread.gmane.org/gmane.comp.cloud.openstack.announce/38>`__.
 
   Новость уже обсуждается на
-  `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=38198>`__.
+  `OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38198>`__.
 
   Среди изменений cразу хочется выделить включение двух новых
   компонентов, Heat и Ceilometer, которые впервые широкой общественности
   были представлены в `Fedora
-  19 <http://fedoraproject.org/wiki/Features/OpenStack_Grizzly>`__ и
+  19 <https://fedoraproject.org/wiki/Features/OpenStack_Grizzly>`__ и
   `Fedora 18 <https://fedoraproject.org/wiki/Features/Heat>`__. Релиз
   Havana будет полностью доступен в Fedora 20.
 
 | Одновременно были объявлены `результаты
-  выборов <http://thread.gmane.org/gmane.comp.cloud.openstack.announce/39>`__
+  выборов <https://thread.gmane.org/gmane.comp.cloud.openstack.announce/39>`__
   в Технический Комитет OpenStack. Поздравляем наших коллег по
   коммьюнити Fedora - инженера Red Hat и участника проектов Fedora и
   Asterisk, `Russel Bryant <https://www.openhub.net/accounts/russellb>`__
@@ -37,11 +37,11 @@
   `Boris Pavlovic <https://launchpad.net/~boris-42>`__. Ничего, народ,
   не горюйте, а просто в следующий раз пробуйте снова! По виду, конечно,
   они и не думают огорчаться - Boris Pavlovic `официально
-  анонсировал <http://thread.gmane.org/gmane.comp.cloud.openstack.devel/6397>`__
+  анонсировал <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6397>`__
   систему нагрузочного тестирования для OpenStack,
   `Rally <https://wiki.openstack.org/wiki/Rally>`__, а Sergey Lukjanov
   `объявил о
-  доработке <http://thread.gmane.org/gmane.comp.cloud.openstack.devel/6484>`__
+  доработке <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6484>`__
   OpenStack Data Processing (“Savanna”) до полной совместимости с
   Havana.
 
@@ -95,7 +95,7 @@
   одно время с новостью о переходе PayPal на OpenStack, в VMware что-то
   прорвало, и с тех пор их участие только растет. И их сотрудничество с
   коммьюнити уже приносит первые плоды - `Russel Bryant
-  анонсировал <http://thread.gmane.org/gmane.comp.cloud.openstack.devel/6444>`__,
+  анонсировал <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6444>`__,
   что благодаря все большей открытости процесса разработки компании
   бэкенд для VMware перешел из группы C ("наверное иногда работает") в
   группу B ("почти всегда работает"), присоединившись к Xen. В группе A
@@ -113,7 +113,7 @@
   удастся продраться сквозь маркетинговую шелуху пресс-релиза, можно
   сообразить, что компания собирается сесть на очень горячую тематику,
   только начинающую набирать обороты -
-  `SDN <http://ru.wikipedia.org/wiki/Программно-конфигурируемая_сеть>`__
+  `SDN <https://ru.wikipedia.org/wiki/Программно-конфигурируемая_сеть>`__
   в открытых облачных решениях (и в частности OpenStack). Ситуация с SDN
   действительно только начинает развиваться, и самоназванные специалисты
   по SDN в РФ на оффлайновых ивентах не могут ответить на вопросы из
@@ -136,7 +136,7 @@
   является поддержка контейнеров LXC с помощью Docker, о чем `мы вам уже
   рассказывали </content/Короткие-новости-12>`__. Удивительно, но
   кое-кто называет виртуализацию с помощью Docker -
-  `bare-metal <http://ru.wikipedia.org/wiki/Bare_metal>`__! Например
+  `bare-metal <https://ru.wikipedia.org/wiki/Bare_metal>`__! Например
   Randy Bias, CEO компании Cloudscaling `произнес перед наивными
   журналистами <http://www.theregister.co.uk/2013/10/18/openstack_havana/>`__
   следующее:
@@ -165,7 +165,7 @@
   о том, как Red Hat протянула руку помощи зашедшему в технологический
   тупик проекту, переведя его на thin provisioning на основе device
   mapper (`фича Fedora
-  17 <http://fedoraproject.org/wiki/Features/ThinProvisioning>`__), и
+  17 <https://fedoraproject.org/wiki/Features/ThinProvisioning>`__), и
   почему было выбрано именно это решение, а не, например, btrfs.
 
 | И напоследок - у OpenStack теперь доступна `полноценная

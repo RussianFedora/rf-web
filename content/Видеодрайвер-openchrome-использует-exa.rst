@@ -14,7 +14,7 @@
 С поддержкой видеокарт Via в X.org ситуация сейчас непростая - несколько
 конкурирующих видеодрайверов, каждый из которых поддерживает свой набор
 видеокарт, и находится в недописанном состоянии -
-`chrome <http://thread.gmane.org/gmane.linux.drivers.openchrome.devel/389>`__,
+`chrome <https://thread.gmane.org/gmane.linux.drivers.openchrome.devel/389>`__,
 написанный (вернее недописанный) участником проектов OLPC, Gentoo,
 Kernel и Fedora `Daniel Drake <https://www.openhub.net/accounts/dsd>`__,
 `Unichrome <http://cgit.freedesktop.org/~libv/xf86-video-unichrome/>`__,
@@ -41,7 +41,7 @@ ATI/AMD, когда одновременно существовали radeon, ra
 драйверы chrome и unichrome медленно умирают, а via и openvia никто
 толком не видел, в openchrome заметны какие-никакие улучшения. Недавно
 Xavier анонсировал `выход новой
-версии <http://thread.gmane.org/gmane.linux.drivers.openchrome.devel/559>`__,
+версии <https://thread.gmane.org/gmane.linux.drivers.openchrome.devel/559>`__,
 в которой наконец-то осуществлен переход с устаревшей и удаленной из
 X.org системы ускорения XAA на EXA и кое-какие иные улучшения. Пока
 состояние драйвера далеко от совершенства, но пусть будет хоть так, чем

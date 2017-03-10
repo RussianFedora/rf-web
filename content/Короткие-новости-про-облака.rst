@@ -12,7 +12,7 @@
 
 
 `Red Hat запустил программу по сертификации по
-OpenStack <http://www.redhat.com/training/certifications/rhcoe-openstack-iaas/>`__.
+OpenStack <https://www.redhat.com/training/certifications/rhcoe-openstack-iaas/>`__.
 
 Если хотите нанять девопса, кто действительно умеет работать с
 OpenStack, то выбирайте из тех, кто сертифицирован. Ну а если вы хотите
@@ -21,7 +21,7 @@ OpenStack
 Foundation <http://www.openstack.org/marketplace/training/>`__.
 
 `Red Hat объявил о доступности JBoss в своем PaaS решении,
-OpenShift <http://www.redhat.com/about/news/press-archive/2013/9/red-hat-doubles-down-on-enterprise-paas>`__.
+OpenShift <https://www.redhat.com/about/news/press-archive/2013/9/red-hat-doubles-down-on-enterprise-paas>`__.
 
 Black Duck Software, компания, владеющая проектом
 `Ohloh.net <https://www.openhub.net/>`__, приглашает на `вебминар по
@@ -47,7 +47,7 @@ systemd <https://www.getpantheon.com/blog/pantheon-running-over-500000-systemd-u
 прибыль и экономить ресурсы.
 
 `MongoDB получило еще 150 миллионов долларов инвестиций от пула
-инвесторов <http://www.opennet.ru/opennews/art.shtml?num=38084>`__,
+инвесторов <https://www.opennet.ru/opennews/art.shtml?num=38084>`__,
 среди которых и Red Hat. В отличие от других полузакрытых коммерческих
 компаний, те инвестиции, что делаются Red Hat, идут на пользу всему
 коммьюнити, так что новость позитивная! Этот подход и является одной из

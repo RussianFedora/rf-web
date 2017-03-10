@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 `Сайтов, призывающих к бойкоту,
 прибыло <http://www.boycottlinux.org/>`__.
 

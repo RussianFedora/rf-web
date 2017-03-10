@@ -12,5 +12,5 @@
 
 
 `Официально отложили выход еще на
-неделю <http://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/905>`__.
+неделю <https://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/905>`__.
 

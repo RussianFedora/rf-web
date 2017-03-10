@@ -16,7 +16,7 @@
 другие примечательные systemd-события.
 
 Наконец-то вышел первый `полноценный мобильный телефон на базе
-systemd <http://www.opennet.ru/opennews/art.shtml?num=38545>`__ от
+systemd <https://www.opennet.ru/opennews/art.shtml?num=38545>`__ от
 компании Jolla. Ну, если по-честному, то 450 экземпляров первой партии
 выглядит не очень внушительно, но это уже значит, что Jolla продвинулась
 в бесконечное количество раз дальше, чем другая компания, показывающая
@@ -33,7 +33,7 @@ bridge <http://cgit.freedesktop.org/systemd/systemd/commit/?id=02b59d5>`__,
 спасибо разработчику Arch Linux, `Tom
 Gundersen <https://plus.google.com/+TomGundersen/about>`__. Кстати, в
 NetworkManager эта фича `ожидается лишь в Fedora
-20 <http://fedoraproject.org/wiki/Features/NetworkManagerBridging>`__,
+20 <https://fedoraproject.org/wiki/Features/NetworkManagerBridging>`__,
 т.е. в других дистрибутивах можно ожидать лишь к лету-осени 2014 года.
 
 Разработчики проекта

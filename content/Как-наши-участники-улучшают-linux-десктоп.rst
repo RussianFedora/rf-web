@@ -39,7 +39,7 @@ Williams <https://www.openhub.net/accounts/dcbw>`__. Исправления уж
 Участник Fedora KDE SIG `Lukáš
 Tinkl <https://fedoraproject.org/wiki/User:Ltinkl>`__ подводит итог
 тому, что `они за месяц сделали для
-KDE <http://ltinkl.blogspot.ru/2013/07/this-month-july-in-red-hat-kde.html>`__.
+KDE <http://ltinkl.blogspot.com/2013/07/this-month-july-in-red-hat-kde.html>`__.
 
 Среди прочих есть упоминание о фиче Fedora 20, `о которой вы уже
 знаете </content/Новые-фичи-fedora-20>`__ - KDE переводится с KDM на

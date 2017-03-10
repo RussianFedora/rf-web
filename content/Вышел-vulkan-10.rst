@@ -15,7 +15,7 @@
 1.0 <https://www.khronos.org/news/press/khronos-releases-vulkan-1-0-specification>`__.
 
 Новость уже `перевели и обсуждают на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=43887>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=43887>`__.
 
 По словам нашего коллеги, Adam Jackson, Vulkan относится к OpenGL также,
 как и Wayland к X11. Драйверы есть у всех проприетарных вендоров, а `у
@@ -33,14 +33,14 @@ Vulkan <https://www.collabora.com/about-us/blog/2016/02/16/vulkan-1.0-specificat
 Vulkan <https://fosdem.org/2016/schedule/event/vulkan_graphics/>`__, так
 что кому интересно, то обратите внимание:
 `Fedora будет поддерживать
-Vulkan <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/216897>`__,
+Vulkan <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/216897>`__,
 и его уже можно попробовать. Пока не без шероховатостей, к сожалению.
 
 И напоследок, раз уж заговорили о Wayland, то из забавного - `для
 Wayland разработали сетевую
 прозрачность <http://blogs.s-osg.org/wow-wayland-over-wire/>`__ и
 намереваются `добавить в
-upstream <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/26623>`__.
+upstream <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/26623>`__.
 
 Только мы всем доказали, что сетевая прозрачность, это устаревшая
 концепция, и в Wayland она не нужна, и нате вам! Из более полезных

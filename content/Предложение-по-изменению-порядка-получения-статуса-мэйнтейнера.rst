@@ -108,6 +108,6 @@
 
 
 Сейчас его предложение `публично
-обсуждается <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/163310>`__,
+обсуждается <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/163310>`__,
 и Jason планирует представить его на рассмотрение FESCo.
 

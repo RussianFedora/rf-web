@@ -12,7 +12,7 @@
 
 
 | На прошедшем заседании FESCo `одобрили новые
-  фичи <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/166519/focus=166532>`__
+  фичи <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/166519/focus=166532>`__
   Fedora 18:
 
 -  В Fedora 18 будут `новые нескучные 256-цветные

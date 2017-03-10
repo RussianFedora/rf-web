@@ -8,8 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
 .. image:: http://imgs.xkcd.com/comics/supported_features.png
    :align: center
    :target: http://xkcd.com/619/
@@ -19,4 +17,3 @@
 `Josh Boyer <https://fedoraproject.org/wiki/User:Jwboyer>`__ `поднял
 ограничение на количество микропроцессоров в Linux до 8192
 <http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=b53b5ed>`__!
-

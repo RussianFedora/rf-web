@@ -22,7 +22,7 @@ Project <https://fedoraproject.org/wiki/Summer_coding_ideas_for_2015>`__,
 выходы на менторов в интересующих вас проектах.
 
 Заодно `подвели итоги Google Code-In
-2014 <http://google-opensource.blogspot.ru/2015/02/google-code-in-2014-magic-in-numbers.html>`__,
+2014 <http://google-opensource.blogspot.com/2015/02/google-code-in-2014-magic-in-numbers.html>`__,
 аналога GSoC, но для школьников. В этом году команда участников из РФ
 заняла восьмое место по количеству участников (от РФ было 16 человек). У
 лидера, Индии, в программе участвовало более 160 человек, на втором

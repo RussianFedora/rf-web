@@ -1,15 +1,12 @@
 .. title: AMD переходит на ARM
 .. slug: amd-переходит-на-arm
 .. date: 2012-10-30 09:27:10
-.. tags:
+.. tags: amd, arm, hr
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 В продолжение `новостей об
 ARM </content/Прогресс-в-разработке-fedora-для-arm>`__ - теперь `AMD

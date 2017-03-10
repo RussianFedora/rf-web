@@ -44,7 +44,7 @@ Factor <https://ru.wikipedia.org/wiki/Bus_factor>`__ команды
 организационным опытом, что они получили.
 
 `В OpenSSL начиная с Fedora 21 отключили по умолчанию SSL2 и
-SSL3 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/198048>`__.
+SSL3 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/198048>`__.
 
 Это надо было сделать уже давно, но накатившийся вал проблем в открытых
 криптобиблиотеках, и их нынешнее печальное состояние, заставляли
@@ -53,16 +53,16 @@ SSL3 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/198048>`__.
 Небольшая задачка для программистов на Си. Какой тип у char по умолчанию
 - signed или unsigned? Наши коллеги `жалуясь на жестокость этого мира
 делятся своими
-вариантами <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/198031>`__,
+вариантами <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/198031>`__,
 а правильный ответ
 `здесь <https://ajax.fedorapeople.org/is-char-signed-or-not.txt>`__.
 
 Мы потихоньку догоняем другие коммьюнити по возможностям инфраструктуры.
 
 У нас
-`появился <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/198115>`__
+`появился <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/198115>`__
 `Jenkins <http://jenkins.cloud.fedoraproject.org/>`__, и
-`появился <http://thread.gmane.org/gmane.linux.redhat.fedora.test.announce/876>`__
+`появился <https://thread.gmane.org/gmane.linux.redhat.fedora.test.announce/876>`__
 узел для тестирования собранных RPM -
 `Taskotron <https://taskotron.stg.fedoraproject.org/>`__. Это уже в
 ближайшем будущем повысит качество нашего ПО. У нас уже `образы для

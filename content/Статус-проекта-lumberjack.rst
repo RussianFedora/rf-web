@@ -20,7 +20,7 @@ CEE (и `уже включен в Fedora
 созданы библиотеки - `ceelog <https://fedorahosted.org/ceelog/>`__,
 `liblumberlog <https://github.com/deirf/libumberlog>`__, начат переход
 "тяжелых" приложений на CEE-журналирование (например,
-`libvirt <http://thread.gmane.org/gmane.comp.emulators.libvirt/64294>`__).
+`libvirt <https://thread.gmane.org/gmane.comp.emulators.libvirt/64294>`__).
 
 Другой популярный syslog-демон, syslog-ng, начиная с версии 3.3.1, также
 обладает `поддержкой вывода сообщений в виде структурированного

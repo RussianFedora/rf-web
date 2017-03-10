@@ -15,7 +15,7 @@
   Team <https://fedoraproject.org/wiki/Security_Team>`__.
 
   Коллеги-аналитики уже `обсуждают новость на
-  OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40305>`__.
+  OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40305>`__.
 
   Уже состоялось учредительное собрание, на котором `раздали
   задачи <http://meetbot.fedoraproject.org/fedora-meeting-1/2014-07-30/fedora_security_team.2014-07-30-19.00.html>`__:

@@ -15,8 +15,8 @@
   состоялся. В рассылках Fedora `официально
   объявлено <http://lists.fedoraproject.org/pipermail/announce/2012-May/003075.html>`__
   о выходе Fedora 17 Beefy Miracle. Сайт
-  `fedoraproject.org <http://fedoraproject.org/>`__, а образы новой
-  версии `доступны <http://fedoraproject.org/ru/get-fedora>`__ для
+  `fedoraproject.org <https://fedoraproject.org/>`__, а образы новой
+  версии `доступны <https://fedoraproject.org/ru/get-fedora>`__ для
   скачивания. `Обновление с помощью
   yum <http://wiki.russianfedora.pro/index.php?title=Обновление_Fedora_%28или_RFRemix%29_с_помощью_yum>`__
   также возможно.

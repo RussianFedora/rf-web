@@ -1,15 +1,12 @@
 .. title: Короткие новости
 .. slug: Короткие-новости
 .. date: 2013-01-28 13:10:23
-.. tags: secureboot, systemd, kernel, FOSDEM, schedule, libreoffice, fudcon, gnome
+.. tags: secureboot, systemd, kernel, fosdem, schedule, libreoffice, fudcon, gnome
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Опубликовано `интервью с Matthew
 Garrett <https://www.socallinuxexpo.org/blog/interview-matthew-garrett>`__,
@@ -21,7 +18,7 @@ RestrictedBoot.
 systemd <http://0pointer.de/blog/projects/the-biggest-myths>`__. Правда,
 судя по обсуждениям на ведущих отечественных ресурсах, посвященных Linux
 (`LOR <https://www.linux.org.ru/news/linux-general/8774186>`__ и
-`OpenNET <http://www.opennet.ru/opennews/art.shtml?num=35935>`__), его
+`OpenNET <https://www.opennet.ru/opennews/art.shtml?num=35935>`__), его
 противников это не убедило.
 
 Участник ArchLinux `David Herrmann <http://dvdhrm.wordpress.com/about-me/>`__
@@ -84,7 +81,7 @@ Fedora <http://blog.linuxgrrl.com/2013/01/22/fudcon-lawrence-overhauling-the-fed
 Matthias Clasen подготовил `обзор новинок GNOME
 3.8 <http://blogs.gnome.org/mclasen/2013/01/25/gnome-3-7-at-the-halfway-mark/>`__
 (перевод на русский на
-`OpenNET <http://www.opennet.ru/opennews/art.shtml?num=35931>`__). Особо
+`OpenNET <https://www.opennet.ru/opennews/art.shtml?num=35931>`__). Особо
 хочется отметить, что был добавлен "classic" режим. Теперь для любителей
 GNOME 2 есть целая куча разных вариантов (MATE, Cinnamon, и прочие).
 

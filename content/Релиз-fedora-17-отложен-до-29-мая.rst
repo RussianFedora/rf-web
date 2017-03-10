@@ -13,7 +13,7 @@
 
 Между тем релиз Fedora 17 в очередной раз перенесен из-за блокирующих
 ошибок на 29 мая, о чем вы уже могли прочитать `на
-Opennet <http://www.opennet.ru/opennews/art.shtml?num=33874>`__. Ждем с
+Opennet <https://www.opennet.ru/opennews/art.shtml?num=33874>`__. Ждем с
 нетерпением!
 Как и раньше релиз RFRemix 17 состоится в тот же день.
 

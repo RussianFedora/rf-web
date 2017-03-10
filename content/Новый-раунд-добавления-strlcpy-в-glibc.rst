@@ -39,7 +39,7 @@
   варианта <http://www.sourceware.org/ml/libc-alpha/2000-08/msg00053.html>`__,
   т.к. какой смысл предлагать программистам писать кривой код? Но
   проблема была в коде, написанном программистами BSD - `мы насчитали 60
-  программ <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/45138/focus=45154>`__,
+  программ <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/45138/focus=45154>`__,
   написанных с использованием этой функции. При ее отсутствии, программы
   переключаются на некий кое-как набранный самопал, оптимизированный
   плохо, не использующий `последние разработки в
@@ -50,10 +50,10 @@
   strlcpy используется, и ее отсутствие в Glibc, это большая проблема,
   чем ее возможное наличие. Одна из недавних ошибок в SAMBA `была
   вызвана как раз самопальной реализацией
-  strlcpy <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/44482/focus=44527>`__.
+  strlcpy <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/44482/focus=44527>`__.
 
   Принимая все это во внимание, `наши коллеги начали ее включение в
-  Glibc <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/45138>`__.
+  Glibc <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/45138>`__.
 
 | Мы, кстати, рекомендуем обратить внимание на функционал glib, и
   использовать его при возможности:

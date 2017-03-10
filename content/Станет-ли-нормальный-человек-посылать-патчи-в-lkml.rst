@@ -46,7 +46,7 @@ AArch64/ARM64 <http://www.amd.com/en-us/press-releases/Pages/64-bit-developer-ki
 если не видели:
 То, что используется Fedora, нас нисколько не удивило. Другие
 производители, `например
-Cavium <http://thread.gmane.org/gmane.linux.redhat.fedora.arm/7984>`__,
+Cavium <https://thread.gmane.org/gmane.linux.redhat.fedora.arm/7984>`__,
 сотрудничают с нами, чтоб впереди всех конкурентов добиться работы
 Fedora на их оборудовании. Все, разумеется, происходит прозрачно и
 публично, в рамках нашего `Fedora ARM

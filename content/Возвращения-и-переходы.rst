@@ -26,9 +26,9 @@ Debian <http://www.serverwatch.com/server-trends/which-linux-distribution-powers
 последние </content/valve-раздает-бесплатно-свои-игры-разработчикам-debian>`__,
 но почему на Linux-дистрибутив из прошлого тысячеления, а не на,
 например, `недавно вышедшую RHEL
-7 <http://www.redhat.com/about/news/press-archive/2014/6/red-hat-unveils-rhel-7>`__?
+7 <https://www.redhat.com/about/news/press-archive/2014/6/red-hat-unveils-rhel-7>`__?
 Конечно, Debian `вовсю переходит на
-systemd <http://thread.gmane.org/gmane.linux.debian.devel.announce/1920>`__
+systemd <https://thread.gmane.org/gmane.linux.debian.devel.announce/1920>`__
 и внедряет прочие улучшения, но до первых результатов еще довольно
 далеко. Ну да хозяин-барин. Зато разрешился `давно мучавший нас
 вопрос <https://www.linux.org.ru/forum/talks/9345007/page1?#comment-9346281>`__

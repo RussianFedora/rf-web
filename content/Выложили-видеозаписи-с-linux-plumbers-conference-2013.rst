@@ -151,4 +151,4 @@
 .. |image0| image:: http://peter.fedorapeople.org/stuff/pics/laika_small.jpg
    :width: 480px
    :height: 300px
-   :target: http://ru.wikipedia.org/wiki/Лайки
+   :target: https://ru.wikipedia.org/wiki/Лайки

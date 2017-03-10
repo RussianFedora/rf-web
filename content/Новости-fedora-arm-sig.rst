@@ -22,7 +22,7 @@ ARM <http://www.google.com/intl/en/chrome/devices/chromebooks.html#ss-cb>`__,
 другого <https://plus.google.com/106265217227408958782/posts/BYb4G35fcaX>`__
 - какой бы вы выбрали?
 Одновременно `Nicolas
-Chauvet <http://fedoraproject.org/wiki/User:Kwizart>`__ объявил о том,
+Chauvet <https://fedoraproject.org/wiki/User:Kwizart>`__ объявил о том,
 что `начат процесс пересборки репозиториев RPM Fusion для архитектуры
 ARM <http://blog.kwizart.fr/post/2012/11/30/155-RPM-Fusion-for-ARM-now-available>`__.
 

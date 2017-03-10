@@ -23,7 +23,7 @@ GNOME предлагает запускать в контейнерах граф
 <https://blogs.gnome.org/mclasen/2015/01/21/sandboxed-applications-for-gnome/>`__.
 Это потребует полного перехода на Wayland, systemd и kdbus, но это совсем
 другая история. Коллеги-аналитики `уже обсуждают на OpenNET.ru
-<http://www.opennet.ru/opennews/art.shtml?num=41514>`__.
+<https://www.opennet.ru/opennews/art.shtml?num=41514>`__.
 
 
 .. image:: https://hsto.org/getpro/habr/comment_images/ae7/a02/a05/ae7a02a059319a7a85cddf73b67a593c.jpg

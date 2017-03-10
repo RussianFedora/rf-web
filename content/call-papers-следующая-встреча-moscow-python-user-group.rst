@@ -1,15 +1,12 @@
 .. title: Call for Papers - следующая встреча Moscow Python User Group 
 .. slug: call-papers-следующая-встреча-moscow-python-user-group
 .. date: 2014-10-08 14:51:37
-.. tags:
-.. category:
+.. tags: python, yandex, schedule
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Участники Moscow Python User Group планируют следующий meetup (при
 поддержке Яндекса, и на его территории), и `зовут поучаствовать

@@ -13,7 +13,7 @@
 
 | Инженер Red Hat, создатель формата Ogg и аудиокодека Vorbis, участник
   Fedora, `Christopher “Monty”
-  Montgomery <http://en.wikipedia.org/wiki/Chris_Montgomery>`__ выложил
+  Montgomery <https://en.wikipedia.org/wiki/Chris_Montgomery>`__ выложил
   `демонстрацию
   возможностей <http://people.xiph.org/~xiphmont/demo/opus/demo3.shtml>`__
   недавно анонсированного `Opus
@@ -36,7 +36,7 @@
   Domsch <https://www.openhub.net/accounts/mdomsch>`__, в своей `заметке о
   ценности MirrorManager <http://domsch.com/blog/?p=624>`__, `сервисе
   для переадресации обращений yum к ресурсам
-  Fedora <http://fedoraproject.org/wiki/Infrastructure/MirrorManager>`__.
+  Fedora <https://fedoraproject.org/wiki/Infrastructure/MirrorManager>`__.
 
   Проанализировав статистику, оказалось, что 30% запросов благодаря
   MirrorManager даже не попадают в общедоступный интернет,
@@ -138,7 +138,7 @@
   стороны, Drepper сейчас VP в Goldman Sachs, так что надо `сперва
   добиться <http://lurkmore.to/Сперва_добейся>`__. Сейчас эта фича
   проходит `15й цикл обсуждения с инженерами Red Hat, IBM и
-  Novell <http://thread.gmane.org/gmane.comp.lib.glibc.alpha/33404>`__,
+  Novell <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/33404>`__,
   и возможно ее включат в Glibc 2.19, т.е. в Fedora 21 или Fedora 22.
 
 | И еще запоздало о заметке от `Josh
@@ -160,14 +160,14 @@
   в то время как мы хотим изменить пользователей под нас.
 
 | Много новостей о Wayland. Начнем с того, что `вышел Wayland и Weston
-  1.2.0 <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/9955>`__
+  1.2.0 <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/9955>`__
   (русскоязычные аналитики уже обсуждают релиз на
-  `OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=37414>`__ и
+  `OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=37414>`__ и
   `LOR <https://www.linux.org.ru/news/linux-general/9358910>`__). В этом
   релизе появилось много нового, например:
 
 -  Масштабирование на HiDPI дисплеях,
-   `предложенное <http://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/9044>`__
+   `предложенное <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/9044>`__
    участником проектов GNOME и Fedora, `Alexander
    Larrson <https://www.openhub.net/accounts/alexl>`__. Работа была
    проведена в рамках `поддержки дисплеев высокого разрешения в
@@ -205,7 +205,7 @@
   ситуация пока не очень хорошая, т.к. `GTK-программы зачастую
   используют платформо-специфичный API вместо использования только
   платформо-независимых вызовов из
-  тулкита <http://www.opennet.ru/opennews/art.shtml?num=37414>`__. Судя
+  тулкита <https://www.opennet.ru/opennews/art.shtml?num=37414>`__. Судя
   по всему, это какой-то болезненный вопрос для разработчиков под GTK,
   т.к. сначала они со злобой отрицают проблему фактической
   некроссплатформенности своего тулкита, требуя доказательств этого,
@@ -232,7 +232,7 @@
   к концу 2013 года. Это как-то не очень оперативно. Но стоит отметить,
   что благодаря разработчикам этой ОС `в Wayland и в его конкуренте
   появилась возможность использовать видеодрайверы, предназначенные для
-  Android <http://mer-project.blogspot.ru/2013_04_01_archive.html>`__.
+  Android <http://mer-project.blogspot.com/2013_04_01_archive.html>`__.
 
 | Зато разработчики Tizen среагировали более оперативно - в
   анонсированном Tizen IVI (вариант для развлекательных устройств в
@@ -245,5 +245,5 @@
   загрузки, побочная фича systemd, появившаяся в нем благодаря
   правильной архитектуре, очень важно для таких систем (и для мобильных
   и встраиваемых систем в целом), что, например, `подтверждает Wolfgang
-  Denk <http://www.opennet.ru/opennews/art.shtml?num=37151>`__.
+  Denk <https://www.opennet.ru/opennews/art.shtml?num=37151>`__.
 

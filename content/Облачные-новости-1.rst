@@ -12,7 +12,7 @@
 
 
 | `В OpenStack теперь будет
-  Царь <http://thread.gmane.org/gmane.comp.cloud.openstack.devel/33372>`__.
+  Царь <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/33372>`__.
 
   На самом деле будет система царей, которые будут в их зоне
   ответственности помогать Program Technical Lead (PTL).
@@ -29,7 +29,7 @@
   традиционными сетевыми файловыми системами, такими, как NFS, Samba и
   т.п.
 | `Вышел Qemu
-  2.1.1 <http://thread.gmane.org/gmane.comp.emulators.qemu/296189>`__, а
+  2.1.1 <https://thread.gmane.org/gmane.comp.emulators.qemu/296189>`__, а
   проект oVirt Node `выбирает направление дальнейшего
   движения <http://dummdida.tumblr.com/post/97207385480/node-is-moving>`__,
   рассматривая идеи из Project Atomic и systemd.
@@ -53,7 +53,7 @@
   ок, поняли).
 
 | `Cisco выбрала Red Hat
-  OpenShift <http://www.redhat.com/en/about/blog/cisco-and-red-hat-provide-innovation-stack-openshift?utm_content=buffercc04a&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer>`__,
+  OpenShift <https://www.redhat.com/en/about/blog/cisco-and-red-hat-provide-innovation-stack-openshift?utm_content=buffercc04a&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer>`__,
   как платформу для создания систем Internet of Things. Теперь Red Hat и
   systemd будет `не только в вашем
   автомобиле </content/montavista-будет-использовать-systemd-во-встраиваемых-системах>`__,
@@ -93,7 +93,7 @@ from `Tesora <http://vimeo.com/tesora>`__ on
 
 | 
 | К выходу `SystemTap
-  2.6 <http://thread.gmane.org/gmane.linux.systemtap/22712>`__ мы снова
+  2.6 <https://thread.gmane.org/gmane.linux.systemtap/22712>`__ мы снова
   задумались о тестировании. Вот, например, как выглядит рабочий процесс
   тестирования изменения в OpenStack, `который уже начали проклинать
   обычные

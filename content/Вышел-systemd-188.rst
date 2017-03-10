@@ -12,7 +12,7 @@
 
 
 `Вышла новая
-версия <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/6108>`__
+версия <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/6108>`__
 современного загрузчика Linux. Нововведений немного, но одно стоит
 особенно отметить - теперь не надо постоянно дописывать *.service* в
 командах systemctl. Это теперь стало по умолчанию. Готов для десктопа!

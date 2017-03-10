@@ -90,7 +90,7 @@
 Образы RFRemix 24 уже на подходе!
 
 >>> `Загрузить <http://getfedora.org>`__
->>> `Обновление с предыдущих выпусков <http://fedoraproject.org/wiki/Upgrading>`__
+>>> `Обновление с предыдущих выпусков <https://fedoraproject.org/wiki/Upgrading>`__
 >>> `Примечания к выпуску <https://docs.fedoraproject.org/en-US/Fedora/24/html/Release_Notes/>`__
->>> `Известные ошибки <http://fedoraproject.org/wiki/Common_F24_bugs>`__
+>>> `Известные ошибки <https://fedoraproject.org/wiki/Common_F24_bugs>`__
 >>> `Подробности <http://fedoramagazine.org/fedora-24-released/>`__

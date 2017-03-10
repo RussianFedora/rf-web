@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Dan Horák <http://fedoraproject.org/wiki/User:Sharkcz>`__ в почему-то
+`Dan Horák <https://fedoraproject.org/wiki/User:Sharkcz>`__ в почему-то
 не попавшем на Gmane письме предупредил, что они во время работы над
 `Fedora 17 для
 s390 </content/fedora-17-для-s390x>`__

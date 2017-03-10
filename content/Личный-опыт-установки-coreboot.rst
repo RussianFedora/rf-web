@@ -62,9 +62,9 @@ VGA <http://review.coreboot.org/gitweb?p=coreboot.git;a=commitdiff;h=2bdcdb6>`__
 заметно растет со временем.
 
 Стоит сказать, что прямо сейчас идет довольно жаркая дискуссия о
-`будущем <http://thread.gmane.org/gmane.linux.bios/79007>`__ проекта
+`будущем <https://thread.gmane.org/gmane.linux.bios/79007>`__ проекта
 Coreboot, и о его
-`реорганизации <http://thread.gmane.org/gmane.linux.bios/79010>`__. Уже
+`реорганизации <https://thread.gmane.org/gmane.linux.bios/79010>`__. Уже
 сделано довольно много резких заявлений, как о роли коммьюнити и
 коммерческих компаний в проекте, так и о политике проекта в отношений
 различных моделей оборудования, и о многом другом. Мы предлагаем

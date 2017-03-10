@@ -14,7 +14,7 @@
 Наконец-то вышел `OpenStack 2014.2
 Juno <http://www.openstack.org/software/juno/press-release>`__ (новость
 уже `обсуждается на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40851>`__).
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40851>`__).
 
 Интересно сравнить участие компаний по `сравнению с предыдущим 2014.1
 Icehouse <>`__.

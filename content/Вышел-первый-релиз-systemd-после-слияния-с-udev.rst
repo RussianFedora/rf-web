@@ -14,7 +14,7 @@
 | Сегодня `Lennart
   Poettering <https://www.openhub.net/accounts/mezcalero>`__ сообщил о
   `выходе новой версии
-  systemd <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/5133>`__.
+  systemd <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/5133>`__.
 
   В этот раз довольно большой список улучшений, но хотелось бы особенно
   отметить следующее:

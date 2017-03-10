@@ -25,7 +25,7 @@ Vasilyev <http://www.linkedin.com/pub/victor-vasilyev/28/860/233>`__. К
 несчастью, Oracle, после приобретения обанкротившегося Sun, сократила
 многие OSS-проекты, что прямо или косвенно отразилось и на поддержке
 NetBeans в Fedora - Victor `официально
-объявил <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/141771>`__,
+объявил <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/141771>`__,
 что прекращает быть мэйнтейнером этого и многих других Java-приложений.
 
 Частично NetBeans занялся инженер Red Hat `Omair

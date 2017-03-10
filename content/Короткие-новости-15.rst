@@ -13,11 +13,11 @@
 
 В Fedora теперь три основных рабочих направления, в рамках которых из
 общей пакетной базы будут создаваться три продукта - `Fedora
-Server <http://thread.gmane.org/gmane.linux.redhat.fedora.server/124>`__,
+Server <https://thread.gmane.org/gmane.linux.redhat.fedora.server/124>`__,
 `Fedora
-Workstation <http://thread.gmane.org/gmane.linux.redhat.fedora.desktop/8239>`__,
+Workstation <https://thread.gmane.org/gmane.linux.redhat.fedora.desktop/8239>`__,
 `Fedora
-Cloud <http://thread.gmane.org/gmane.linux.redhat.fedora.cloud/2676>`__.
+Cloud <https://thread.gmane.org/gmane.linux.redhat.fedora.cloud/2676>`__.
 
 В эту осень-зиму наш проект будет серьезно изменяться, и не только в
 смене целей с дистрибутива общего пользования на три нишевых продукта,
@@ -26,7 +26,7 @@ Cloud <http://thread.gmane.org/gmane.linux.redhat.fedora.cloud/2676>`__.
 
 Вот, кстати, почему-то прошло незамеченным сентябрьское `обсуждение
 предложения отказаться от
-bugzilla.redhat.com <http://thread.gmane.org/gmane.linux.redhat.fedora.testers/108580>`__,
+bugzilla.redhat.com <https://thread.gmane.org/gmane.linux.redhat.fedora.testers/108580>`__,
 и все заявки по ошибкам вести лишь в багтрекерах апстрима. А недавно наш
 коллега `Jiří
 Eischmann <https://plus.google.com/112174839778779720402/about>`__
@@ -38,7 +38,7 @@ Eischmann <https://plus.google.com/112174839778779720402/about>`__
 Tshimbalanga <https://plus.google.com/103554137795542381325/about>`__
 пожаловался в списке рассылки разработчиков, что `включение пакетов в
 Fedora порой блокируется по нетехническим
-причинам <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/187308>`__.
+причинам <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/187308>`__.
 
 Без всякого сомнения, проблема уже назрела, и в ближайшее время будут
 приняты меры по улучшению ситуации.
@@ -82,11 +82,11 @@ Journald, что открыло совершенно новые возможно
 Участник Fedora, инженер Red Hat и разработчик GCC, GDB и binutils, `Tom
 Tromey <https://www.openhub.net/accounts/tromey>`__ объявил о `переводе
 проектов GDB и binutils с CVS на
-Git <http://thread.gmane.org/gmane.comp.gnu.binutils/63626>`__. Ну что
+Git <https://thread.gmane.org/gmane.comp.gnu.binutils/63626>`__. Ну что
 тут скажешь, лучше поздно, чем никогда.
 
 Rich W.M. Jones `выпустил libguestfs
-1.24 <http://thread.gmane.org/gmane.linux.redhat.fedora.virtualization/2325>`__.
+1.24 <https://thread.gmane.org/gmane.linux.redhat.fedora.virtualization/2325>`__.
 
 Из новинок - новый скрипт для сборки образов виртуальных систем,
 интеграция с systemd (теперь используется Journald), биндинги к golang.

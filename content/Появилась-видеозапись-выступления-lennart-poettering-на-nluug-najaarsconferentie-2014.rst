@@ -13,7 +13,7 @@
 
 Оказалось, что `видеозапись выступления Lennart Poettering на NLUUG
 Najaarsconferentie 2014 </content/Новости-systemd>`__ существует! Как
-подметил `Alexander Patrakov <http://patrakov.blogspot.ru/>`__, довольно
+подметил `Alexander Patrakov <http://patrakov.blogspot.com/>`__, довольно
 пугающе то, что выступающий не знает записывают ли его или нет.
 
 УПД голландцы не осилили выложить правильно видеозапись - вот `прямая

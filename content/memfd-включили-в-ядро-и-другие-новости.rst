@@ -25,7 +25,7 @@ memfd <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?i
 подсистемы Linux, застрявшие в примитивном состоянии начала 1990х.
 
 Следующее что он сделал, это `предложил реализацию системного вызова
-revoke <http://thread.gmane.org/gmane.linux.kernel/1766888>`__,
+revoke <https://thread.gmane.org/gmane.linux.kernel/1766888>`__,
 доступного, например, в OpenBSD. Этот вызов `нам требуется для более
 надежной работы systemd на многопользовательских
 машинах </content/xorg-без-привилегий-суперпользователя>`__. Не секрет,
@@ -50,8 +50,8 @@ userspace-операции). Неужели мы увидим рабочий *um
 Вообще, с этими архитектурными решениями писателей на перле из прошлого
 века постоянно то смешно, то грустно. Например, `не так давно было
 предложено завести persistent-буферы для каждой из консолей
-ядра <http://thread.gmane.org/gmane.linux.kernel/1714779>`__. Так вот,
-`выяснилось <http://thread.gmane.org/gmane.linux.kernel/1714779/focus=1715202>`__,
+ядра <https://thread.gmane.org/gmane.linux.kernel/1714779>`__. Так вот,
+`выяснилось <https://thread.gmane.org/gmane.linux.kernel/1714779/focus=1715202>`__,
 что среди участников коммьюнити Debian, есть такие чудаки, которые
 `всерьез считают это
 security-фичей <http://manpages.debian.org/cgi-bin/man.cgi?query=clear_console>`__.
@@ -65,7 +65,7 @@ security-фичей <http://manpages.debian.org/cgi-bin/man.cgi?query=clear_cons
 Пока, правда, управлять она не умеет, но уже может показывать.
 
 Коллеги-аналитики `уже обсуждают на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40373>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40373>`__.
 
 Инженер Red Hat, Dave Chinner, `в прошлом году ставший мэйнтейнером
 файловой системы XFS </content/xfs-в-rhel-7>`__, серьезно ее
@@ -75,7 +75,7 @@ userspace-приложениями
 
 И напоследок, новость не относящаяся к Fedora напрямую, но касающаяся
 одного из наших основных инструментов - `Git предложили перевести на
-libcurl <http://thread.gmane.org/gmane.comp.version-control.git/255171>`__.
+libcurl <https://thread.gmane.org/gmane.comp.version-control.git/255171>`__.
 
 Это разом сократило 1200 строчек кода вокруг OpenSSL. Ситуация с
 криптобиблиотеками в OSS-коммьюнити стабильно плохая (в основном из-за

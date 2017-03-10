@@ -12,7 +12,7 @@
 
 
 | На собрании FESCo
-  `одобрили <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/167037>`__
+  `одобрили <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/167037>`__
   еще несколько фич будущей Fedora 18:
 
 -  Одобрена отложенная в прошлый раз `интеграция GNOME и

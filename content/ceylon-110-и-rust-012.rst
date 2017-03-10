@@ -15,19 +15,19 @@
 выходе `Ceylon
 1.1.0 <http://ceylon-lang.org/blog/2014/10/09/ceylon-1/>`__. Анонс уже
 `обсуждают коллеги-аналитики на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40796>`__. В
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40796>`__. В
 целом нам кажется интересной идея языка, одинаково хорошо работающего и
 в JVM, и в виртуальной машине JS, например в Node.js. Похоже, что у Red
 Hat есть планы на мобильные приложения - не с этим ли связана `покупка
 Red Hat компании
-FeedHenry <http://www.redhat.com/en/about/press-releases/red-hat-acquire-feedhenry-adds-enterprise-mobile-application-platform>`__?
+FeedHenry <https://www.redhat.com/en/about/press-releases/red-hat-acquire-feedhenry-adds-enterprise-mobile-application-platform>`__?
 Печально, но пока язык Ceylon даже не включен в репозитории Fedora, и
 чтоб попробовать его, нужно собирать самому.
 
 Другой интересный язык, `новая версия которого была недавно
-анонсирована <http://thread.gmane.org/gmane.comp.lang.rust.devel/11188>`__
+анонсирована <https://thread.gmane.org/gmane.comp.lang.rust.devel/11188>`__
 и `уже тоже обсуждается коллегами-аналитиками на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40791>`__, это
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40791>`__, это
 `Rust <http://www.rust-lang.org/>`__. Его не то, что нет в репозиториях,
 но раньше он даже не собирался в Fedora 20 и старше, настолько он
 инновационен. Зато начиная с Fedora 21, и с его версии 0.12 он хоть

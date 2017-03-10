@@ -17,7 +17,7 @@ ArchLinux `David Herrmann <http://dvdhrm.wordpress.com/about-me/>`__
 переименовал dvbe, `о котором мы как-то упоминали
 вскользь </content/Короткие-новости>`__, в SimpleDRM, обновил патчсет и
 `отослал его в
-kernel-мэйллист <http://thread.gmane.org/gmane.linux.kernel/1514588>`__.
+kernel-мэйллист <https://thread.gmane.org/gmane.linux.kernel/1514588>`__.
 
 SimpleDRM, это базовый DRM драйвер для карточек, поддерживающих стандарт
 VESA (т.е. практически для всех), разработанный, чтоб полностью

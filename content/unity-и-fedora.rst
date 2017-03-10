@@ -12,10 +12,10 @@
 
 
 В списке рассылке разработки Fedora `подняли
-вопрос <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/158578>`__,
+вопрос <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/158578>`__,
 насколько сложно включить Unity в Fedora? К сожалению, почти сразу был
 дан `неутешительный
-ответ <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/158578>`__.
+ответ <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/158578>`__.
 
 Оказывается, Unity не только требует пропатченные версии GTK+, Compiz,
 gnome-session, но он еще и не поддерживает Gnome3 версии этих библиотек.

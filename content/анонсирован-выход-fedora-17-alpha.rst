@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Скачать можно здесь <http://fedoraproject.org/get-prerelease>`_
+`Скачать можно здесь <https://fedoraproject.org/get-prerelease>`_
 
 Альфа-версия уже содержит бОльшую часть запланированных фич и позволяет
 разработчикам привлечь всех желающих к тестированию. Как только все найденные
@@ -61,6 +61,6 @@ Resource Manager 1.1.7, JBoss Application Server (AS) 7.
 наиболее передовых опенсорсных облачных технологий: Cloudstack, Eucalyptus и
 OpenNebula.
 
-`Полный список фич Fedora 17 <http://fedoraproject.org/wiki/Releases/17/FeatureList>`_
+`Полный список фич Fedora 17 <https://fedoraproject.org/wiki/Releases/17/FeatureList>`_
 
 `Ночные сборки респинов <http://dl.fedoraproject.org/pub/alt/nightly-composes/>`_

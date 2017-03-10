@@ -21,7 +21,7 @@ Owen Taylor
 `perf.gnome.org <https://perf.gnome.org/>`__. Это CI-система для раннего
 выявления регрессий производительности. `Новость уже обсуждается
 коллегами-аналитиками на
-OpenNET.ru <http://www.opennet.ru/opennews/art.shtml?num=40926>`__.
+OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40926>`__.
 
 На LWN.net, за paywall выложили
 `статью <https://lwn.net/Articles/616859/>`__ про любителей `Cute

@@ -20,7 +20,7 @@ Imagination Technologies в последнее время как будто по
 инженеров для актуализации Fedora MIPS. Это значит, что серьезное
 обсуждение в верхах началось еще раньше. И вот, наконец-то результат -
 `первый неофициальный порт Fedora
-MIPS <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/207993>`__.
+MIPS <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/207993>`__.
 
 Теперь будем ждать, когда MIPS официально объявят очередной secondary
 arch для Fedora.
@@ -33,7 +33,7 @@ MIPS <http://blog.imgtec.com/mips-processors/iot-focused-samsung-artik-1-chip-is
 но и давно и небезуспешно налаживает связи внутри РФ.
 
 Компания уже довольно давно начала зондировать почву в РФ, `переводя
-классическую литературу <http://habrahabr.ru/post/259505/>`__ на
+классическую литературу <https://habrahabr.ru/post/259505/>`__ на
 русский, `обучая студентов
 MIPS-технологиям <http://www.kit-e.ru/events/Imagination-Technologies_30_04_15.php>`__,
 и, как оказалось, уже лет 5 обхаживая производителей микропроцессоров в

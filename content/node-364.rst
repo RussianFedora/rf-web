@@ -12,7 +12,7 @@
 
 
 `Вышел systemd
-196 <http://thread.gmane.org/gmane.comp.sysutils.systemd.devel/7400>`__.
+196 <https://thread.gmane.org/gmane.comp.sysutils.systemd.devel/7400>`__.
 
 Среди улучшений - udev теперь может загружать данные об устройствах из
 базы данных (вместо текстовых файлов), многочисленные улучшения в
@@ -59,7 +59,7 @@ Day <https://plus.google.com/100040579167442382687/about>`__ рассказал
 картинках. Между тем, `Kalev
 Lember <https://www.openhub.net/accounts/klember>`__ сообщает, что
 `обновил GNOME 3 в Fedora 18 до версии
-3.6.2 <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/171054>`__.
+3.6.2 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/171054>`__.
 
 `Rich W.M. Jones <http://people.redhat.com/~rjones/>`__ продолжает
 создавать биндинги для libguestfs. Теперь он `написал биндинг для

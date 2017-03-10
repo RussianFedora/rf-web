@@ -1,41 +1,32 @@
 .. title: 13 марта: Тестовый день USB 3.0
 .. slug: 13-марта-тестовый-день-usb-30
 .. date: 2012-03-13 17:36:32
-.. tags:
-.. category:
+.. tags: testing
+.. category: Тестовые дни Fedora
 .. link:
 .. description:
 .. type: text
 .. author: bookwar
 
-**Это архивная статья**
-
-
 Приглашаем всех желающих принять участие `в
 тестировании <https://fedoraproject.org/wiki/Test_Day:2012-03-13_USB_3.0>`__
-поддержки `стандарта USB 3.0 <http://en.wikipedia.org/wiki/USB_3.0>`__ в
+поддержки `стандарта USB 3.0 <https://en.wikipedia.org/wiki/USB_3.0>`__ в
 Fedora 17.
-
 
 |USB3.0 - порт синего цвета| Для тестирования вам потребуются:
 
 -  порт с поддержкой USB 3.0 - можно опознать по синему цвету (см.
-
    картинку)
 -  флешка с поддержкой USB 3.0
 -  Live-образ с текущей сборкой Fedora 17
    (`скачать <http://alt.fedoraproject.org/pub/alt/nightly-composes/desktop/>`__)
 
-| 
-| Участвовать в тестовом дне можно и после его окончания. Статистика
-  результатов подсчитывается обычно спустя 5-7 дней.
-
+Участвовать в тестовом дне можно и после его окончания. Статистика результатов
+подсчитывается обычно спустя 5-7 дней.
 
 Как обычно все вопросы по участию в тестировании вы можете задать
 непосредственно организаторам тестового дня на IRC-канале
 #fedora-test-day (сервер freenode), либо на Jabber-канале русскоязычной
 поддержки fedora@conference.jabber.ru.
 
-
-.. |USB3.0 - порт синего цвета| image:: http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lenovo_x220.jpg/220px-Lenovo_x220.jpg
-
+.. |USB3.0 - порт синего цвета| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lenovo_x220.jpg/220px-Lenovo_x220.jpg

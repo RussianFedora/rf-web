@@ -12,7 +12,7 @@
 
 
 После того, как `Robyn
-Bergeron <http://fedoraproject.org/wiki/User:Rbergero>`__ повысили до
+Bergeron <https://fedoraproject.org/wiki/User:Rbergero>`__ повысили до
 `лидера
 проекта </content/смена-лидера-проекта-fedora>`__,
 у нее не осталось времени на приглядывание за "фичами" проекта, за тем,

@@ -24,7 +24,7 @@
   Fedora <http://lurkmore.to/Не_все_доживут_до_зимы>`__.
 
 | Наша текущая проблема в том, что несмотря на `стандартизированность
-  RPM <http://en.wikipedia.org/wiki/Linux_Standard_Base#Choice_of_RPM_package_format>`__
+  RPM <https://en.wikipedia.org/wiki/Linux_Standard_Base#Choice_of_RPM_package_format>`__
   и развитость инфраструктуры по управлению пакетами, разработчики
   устанавливают и используют приложения, собранные их исходников, причем
   чаще, чем стоило бы. Дело в в т.ч. и в том, что *прежде, чем пакетами
@@ -38,7 +38,7 @@
 
 | Инженер Red Hat, Jan Zelený, предложил `план улучшения инфраструктуры
   по управлению пакетами в Fedora/RHEL на ближайшую
-  пятилетку <http://thread.gmane.org/gmane.linux.redhat.fedora.devel/186891>`__.
+  пятилетку <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/186891>`__.
 
   Jan разделил пользователей RPM на три группы - существующие
   пользователи, у которых ничего не должно в результате изменений

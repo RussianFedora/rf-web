@@ -8,8 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
 Наши товарищи с огорчением просмотрели это рекламное видео от ARM: Если кто не
 обратил внимание, то примерно с 1 минуты 20 секунды, диктор сообщает об
 очередном из списка преимуществ платформы, и это "не GPL":
@@ -17,7 +15,6 @@
 .. image:: https://lh4.googleusercontent.com/-XgFuYD4A2bo/VUGsQa7DPXI/AAAAAAABGq4/0cAOvsHDerw/15%2B-%2B1
    :align: center
    :target: https://plus.google.com/+VladimirPantelic/posts/DbqmyBGGfiW
-
 
 ARM, что ты делаешь? ARM, прекрати.
 
@@ -33,5 +30,3 @@ ARM, что ты делаешь? ARM, прекрати.
 вопросов.
 
 Такие дела.
-
-

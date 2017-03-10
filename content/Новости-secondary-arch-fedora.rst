@@ -19,7 +19,7 @@
 17 для архитектур PowerPC/PPC64/PPC64v7.
 
 А в это время инженер Calxeda, Mark Langsdorf, представил `патч
-<http://thread.gmane.org/gmane.linux.redhat.fedora.arm/3388>`__ для запуска
+<https://thread.gmane.org/gmane.linux.redhat.fedora.arm/3388>`__ для запуска
 Fedora 17 на серверах их производства, который тут же был принят.
 
 Также надо отметить прошедшее недавно мероприятие - `Linaro
