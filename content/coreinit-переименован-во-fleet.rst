@@ -33,4 +33,3 @@ Fleet в целом принят очень хорошо, и уже был от�
 Kroah-Hartman <https://plus.google.com/111049168280159033135/posts/f7A7tLG4sfT>`__
 и `Lennart
 Poettering <https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/38G8uDHBJ7G>`__.
-

@@ -1,15 +1,12 @@
 .. title: Ceylon 1.1.0 и Rust 0.12
 .. slug: ceylon-110-и-rust-012
 .. date: 2014-10-14 18:42:00
-.. tags:
+.. tags: ceylon, redhat, rust
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Gavin King <https://www.openhub.net/accounts/gavinking>`__ объявил о
 выходе `Ceylon

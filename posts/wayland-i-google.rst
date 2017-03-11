@@ -2,7 +2,7 @@
 .. slug: wayland-i-google
 .. date: 2017-01-24 16:05:14 UTC+03:00
 .. tags: wayland, google
-.. category: wayland
+.. category:
 .. link: 
 .. description: 
 .. type: text

@@ -1,14 +1,12 @@
 .. title: Поздравляем OpenStack с третьей годовщиной!
 .. slug: Поздравляем-openstack-с-третьей-годовщиной
 .. date: 2013-07-25 11:50:29
-.. tags: openstack, clouds, nasa, rackspace, amazon, eucaliptus, apache software foundation, gluster, ceph, riak, ricon, seagate, posix, python. mirantis
+.. tags: openstack, clouds, nasa, rackspace, amazon, eucaliptus, apache software foundation, gluster, ceph, riak, ricon, seagate, posix, python, mirantis
 .. category: статистика
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
 
 19 июля 2010 года NASA и Rackspace `было объявлено о создании OpenStack
 <http://www.serverwatch.com/news/article.php/3893726/Rackspace-NASA-Partner-on-OpenStack-Cloud-Computing-Install.htm>`__.

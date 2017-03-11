@@ -1,15 +1,12 @@
 .. title: CRIU и gdb
 .. slug: criu-и-gdb
 .. date: 2015-04-23 15:41:44
-.. tags:
+.. tags: criu, gdb, parallels, google, 
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Появилась еще одна интересная идея использования CRIU, у которого и так
 перспективы захватывающие.
@@ -60,3 +57,6 @@ gdb по coredump может гораздо меньше. Попечаливши
 
 По результатам работы над задачей, Руслану уже есть кое-что показать!
 
+.. raw:: html
+
+        <script type="text/javascript" src="https://asciinema.org/a/18936.js" id="asciicast-18936" async=""></script>
