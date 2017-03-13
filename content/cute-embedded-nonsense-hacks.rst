@@ -1,19 +1,21 @@
 .. title: "Cute embedded nonsense hacks"
 .. slug: cute-embedded-nonsense-hacks
 .. date: 2014-01-31 00:52:49
-.. tags:
+.. tags: arm, kernel, uefi, acpi, 
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Среди embedded-разработчиков прямо сейчас набирает популярность новый
 слоган:
-|image0|
+
+
+.. image:: http://peter.fedorapeople.org/stuff/pics/i_do_cute_embedded_nonsense_hacks_shirts-r8152a3c7d6fc436d9527ef4a5eb8bb6e_va6lr_512.jpg
+   :align: center
+   :target: http://www.zazzle.com/i_do_cute_embedded_nonsense_hacks_shirts-235828345836439410
+
 Его появление связано со `стандартизацией
 AArch64/ARM64 </content/arm64-те-aarch64-и-непростой-путь-перехода-arm-на-новые-стандарты>`__,
 и история эта - поучительна и интересна.
@@ -58,19 +60,13 @@ AArch64-архитектуре. `Таков
 план <https://plus.google.com/+JonMasters/posts/j5Vdu1LKv3b>`__, о
 котором нам рассказал Jon Masters, и больше никаких **cute embedded
 nonsense hacks**.
-Любители форкнуть и скопипастить
-`сильно <https://plus.google.com/+VladimirPantelic/posts/U14hxc6k194>`__
-`обиделись <https://plus.google.com/+OlofJohansson/posts/E7fGgEnKDWs>`__.
 
-Мы их понимаем, ведь действительно - любой стандарт уменьшает свободу.
+Любители форкнуть и скопипастить `сильно
+<https://plus.google.com/+VladimirPantelic/posts/U14hxc6k194>`__ `обиделись
+<https://plus.google.com/+OlofJohansson/posts/E7fGgEnKDWs>`__.
 
-Но мы не можем позволить и дальше плодить дикий зоопарк прикольных
-хаков, хотя `им и нравится, и
-хочется <https://plus.google.com/+OlofJohansson/posts/Y6aLZmfFeT3>`__.
-
-Пусть лучше делают и носят прикольные майки, лишь бы не мешали
-развиваться стандартам.
-
-
-.. |image0| image:: http://peter.fedorapeople.org/stuff/pics/i_do_cute_embedded_nonsense_hacks_shirts-r8152a3c7d6fc436d9527ef4a5eb8bb6e_va6lr_512.jpg
-   :target: http://www.zazzle.com/i_do_cute_embedded_nonsense_hacks_shirts-235828345836439410
+Мы их понимаем, ведь действительно - любой стандарт уменьшает свободу.  Но мы
+не можем позволить и дальше плодить дикий зоопарк прикольных хаков, хотя `им и
+нравится, и хочется
+<https://plus.google.com/+OlofJohansson/posts/Y6aLZmfFeT3>`__.  Пусть лучше
+делают и носят прикольные майки, лишь бы не мешали развиваться стандартам.
