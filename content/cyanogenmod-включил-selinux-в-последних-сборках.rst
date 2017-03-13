@@ -1,15 +1,12 @@
 .. title: CyanogenMod включил SELinux в последних сборках.
 .. slug: cyanogenmod-включил-selinux-в-последних-сборках
 .. date: 2013-07-20 15:01:47
-.. tags:
+.. tags: android, selinux
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Вы уже могли слышать </content/android-начал-использование-selinux>`__,
 что группой заинтересованных лиц велась работа по интеграции SELinux в
@@ -30,4 +27,3 @@ SELinux <http://www.cyanogenmod.org/blog/this-week-in-cm-july-19-13>`__.
 пользователями тут не обойтись. Главное, `не отключайте
 его <http://stopdisablingselinux.com/>`__, если какое-то кривое
 проприетарное приложение начнет жаловаться.
-
