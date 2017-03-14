@@ -1,15 +1,12 @@
 .. title: Remy DeCausemaker покидает Fedora ради политической карьеры
 .. slug: remy-decausemaker-покидает-fedora-ради-политической-карьеры
 .. date: 2016-06-24 15:53:30
-.. tags:
+.. tags: redhat, hr, политика
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наш коллега, `Remy
 DeCausemaker <https://www.linkedin.com/in/decause>`__, объявил, что
@@ -20,8 +17,11 @@ DeCausemaker <https://www.linkedin.com/in/decause>`__, объявил, что
 профессиональном уровне, так и на любительском, поддерживая других
 политиков и политические организации, и мы всячески приветствуем решение
 Remy и желаем ему удачи!
-|image0|
+.. image:: https://communityblog.fedoraproject.org/wp-content/uploads/2016/03/Decause-and-Bean-Reunited.jpg
+   :align: center
+   :width: 70.0%
+
+.. class:: align-center
+
 **Ralph Bean (в кепке) и Remy DeCausemaker**
 
-.. |image0| image:: https://communityblog.fedoraproject.org/wp-content/uploads/2016/03/Decause-and-Bean-Reunited.jpg
-   :width: 70.0%

@@ -1,15 +1,12 @@
 .. title: Dave Jones уходит из Red Hat!
 .. slug: dave-jones-уходит-из-red-hat
 .. date: 2014-12-19 21:04:22
-.. tags:
+.. tags: redhat, hr, akamai
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 После 11 лет работы мэйнтейнером ядра нескольких релизов RHEL и 21
 релиза Fedora, `Dave Jones <https://www.openhub.net/accounts/davej>`__

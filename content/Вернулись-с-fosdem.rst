@@ -1,15 +1,12 @@
 .. title: Вернулись с FOSDEM
 .. slug: Вернулись-с-fosdem
 .. date: 2014-02-04 14:02:24
-.. tags:
-.. category:
+.. tags: fosdem, devconf.cz
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Часть наших коллег наконец-то вернулась с FOSDEM. Это был очень
 интересный ивент, и те из нас, кто были на нем впервые, сильно жалеют,

@@ -1,15 +1,12 @@
 .. title: Karen Sandler присоединяется к Software Freedom Conservancy
 .. slug: karen-sandler-присоединяется-к-software-freedom-conservancy
 .. date: 2014-04-01 11:03:47
-.. tags:
+.. tags: hr
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Karen Sandler <https://en.wikipedia.org/wiki/Karen_Sandler>`__
 присоединяется к `Software Freedom
@@ -22,4 +19,3 @@ GNOME Foundation, ни в `The Outreach Program for
 Women <https://gnome.org/opw/>`__, хотя `пост исполнительного директора
 GNOME Foundation она
 покидает <https://mail.gnome.org/archives/foundation-list/2014-March/msg00077.html>`__.
-

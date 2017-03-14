@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 `Pieter Hintjens <https://en.wikipedia.org/wiki/Pieter_Hintjens>`__
 сообщил в своем Твиттере, что `его дни
 сочтены <https://twitter.com/hintjens/status/722363791393075200>`__. Мы
@@ -40,5 +37,7 @@ Message-oriented Middleware, и `к которым было много
 
 .. image:: https://jaxenter.com/wp-content/uploads/2015/07/BoeAWxjB_400x400-300x300.jpeg
    :align: center
+
+.. class:: align-center
 
 **Кот и Pieter Hintjens**

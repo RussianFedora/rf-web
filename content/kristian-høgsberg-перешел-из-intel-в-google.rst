@@ -1,15 +1,12 @@
 .. title: Kristian Høgsberg перешел из Intel в Google
 .. slug: kristian-høgsberg-перешел-из-intel-в-google
 .. date: 2016-07-14 18:34:48
-.. tags: wayland, hr, google
+.. tags: intel, wayland, hr, google
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Kristian
 Høgsberg <https://plus.google.com/100409717163242445476/about>`__,

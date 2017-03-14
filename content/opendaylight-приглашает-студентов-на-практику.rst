@@ -1,15 +1,12 @@
 .. title: OpenDaylight приглашает студентов на практику
 .. slug: opendaylight-приглашает-студентов-на-практику
 .. date: 2014-04-11 11:41:02
-.. tags:
+.. tags: sdn, opendaylight, летняя практика
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Проект открытой SDN, `OpenDaylight <http://www.opendaylight.org/>`__, в
 котором принимают участие `лидеры
@@ -21,4 +18,3 @@
 по 6000$ каждому (в случае успешного выполнения предложеннной работы).
 
 Работать придется удаленно.
-

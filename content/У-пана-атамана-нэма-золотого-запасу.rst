@@ -1,16 +1,12 @@
 .. title: У пана атамана нэма золотого запасу!
 .. slug: У-пана-атамана-нэма-золотого-запасу
 .. date: 2014-04-13 16:08:48
-.. tags:
+.. tags: gnome
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 У GNOME Foundation `кончились
 деньги <https://thread.gmane.org/gmane.comp.gnome.foundation.general/9824>`__.
-

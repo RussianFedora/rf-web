@@ -1,15 +1,12 @@
 .. title: Вновь усиливается Java-команда (и Ruby)
 .. slug: Вновь-усиливается-java-команда-и-ruby
 .. date: 2012-05-25 18:03:18
-.. tags:
+.. tags: hr, redhat, java, ruby
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Компания Engine Yard
 `объявила <http://www.engineyard.com/blog/2012/engine-yard-is-teaming-with-red-hat-on-jruby-2/>`__,
@@ -21,4 +18,3 @@ Nutter <https://plus.google.com/101599370339210456684/about>`__ и
 пойдет на пользу Fedora - так всегда бывает со специалистами,
 нанимаемыми Red Hat. И конечно спустя некоторое время их улучшения будут
 доступны и в других дистрибутивах.
-
