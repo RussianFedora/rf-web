@@ -1,15 +1,12 @@
 .. title: Matthew Garett покидает Red Hat (но не Fedora)
 .. slug: matthew-garett-покидает-red-hat-но-не-fedora
 .. date: 2012-11-11 10:53:01
-.. tags:
+.. tags: redhat, hr, nebula
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Matthew `объявил <http://mjg59.dreamwidth.org/19695.html>`__, что он
 уходит из Red Hat в `Nebula <http://www.nebula.com/>`__. К всеобщей
@@ -24,4 +21,3 @@ Nocera <https://www.openhub.net/accounts/hadess>`__ объявил, что
 France <http://www.hadess.net/2012/11/jobs-change.html>`__. Будете в
 Лионе, заходите к нему в гости - он с удовольствием поболтает вечером о
 GNOME за пивком (он уже нашел там английский паб).
-

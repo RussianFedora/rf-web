@@ -1,15 +1,12 @@
 .. title: Серьезно перетряхнуло Basho
 .. slug: Серьезно-перетряхнуло-basho
 .. date: 2014-03-12 00:05:31
-.. tags:
+.. tags: basho, nosql, riak, hr, twitter, vmware
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Интересные новости от `Basho <http://basho.com/>`__,
 компании-разработчика NoSQL-базы, `Riak <http://basho.com/riak/>`__, и

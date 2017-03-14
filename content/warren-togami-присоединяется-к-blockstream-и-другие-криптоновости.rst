@@ -1,15 +1,12 @@
 .. title: Warren Togami присоединяется к Blockstream, и другие криптоновости
 .. slug: warren-togami-присоединяется-к-blockstream-и-другие-криптоновости
 .. date: 2015-06-07 13:35:56
-.. tags:
-.. category:
+.. tags: bitcoin, hr, blockstream, security, cryptography, virtualization, kernel, qemu, испортозамещение, политика, ГОСТ, openssl
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Официально
 анонсировано <https://blockstream.com/2015/05/27/welcoming-new-members-of-team-blockstream/>`__,
@@ -25,13 +22,12 @@ Bitcoin-стартапу, `Blockstream <https://blockstream.com/>`__. Напом
 реализации во всех мелочах. А с реализацией у нас все хорошо, и наши
 коллеги видят проблемы за годы до того, как их видит большинство.
 
-Например, именно `Red Hat паравиртуализировала ГСЧ в
-виртуалках <http://rhelblog.redhat.com/2015/03/09/red-hat-enterprise-linux-virtual-machines-access-to-random-numbers-made-easy/>`__,
-причем, как обычно, `технология была массово обкатана в
-Fedora <https://fedoraproject.org/wiki/Features/Virtio_RNG>`__.
-
-Добавление шло в два этапа - `сначала в
-ядро <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=f7f510e>`__,
+Например, именно `Red Hat паравиртуализировала ГСЧ в виртуалках
+<http://rhelblog.redhat.com/2015/03/09/red-hat-enterprise-linux-virtual-machines-access-to-random-numbers-made-easy/>`__,
+причем, как обычно, `технология была массово обкатана в Fedora
+<https://fedoraproject.org/wiki/Features/Virtio_RNG>`__.  Добавление шло в два
+этапа - `сначала в ядро
+<https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=f7f510e>`__,
 затем `в Qemu <http://git.qemu.org/?p=qemu.git;a=commit;h=16c915b>`__.
 
 Тут самое время напомнить, `как подобные проблемы решают в других

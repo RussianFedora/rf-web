@@ -1,15 +1,12 @@
 .. title: Dave Jones вновь меняет работу.
 .. slug: dave-jones-вновь-меняет-работу
 .. date: 2015-08-12 13:43:34
-.. tags:
+.. tags: redhat, hr, akamai, facebook, peforce
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Когда `Dave Jones <https://www.openhub.net/accounts/davej>`__ объявил в
 декабре 2014, что `он уходит из Red

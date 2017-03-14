@@ -1,15 +1,12 @@
 .. title: Oded Gabbay присоединяется к Red Hat
 .. slug: oded-gabbay-присоединяется-к-red-hat
 .. date: 2015-08-11 13:45:03
-.. tags:
+.. tags: redhat, hr, amd, powerpc
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 К команде Red Hat и к проекту Fedora присоединился еще один широко
 известный в узких кругах разработчик - `Oded
@@ -21,4 +18,3 @@ POWER-архитектуры <https://thread.gmane.org/gmane.linux.redhat.fedora
 
 Помимо этого он еще и действующий разработчик и release manager
 библиотеки pixman, мэйнтейнером которой он будет в Fedora.
-

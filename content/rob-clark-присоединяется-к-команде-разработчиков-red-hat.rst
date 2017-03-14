@@ -1,7 +1,7 @@
 .. title: Rob Clark присоединяется к команде разработчиков Red Hat
 .. slug: rob-clark-присоединяется-к-команде-разработчиков-red-hat
 .. date: 2013-02-15 14:05:19
-.. tags:
+.. tags: redhat, hr, arm, 
 .. category:
 .. link:
 .. description:
@@ -21,7 +21,7 @@
 X.org, Mesa, Wayland, Kernel. Все участники `Fedora ARM
 SIG <https://fedoraproject.org/wiki/Architectures/ARM>`__ очень этому
 рады и уже начали праздновать:
-|image0|
 
-.. |image0| image:: http://peter.fedorapeople.org/stuff/3.jpg
+.. image:: http://peter.fedorapeople.org/stuff/3.jpg
+   :align: center
 

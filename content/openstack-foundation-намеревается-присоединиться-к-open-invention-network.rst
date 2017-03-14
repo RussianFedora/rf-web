@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Участник Fedora и член технического комитета OpenStack, `Mark
 McLoughlin <https://www.openhub.net/accounts/markmc>`__ опубликовал
 `очередной отчет об OpenStack Foundation Board

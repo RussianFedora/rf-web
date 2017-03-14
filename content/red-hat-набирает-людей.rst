@@ -1,25 +1,21 @@
 .. title: Red Hat набирает людей!
 .. slug: red-hat-набирает-людей
 .. date: 2015-01-22 15:38:17
-.. tags:
+.. tags: redhat, hr, gnome
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
+`Christian Schaller <https://www.openhub.net/accounts/Uraeus>`__ в своем блоге
+`объявил
+<http://blogs.gnome.org/uraeus/2015/01/21/want-to-join-our-innovative-development-team-doing-cool-open-source-software/>`__
+о массовом наборе (6-7 человек) на работу по улучшению десктопного линукса.
 
-
-| `Christian Schaller <https://www.openhub.net/accounts/Uraeus>`__ в
-  своем блоге
-  `объявил <http://blogs.gnome.org/uraeus/2015/01/21/want-to-join-our-innovative-development-team-doing-cool-open-source-software/>`__
-  о массовом наборе (6-7 человек) на работу по улучшению десктопного
-  линукса.
-
-| Вместо формального списка требований, Christian опубликовал список
-  пожеланий к будущим сотрудникам. Чем больше пунктов подходит, тем
-  лучше для кандидата. Список довольно обширен:
+Вместо формального списка требований, Christian опубликовал список пожеланий к
+будущим сотрудникам. Чем больше пунктов подходит, тем лучше для кандидата.
+Список довольно обширен:
 
 -  Able to program in C
 -  Able to program in Ruby
@@ -50,11 +46,8 @@
 -  Experience with Red Hat Enterprise Linux
 -  Experience with GNOME
 
-| 
-| Чтобы лучше понимать, какие задачи предстоит решать, Christian
-  предлагает `ознакомиться с десктопными
-  фичами <http://blogs.gnome.org/uraeus/2015/01/19/planning-for-fedora-workstation-22/>`__,
-  которые запланированы на Fedora 22. Если вы хотите поработать над
-  этими или схожими задачами, то напишите ему по почте
-  cschalle(at)redhat(dot)com.
-
+Чтобы лучше понимать, какие задачи предстоит решать, Christian предлагает
+`ознакомиться с десктопными фичами
+<http://blogs.gnome.org/uraeus/2015/01/19/planning-for-fedora-workstation-22/>`__,
+которые запланированы на Fedora 22. Если вы хотите поработать над этими или
+схожими задачами, то напишите ему по почте cschalle(at)redhat(dot)com.

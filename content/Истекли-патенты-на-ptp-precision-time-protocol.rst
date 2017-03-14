@@ -1,15 +1,12 @@
 .. title: Истекли патенты на PTP (Precision Time Protocol)
 .. slug: Истекли-патенты-на-ptp-precision-time-protocol
 .. date: 2012-09-21 14:18:31
-.. tags: патенты, legal
+.. tags: патенты, legal, ptp, ntp
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `PTP <https://en.wikipedia.org/wiki/Precision_Time_Protocol>`__, это протокол
 для точной синхронизации времени в компьютерной сети, находящийся по точности

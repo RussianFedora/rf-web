@@ -1,7 +1,7 @@
 .. title: Jeff Garzik покидает Red Hat и kernel.
 .. slug: jeff-garzik-покидает-red-hat-и-kernel
 .. date: 2013-05-04 09:54:26
-.. tags:
+.. tags: redhat, kernel, hr, bitcoin, bitpay
 .. category:
 .. link:
 .. description:
