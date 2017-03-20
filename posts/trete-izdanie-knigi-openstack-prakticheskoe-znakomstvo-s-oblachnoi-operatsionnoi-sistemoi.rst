@@ -13,7 +13,7 @@
 <http://markelov.blogspot.com/p/openstack.html>`__ под авторством нашего
 товарища и коллеги, Андрея Маркелова!
 
-.. image:: https://4.bp.blogspot.com/-S_-rUUG1wBw/WMGYcRqWNUI/AAAAAAAACEI/JxeKymscqsI_wLzHhitpsO1FfbGxTUERwCLcB/s640/3edition_full.png
+.. image:: /images/3edition_full.png
    :align: center
 
   Открыт предзаказ на третье издание книги, посвящённой практическим вопросам применения OpenStack.
