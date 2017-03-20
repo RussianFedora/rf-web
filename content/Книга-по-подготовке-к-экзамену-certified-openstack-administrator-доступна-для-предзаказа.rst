@@ -19,7 +19,7 @@
    :height: 200px
    :target: https://2.bp.blogspot.com/-1_w2ct3ug1k/V5nveyVKIqI/AAAAAAAAB_g/ObMp9gOmXH0k-6HzaYFlqGbO18jCUJJsACPcB/s1600/0COA.jpg
 
-::
+..
     Моя новая книга над которой я работал последние пол-года `доступна для
     предварительного заказа <http://www.apress.com/9781484221242?gtmf=c>`__ на
     сайте издательства Apress.com. По плану она выходит 30 ноября 2016 года.
