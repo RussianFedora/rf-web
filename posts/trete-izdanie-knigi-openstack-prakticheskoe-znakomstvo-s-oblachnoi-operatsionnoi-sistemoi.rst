@@ -1,0 +1,28 @@
+.. title: Третье издание книги "OpenStack. Практическое знакомство с облачной операционной системой."
+.. slug: trete-izdanie-knigi-openstack-prakticheskoe-znakomstvo-s-oblachnoi-operatsionnoi-sistemoi
+.. date: 2017-03-20 16:01:15 UTC+03:00
+.. tags: книга, openstack
+.. category: начинающим
+.. link: 
+.. description: 
+.. type: text
+.. author: Peter Lemenkov
+
+Уже очень скоро выходит  `третье издание книги "OpenStack. Практическое
+знакомство с облачной операционной системой."
+<http://markelov.blogspot.com/p/openstack.html>`__ под авторством нашего
+товарища и коллеги, Андрея Маркелова!
+
+.. image:: https://4.bp.blogspot.com/-S_-rUUG1wBw/WMGYcRqWNUI/AAAAAAAACEI/JxeKymscqsI_wLzHhitpsO1FfbGxTUERwCLcB/s640/3edition_full.png
+   :align: center
+
+  Открыт предзаказ на третье издание книги, посвящённой практическим вопросам применения OpenStack.
+
+  - Обновлены главы по основным сервисам OpenStack, в соответствии с изменениями на начало 2017 года (версия Newton) + 20 страниц.
+  - Переработана глава о сервисе идентификации Keystone.
+  - Расширены главы, посвящённые сервису сети Neutron и порядку работы с виртуальными машинами из командной строки.
+  - Значительно переработана глава, посвящённая сервису телеметрии, в соответствии с тем, что сервис оповещения (Aodh) выделен в отдельный проект.
+ 
+  `Оглавление и первая глава <http://dmkpress.com/files/PDF/978-5-97060-520-2.pdf>`_.
+
+  `Предзаказ <http://dmkpress.com/catalog/computer/os/978-5-97060-520-2/>_.
