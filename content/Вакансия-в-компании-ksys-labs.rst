@@ -44,7 +44,7 @@
 
     Резюме читаю на почте sartakov@ksyslabs.org и job@ksyslabs.org
 
-.. image:: http://i.imgur.com/HhTef.gif
+.. image:: /images/i_know_some_of_these_words.gif
    :align: center
 
 От себя добавим, что это - широко известная в узких кругах компания, которая не
