@@ -18,7 +18,7 @@
 Под основными дистрибутивами Jon имеет в виду только Fedora, но другие
 подтянутся - они, как обычно, отстают.
 
-.. image:: ./images/standartizing_arch.jpg
+.. image:: /images/standartizing_arch.jpg
    :align: center
 
 И вот, неожиданно, Jon анонсировал в своей ленте Google+ новое начинание. Он
@@ -38,5 +38,5 @@ IBM, внезапно заинтересовался достижениями Jo
 AArch64 и `решил пригласить его в коммьюнити OpenPOWER
 <https://plus.google.com/114716897387320255244/posts/NUcSG3p9CYb>`__.
 
-.. image:: ./images//kiselyov-2014_71655903_orig_.jpg
+.. image:: /images/kiselyov-2014_71655903_orig_.jpg
    :align: center
