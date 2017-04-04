@@ -9,13 +9,12 @@
 .. author: Peter Lemenkov
 
 Наши знакомые из научно-производственной компании `ksys labs
-<http://ksyslabs.ru/>`__ ищут Linux Engineer в столице:
+<http://ksyslabs.ru/>`__ ищут `Linux Engineer в столице <https://www.linux.org.ru/forum/job/8896332>`_:
 
-    `В небольшую организацию (ksys labs, http://ksyslabs.ru) требуется
+    В небольшую организацию (`ksys labs <http://ksyslabs.ru>`_) требуется
     универсальный Linux Engineer.
 
     Обязанности:
-     <https://www.linux.org.ru/forum/job/8896332>`__
 
     - Поддержка и развитие Linux дистрибутива/BSP для PowerPC/ARM/x86 платформ.
 
