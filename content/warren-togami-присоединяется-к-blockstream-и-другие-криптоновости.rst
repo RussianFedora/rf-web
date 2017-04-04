@@ -1,7 +1,7 @@
 .. title: Warren Togami присоединяется к Blockstream, и другие криптоновости
 .. slug: warren-togami-присоединяется-к-blockstream-и-другие-криптоновости
 .. date: 2015-06-07 13:35:56
-.. tags: bitcoin, hr, blockstream, security, cryptography, virtualization, kernel, qemu, испортозамещение, политика, ГОСТ, openssl
+.. tags: bitcoin, hr, blockstream, security, cryptography, virtualization, kernel, qemu, импортозамещение, политика, ГОСТ, openssl
 .. category: мероприятия
 .. link:
 .. description:

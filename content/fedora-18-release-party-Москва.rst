@@ -8,9 +8,6 @@
 .. type: text
 .. author: bookwar
 
-**Это архивная статья**
-
-
 Уважаемые москвичи и гости столицы, приглашаем вас принять участие в
 Fedora 18 Release Party!
 
@@ -47,4 +44,3 @@ Fedora 18 Release Party!
 jabber-канал `fedora@conference.jabber.ru
 <http://jc.jabber.ru/search.html?search=fedora>`__ (вариант с Google Hangouts
 также рассматривается).
-

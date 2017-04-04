@@ -1,15 +1,12 @@
 .. title: Red Hat теперь участник Node.js и другие новости
 .. slug: red-hat-теперь-участник-nodejs-и-другие-новости
 .. date: 2015-10-15 17:34:43
-.. tags: redhat, node.js, microsoft, rust, ocaml, centos
+.. tags: redhat, node.js, microsoft, rust, ocaml, powerpc, apple, sony, ibm, centos, arm
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Red Hat стал платиновым корпоративным спонсором коммьюнити
 Node.js <https://nodejs.org/en/blog/announcements/welcome-redhat/>`__,
@@ -64,4 +61,3 @@ upstream-бэкенда <https://thread.gmane.org/gmane.linux.redhat.fedora.deve
 платформ - `CentOS уже появился для i686, и скоро появится для ppc64 /
 ppc64le <https://arrfab.net/posts/2015/Sep/24/centos-altarch-sig-status/>`__.
 Работа по сборке CentOS под armv7hl также почти закончена.
-
