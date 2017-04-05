@@ -1,7 +1,7 @@
 .. title: Autoreconf -ivf вместо ./configure
 .. slug: autoreconf-ivf-вместо-configure
 .. date: 2015-02-09 15:25:52
-.. tags: security, debian, bitcoin
+.. tags: security, debian, bitcoin, autotools
 .. category: Fedora Changes
 .. link:
 .. description:
