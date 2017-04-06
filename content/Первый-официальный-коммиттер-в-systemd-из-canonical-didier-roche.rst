@@ -1,7 +1,7 @@
 .. title: Первый официальный коммиттер в systemd из Canonical - Didier Roche
 .. slug: Первый-официальный-коммиттер-в-systemd-из-canonical-didier-roche
 .. date: 2014-12-03 12:49:52
-.. tags:
+.. tags: canonical, systemd, genivi, gnome, ubuntu phone
 .. category:
 .. link:
 .. description:

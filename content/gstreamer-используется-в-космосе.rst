@@ -1,15 +1,12 @@
 .. title: GStreamer используется в космосе!
 .. slug: gstreamer-используется-в-космосе
 .. date: 2014-09-04 18:07:33
-.. tags:
+.. tags: gstreamer
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 С удовольствием узнали, что `GStreamer используется в одном из проектов
 European Space

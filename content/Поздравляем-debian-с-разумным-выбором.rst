@@ -1,15 +1,12 @@
 .. title: Поздравляем Debian с разумным выбором!
 .. slug: Поздравляем-debian-с-разумным-выбором
 .. date: 2013-10-24 17:32:44
-.. tags:
+.. tags: debian, systemd, gnome, kde, enlightenment, ubuntu, canonical, upstart
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `**systemd effectively mandatory now due to
 GNOME** <https://thread.gmane.org/gmane.linux.debian.devel.general/187417>`__

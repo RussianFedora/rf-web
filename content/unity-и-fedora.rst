@@ -1,15 +1,12 @@
 .. title: Unity и Fedora
 .. slug: unity-и-fedora
 .. date: 2012-01-26 22:00:41
-.. tags:
+.. tags: unity, gtk, gnome, compiz
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 В списке рассылке разработки Fedora `подняли
 вопрос <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/158578>`__,

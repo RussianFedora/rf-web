@@ -1,15 +1,12 @@
 .. title: Koji в облаках и прочие малые новости
 .. slug: koji-в-облаках-и-прочие-малые-новости
 .. date: 2012-11-06 09:57:12
-.. tags:
+.. tags: koji, unity, gnome, cinnamon, mate, libvirt, security
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Mohammed Morsi <http://www.linkedin.com/in/mmorsi>`__ сделал подробную
 инструкцию о том, `как развернуть Koji в
