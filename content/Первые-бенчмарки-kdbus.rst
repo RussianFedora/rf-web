@@ -1,15 +1,12 @@
 .. title: Первые бенчмарки kdbus
 .. slug: Первые-бенчмарки-kdbus
 .. date: 2014-01-19 01:20:25
-.. tags:
+.. tags: kdbus, systemd, canonical
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Lennart Poettering в рассылке
 `dbus@lists.freedesktop.org <http://lists.freedesktop.org/mailman/listinfo/dbus>`__
@@ -31,7 +28,10 @@ glib <https://github.com/lukasz-skalski/glib-kdbus>`__, сообщил, что
 D-Bus <https://thread.gmane.org/gmane.comp.freedesktop.dbus/15499/focus=15670>`__.
 
 Из тестов складывается очень интересная картина (чем меньше, тем лучше):
-|image0|
+
+.. image:: http://peter.fedorapeople.org/stuff/kdbus_benchmark.png
+   :align: center
+
 +----------------+---------------------------+----------------------+
 | Message size   | Elapsed time              | Elapsed time         |
 |                | GLIB WITH KDBUS SUPPORT   | GLIB + DBUS DAEMON   |
@@ -67,6 +67,3 @@ passing (типизованными сообщениями) через kdbus. Э
 повысит надежность всей системы, и у нас постепенно появляется
 возможность сильнее изолировать runtime-компоненты. Практически
 `Unix-way Reloaded <https://ru.wikipedia.org/wiki/Философия_UNIX>`__!
-
-.. |image0| image:: http://peter.fedorapeople.org/stuff/kdbus_benchmark.png
-

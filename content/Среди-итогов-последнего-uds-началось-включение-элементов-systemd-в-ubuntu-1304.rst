@@ -1,15 +1,12 @@
 .. title: Среди итогов последнего UDS - началось включение элементов systemd в Ubuntu 13.04
 .. slug: Среди-итогов-последнего-uds-началось-включение-элементов-systemd-в-ubuntu-1304
 .. date: 2012-11-12 13:28:22
-.. tags:
+.. tags: canonical, ubuntu, systemd, gnome
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Не то, чтобы это кого-то из Fedora Community удивило, но очередной рубеж
 взят. На прошедшем Ubuntu Developer Summit `Jason
@@ -46,4 +43,3 @@ monit).
 В целом, нельзя не поприветствовать долгожданное присоединение Canonical
 к числу тех, кто начал внедрение systemd. Уверены, что это их решение
 положительно скажется на качестве Ubuntu.
-

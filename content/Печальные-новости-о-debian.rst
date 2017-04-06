@@ -1,15 +1,12 @@
 .. title: Печальные новости о Debian
 .. slug: Печальные-новости-о-debian
 .. date: 2013-10-28 21:54:02
-.. tags:
+.. tags: debian. upstart, systemd, bsd, hurd, openrc, canonical, cgroups, kdbus, wayland, mir, unity
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Только мы `похвалили их за правильный
 выбор </content/Поздравляем-debian-с-разумным-выбором>`__, как они

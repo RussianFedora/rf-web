@@ -1,7 +1,7 @@
 .. title: Самодостаточные пакеты
 .. slug: Самодостаточные-пакеты
 .. date: 2016-06-17 15:23:03
-.. tags:
+.. tags: canonical, flatpack, snap
 .. category:
 .. link:
 .. description:
@@ -27,7 +27,9 @@ Canonical <https://insights.ubuntu.com/2016/06/14/universal-snap-packages-launch
 восприняли анонс с также традиционным
 недоумением <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/220046>`__.
 
-|image0|
+.. image:: http://risovach.ru/upload/2016/06/mem/kuau_116588860_orig_.jpg
+   :align: center
+
 К сожалению, только социально-организационными проблемами тут не
 обошлось. Коллеги-аналитики с различных Linux-ресурсов восприняли анонс,
 как "все пакеты устарели, и теперь разработчики ПО будут сами все
@@ -47,7 +49,3 @@ OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=44611>`__).
 `сказочно порой ведут себя
 разработчики <https://twitter.com/DaveManouchehri/status/729453383799738369>`__,
 это совершенно отдельный разговор.
-
-
-.. |image0| image:: http://risovach.ru/upload/2016/06/mem/kuau_116588860_orig_.jpg
-

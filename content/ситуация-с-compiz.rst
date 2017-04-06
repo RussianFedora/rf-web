@@ -1,15 +1,12 @@
 .. title: Ситуация с Compiz
 .. slug: ситуация-с-compiz
 .. date: 2012-02-04 21:27:42
-.. tags:
+.. tags: compiz, ubuntu, unity, canonical
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Недавно посетители сайта OpenNET.ru были удивлены тем, что `Compiz и
 NetBeans не войдут в Fedora
