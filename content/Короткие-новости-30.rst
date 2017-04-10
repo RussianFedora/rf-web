@@ -1,15 +1,12 @@
 .. title: Короткие новости
 .. slug: Короткие-новости-30
 .. date: 2014-09-04 19:11:37
-.. tags: redhat, hr, gcc, coreos, sdn, genode, microkernel, igalia, патенты, legal, canonical, ubuntu, android
+.. tags: redhat, hr, gcc, coreos, sdn, ksyslabs, genode, microkernel, igalia, pflua, lua, snabb, патенты, legal, canonical, ubuntu, android
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Оказывается, `уже прошел
 год <http://marcin.juszkiewicz.com.pl/2014/09/01/year-at-red-hat/>`__,

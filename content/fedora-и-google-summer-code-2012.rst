@@ -1,15 +1,12 @@
 .. title: Fedora и Google Summer of Code 2012
 .. slug: fedora-и-google-summer-code-2012
 .. date: 2012-03-17 01:17:55
-.. tags:
+.. tags: gsoc, начинающим, летняя практика
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Только что анонсировали `утвержденный список
 проектов <http://www.google-melange.com/gsoc/program/accepted_orgs/google/gsoc2012>`__,
@@ -99,5 +96,3 @@ VKontakte, Facebook или Google. Для участия крайне желат
 руководством специалистов в своей предметной области, но и вашу работу
 профинансируют. Немногие участники Open Source движения могут припомнить
 столь тепличных условий для начала карьеры разработчика.
-
-
