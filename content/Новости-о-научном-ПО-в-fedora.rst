@@ -1,15 +1,12 @@
 .. title: Новости о научном ПО в Fedora
 .. slug: Новости-о-научном-ПО-в-fedora
 .. date: 2012-11-26 16:07:59
-.. tags:
+.. tags: medical imaging, kitware, ugene
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 На этой неделе произошли серьезные сдвиги в области научного ПО в
 Fedora. После `трех лет ожидания <https://bugzilla.redhat.com/567086>`__
@@ -30,4 +27,3 @@ Fedora
 18 <https://admin.fedoraproject.org/updates/ugene-1.11.3-1.fc18>`__).
 
 Можно начинать эксперименты по улучшению своей ДНК.
-

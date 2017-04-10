@@ -1,15 +1,12 @@
 .. title: Insight Segmentation and Registration Toolkit включили в Fedora
 .. slug: insight-segmentation-and-registration-toolkit-включили-в-fedora
 .. date: 2013-04-24 15:47:37
-.. tags:
+.. tags: medical imaging, kitware
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Вслед за `VXL </content/Новости-о-научном-ПО-в-fedora>`__, после `трех с
 половиной лет ожидания <https://bugzilla.redhat.com/539387>`__ был
@@ -24,4 +21,3 @@ Ceresa <http://www.marioceresa.org/>`__. Теперь можно говорит�
 Три с половиной года это, конечно, не `шесть
 лет </content/Как-много-времени-может-занять-включение-пакета-в-fedora>`__,
 но все-равно немало. Бывает и так, увы.
-
