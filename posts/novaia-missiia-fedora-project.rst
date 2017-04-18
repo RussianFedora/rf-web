@@ -65,7 +65,7 @@ Friends, Features, First".
   <https://github.com/ostreedev/ostree>`_ для обновлений, и `Layered Image
   Build Service
   <https://fedoraproject.org/wiki/Changes/Layered_Docker_Image_Build_Service>`_,
-  который сделает контейнеры пассажирами первого класса в операционной системе
+  который делает контейнеры полноправной частью операционной системы
   (наравне с традиционными пакетами).
 
 * включает в себя и управляет оборудованием, облаками, и контейнерами
