@@ -20,6 +20,7 @@
 Сообщить о баге нельзя, т.к. она не может послать сообщение.
 
 .. image:: http://s.pikabu.ru/post_img/2013/05/31/11/1370019767_1145780937.jpg
+   :align: center
    :target: https://en.wikipedia.org/wiki/Catch-22_%28logic%29
 
 Так и живем.
