@@ -8,9 +8,10 @@
 .. type: text
 .. author: Peter Lemenkov
 
-`Docker переименовали в Moby <https://github.com/moby/moby/pull/32691>`_ и
-сменили структуру управления проектом, взяв за модель Fedora Project. Вот это
-правильно!
+`Docker переименовали в Moby
+<https://blog.docker.com/2017/04/introducing-the-moby-project/>`_ и сменили
+структуру управления проектом, `взяв за модель Fedora Project
+<https://github.com/moby/moby/pull/32691>`_. Вот это правильно!
 
 Так же, Docker Inc. предложили свой вариант инструментария для сборки
 Linux-дистрибутива для запуска контейнеризированных приложений - `LinuxKit
