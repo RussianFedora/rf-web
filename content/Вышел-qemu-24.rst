@@ -1,15 +1,12 @@
 .. title: Вышел Qemu 2.4
 .. slug: Вышел-qemu-24
 .. date: 2015-08-12 13:28:44
-.. tags:
+.. tags: qemu
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наконец-то `вышел Qemu
 2.4 <https://thread.gmane.org/gmane.comp.emulators.qemu/355495>`__. В
@@ -65,4 +62,3 @@ init-процесс, но полсекунды сэкономить получи
 ожидать, что qboot как таковый, использоваться будет незначительно - уж
 слишком это изменение инвазивно со своим требованием пересборки Qemu, но
 определенно стоит ожидать оптимизаций в SeaBIOS и возможно в Coreboot.
-

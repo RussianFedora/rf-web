@@ -1,15 +1,12 @@
 .. title: Qemu 1.4.0
 .. slug: qemu-140
 .. date: 2013-02-16 19:37:29
-.. tags:
+.. tags: qemu
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наши друзья из Qemu только что
 `сообщили <https://thread.gmane.org/gmane.comp.emulators.qemu/194776>`__
