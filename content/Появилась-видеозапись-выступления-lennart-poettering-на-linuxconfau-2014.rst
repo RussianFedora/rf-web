@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Появилась видеозапись выступления Lennart Poettering на конференции
 `Linux.conf.au 2014 <http://linux.conf.au/>`__, на которой рассказал о
 kdbus, и его текущем состоянии:
@@ -18,7 +15,6 @@ kdbus, и его текущем состоянии:
 .. raw:: html
 
         <center> <video controls="" width="768" height="576"><source src="http://mirror.linux.org.au/pub/linux.conf.au/2014/Friday/104-D-Bus_in_the_kernel_-_Lennart_Poettering.mp4" type="video/mp4"></video></center>
-
 
 Для пользователей Firefox, у которых не показывается видео, мы хотим
 сообщить, что недавно в Fedora `наконец-то Firefox был собран с

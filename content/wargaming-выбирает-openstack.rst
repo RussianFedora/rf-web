@@ -1,22 +1,18 @@
 .. title: Wargaming выбирает OpenStack!
 .. slug: wargaming-выбирает-openstack
 .. date: 2016-02-16 16:29:46
-.. tags:
+.. tags: vmware, wargaming, openstack, mirantis, sdn, nfv, redhat
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
-Продолжается
-`VMware-пад </content/apple-отказалось-от-vmware-в-пользу-qemukvm>`__.
-
-Официально объявили, что `Wargaming, разработчик World of Tanks,
-переезжает с VMware на OpenStack от наших друзей из
-Mirantis <http://www.tadviser.ru/index.php/Проект:Game_Stream_Belarus_%28wargaming%29_%28Mirantis_OpenStack_%28MOS%29%29>`__.
+Продолжается `VMware-пад
+</content/apple-отказалось-от-vmware-в-пользу-qemukvm>`__. Официально объявили,
+что `Wargaming, разработчик World of Tanks, переезжает с VMware на OpenStack от
+наших друзей из Mirantis
+<http://www.tadviser.ru/index.php/Проект:Game_Stream_Belarus_%28wargaming%29_%28Mirantis_OpenStack_%28MOS%29%29>`__.
 
 Уход еще одного клиента, это не все проблемы бывшего короля
 виртуализации. Вы слышали, что `их
@@ -39,4 +35,3 @@ Mirantis <http://www.tadviser.ru/index.php/Проект:Game_Stream_Belarus_%28w
 тематический канал на
 YouTube <https://www.youtube.com/user/mahler711/videos>`__. Отвлекитесь
 от танчиков, посмотрите.
-
