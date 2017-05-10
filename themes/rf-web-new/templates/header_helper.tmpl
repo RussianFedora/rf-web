@@ -28,41 +28,59 @@
 
 {% macro menubar() %}
 <!-- Menubar -->
+<header>
+  <div class="container">
+    <nav class="nav has-shadow">
+      <div class="nav-left">
+        <div class="nav-item is-active">
+          <h3>Russian Fedora</h3>
+        </div>
+      </div>
+      <div class="nav-right is-hidden-mobile">
+        {{ base.html_navigation_links() }}
+        {{ template_hooks['menu']() }}
+        {% if search_form %}
+            {{ search_form }}
+        {% endif %}
 
-<div class="blog-masthead">
-    <div class="container"><!-- This keeps the margins nice -->
-        <nav class="blog-nav" role="navigation">
-            {{ base.html_navigation_links() }}
-            {{ template_hooks['menu']() }}
-            {% if search_form %}
-                {{ search_form }}
-            {% endif %}
+        {% block belowtitle %}
+        {% if translations|length > 1 %}
+            {{ base.html_translations() }}
+        {% endif %}
+        {% endblock %}
+        {% if show_sourcelink %}
+            {% block sourcelink %}{% endblock %}
+        {% endif %}
+        {{ template_hooks['menu_alt']() }}
 
-                {% block belowtitle %}
-                {% if translations|length > 1 %}
-                    {{ base.html_translations() }}
-                {% endif %}
-                {% endblock %}
-                {% if show_sourcelink %}
-                    {% block sourcelink %}{% endblock %}
-                {% endif %}
-                {{ template_hooks['menu_alt']() }}
-            </ul>
-        </nav>
-    </div><!-- /.container -->
-</div>
+        <div class="nav-item">
+            <div class="field is-grouped">
+                <p class="control">
+                    <a class="button is-info">
+                        <span class="icon"><i class="fa fa-download"></i></span>
+                        <span>Загрузить RFRemix</span>
+                    </a>
+                </p>
+            </div>
+        </div>
+        <a class="nav-item">
+          <span class="icon"><i class="fa fa-github"></i></span>
+        </a>
+      </div>
+    </nav>
+  </div>
+</header>
 <!-- End of Menubar -->
 {% endmacro %}
 
 {% macro slogan() %}
-<div class="blog-header">
-  <div id="description">
-    {% if show_blog_title %}
-    <span id="blog-title">{{ blog_title }}</span>
-    {% endif %}
-    <p class="lead blog-description">{{ blog_description }}</p>
-    {{ template_hooks['page_header']() }}
+<section class="hero is-medium">
+  <div class="container is-medium is-white">
+    <div class="hero-body banner">
+      <h1 class="title is-white">{{ blog_title }}</h1>
+      <h2 class="subtitle is-white">{{ blog_description }}</h2>
+      {{ template_hooks['page_header']() }}
+    </div>
   </div>
-</div>
-
+</section>
 {% endmacro %}

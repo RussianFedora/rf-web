@@ -12,6 +12,9 @@
 
 {% block content %}
 {% block content_header %}{% endblock %}
+<h2 class="title is-2">О проекте</h2>
+{{ blog_about }}<br/>
+
 <div class="postindex">
 {% for post in posts %}
     <article class="blog-post h-entry post-{{ post.meta('type') }}">

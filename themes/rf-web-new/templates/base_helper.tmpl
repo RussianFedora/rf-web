@@ -94,6 +94,8 @@ lang="{{ lang }}">
 
 
 {% macro html_stylesheets() %}
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400&amp;amp;subset=cyrillic"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
     {% if use_bundles %}
         {% if use_cdn %}
             <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
@@ -130,9 +132,9 @@ lang="{{ lang }}">
 {% macro html_navigation_links() %}
     {% for url, text in navigation_links[lang] %}
         {% if rel_link(permalink, url) == "#" %}
-            <a href="{{ permalink }}" class="blog-nav-item active">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
+            <a href="{{ permalink }}" class="nav-item active">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
         {% else %}
-            <a href="{{ url }}" class="blog-nav-item">{{ text }}</a>
+            <a href="{{ url }}" class="nav-item">{{ text }}</a>
         {% endif %}
     {% endfor %}
 {% endmacro %}

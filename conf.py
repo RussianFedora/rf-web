@@ -26,7 +26,7 @@ SITE_URL = "http://ru.fedoracommunity.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://ru.fedoracommunity.org/"
 BLOG_EMAIL = "admin@russianfedora.pro"
-BLOG_DESCRIPTION = "cообщество русскоязычных участников<br> международного проекта Fedora"  # (translatable)
+BLOG_DESCRIPTION = "cообщество русскоязычных участников международного проекта Fedora"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -1250,15 +1250,14 @@ GLOBAL_CONTEXT = {
      <a class="gh-events" data-user="RussianFedora" data-count="5" data-skin="dark" data-display-authors="true" data-style=".event{background-color: #3c6eb4; color: #ffffff}" href="https://github.com/RussianFedora">Github events by @RussianFedora</a>
     <script type="text/javascript" src="/assets/js/gh-events-widget.js" async="true"></script>
     </div>
-    <div class="sidebar-module">
-    <h3>О проекте</h3>
+    """,
+    'blog_about': """
     <p>
     <ul class="list-unstyled">
     <li>Мы собираем и поддерживаем пакеты в рамках Fedora. Это наши пять копеек в развитие открытых технологий.</li>
     <li>Мы переводим дистрибутив на русский язык, собираем документацию к нему, организуем мероприятия. Это наш вклад в то, чтобы Fedora стала ближе для русскоязычных пользователей.</li>
     <li>Мы помогаем включиться в мировые открытые проекты тем, кто хочет расти и быть на переднем краю разработки. Это непросто, но оно стоит потраченных усилий.</li>
     </p>
-    </div>
     """
 }
 
