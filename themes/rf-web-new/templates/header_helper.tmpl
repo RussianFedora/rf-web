@@ -1,0 +1,68 @@
+{% macro html_logo() %}
+
+{% if logo_url %}
+<div id="logo">
+  <a href="/" title="Главная" rel="home"><img src="{{ logo_url }}" alt="Главная">
+  </a>
+
+  <div class="social-buttons">
+    <div class="first-line">
+      <a href="https://plus.google.com/113782932104817709355" rel="publisher" style="text-decoration:none;" alt="G+" target="blank"><img src="/assets/images/social/gplus.png"></a>
+      <a href="https://www.facebook.com/pages/Russian-Fedora/123818667674026" target="blank"><img src="/assets/images/social/facebook.png"></a>
+      <a href="https://vk.com/russianfedora" target="blank"><img src="/assets/images/social/vkontakte.png"></a>
+      <a href="https://www.linkedin.com/company/russian-fedora?trk=fc_badge" target="blank"><img src="/assets/images/social/linkedin.png"></a>
+      <a href="https://twitter.com/RussianFedora" target="blank"><img src="/assets/images/social/twitter.png"></a>
+    </div>
+    <div class="second-line">
+      <a href="https://github.com/RussianFedora" target="blank"><img src="/assets/images/social/github.png"></a>
+      <a href="https://www.openhub.net/p/russianfedora" target="blank"><img src="/assets/images/social/oh.png"></a>
+      <a href="https://vimeo.com/channels/russianfedora" target="blank"><img src="/assets/images/social/vimeo.png"></a>
+      <a href="https://www.youtube.com/fedorarussian" target="blank"><img src="/assets/images/social/youtube.png"></a>
+      <a href="/rss.xml" target="blank"><img src="/assets/images/social/feed.png"></a>
+      </div>
+    </div>
+</div>
+{% endif %}
+
+{% endmacro %}
+
+{% macro menubar() %}
+<!-- Menubar -->
+
+<div class="blog-masthead">
+    <div class="container"><!-- This keeps the margins nice -->
+        <nav class="blog-nav" role="navigation">
+            {{ base.html_navigation_links() }}
+            {{ template_hooks['menu']() }}
+            {% if search_form %}
+                {{ search_form }}
+            {% endif %}
+
+                {% block belowtitle %}
+                {% if translations|length > 1 %}
+                    {{ base.html_translations() }}
+                {% endif %}
+                {% endblock %}
+                {% if show_sourcelink %}
+                    {% block sourcelink %}{% endblock %}
+                {% endif %}
+                {{ template_hooks['menu_alt']() }}
+            </ul>
+        </nav>
+    </div><!-- /.container -->
+</div>
+<!-- End of Menubar -->
+{% endmacro %}
+
+{% macro slogan() %}
+<div class="blog-header">
+  <div id="description">
+    {% if show_blog_title %}
+    <span id="blog-title">{{ blog_title }}</span>
+    {% endif %}
+    <p class="lead blog-description">{{ blog_description }}</p>
+    {{ template_hooks['page_header']() }}
+  </div>
+</div>
+
+{% endmacro %}
