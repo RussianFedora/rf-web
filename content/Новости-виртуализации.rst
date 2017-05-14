@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 За недавнее время в виртуализации произошло много нового. Во-1 поздравляем
 наших друзей `ksys labs <http://ksyslabs.ru/>`__ с `выходом версии 13.11
 фреймворка Genode <http://genode.org/documentation/release-notes/13.11>`__, для
@@ -63,7 +60,7 @@ Ocaml? И наконец-то `он написал пост об этом
 соответствующую вашему низкому уровню интеллекта. Так то.
 
 
-.. image:: http://troll-face.ru/static/images/okay_guy.jpg
+.. image:: /images/okay_guy.jpg
    :align: center
 
 Возвращаясь к виртуализации - разработчики OSv, Cloudius Systems,
@@ -159,7 +156,7 @@ kernel.
 то становится просто непонятно, не нарушишь ли ты очередной закон, сделав
 что-нибудь на базе купленного задорого решения.
 
-.. image:: http://fc05.deviantart.net/fs7/i/2005/217/4/b/The_Seven_Deadly_Sins__AVARICE_by_blackeri.jpg
+.. image:: /images/The_Seven_Deadly_Sins__AVARICE_by_blackeri.jpg
    :align: center
    :width: 450px
    :height: 600px

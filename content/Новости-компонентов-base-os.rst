@@ -18,7 +18,7 @@ Meyering <https://www.openhub.net/accounts/meyering>`__ анонсировал �
 случаев.
 
 Инженер Red Hat, `Carlos
-O'Donell <https://plus.google.com/116746191356411907058/about>`__,
+O'Donell <https://plus.google.com/116746191356411907058>`__,
 объявил о выходе `GNU C Library версии
 2.19 <https://savannah.gnu.org/forum/forum.php?forum_id=7882>`__.
 Внимательные коллеги-аналитики сумели обсудить `новость на OpenNET.ru за

@@ -30,8 +30,9 @@
 проверки <https://code.wireshark.org/review/#/c/20411/>`_.
 
 В том же `блоге <https://developers.redhat.com/blog/>`_ появилась еще одна
-интересная статья, поднимающая интересный вопрос, о котором стоит рассказать
-поподробнее.
+`интересная статья
+<https://developers.redhat.com/blog/2017/03/13/cc-library-upgrades-and-opaque-data-types-in-process-shared-memory/>`_,
+поднимающая интересный вопрос, о котором стоит рассказать поподробнее.
 
 Нас часто критиковали анонимные коллеги-аналитики за то, что при обновлениях
 `предлагается <https://www.linux.org.ru/news/redhat/7902931>`_ `перезагружаться
@@ -44,7 +45,7 @@
 используемую версию библиотеки и заменить новой.
 
 И вот, наш коллега, инженер Red Hat, `Carlos O'Donell
-<https://profiles.google.com/patofiero/about>`__, попробовал рассказать о
+<https://plus.google.com/116746191356411907058>`__, попробовал рассказать о
 ситуации, когда обновляется библиотека, и два или больше приложений используют
 shared memory, в которой находятся объекты т.н. `opaque data type
 <https://en.wikipedia.org/wiki/Opaque_data_type>`_. Это запросто может вызвать

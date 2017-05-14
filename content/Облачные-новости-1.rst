@@ -1,142 +1,122 @@
 .. title: Облачные новости
 .. slug: Облачные-новости-1
 .. date: 2014-09-11 18:59:41
-.. tags:
+.. tags: openstack, qemu, ovirt, opendaylight, sdn, intel, cisco, openshift, mirantis, vmware, systemtap, rackspace, hp, eucalyptus
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
+`В OpenStack теперь будет Царь
+<https://thread.gmane.org/gmane.comp.cloud.openstack.devel/33372>`__. На самом
+деле будет система царей, которые будут в их зоне ответственности помогать
+Program Technical Lead (PTL).
 
-
-| `В OpenStack теперь будет
-  Царь <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/33372>`__.
-
-  На самом деле будет система царей, которые будут в их зоне
-  ответственности помогать Program Technical Lead (PTL).
-
-
-|image0|
-
-| 
-| В инкубатор OpenStack добавили
-  `Manila <https://wiki.openstack.org/wiki/Manila>`__. Это аналог
-  Cinder, но уровнем выше. Если Cinder, это vendor-agnostic сервис
-  блочных устройсв для OpenStack, то Manila, это vendor-agnostic сервис
-  файлов. Он будет предоставлять управление и уровень абстракции над
-  традиционными сетевыми файловыми системами, такими, как NFS, Samba и
-  т.п.
-| `Вышел Qemu
-  2.1.1 <https://thread.gmane.org/gmane.comp.emulators.qemu/296189>`__, а
-  проект oVirt Node `выбирает направление дальнейшего
-  движения <http://dummdida.tumblr.com/post/97207385480/node-is-moving>`__,
-  рассматривая идеи из Project Atomic и systemd.
-
-| Компании Infinera и KEMP Technologies `присоединились к проекту
-  OpenDaylight <http://www.opendaylight.org/announcements/2014/09/infinera-and-kemp-join-opendaylight-project-enable-open-software-defined>`__,
-  в рамках которого разрабатывается открытая SDN. Мы еще раз повторимся,
-  что тема SDN вскоре будет очень горячей. Если уже не стала.
-
-| Intel, в рамках своих разработок SDN, `поддержал протокол Generic
-  Network Virtualization Encapsulation
-  (Geneve) <https://www.sdncentral.com/news/intel-supports-geneve-unify-vxlan-nvgre/2014/09/>`__.
-
-  Этот протокол уже реализован в Open vSwitch, еще одном проекте по
-  разработке SDN.
-
-| Кстати, ознакомьтесь, `что нового в OpenStack Neutron в релизе
-  Juno <http://redhatstackblog.redhat.com/2014/09/11/whats-coming-in-openstack-networking-for-juno-release/>`__.
-
-  Например, ожидается более полная поддержка IPv6 (т.е. полной не будет,
-  ок, поняли).
-
-| `Cisco выбрала Red Hat
-  OpenShift <https://www.redhat.com/en/about/blog/cisco-and-red-hat-provide-innovation-stack-openshift?utm_content=buffercc04a&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer>`__,
-  как платформу для создания систем Internet of Things. Теперь Red Hat и
-  systemd будет `не только в вашем
-  автомобиле </content/montavista-будет-использовать-systemd-во-встраиваемых-системах>`__,
-  но и в вашей электрической лампочке. А `в автомобиле будет не только
-  systemd, но и
-  OpenStack <http://superuser.openstack.org/articles/why-a-top-automaker-adopted-openstack>`__!
-| Mirantis опубликовал отличные результаты первой половины 2014 года, и
-  `похвастался сильными позициями в секторе размером 3.5 МИЛЛИАРДА
-  биткойнов (1.6 ТРИЛЛИОНА долларов в устаревших денежных
-  единицах) <https://www.mirantis.com/company/press-center/company-news/strong-growth-first-half-2014-mirantis-emerges-largest-openstack-provider-companies-1-6-trillion-telecommunications-industry/>`__.
-
-  Это телеком-индустрия, очень осторожный и консервативный рынок, и
-  влезть туда непросто. Зато и вылезти тоже не получится!
-| Сильные позиции Mirantis среди потребителей позволяют нарисовать
-  довольно радужные перспективы, немного омрачаемые лишь `торопливыми
-  анонсами VMware относительно еще их не вышедшего
-  продукта </content/vmware-выпускает-свой-продукт-на-базе-openstack>`__.
-
-  Вообще, за неделю после анонса от VMware мы услышали интересные
-  мнения, например, что `OpenStack от VMware не такой уж и
-  open <http://thevarguy.com/cloud-computing-services-and-business-solutions/090214/vmware-openstack-not-open-all-says-mirantis>`__
-  (честно говоря, в этом мы не сомневаемся). Негативные отношения мешают
-  делу, и `Борис Ренский <https://www.linkedin.com/in/borisrenski>`__
-  посчитал нужным `выступить с примиряющих
-  позиций <http://vmblog.com/archive/2014/09/05/q-a-interview-with-mirantisit-talking-vmware-integrated-openstack.aspx#.VAn0zPmwJcR>`__
-  насчет продукта VMware. Не всех из нас это интервью убедило, и
-  некоторые продолжают быть уверены, что градус дискуссии будет лишь
-  нарастать, но народ вроде бы успокоился.
-
-| Mike Werner, директор Red Hat, выступил на OpenStack Trove Day с
-  докладом на тему того, как создавать экосистему вокруг проекта:
-
-`Welcome To OpenStack Trove Day 2014 <http://vimeo.com/105023710>`__
-from `Tesora <http://vimeo.com/tesora>`__ on
-`Vimeo <https://vimeo.com>`__.
-
-
-| 
-| К выходу `SystemTap
-  2.6 <https://thread.gmane.org/gmane.linux.systemtap/22712>`__ мы снова
-  задумались о тестировании. Вот, например, как выглядит рабочий процесс
-  тестирования изменения в OpenStack, `который уже начали проклинать
-  обычные
-  разработчики <https://plus.google.com/+DanielBerrange/posts/QMS94HEiMvD>`__:
-
-|image1|
-
-| 
-| Народная примета: если редхатовцы чем-то недовольны, то это скоро
-  заменят. И действительно, `предлагается переосмыслить весь процесс
-  разработки OpenStack <https://lwn.net/Articles/610769/>`__. Посмотрим,
-  что будет в итоге.
-
-| Какие-то плохие новости идут про Rackspace, и там тоже много наших
-  друзей, поэтому мы очень встревожены. В отличие от Mirantis `компания
-  сильно
-  рискует <http://www.techrepublic.com/article/rackspace-doubles-down-on-the-managed-cloud-and-vmware/>`__
-  в последнее время, особенно после анонса VMware. Недавно были слухи,
-  что их покупает HP, но `Hewlett-Packard официально опровергли
-  их <http://recode.net/2014/08/22/hp-has-no-interest-in-buying-rackspace-still/>`__.
-
-  Дошло до того, что всерьез поднимался вопрос, что будет с OpenStack,
-  если Rackspace, компания-основатель, выйдет из бизнеса? Сошлись на
-  том, что `ничего страшного не
-  произойдет <http://www.tesora.com/blog/openstack-can-stand-its-own-whatever-happens-rackspace>`__
-  - Red Hat, HP, IBM и Mirantis осилят разработку проекта и без них. Что
-  бы с ними не произошло, будем надеяться, что на самом ценном ресурсе
-  любой техническом компании, т.е. на разработчиках, это не скажется
-  негативно.
-
-| А вот наши друзья из Eucalyptus должны себя чувствовать спокойно.
-
-  Пишут, что `компания нашла свою нишу, и OpenStack ей не
-  конкурент <https://community.csc.com/community/cio-engage/blog/2014/08/16/dogs-and-cats-living-together-eucalyptus-and-openstack>`__,
-  а наоборот - партнер, приносящий доход. Eucalyptus даже решили
-  присоединиться к OpenStack.
-
-| А если вам еще мало ссылок, то вот, `что за последнюю неделю
-  происходило в коммьюнити и проекте
-  OpenStack <http://opensource.com/business/14/9/openstack-news-september-8>`__.
-
-
-.. |image0| image:: http://s00.yaplakal.com/pics/pics_original/2/7/9/2244972.jpg
+.. image:: /images/openstack_tzar.jpg
+   :align: center
    :width: 300px
-.. |image1| image:: https://lh3.googleusercontent.com/-eeDRcwqSdkw/VBFzsxO5hCI/AAAAAAAAC8Q/9mgio5pBAZs/w758-h641-no/10thcircleofhell.jpeg
+
+В инкубатор OpenStack добавили `Manila
+<https://wiki.openstack.org/wiki/Manila>`__. Это аналог Cinder, но уровнем
+выше. Если Cinder, это vendor-agnostic сервис блочных устройсв для OpenStack,
+то Manila, это vendor-agnostic сервис файлов. Он будет предоставлять управление
+и уровень абстракции над традиционными сетевыми файловыми системами, такими,
+как NFS, Samba и т.п.
+
+`Вышел Qemu 2.1.1
+<https://thread.gmane.org/gmane.comp.emulators.qemu/296189>`__, а проект oVirt
+Node `выбирает направление дальнейшего движения
+<http://dummdida.tumblr.com/post/97207385480/node-is-moving>`__, рассматривая
+идеи из Project Atomic и systemd.
+
+Компании Infinera и KEMP Technologies `присоединились к проекту OpenDaylight
+<http://www.opendaylight.org/announcements/2014/09/infinera-and-kemp-join-opendaylight-project-enable-open-software-defined>`__,
+в рамках которого разрабатывается открытая SDN. Мы еще раз повторимся, что тема
+SDN вскоре будет очень горячей. Если уже не стала.
+
+Intel, в рамках своих разработок SDN, `поддержал протокол Generic Network
+Virtualization Encapsulation (Geneve)
+<https://www.sdncentral.com/news/intel-supports-geneve-unify-vxlan-nvgre/2014/09/>`__.
+Этот протокол уже реализован в Open vSwitch, еще одном проекте по разработке
+SDN.
+
+Кстати, ознакомьтесь, `что нового в OpenStack Neutron в релизе Juno
+<http://redhatstackblog.redhat.com/2014/09/11/whats-coming-in-openstack-networking-for-juno-release/>`__.
+Например, ожидается более полная поддержка IPv6 (т.е. полной не будет, ок,
+поняли).
+
+`Cisco выбрала Red Hat OpenShift
+<https://www.redhat.com/en/about/blog/cisco-and-red-hat-provide-innovation-stack-openshift?utm_content=buffercc04a&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer>`__,
+как платформу для создания систем Internet of Things. Теперь Red Hat и systemd
+будет `не только в вашем автомобиле
+</content/montavista-будет-использовать-systemd-во-встраиваемых-системах>`__,
+но и в вашей электрической лампочке. А `в автомобиле будет не только systemd,
+но и OpenStack
+<http://superuser.openstack.org/articles/why-a-top-automaker-adopted-openstack>`__!
+
+Mirantis опубликовал отличные результаты первой половины 2014 года, и
+`похвастался сильными позициями в секторе размером 3.5 МИЛЛИАРДА биткойнов (1.6
+ТРИЛЛИОНА долларов в устаревших денежных единицах)
+<https://www.mirantis.com/company/press-center/company-news/strong-growth-first-half-2014-mirantis-emerges-largest-openstack-provider-companies-1-6-trillion-telecommunications-industry/>`__.
+Это телеком-индустрия, очень осторожный и консервативный рынок, и влезть туда
+непросто. Зато и вылезти тоже не получится!
+
+Сильные позиции Mirantis среди потребителей позволяют нарисовать довольно
+радужные перспективы, немного омрачаемые лишь `торопливыми анонсами VMware
+относительно еще их не вышедшего продукта
+</content/vmware-выпускает-свой-продукт-на-базе-openstack>`__. Вообще, за
+неделю после анонса от VMware мы услышали интересные мнения, например, что
+`OpenStack от VMware не такой уж и open
+<http://thevarguy.com/cloud-computing-services-and-business-solutions/090214/vmware-openstack-not-open-all-says-mirantis>`__
+(честно говоря, в этом мы не сомневаемся). Негативные отношения мешают делу, и
+`Борис Ренский <https://www.linkedin.com/in/borisrenski>`__ посчитал нужным
+`выступить с примиряющих позиций
+<http://vmblog.com/archive/2014/09/05/q-a-interview-with-mirantisit-talking-vmware-integrated-openstack.aspx#.VAn0zPmwJcR>`__
+насчет продукта VMware. Не всех из нас это интервью убедило, и некоторые
+продолжают быть уверены, что градус дискуссии будет лишь нарастать, но народ
+вроде бы успокоился.
+
+Mike Werner, директор Red Hat, выступил на OpenStack Trove Day с докладом на
+тему того, как создавать экосистему вокруг проекта:
+
+.. vimeo:: 105023710
+   :align: center
+
+К выходу `SystemTap 2.6
+<https://thread.gmane.org/gmane.linux.systemtap/22712>`__ мы снова задумались о
+тестировании. Вот, например, как выглядит рабочий процесс тестирования
+изменения в OpenStack, `который уже начали проклинать обычные разработчики
+<https://plus.google.com/+DanielBerrange/posts/QMS94HEiMvD>`__:
+
+.. image:: /images/openstack-test-matrix.jpeg
+   :align: center
    :target: https://plus.google.com/+DanielBerrange/posts/QMS94HEiMvD
+
+Народная примета: если редхатовцы чем-то недовольны, то это скоро заменят. И
+действительно, `предлагается переосмыслить весь процесс разработки OpenStack
+<https://lwn.net/Articles/610769/>`__. Посмотрим, что будет в итоге.
+
+Какие-то плохие новости идут про Rackspace, и там тоже много наших друзей,
+поэтому мы очень встревожены. В отличие от Mirantis `компания сильно рискует
+<http://www.techrepublic.com/article/rackspace-doubles-down-on-the-managed-cloud-and-vmware/>`__
+в последнее время, особенно после анонса VMware. Недавно были слухи, что их
+покупает HP, но `Hewlett-Packard официально опровергли их
+<http://recode.net/2014/08/22/hp-has-no-interest-in-buying-rackspace-still/>`__.
+Дошло до того, что всерьез поднимался вопрос, что будет с OpenStack, если
+Rackspace, компания-основатель, выйдет из бизнеса? Сошлись на том, что `ничего
+страшного не произойдет
+<http://www.tesora.com/blog/openstack-can-stand-its-own-whatever-happens-rackspace>`__
+- Red Hat, HP, IBM и Mirantis осилят разработку проекта и без них. Что бы с
+ними не произошло, будем надеяться, что на самом ценном ресурсе любой
+техническом компании, т.е. на разработчиках, это не скажется негативно.
+
+А вот наши друзья из Eucalyptus должны себя чувствовать спокойно. Пишут, что
+`компания нашла свою нишу, и OpenStack ей не конкурент
+<https://community.csc.com/community/cio-engage/blog/2014/08/16/dogs-and-cats-living-together-eucalyptus-and-openstack>`__,
+а наоборот - партнер, приносящий доход. Eucalyptus даже решили присоединиться к
+OpenStack.
+
+А если вам еще мало ссылок, то вот, `что за последнюю неделю происходило в
+коммьюнити и проекте OpenStack
+<http://opensource.com/business/14/9/openstack-news-september-8>`__.

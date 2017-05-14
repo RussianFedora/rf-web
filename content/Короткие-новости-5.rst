@@ -92,7 +92,7 @@ X.org <http://www.phoronix.com/scan.php?page=news_item&px=MTM1Mzk>`__ - посл
 и дерзкий LLVM, так и вокруг старого огромного GLIBC рыскают наглые молодые
 волки, приценивающиеся, с какого бока удобнее кусать, а с какого - лучше пока
 не подходить. Инженер Red Hat, `Carlos O'Donell
-<https://profiles.google.com/patofiero/about>`__, выступил на Linux Foundation
+<https://plus.google.com/116746191356411907058>`__, выступил на Linux Foundation
 Collaboration Summit 2013 с `докладом о текущем состоянии GLIBC
 <http://events.linuxfoundation.org/images/stories/slides/lfcs2013_odonell.pdf>`__,
 планах, недоработках, и скоро выходящем релизе 2.18.
