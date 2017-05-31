@@ -1,15 +1,12 @@
 .. title: Вышел NetworkManager 1.2!
 .. slug: Вышел-networkmanager-12
 .. date: 2016-04-24 18:45:51
-.. tags:
+.. tags: networkmanager
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наш коллега, Lubomir Rintel,
 `анонсировал <https://blogs.gnome.org/lkundrak/2016/04/20/networkmanager-1-2-is-here/>`__

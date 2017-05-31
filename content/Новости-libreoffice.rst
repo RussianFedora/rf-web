@@ -1,15 +1,12 @@
 .. title: Новости LibreOffice
 .. slug: Новости-libreoffice
 .. date: 2016-02-19 15:55:06
-.. tags:
+.. tags: libreoffice, gtk, kolab, collabora
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наш коллега, разработчик LibreOffice, Caolán McNamara в своем блоге
 `похвалился <http://caolanm.blogspot.com/2016/02/gtk3-and-libreoffice.html>`__

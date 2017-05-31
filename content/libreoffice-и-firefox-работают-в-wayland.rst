@@ -1,15 +1,12 @@
 .. title: LibreOffice и Firefox работают в Wayland.
 .. slug: libreoffice-и-firefox-работают-в-wayland
 .. date: 2015-07-20 16:09:22
-.. tags: wayland, qt, gtk, firefox, libreoffice, eclipse
+.. tags: wayland, qt, gtk, firefox, libreoffice, eclipse, hr
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Новостей о Wayland не было довольно давно. В целом, понятно почему -
 протокол утрясли, референсные реализации есть, и теперь из новостей

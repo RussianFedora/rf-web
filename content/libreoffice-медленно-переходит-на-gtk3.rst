@@ -1,15 +1,12 @@
 .. title: LibreOffice медленно переходит на GTK3
 .. slug: libreoffice-медленно-переходит-на-gtk3
 .. date: 2015-03-13 10:30:14
-.. tags:
+.. tags: libreoffice, gtk, qt
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 После большого объема работы по `переконвертированию диалогов в новый
 формат </content/libreoffice-осталось-сконвертировать-в-новый-формат-меньше-ста-диалогов>`__
@@ -38,4 +35,3 @@ Coverity </content/Статистика-coverity-о-libreoffice>`__, наш ко
 - в GTK не было поддержки OpenGL, и добавили ее лишь недавно, о чем мы
 `вскользь
 упомянули </content/Короткие-новости-о-компонентах-десктопа>`__.
-

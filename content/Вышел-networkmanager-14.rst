@@ -1,15 +1,12 @@
 .. title: Вышел NetworkManager 1.4
 .. slug: Вышел-networkmanager-14
 .. date: 2016-09-02 16:48:46
-.. tags:
+.. tags: networkmanager
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наш коллега, Lubomir Rintel,
 `анонсировал <https://blogs.gnome.org/lkundrak/2016/08/24/networkmanager-1-4/>`__
@@ -28,4 +25,3 @@ MAC-адресу, поэтому постоянно выдавать случа�
 `рассказал <https://blogs.gnome.org/thaller/2016/08/26/mac-address-spoofing-in-networkmanager-1-4-0/>`__
 в своем блоге наш коллега, инженер Red Hat, `Thomas
 Haller <https://www.openhub.net/accounts/thom311>`__.
-
