@@ -1,15 +1,12 @@
 .. title: NetworkManager перешел на GDBus
 .. slug: networkmanager-перешел-на-gdbus
 .. date: 2016-02-23 13:55:00
-.. tags:
+.. tags: networkmanager, apple, dhcp
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Dan Williams <https://www.openhub.net/accounts/dcbw>`__ официально
 `объявил <https://blogs.gnome.org/dcbw/2016/02/19/die-dbus-glib-die/>`__,
@@ -38,14 +35,14 @@
 секунду </content/Суб-миллисекундное-получение-адреса-по-dhcp-в-systemd>`__,
 а наши коллеги потом разработали свой вариант, превзошедший решение
 Apple?
-Так же нужно отметить долгожданное появление т.н. `"Airplane
-mode" <http://www.hadess.net/2016/01/support-for-airplane-mode-keys.html>`__
-- это уже не NetworkManager, но функционал был давно ожидаемый. Вокруг
-стабилизирующейся платформы рабочего окружения в Linux тоже начали
-появляться интересные проекты - например, `появилась возможность
-экспортировать настройки NetworkManager в виде
-QR-кода <https://blogs.gnome.org/muelli/2015/12/using-networkmanager-to-export-your-wifi-settings-as-a-barcode/>`__.
 
-Было сложно скопировать настройки с вашего компьютера на телефон? Теперь
-это элементарно! Надо лишь знать Python.
+Так же нужно отметить долгожданное появление т.н. `"Airplane mode"
+<http://www.hadess.net/2016/01/support-for-airplane-mode-keys.html>`__ - это
+уже не NetworkManager, но функционал был давно ожидаемый.
 
+Вокруг стабилизирующейся платформы рабочего окружения в Linux тоже начали
+появляться интересные проекты - например, `появилась возможность экспортировать
+настройки NetworkManager в виде QR-кода
+<https://blogs.gnome.org/muelli/2015/12/using-networkmanager-to-export-your-wifi-settings-as-a-barcode/>`__.
+Было сложно скопировать настройки с вашего компьютера на телефон? Теперь это
+элементарно! Надо лишь знать Python.
