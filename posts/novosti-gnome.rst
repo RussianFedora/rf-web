@@ -16,7 +16,7 @@ Xfce на GNOME
 Все правильно сделали! `Вслед за Canonical
 </posts/canonical-zabrasyvaet-unity-mir-ubuntu-phone-i-tp/>`_!
 
-Наш коллега, инженер Red Hat, `Zeeshan Ali
+Наш коллега, бывший инженер Red Hat, `Zeeshan Ali
 <https://www.openhub.net/accounts/zeenix>`_, представил `приложение GNOME для
 рашаривания GPS-трекера по сети
 <https://mail.gnome.org/archives/gnome-announce-list/2017-May/msg00027.html>`_.
