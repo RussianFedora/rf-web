@@ -22,7 +22,7 @@
 DPDK и Open vSwitch:
 
 .. youtube:: Mwt1nf_3Ds0
-   :aligh: center
+   :align: center
 
 Кстати, хотелось бы еще раз поблагодарить `лабораборию Олега Бунина
 <http://ontico.ru>`_ за любезно и безвозмездно выложенный в образовательных
