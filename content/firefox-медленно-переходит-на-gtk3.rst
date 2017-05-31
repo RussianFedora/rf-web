@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Сразу после новости о `сборке Firefox с
 gstreamer </content/Появилась-видеозапись-выступления-lennart-poettering-на-linuxconfau-2014>`__,
 пришла еще одна - `выложили первую версию Firefox с поддержкой
@@ -21,4 +18,3 @@ GTK3 <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/190781>`__.
 нетипичными DE, такими как MATE. Но в целом странички уже открывает. За
 прогрессом можно следить в `тикете
 №627699 <https://bugzilla.mozilla.org/show_bug.cgi?id=627699>`__.
-

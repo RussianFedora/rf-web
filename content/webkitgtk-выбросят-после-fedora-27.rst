@@ -1,15 +1,12 @@
 .. title: WebKitGTK+ выбросят после Fedora 27
 .. slug: webkitgtk-выбросят-после-fedora-27
 .. date: 2016-06-13 18:15:50
-.. tags:
+.. tags: gtk, webkit, qt
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Пакеты с WebKitGTK+ в Fedora серьезно затрясло. Сначала запланировали
 невзирая на поломки, срочно `обновлять пакеты до самой последней
@@ -31,4 +28,3 @@ Blink <https://wiki.qt.io/New_Features_in_Qt_5.6>`__, но, вроде бы,
 `проект QtWebKit может
 возродиться <https://thread.gmane.org/gmane.comp.lib.qt.devel/26208>`__
 (благодаря нашим соотечественникам).
-
