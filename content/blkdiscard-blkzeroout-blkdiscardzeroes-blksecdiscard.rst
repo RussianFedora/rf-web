@@ -1,7 +1,7 @@
 .. title: BLKDISCARD, BLKZEROOUT, BLKDISCARDZEROES, BLKSECDISCARD
 .. slug: blkdiscard-blkzeroout-blkdiscardzeroes-blksecdiscard
 .. date: 2014-03-13 00:31:36
-.. tags: kernel
+.. tags: kernel, util-linux
 .. category:
 .. link:
 .. description:

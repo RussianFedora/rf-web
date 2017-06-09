@@ -1,15 +1,12 @@
 .. title: Новости пакета util-linux
 .. slug: Новости-пакета-util-linux
 .. date: 2012-05-21 10:28:32
-.. tags:
+.. tags: util-linux, gsoc, systemd
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Мэйнтейнер и основной разработчик пакета
 `util-linux <https://en.wikipedia.org/wiki/Util-linux>`__, инженер Red
@@ -35,9 +32,9 @@ Code </content/fedora-%D0%B8-google-summer-code-2012>`__.
 (предназначенного для устаревшей системы инициализации), *sulogin*. В
 предыдущих версиях была перенесена из того же sysvinit-tools утилита
 *mountpoint*.
+
 Появилась новая утилита - *wdctl*, первый вариант которой написал
 `Lennart Poettering <https://www.openhub.net/accounts/mezcalero>`__. Она
 предназначена для получения текущего состояния с watchdog. К сожалению,
 пока у программы есть серьезные ограничения, но Karel обещает вскоре их
 устранить.
-
