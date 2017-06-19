@@ -1,18 +1,15 @@
 .. title: Pagure.io
 .. slug: pagureio
 .. date: 2016-05-22 21:25:07
-.. tags: fedora-infra, pagure.io, gitlab, github
+.. tags: fedora-infra, pagure, gitlab, github
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Раз уж заговорили об инфраструктуре, то появился повод рассказать о
-нашем проекте - `Pagure.io <https://pagure.io/>`__. Это очередной
+нашем проекте - `Pagure <https://pagure.io/>`__. Это очередной
 вариант Git-хостинга для проектов Fedora, который открыт для всех, у
 кого есть `FAS-аккаунт <https://id.fedoraproject.org/>`__. Разработан он
 с помощью Python, и разрабатывается довольно давно, `и как минимум год
