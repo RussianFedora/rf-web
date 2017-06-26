@@ -1,15 +1,12 @@
 .. title: ECC-алгоритмы возвращаются в Fedora!
 .. slug: ecc-алгоритмы-возвращаются-в-fedora
 .. date: 2013-10-15 09:55:39
-.. tags:
+.. tags: патенты, cryptography, ГОСТ, bitcoin
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Почти сразу после `включения ECC-алгоритмов в RHEL
 6.5 </content/Вышло-пятое-обновление-rhel-6-и-десятое-rhel5>`__ их
