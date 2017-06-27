@@ -36,7 +36,7 @@ Program for Women <https://wiki.gnome.org/OutreachProgramForWomen>`__
 **... и группа типичных разработчиков в Яндекс**
 |image1|
 
-.. |image0| image:: http://www.phoronix.net/image.php?id=xdc_2012_nue&image=xorg_xdc2012_00_show&w=800
-   :target: http://www.phoronix.net/image.php?id=xdc_2012_nue&image=xorg_xdc2012_00_show
+.. |image0| image:: https://www.phoronix.net/image.php?id=xdc_2012_nue&image=xorg_xdc2012_00_show&w=800
+   :target: https://www.phoronix.net/image.php?id=xdc_2012_nue&image=xorg_xdc2012_00_show
 .. |image1| image:: https://pbs.twimg.com/media/BvkkcMjIMAA6LmG.jpg
    :target: https://twitter.com/imalingerer/status/502472904953823232

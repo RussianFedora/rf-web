@@ -99,11 +99,11 @@
        :name: для-qemu-без-libvirt
 
     Скачайте конфиг
-    `ehci-uhci.cfg <http://cgit.freedesktop.org/spice/qemu/plain/docs/ich9-ehci-uhci.cfg>`__,
+    `ehci-uhci.cfg <https://cgit.freedesktop.org/spice/qemu/plain/docs/ich9-ehci-uhci.cfg>`__,
     положите его в /etc/qemu/
     ::
 
-        $ curl http://cgit.freedesktop.org/spice/qemu/plain/docs/ich9-ehci-uhci.cfg --create-dirs -o /etc/qemu/ehci-uhci.cfg
+        $ curl https://cgit.freedesktop.org/spice/qemu/plain/docs/ich9-ehci-uhci.cfg --create-dirs -o /etc/qemu/ehci-uhci.cfg
 
     И добавьте следующие опции в команду запуска виртуальной машины:
     ::
@@ -176,7 +176,7 @@
         </qemu:commandline>
 
     Не забудьте так же скачать конфиг
-    `ehci-uhci.cfg <http://cgit.freedesktop.org/spice/qemu/plain/docs/ich9-ehci-uhci.cfg>`__,
+    `ehci-uhci.cfg <https://cgit.freedesktop.org/spice/qemu/plain/docs/ich9-ehci-uhci.cfg>`__,
     и сохранить его в /etc/qemu/ как в случае с qemu без libvirt
     Кстати, после данной настройки, если вы используете spice, станет
     возможен проброс usb-устройств с клиента spice на сервер.

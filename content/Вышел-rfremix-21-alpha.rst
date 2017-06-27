@@ -34,7 +34,7 @@
 
 #. Пакеты, в которых изменено брендирование на RFRemix, вынесены в
    отдельный репозиторий
-   `branding <http://mirror.yandex.ru/fedora/russianfedora/russianfedora/branding/fedora/development/21/source/SRPMS/>`__.
+   `branding <https://mirror.yandex.ru/fedora/russianfedora/russianfedora/branding/fedora/development/21/source/SRPMS/>`__.
 
    В fixes остались лишь пакеты с багфиксами различными патчами
    (например fontconfig и freetype);
@@ -51,19 +51,19 @@
 **Загрузка**
 
 -  Установочные диски [
-   `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Workstation/i386/iso/>`__
+   `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Workstation/i386/iso/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Workstation/x86_64/iso/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Workstation/x86_64/iso/>`__
    ]
 -  Образы Live [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Live/i386>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Live/i386>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Live/x86_64/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Live/x86_64/>`__
    ]
 -  Торренты [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Workstation/i386/torrents/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Workstation/i386/torrents/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Workstation/x86_64/torrents/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Alpha/Workstation/x86_64/torrents/>`__
    ]
 
 Итак, это пока Альфа. Релиз намечен на конец года, но есть сильные

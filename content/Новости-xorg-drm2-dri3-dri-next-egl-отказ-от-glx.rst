@@ -85,6 +85,6 @@ OpenCL </content/Текущий-статус-и-планы-на-opencl-в-fedora
 |image0|
 Найди себя, %username%.
 
-.. |image0| image:: http://www.phoronix.net/image.php?id=xdc_2012_nue&image=xorg_xdc2012_00_show&w=1920
+.. |image0| image:: https://www.phoronix.net/image.php?id=xdc_2012_nue&image=xorg_xdc2012_00_show&w=1920
    :width: 800px
    :height: 531px

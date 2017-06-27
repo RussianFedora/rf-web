@@ -15,7 +15,7 @@
 появился `репозиторий <http://copr.fedoraproject.org/coprs/rhughes/>`__
 с GNOME 3.12. В результате мы собрали Live образ RFRemix с новым рабочим
 столом GNOME. Для загрузки доступны `32-х и 64-х битные
-образы <http://mirror.yandex.ru/fedora/russianfedora/stage/20-GNOME-3-12-LIVE/>`__.
+образы <https://mirror.yandex.ru/fedora/russianfedora/stage/20-GNOME-3-12-LIVE/>`__.
 
 Загрузить можно через torrent. В будущем, по мере выпуска GNOME 3.12.1,
 3.12.2 и т. д., образы будут обновляться. На данный момент что-то

@@ -12,7 +12,7 @@
 
 
 По `запланированному на сентябрь Wayland
-1.6 <http://www.phoronix.com/scan.php?page=news_item&px=MTY5NTQ>`__ пока
+1.6 <https://www.phoronix.com/scan.php?page=news_item&px=MTY5NTQ>`__ пока
 `ясности
 нет <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/16284>`__
 - большие фичи, в т.ч. и от наших друзей из Collabora, еще неготовы.

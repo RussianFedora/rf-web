@@ -41,7 +41,7 @@ RPM <https://thread.gmane.org/gmane.linux.rpm.maintenance/2416>`__. Вновь
 игнорировать новые, неизвестные им тэги, но, к сожалению, он ошибается.
 
 Проверив вариант с нестандартным тэгом
-`VCS <http://pkgs.fedoraproject.org/cgit/chmlib.git/tree/chmlib.spec#n8>`__,
+`VCS <https://src.fedoraproject.org/cgit/chmlib.git/tree/chmlib.spec#n8>`__,
 мы можем его заверить, что работать со старыми версиями RPM оно вряд-ли
 будет, потому что старый rpm-build скорее всего будет вываливаться с
 ошибкой. Если свою локальную копию rpm-build еще можно пропатчить или

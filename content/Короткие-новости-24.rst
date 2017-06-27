@@ -42,7 +42,7 @@ Initiative <http://rpm-ostree.cloud.fedoraproject.org/>`__. В рамках
 проекта будут разрабатываться методы по атомарным обновлениям системы
 (либо получилось полностью, либо нет). Ничего нового, кроме того, о чем
 `вы могли слышать во время мероприятия "Дорога в
-облака" <http://tech.yandex.ru/events/yagosti/fedora/talks/1162/>`__, к
+облака" <https://events.yandex.ru/lib/talks/1162/>`__, к
 сожалению наши коллеги пока не придумали. Сейчас основная идея в Fedora
 Atomic Initiative, это генерация новой rootfs, и переключение на нее при
 удачном создании, т.е. метод использующийся в CoreOS, Android и уже
@@ -67,7 +67,7 @@ Fedora.NEXT </content/Обсуждение-реорганизации-всего
 Bergeron <http://robyn.io/2014/03/25/fedora-red-hat-and-investing-in-the-future/>`__.
 
 `На сайте Phoronix.com
-заметили <http://www.phoronix.com/scan.php?page=news_item&px=MTY0Njc>`__,
+заметили <https://www.phoronix.com/scan.php?page=news_item&px=MTY0Njc>`__,
 что у NVIDIA действительно есть планы по поддержке Wayland. Интересно,
 есть ли у них планы по поддержке конкурирующего решения?
 Раз уж заговорили о Wayland, то нельзя не упомянуть про пост `Jasper St.

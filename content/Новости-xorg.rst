@@ -17,7 +17,7 @@
 
   Однако Wayland будет доступен еще нескоро (хотя уже сейчас можно
   запускать `некоторые
-  X11-приложения <http://www.phoronix.com/scan.php?page=news_item&px=MTExOTM>`__
+  X11-приложения <https://www.phoronix.com/scan.php?page=news_item&px=MTExOTM>`__
   с помощью XWayland), так что приходится что-то делать с текущей
   системой. И вот, представлена серия улучшений в X.org:
 
@@ -34,13 +34,13 @@
    приступив к портированию KMS из Linux.
 
 -  Предложено `расширение для
-   RandR <http://www.phoronix.com/scan.php?page=news_item&px=MTExNzI>`__
+   RandR <https://www.phoronix.com/scan.php?page=news_item&px=MTExNzI>`__
    для поддержки GPU offloading и прочих вещей, необходимых для систем с
    переключаемыми GPU, поддержка которых `запланирована на сентябрь
-   2012 <http://www.phoronix.com/scan.php?page=news_item&px=MTExNTg>`__.
+   2012 <https://www.phoronix.com/scan.php?page=news_item&px=MTExNTg>`__.
 
 -  `Новый DDX
-   API <http://www.phoronix.com/scan.php?page=news_item&px=MTEwNjE>`__.
+   API <https://www.phoronix.com/scan.php?page=news_item&px=MTEwNjE>`__.
 
 
 | 

@@ -12,7 +12,7 @@
 
 
 `Вышел OpenStack
-2014.1 <http://www.openstack.org/software/icehouse/press-release>`__
+2014.1 <https://www.openstack.org/software/icehouse/press-release>`__
 "Icehouse". `Анонс уже перевели на русский и обсуждают на
 OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=39594>`__.
 

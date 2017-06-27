@@ -12,7 +12,7 @@
 
 
 Наконец-то в Fedora Rawhide `включили поддержку
-kdbus <http://pkgs.fedoraproject.org/cgit/kernel.git/commit/?id=8be4430>`__.
+kdbus <https://src.fedoraproject.org/cgit/kernel.git/commit/?id=8be4430>`__.
 
 Как обычно, мы предлагаем пользователям других дистрибутивов попробовать
 Fedora, и то, как интересные вам приложения будут работать. То, что

@@ -15,7 +15,7 @@
 улучшению X.org. Инженер Red Hat, `Ben
 Skeggs <https://www.openhub.net/accounts/darktama>`__, `написал открытую
 firmware для топовых видеокарт
-NVIDIA <http://cgit.freedesktop.org/nouveau/linux-2.6/commit/?id=261c16a6a044eb1e58f3b839ce2aff18bcf8eebe>`__
+NVIDIA <https://cgit.freedesktop.org/nouveau/linux-2.6/commit/?id=261c16a6a044eb1e58f3b839ce2aff18bcf8eebe>`__
 (раньше требовались манипуляции с проприетарными драйверами), а его
 коллега `David Airlie <https://www.openhub.net/accounts/airlied>`__
 представил на рассмотрение `первый вариант реализации независимого

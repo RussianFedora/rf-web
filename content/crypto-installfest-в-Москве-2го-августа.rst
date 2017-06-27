@@ -9,7 +9,7 @@
 .. author: Peter Lemenkov
 
 `Наши друзья из Пиратской Партии России собираются провести мероприятие
-<http://pirate-party.ru/content/приглашаю-вас-на-crypto-installfest-и-собрание-московского-региона>`__,
+<https://pirate-party.ru/content/приглашаю-вас-на-crypto-installfest-и-собрание-московского-региона>`__,
 на которое всех приглашают.
 
 

@@ -26,16 +26,16 @@ OpenStack Foundation управляется советом директоров,
 OpenStack Foundation, что довольно честно.
 
 Наши коллеги, разумеется, в списке есть - это, например, `Alex
-Freedland <http://www.openstack.org/community/members/profile/4055>`__
+Freedland <https://www.openstack.org/community/members/profile/4055>`__
 из Mirantis, `Adrian
-Otto <http://www.openstack.org/community/members/profile/1657>`__ из
+Otto <https://www.openstack.org/community/members/profile/1657>`__ из
 Rackspace, `Egle
-Sigler <http://www.openstack.org/community/members/profile/3106>`__ из
+Sigler <https://www.openstack.org/community/members/profile/3106>`__ из
 Rackspace, `Richard
-Fontana <http://www.openstack.org/community/members/profile/2716>`__,
+Fontana <https://www.openstack.org/community/members/profile/2716>`__,
 который теперь работает в HP (вообще, из HP народу очень много),
 `Russell
-Bryant <http://www.openstack.org/community/members/profile/272>`__ из
+Bryant <https://www.openstack.org/community/members/profile/272>`__ из
 Red Hat. Достойных кандидатур хватает, и мы будем следить за
 электоральным процессом в OpenStack.
 

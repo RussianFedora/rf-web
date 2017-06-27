@@ -51,5 +51,5 @@ Robinson <https://fedoraproject.org/wiki/User:Crobinso>`__ объявил о
 от трех
 раз <http://redhatstorage.redhat.com/2013/11/07/red-hat-storage-outperforms-ceph-by-more-than-3x-for-openstack-cloud-environments/>`__,
 хотя, конечно, `у Ceph есть свои
-use-case <http://www.mirantis.com/blog/ceph-mirantis-openstack/>`__.
+use-case <https://www.mirantis.com/blog/ceph-mirantis-openstack/>`__.
 

@@ -43,7 +43,7 @@ David раскочегарил всеми нами любимый
 `Wireshark <https://www.wireshark.org/>`__ и еще кое-какие самописные
 утилиты, и снял некий набор дампов с USB порта. Проанализировав их, он
 попытался `воспроизвести поведение в самописной
-утилите <http://cgit.freedesktop.org/~airlied/dl3dev/>`__, но пока
+утилите <https://cgit.freedesktop.org/~airlied/dl3dev/>`__, но пока
 что-то не получается. В паре постов в своем блоге
 (`раз <https://airlied.livejournal.com/80307.html>`__ и
 `два <https://airlied.livejournal.com/80516.html>`__) David изложил

@@ -40,7 +40,7 @@ Hat, `Alon Levy <https://fedoraproject.org/wiki/User:Alon>`__, объявил о
 поддержка Xspice аудио, удаление GPL-кода, и т.п.
 Развиваются и видеодрайверы для ARM - участник Fedora ARM SIG `Rob
 Clark <https://github.com/robclark>`__ доработал `MSM DRM
-driver <http://www.phoronix.com/scan.php?page=news_item&px=MTQ5MTQ>`__
+driver <https://www.phoronix.com/scan.php?page=news_item&px=MTQ5MTQ>`__
 ("ядерная" часть драйвера для видеочипов Adreno) так, что он теперь
 поддерживает `PRIME </content/Переключающаяся-графика-скоро-в-linux>`__
 и `Render Nodes <https://www.opennet.ru/opennews/art.shtml?num=37797>`__.

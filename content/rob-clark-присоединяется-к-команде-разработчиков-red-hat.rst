@@ -16,7 +16,7 @@
 слева направо (и наоборот) или вообще выдавать за новости слухи и
 сплетни, команда Red Hat продолжает усиливаться новыми кадрами. `К
 команде
-присоединился <http://www.phoronix.com/scan.php?page=news_item&px=MTMwMjA>`__
+присоединился <https://www.phoronix.com/scan.php?page=news_item&px=MTMwMjA>`__
 `Rob Clark <https://github.com/robclark>`__, известный разработчик
 X.org, Mesa, Wayland, Kernel. Все участники `Fedora ARM
 SIG <https://fedoraproject.org/wiki/Architectures/ARM>`__ очень этому

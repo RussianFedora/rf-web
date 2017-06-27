@@ -17,7 +17,7 @@
 Современный кластер, это чаще всего облачная система, а облачная
 система, это OpenStack. И тут-то сразу возникает вопрос - как запускать
 Hadoop в OpenStack? Ответить на этот вопрос планируют наши друзья из
-компании `Mirantis <http://www.mirantis.ru/>`__, которые вместе с
+компании `Mirantis <https://www.mirantis.com/>`__, которые вместе с
 другими заинтересованными лицами работают над проектом OpenStack
 Savanna, недавно переименованный в `OpenStack
 Sahara <https://wiki.openstack.org/wiki/Sahara>`__ (редкий компонент
@@ -37,7 +37,7 @@ Juno <http://git.openstack.org/cgit/openstack/governance/commit/reference/progra
 
 Конечно, до зимы ждать незачем, и `попробовать OpenStack Sahara можно
 прямо
-сейчас <http://docs.openstack.org/developer/sahara/userdoc/installation.guide.html>`__,
+сейчас <https://docs.openstack.org/developer/sahara/userdoc/installation.guide.html>`__,
 но тут есть практический момент. Современнные облачные системы
 устанавливаются, и даже порой развертываются легко, гораздо легче, чем
 было раньше, однако возникают совершенно глупые вопросы - от того, как
@@ -60,8 +60,8 @@ Juno <http://git.openstack.org/cgit/openstack/governance/commit/reference/progra
 |image1|
 **Дорога в облака.**
 
-.. |image0| image:: http://docs.openstack.org/developer/sahara/_images/sahara-architecture.png
+.. |image0| image:: https://docs.openstack.org/developer/sahara/_images/sahara-architecture.png
    :width: 60.0%
-   :target: http://docs.openstack.org/developer/sahara/_images/sahara-architecture.png
+   :target: https://docs.openstack.org/developer/sahara/_images/sahara-architecture.png
 .. |image1| image:: http://i57.tinypic.com/2lw9b1i.jpg
 

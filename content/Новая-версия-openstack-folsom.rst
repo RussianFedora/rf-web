@@ -12,7 +12,7 @@
 
 
 `Официально вышла новая
-версия <http://www.openstack.org/blog/2012/09/openstack-folsom-is-here-with-the-schedule-of-the-summit/>`__
+версия <https://www.openstack.org/blog/2012/09/openstack-folsom-is-here-with-the-schedule-of-the-summit/>`__
 IAAS-платформы OpenStack. Эта версия получила кодовое название Folsom, и
 ее анонс уже `публично обсуждается на
 OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=34964>`__. Наш

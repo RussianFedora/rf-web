@@ -15,7 +15,7 @@ OpenStack <https://www.redhat.com/training/certifications/rhcoe-openstack-iaas/>
 OpenStack, то выбирайте из тех, кто сертифицирован. Ну а если вы хотите
 его получить, то предварительно походите на `курсы, рекомендованные
 OpenStack
-Foundation <http://www.openstack.org/marketplace/training/>`__.
+Foundation <https://www.openstack.org/marketplace/training/>`__.
 
 `Red Hat объявил о доступности JBoss в своем PaaS решении,
 OpenShift <https://www.redhat.com/about/news/press-archive/2013/9/red-hat-doubles-down-on-enterprise-paas>`__.

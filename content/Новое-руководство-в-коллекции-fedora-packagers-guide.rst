@@ -13,7 +13,7 @@
 
 Активный участник сообществ GNOME и Fedora, сотрудник Red Hat `Petr
 Kovář <https://live.gnome.org/PetrKovar>`__ не так давно
-`сообщил <http://lists.fedoraproject.org/pipermail/trans/2012-June/010034.html>`__
+`сообщил <https://lists.fedoraproject.org/pipermail/trans/2012-June/010034.html>`__
 о том, что в коллекции Fedora появился новый документ - `Packager's
 Guide <http://docs.fedoraproject.org/en-US/Fedora_Draft_Documentation/0.1/html/Packagers_Guide/index.html>`__.
 

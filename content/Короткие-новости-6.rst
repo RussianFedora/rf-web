@@ -50,7 +50,7 @@
   `BitPay <http://uptweet.com/viewStory?id=1257>`__.
 
 | `В Mesa возможно скоро появится поддержка ICD для
-  OpenCL <http://www.phoronix.com/scan.php?page=news_item&px=MTQwOTQ>`__.
+  OpenCL <https://www.phoronix.com/scan.php?page=news_item&px=MTQwOTQ>`__.
 
   Это позволит переключаться между различными реализациями OpenCL с
   помощью библиотеки ocl-igd, `которая уже включена в Fedora
@@ -102,7 +102,7 @@
   помощью multilib. Хотя, конечно, лучше без проприетарщины вообще.
 
 | В Fedora 20 ядра теперь устанавливаются с помощью
-  `kernel-install <http://cgit.freedesktop.org/systemd/systemd/tree/src/kernel-install>`__,
+  `kernel-install <https://cgit.freedesktop.org/systemd/systemd/tree/src/kernel-install>`__,
   утилиты из systemd. Т.е. **systemd теперь устаавливает и удаляет ядра
   Linux!**. Об этом нововведении нам сообщает `Josh
   Boyer <https://www.openhub.net/accounts/jwboyer>`__ в `своем
@@ -218,7 +218,7 @@
   иначе, ситуация потихоньку изменяется в лучшую сторону.
 
 | Появилась статья `"Ситуация с Wayland: факты о X и
-  Wayland" <http://www.phoronix.com/scan.php?page=article&item=x_wayland_situation>`__
+  Wayland" <https://www.phoronix.com/scan.php?page=article&item=x_wayland_situation>`__
   (`перевод на
   русский <https://www.linux.org.ru/news/opensource/9241491>`__). Судя по
   количеству комментов, факты уже никем во внимание не принимаются, в

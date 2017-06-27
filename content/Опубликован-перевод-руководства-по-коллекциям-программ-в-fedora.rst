@@ -19,7 +19,7 @@
   впервые!
 | Переводом снова занимался `Александр
   Брежнев <https://fedoraproject.org/wiki/Users:Brezhnev>`__. Вот как он
-  `прокомментировал <http://lists.fedoraproject.org/pipermail/trans-ru/2012-August/001591.html>`__
+  `прокомментировал <https://lists.fedoraproject.org/pipermail/trans-ru/2012-August/001591.html>`__
   это руководство в рассылке переводчиков:
 
     "Это руководство относится к категории документации для участников

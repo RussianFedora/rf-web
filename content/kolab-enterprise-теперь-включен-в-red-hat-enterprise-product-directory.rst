@@ -34,7 +34,7 @@ Greve <https://plus.google.com/+GeorgGreve/about>`__.
 
 |image0|
 К сожалению, пока нет видеозаписи его выступления, а `выложенные
-слайды <http://www.slideshare.net/ggreve/lies-damned-lies-and-remotely-hosted-encrypted-data>`__
+слайды <https://www.slideshare.net/ggreve/lies-damned-lies-and-remotely-hosted-encrypted-data>`__
 неособо проливают свет на содержимое доклада. Тем не менее, `на LWN.net
 уже обсуждают его выступление <https://lwn.net/Articles/617379/>`__, и
 из обсуждения можно понять, что Georg указал на три потенциальных

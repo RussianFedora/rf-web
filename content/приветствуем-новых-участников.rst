@@ -15,11 +15,11 @@
 присоединились сразу трое новых участников:
 
 -  `Александр Брежнев
-   (brezhnev) <http://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001398.html>`__
+   (brezhnev) <https://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001398.html>`__
 -  `Артем Кунев
-   (ArtKun) <http://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001400.html>`__
+   (ArtKun) <https://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001400.html>`__
 -  `Гущин Андрей
-   (neogan74) <http://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001404.html>`__
+   (neogan74) <https://lists.fedoraproject.org/pipermail/trans-ru/2012-February/001404.html>`__
 
 Приветствуем, благодарим за энтузиазм (главное, чтобы он не угасал :) и
 желаем успехов в переводе!

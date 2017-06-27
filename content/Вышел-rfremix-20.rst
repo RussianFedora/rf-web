@@ -46,24 +46,24 @@ XFCE, LXDE и MATE. Загрузка образов возможна через 
 
 
 -  Установочные диски [
-   `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/i386/iso/>`__
+   `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/i386/iso/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/x86_64/iso/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/x86_64/iso/>`__
    ]
 -  Образы Live [
-   `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/Live/i686>`__
+   `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/Live/i686>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/Live/x86_64/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/Live/x86_64/>`__
    ]
 -  Торренты [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/i386/torrents/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/i386/torrents/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/x86_64/torrents/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/x86_64/torrents/>`__
    ]
 -  Jigdo [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/i386/jigdo/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/i386/jigdo/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/x86_64/jigdo/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/20/RFRemix/x86_64/jigdo/>`__
    ]
 
 Все найденные ошибки просьба отправлять в наш

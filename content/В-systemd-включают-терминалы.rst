@@ -18,7 +18,7 @@ tty </content/Новости-linux-платформы-systemd-216>`__ вырос
 ядра </content/Идет-работа-по-удалению-виртуальных-терминалов-из-ядра-configvtn>`__,
 предсказуемо перенеся ее в дерево systemd. Недавно он `представил первый
 вариант демона
-systemd-consoled <http://cgit.freedesktop.org/systemd/systemd/commit/?id=ce7b9f50>`__.
+systemd-consoled <https://cgit.freedesktop.org/systemd/systemd/commit/?id=ce7b9f50>`__.
 
 Ждем в 217 версии.
 

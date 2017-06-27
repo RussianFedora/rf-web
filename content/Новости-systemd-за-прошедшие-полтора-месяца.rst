@@ -61,7 +61,7 @@ SIG <https://fedoraproject.org/wiki/Erlang>`__ есть планы на Fedora 2
 Intel, `Ander Conselvan de Oliveira
 <https://www.openhub.net/accounts/anderco>`__, включил `первоначальную
 поддержку механизма уведомлений systemd в Weston
-<http://www.phoronix.com/scan.php?page=news_item&px=MTM4Mzc>`__. Интересно,
+<https://www.phoronix.com/scan.php?page=news_item&px=MTM4Mzc>`__. Интересно,
 будет-ли в Mir привязка к Upstart?
 
 Вовсю идет работа над `kdbus <https://github.com/gregkh/kdbus>`__,

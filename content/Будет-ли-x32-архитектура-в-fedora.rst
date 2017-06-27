@@ -13,7 +13,7 @@
 
 Недавно Canonical анонсировала, что `в версии 12.10 будет поддержка
 архитектуры
-x32 <http://www.phoronix.com/scan.php?page=news_item&px=MTEwMTk>`__, о
+x32 <https://www.phoronix.com/scan.php?page=news_item&px=MTEwMTk>`__, о
 которой `можно почитать
 здесь <https://sites.google.com/site/x32abi/>`__. Закономерно у
 участников Fedora возник вопрос - `обсуждалась ли возможность включения

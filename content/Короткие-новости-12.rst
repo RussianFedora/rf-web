@@ -34,7 +34,7 @@ Docker <https://review.openstack.org/#/c/32960/>`__. Напомним, что `�
 процесс включения Docker в Fedora </content/Короткие-новости-10>`__.
 
 Уже не новость, но забавно - `компания Intel показала палец
-Canonical <http://cgit.freedesktop.org/xorg/driver/xf86-video-intel/commit/?id=58a761>`__.
+Canonical <https://cgit.freedesktop.org/xorg/driver/xf86-video-intel/commit/?id=58a761>`__.
 
 Участник Fedora и разработчик LibreOffice `David
 Tardon <https://www.openhub.net/accounts/dtardon>`__ в своей ленте Google+

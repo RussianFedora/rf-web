@@ -28,12 +28,12 @@ X <https://btdigg.org/search?info_hash=&q=Mac+OS+X+iso>`__, но Caolán
 fontconfig есть, а LibreOffice их не видит. Как обычно, для наших
 коллег, Caolán не побежал жаловаться в чатик или форум, а сел
 разбираться. Выяснилось, что `в LibreOffice не поддерживалась версия "2"
-ttс-фонтов <http://cgit.freedesktop.org/libreoffice/core/commit/?id=02f8f89>`__,
+ttс-фонтов <https://cgit.freedesktop.org/libreoffice/core/commit/?id=02f8f89>`__,
 `нужно было добавить поддержку кодировки имени фонтов, используемую в
 Mac OS
-X <http://cgit.freedesktop.org/libreoffice/core/commit/?id=9436ae9>`__,
+X <https://cgit.freedesktop.org/libreoffice/core/commit/?id=9436ae9>`__,
 `перевести Apple Language ID во внутреннее представление
-LibreOffice <http://cgit.freedesktop.org/libreoffice/core/commit/?id=9a502e6>`__,
+LibreOffice <https://cgit.freedesktop.org/libreoffice/core/commit/?id=9a502e6>`__,
 и необходимо было внести ряд других мелких изменений.
 
 Работа еще не закончена, но уже кое что работает. Теперь вы можете нас

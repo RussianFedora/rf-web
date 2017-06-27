@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 Мы наконец-то `начинаем
-<http://lists.fedoraproject.org/pipermail/trans-ru/2012-November/001653.html>`__
+<https://lists.fedoraproject.org/pipermail/trans-ru/2012-November/001653.html>`__
 переводить Примечания к выпуску Fedora 18. Английский текст практически готов и
 если изменится, то не сильно. Поэтому я собрала и `выложила
 <http://mamasun.fedorapeople.org/Release_Notes/>`__ текущую версию этого

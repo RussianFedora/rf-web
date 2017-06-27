@@ -44,7 +44,7 @@ Copr-репозитории <http://copr.fedoraproject.org/coprs/lmr/Autotest/>`
 Matthew Garrett
 `прокомментировал <http://mjg59.dreamwidth.org/33170.html>`__ доклад
 Jérôme Petazzoni о `безопасности в
-контейнерах <http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security>`__
+контейнерах <https://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security>`__
 (внимание, Garrett ведет свой блог на частично запрещенном в РФ
 хостинге, так что `используйте варианты обхода государственной цензуры в
 РФ <http://rublacklist.net/bypass/>`__, чтобы ознакомиться с его

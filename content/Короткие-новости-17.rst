@@ -14,7 +14,7 @@
 Инженер Red Hat, `Ben
 Skeggs <https://www.openhub.net/accounts/darktama>`__, добавил `поддержку
 регуляторов частоты и напряжения в драйвер
-nouveau <http://www.phoronix.com/scan.php?page=news_item&px=MTUwNzk>`__.
+nouveau <https://www.phoronix.com/scan.php?page=news_item&px=MTUwNzk>`__.
 
 Новость уже обсуждается на
 `OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38384>`__ и
@@ -77,7 +77,7 @@ Fedora <https://thread.gmane.org/gmane.linux.redhat.fedora.devel.announce/1197>`
 Phonon </content/Выбросят-ли-из-phonon-поддержку-alsaoss-в-пользу-pulseaudio>`__.
 
 Недавно вышедший Phonon 4.7.0 `теперь использует VLC по
-умолчанию <http://www.phoronix.com/scan.php?page=news_item&px=MTUwNDM>`__,
+умолчанию <https://www.phoronix.com/scan.php?page=news_item&px=MTUwNDM>`__,
 если в системе есть несколько бэкендов, и пользователь не указал явно,
 какой из них использовать.
 

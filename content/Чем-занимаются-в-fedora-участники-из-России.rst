@@ -78,7 +78,7 @@ Fest <https://www.nixp.ru/news/19-%D0%BC%D0%B0%D1%8F-%D0%B2-%D0%9C%D0%BE%D1%81%D
 `inkscaper <https://fedoraproject.org/wiki/User:Inkscaper>`__ на
 протяжении многих релизов занимается дизайном баннеров и обложек для
 дисков Fedora
-(`обсуждение <http://lists.fedoraproject.org/pipermail/design-team/2012-May/005440.html>`__
+(`обсуждение <https://lists.fedoraproject.org/pipermail/design-team/2012-May/005440.html>`__
 последнего предложенного варианта в рассылке дизайнеров).
 
 Сама же `я <https://fedoraproject.org/wiki/User:Mamasun>`__ последнее

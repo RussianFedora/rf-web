@@ -76,9 +76,9 @@ delta-образы, позволяющие сделать из DVD образа 
    `x86\_64 <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/18/Live/x86_64/>`__
    ]
 -  Торренты [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/18/RFRemix/i386/torrents/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/18/RFRemix/i386/torrents/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/18/RFRemix/x86_64/torrents/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/18/RFRemix/x86_64/torrents/>`__
    ]
 
 **Обновление**
@@ -88,7 +88,7 @@ delta-образы, позволяющие сделать из DVD образа 
 версии не поддерживается. Для обновления необходимо выполнить следующие
 команды (для 32-х битных систем вместо x86\_64 укажите в url i386):
 
-`` # yum install fedup # fedup-cli --network 18 --debuglog fedupdebug.log --instrepo=http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/18/RFRemix/x86_64/os/``
+`` # yum install fedup # fedup-cli --network 18 --debuglog fedupdebug.log --instrepo=https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/18/RFRemix/x86_64/os/``
 **Поддержка**
 
 -  `Баг-трекер <http://redmine.russianfedora.pro/>`__

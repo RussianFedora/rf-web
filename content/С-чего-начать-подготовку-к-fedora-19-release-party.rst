@@ -13,7 +13,7 @@
 
 Вчера в рассылке амбассадоров Fedora `Jiří
 Eischmann <https://fedoraproject.org/wiki/User:Eischmann>`__
-`объявил <http://lists.fedoraproject.org/pipermail/ambassadors/2013-May/021164.html>`__
+`объявил <https://lists.fedoraproject.org/pipermail/ambassadors/2013-May/021164.html>`__
 о начале регистрации мероприятий, посвященных приближающемуся выходу
 Fedora 19. Занудное слово "регистрация" в данном случае означает
 создание вики-страницы с подробностями о событии. Это нужно в двух

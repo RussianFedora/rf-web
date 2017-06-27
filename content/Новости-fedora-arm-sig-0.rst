@@ -72,7 +72,7 @@ ARM-систем начиная с 2014
 (используется, например, в Google Nexus 4) в свой видеодрайвер. Это
 пришлось сделать в несколько этапов. Сначала надо было `переписать
 ускорение 2D с помощью
-3D-операций <http://www.phoronix.com/scan.php?page=news_item&px=MTM3OTk>`__,
+3D-операций <https://www.phoronix.com/scan.php?page=news_item&px=MTM3OTk>`__,
 т.к. этот чип больше не содержит 2D-ускорителя. Как только он закрыл эту
 задачу, то сразу стало возможным `запустить gnome-shell на Nexus
 4 <http://bloggingthemonkey.blogspot.com.es/2013/06/freedreno-gnome-shell-on-nexus4a320.html>`__.
@@ -87,7 +87,7 @@ Fedora для Nexus 4 не будет работать на базе CyanogenMod
 - у нас все по-честному. И наконец, добившись работы Fedora на Google
 Nexus 4, он подчистил то, что уже имелось, и включил `окончательную
 версию патчсета в основное дерево
-Mesa <http://cgit.freedesktop.org/mesa/mesa/commit/?id=2855f3f>`__.
+Mesa <https://cgit.freedesktop.org/mesa/mesa/commit/?id=2855f3f>`__.
 
 Опять отвлекаясь от Fedora, но раз уж заговорили о видеодрайверах для
 ARM-железа, то нельзя не упомянуть титаническую работу по созданию

@@ -52,19 +52,19 @@ RFRemix основан на репозиториях Fedora, RPM Fusion, **ко�
 
 
 -  RFRemix Server [
-   `i686 <http://mirror.yandex.ru/fedora/russianfedora/test/releases/RFRemix/25_Beta/Server/i386/iso/>`__
+   `i686 <https://mirror.yandex.ru/fedora/russianfedora/test/releases/RFRemix/25_Beta/Server/i386/iso/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/25_Beta/Server/x86_64/iso/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/25_Beta/Server/x86_64/iso/>`__
    ]
 -  RFRemix Workstation [
-   `i686 <http://mirror.yandex.ru/fedora/russianfedora/test/releases/RFRemix/25_Beta/Workstation/i386/iso/>`__
+   `i686 <https://mirror.yandex.ru/fedora/russianfedora/test/releases/RFRemix/25_Beta/Workstation/i386/iso/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/25_Beta/Workstation/x86_64/iso>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/25_Beta/Workstation/x86_64/iso>`__
    ]
 -  Образы Live [
-   `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/25_Beta/Live/i686/>`__
+   `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/25_Beta/Live/i686/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/25_Beta/Live/x86_64>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/25_Beta/Live/x86_64>`__
    ]
 
 **Куда сходить спросить, пожаловаться**

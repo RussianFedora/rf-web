@@ -16,7 +16,7 @@
 System, выступая на **2012 Linux Foundation Collaboration** с докладом
 по состоянию совместимости X11 и
 `Wayland <http://wayland.freedesktop.org/>`__ среди прочего объявил, что
-`планируется <http://www.phoronix.com/scan.php?page=news_item&px=MTA4MzA>`__
+`планируется <https://www.phoronix.com/scan.php?page=news_item&px=MTA4MzA>`__
 использовать systemd для запуска Weston, дополнения для протокола X11.
 
 Прямо сейчас есть одно препятствие - systemd не может самостоятельно

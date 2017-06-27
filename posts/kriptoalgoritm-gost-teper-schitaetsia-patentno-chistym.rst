@@ -9,7 +9,7 @@
 .. author: Peter Lemenkov
 
 Недавно, без особого шума, `в пакет OpenSSL включили криптоалгоритм ГОСТ
-<http://pkgs.fedoraproject.org/cgit/rpms/openssl.git/commit/?id=1ff978b>`_.
+<https://src.fedoraproject.org/cgit/rpms/openssl.git/commit/?id=1ff978b>`_.
 Нами теперь считается, что его реализация в OpenSSL не покрывается никакими
 патентами США. Поддержка доступна `начиная с Fedora 26
 <https://bugzilla.redhat.com/1303016#c3>`_. Не прошло и `четырех лет

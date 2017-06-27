@@ -9,7 +9,7 @@
 .. author: mama-sun
 
 Как
-`сообщает <http://lists.fedoraproject.org/pipermail/trans-ru/2012-September/001625.html>`__
+`сообщает <https://lists.fedoraproject.org/pipermail/trans-ru/2012-September/001625.html>`__
 координатор команды локализации, Миша Шнурапет, `тестирование
 переводов <https://fedoraproject.org/wiki/Test_Day:2012-09-28_l10n>`__
 снова перенесли. Теперь на **28 сентября**.

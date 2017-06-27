@@ -38,13 +38,13 @@
 
 #. Пакеты, в которых изменено брендирование на RFRemix, вынесены в
    отдельный репозиторий
-   `branding <http://mirror.yandex.ru/fedora/russianfedora/russianfedora/branding/fedora/development/21/source/SRPMS/>`__.
+   `branding <https://mirror.yandex.ru/fedora/russianfedora/russianfedora/branding/fedora/development/21/source/SRPMS/>`__.
 
    В fixes остались лишь пакеты с багфиксами различными патчами
    (например fontconfig и freetype). Поэтому для обновления 20-й версии
    через команду ``yum --releasever=21 distro-sync`` необходимо сперва
    установить пакет
-   `russianfedora-branding-release <http://mirror.yandex.ru/fedora/russianfedora/russianfedora/branding/fedora/development/21/i386/os/russianfedora-branding-release-21-1.R.noarch.rpm>`__
+   `russianfedora-branding-release <https://mirror.yandex.ru/fedora/russianfedora/russianfedora/branding/fedora/development/21/i386/os/russianfedora-branding-release-21-1.R.noarch.rpm>`__
    (`#1385 <http://redmine.russianfedora.pro/issues/1385#change-7689>`__);
 #. Исправлена проблема с `нелокализованным дисплейным менеджером
    sddm <https://github.com/RussianFedora/sddm/commit/b10428f6a8d294781dcfbda0573a0b4da3763eb3>`__
@@ -58,19 +58,19 @@
 **Загрузка**
 
 -  Установочные диски [
-   `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/Workstation/i386/iso/>`__
+   `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/Workstation/i386/iso/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/Workstation/x86_64/iso/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/Workstation/x86_64/iso/>`__
    ]
 -  Образы Live [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/Live/i386>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/Live/i386>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/Live/x86_64/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/Live/x86_64/>`__
    ]
 -  Торренты [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/torrents/i386/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/torrents/i386/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/torrents/x86_64>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/21-Beta/torrents/x86_64>`__
    ]
 
 Релиз намечен на конец года. Ошибки можете сообщать в багтрекер

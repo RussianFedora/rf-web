@@ -18,7 +18,7 @@
 Fedora 17.
 
 Перевод полностью выполнен одним участником `с учетом более ранних
-версий <http://lists.fedoraproject.org/pipermail/trans-ru/2012-June/001549.html>`__
+версий <https://lists.fedoraproject.org/pipermail/trans-ru/2012-June/001549.html>`__
 документа - `Александром
 Брежневым <https://fedoraproject.org/wiki/Users:Brezhnev>`__. Вычитывали
 и обсуждали почти всей командой локализации, кроме того в вычитке

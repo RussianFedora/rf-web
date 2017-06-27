@@ -20,7 +20,7 @@
 choice" <http://islinuxaboutchoice.com/>`__, любители в одиночку
 заняться kFreeBSD, шумные любители юниксвэя и прочие проблемные моменты
 коммьюнити), а `Ubuntu перейдет на systemd лишь через два
-года <http://www.phoronix.com/scan.php?page=news_item&px=MTYyODk>`__. Но
+года <https://www.phoronix.com/scan.php?page=news_item&px=MTYyODk>`__. Но
 глядя на фейерверк технологий и решений уже выстраиваемых на базе
 systemd некоторым не терпится (и почему-то не хочется использовать для
 экспериментов современный дистрибутив).

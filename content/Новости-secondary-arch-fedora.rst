@@ -15,7 +15,7 @@
 портирование Ocaml на архитектуру PPC64. Результат доступен в `git-репозитории
 <http://git.fedorahosted.org/git/?p=fedora-ocaml.git>`__.  Успел как раз к
 официальному `анонсу выхода
-<http://lists.fedoraproject.org/pipermail/ppc/2012-June/001717.html>`__ Fedora
+<https://lists.fedoraproject.org/pipermail/ppc/2012-June/001717.html>`__ Fedora
 17 для архитектур PowerPC/PPC64/PPC64v7.
 
 А в это время инженер Calxeda, Mark Langsdorf, представил `патч

@@ -64,7 +64,7 @@ RAID <https://thread.gmane.org/gmane.linux.kernel.stable/103323>`__. `При
 RAID-контроллеров.
 
 Файловая система btrfs `теперь рекомендуется
-Google <http://www.phoronix.com/scan.php?page=news_item&px=MTc2Njk>`__,
+Google <https://www.phoronix.com/scan.php?page=news_item&px=MTc2Njk>`__,
 которые ее используют для апгрейдов. Вообще, интересное кино.
 
 Наш коллега, участник Fedora и сисадмин kernel.org, `Konstantin

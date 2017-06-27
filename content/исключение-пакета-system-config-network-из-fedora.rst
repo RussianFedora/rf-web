@@ -12,7 +12,7 @@
 
 
 На прошлой неделе в одной из рассылок Fedora проскочил
-`запрос <http://lists.fedoraproject.org/pipermail/rel-eng/2012-February/013517.html>`__
+`запрос <https://lists.fedoraproject.org/pipermail/rel-eng/2012-February/013517.html>`__
 на исключение пакета
 *`system-config-network <https://admin.fedoraproject.org/pkgdb/acls/name/system-config-network?_csrf_token=53e23684570e2266331501bb2111e28aa367db21>`__*
 из Fedora Rawhide и будущих версий Fedora.

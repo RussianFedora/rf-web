@@ -13,7 +13,7 @@
 
 | Итак, это наконец свершилось! Релиз откладывали 3 раза, но теперь он
   состоялся. В рассылках Fedora `официально
-  объявлено <http://lists.fedoraproject.org/pipermail/announce/2012-May/003075.html>`__
+  объявлено <https://lists.fedoraproject.org/pipermail/announce/2012-May/003075.html>`__
   о выходе Fedora 17 Beefy Miracle. Сайт
   `fedoraproject.org <https://fedoraproject.org/>`__, а образы новой
   версии `доступны <https://fedoraproject.org/ru/get-fedora>`__ для
@@ -99,9 +99,9 @@
    ] [
    `x86\_64 <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/17/Live/x86_64/>`__]
 -  Торренты [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/17/RFRemix/i386/torrents/>`__]
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/17/RFRemix/i386/torrents/>`__]
    [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/17/RFRemix/x86_64/torrents/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/17/RFRemix/x86_64/torrents/>`__
    ]
 
 | 

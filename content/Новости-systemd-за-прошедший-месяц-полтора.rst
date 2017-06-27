@@ -29,7 +29,7 @@ Anroid - у Google пока нет заинтересованных в этом 
 `Сетевые возможности
 systemd </content/В-systemd-приходит-управление-сетью>`__ были
 расширены. Теперь `systemd умеет создавать
-bridge <http://cgit.freedesktop.org/systemd/systemd/commit/?id=02b59d5>`__,
+bridge <https://cgit.freedesktop.org/systemd/systemd/commit/?id=02b59d5>`__,
 спасибо разработчику Arch Linux, `Tom
 Gundersen <https://plus.google.com/+TomGundersen/about>`__. Кстати, в
 NetworkManager эта фича `ожидается лишь в Fedora

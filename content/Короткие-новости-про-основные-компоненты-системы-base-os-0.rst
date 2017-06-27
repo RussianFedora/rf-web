@@ -12,12 +12,12 @@
 
 
 Pulseaudio наконец-то `получил поддержку
-Journald <http://cgit.freedesktop.org/pulseaudio/pulseaudio/commit/?id=d20ee7e>`__.
+Journald <https://cgit.freedesktop.org/pulseaudio/pulseaudio/commit/?id=d20ee7e>`__.
 
 Заодно, один из немногих разработчиков Canonical, `Ryan
 Lortie <https://launchpad.net/~desrt>`__, `улучшил совместимость
 Pulseaudio с
-FreeBSD <http://cgit.freedesktop.org/pulseaudio/pulseaudio/commit/?id=1da34e9>`__.
+FreeBSD <https://cgit.freedesktop.org/pulseaudio/pulseaudio/commit/?id=1da34e9>`__.
 
 К сожалению, из-за зоопарка "нестандартных стандартов" в мире BSD, мы не
 уверены, что это поможет работе на множестве других несовместимых друг с

@@ -32,7 +32,7 @@
 
   До сих пор этот стандарт поддерживали лишь gummiboot и systemd (и
   `существует патч для
-  grub2 <http://pkgs.fedoraproject.org/cgit/grub2.git/tree/0460-blscfg-add-blscfg-module-to-parse-Boot-Loader-Specif.patch>`__).
+  grub2 <https://src.fedoraproject.org/cgit/grub2.git/tree/0460-blscfg-add-blscfg-module-to-parse-Boot-Loader-Specif.patch>`__).
 
 | Не очень хорошая новость. `Мы уже рассказывали
   вам </content/Опубликованы-рекомендации-для-разработчиков-оборудования-на-базе-aarch64-64-битный-arm>`__,

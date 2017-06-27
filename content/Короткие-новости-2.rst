@@ -63,12 +63,12 @@ Linux.org.ru стыдливо переименовали в "соборную"),
 именно этим человеком.
 
 Во-2 в Weston `появились всплывающие
-уведомления <http://www.phoronix.com/scan.php?page=news_item&px=MTMyNzk>`__
+уведомления <https://www.phoronix.com/scan.php?page=news_item&px=MTMyNzk>`__
 и `доделали client-side декорации в
-GTK <http://www.phoronix.com/scan.php?page=news_item&px=MTMyOTk>`__.
+GTK <https://www.phoronix.com/scan.php?page=news_item&px=MTMyOTk>`__.
 
 В-3 `Canonical рассорились и с Sam
-Spilsbury <http://www.phoronix.com/scan.php?page=news_item&px=MTMyMTc>`__,
+Spilsbury <https://www.phoronix.com/scan.php?page=news_item&px=MTMyMTc>`__,
 который был сильно разочарован, что из-за закрытой модели Canonical он
 потратил впустую несколько месяцев своего времени. Теперь он работает
 над `XBMC для
@@ -90,7 +90,7 @@ Linux.org.ru <https://www.linux.org.ru/news/java/8964248>`__.
 Участник проектов Fedora и GCC `Jakub
 Jelínek <https://www.openhub.net/accounts/Jakub_Jelinek>`__ объявил о
 `выходе Release Candidate GCC
-4.8.0 <http://www.phoronix.com/scan.php?page=news_item&px=MTMyOTM>`__.
+4.8.0 <https://www.phoronix.com/scan.php?page=news_item&px=MTMyOTM>`__.
 
 Это - `одна из фич будущей Fedora
 19 <https://fedoraproject.org/wiki/Features/GCC48>`__. Напоминаю, `в

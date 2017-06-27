@@ -13,7 +13,7 @@
 
 Китайский национальный Linux, который базируется на пакетах из RHEL и
 Fedora, `обновили до следующей версии и перевели на
-systemd <http://www.phoronix.com/scan.php?page=news_item&px=MTM1Nzk>`__.
+systemd <https://www.phoronix.com/scan.php?page=news_item&px=MTM1Nzk>`__.
 
 Поздравляем с правильным выбором системы инициализации!
 

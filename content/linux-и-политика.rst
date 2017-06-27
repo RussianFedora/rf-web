@@ -12,7 +12,7 @@
 
 
 | Последнее `обновление
-  tzdata <http://pkgs.fedoraproject.org/cgit/tzdata.git/commit/?id=a177fd0>`__:
+  tzdata <https://src.fedoraproject.org/cgit/tzdata.git/commit/?id=a177fd0>`__:
 
 ::
 

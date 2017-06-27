@@ -54,9 +54,9 @@ Chromium 27, Firefox 21.
 Для загрузки доступны DVD образы, образы сетевой установки, а также
 Live-образы с GNOME, KDE, XFCE, LXDE, MATE и KDE-minimal. Загрузка
 образов возможна через torrent [
-`i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/19-Beta/RFRemix/i386/torrents/>`__
+`i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/19-Beta/RFRemix/i386/torrents/>`__
 ] [
-`x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/19-Beta/RFRemix/x86_64/torrents/>`__
+`x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/19-Beta/RFRemix/x86_64/torrents/>`__
 ].
 
 -  `Загрузить RFRemix
