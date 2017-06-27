@@ -29,31 +29,31 @@
    </sites/default/files/pulse/sartakov-virtualization.pdf>`__)
 
    - Виртуализация - основные сведения (`видео
-     <http://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/01-Sartakov-Part1.webm>`__)
+     <https://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/01-Sartakov-Part1.webm>`__)
    - Микроядра и способы виртуализации (`видео
-     <http://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/02-Sartakov-Part2.webm>`__)
+     <https://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/02-Sartakov-Part2.webm>`__)
 
 #. `Андрей Вагин, Parallels, Inc
    <https://plus.google.com/115065910381489598519/about>`__ (`слайды
    </sites/default/files/pulse/vagin-linux-containers.pdf>`__)
 
    - Введение в технологию Linux Containers (`видео
-     <http://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/03-Wagin-Part1.webm>`__)
+     <https://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/03-Wagin-Part1.webm>`__)
    - Практические применения контайнеров (vzctl, Lxcl, systemd, unshare)
      (`видео
-     <http://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/04-Wagin-Part2.webm>`__)
+     <https://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/04-Wagin-Part2.webm>`__)
 
 #. `Михаил Кулемин, Fedora
    Project <https://fedoraproject.org/wiki/User:Mkulemin>`__
 
    - Обзор KVM (`слайды </sites/default/files/pulse/kulemin-KVM.pdf>`__, `видео
-     <http://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/05-Kulemin-Part1.webm>`__)
+     <https://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/05-Kulemin-Part1.webm>`__)
    - Динамическое управление ресурсами в KVM (`слайды
      </sites/default/files/pulse/kulemin-KVM-dyn_res.pdf>`__, `видео
-     <http://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/06-Kulemin-Part2.webm>`__)
+     <https://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/06-Kulemin-Part2.webm>`__)
 
 Общая ссылка на `видео и торренты
-<http://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/>`__
+<https://mirror.yandex.ru/fedora/russianfedora/video/FedoraVirtualizationDay/>`__
 
 Фотографии:
 ^^^^^^^^^^^

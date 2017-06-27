@@ -35,13 +35,13 @@ Wireshark" <https://habrahabr.ru/post/121990/>`__). Пока диссектор 
 людьми <https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=5502>`__
 прошло почти полтора года. Еще год ушел на добавление `поддержки захвата
 сообщений D-Bus в
-libpcap <http://sourceforge.net/p/libpcap/feature-requests/18/>`__ (что
+libpcap <https://sourceforge.net/p/libpcap/feature-requests/18/>`__ (что
 интересно, `dbus-dump <https://github.com/mvidner/dbus-dump>`__,
 сторонняя утилита для создания таких pcap-файлов была написана
 участником коммьюнити openSUSE, Martin Vidner, ранее `2010
 года <http://mvidner.blogspot.com/2010/11/dbus-dump.html>`__). Хотелось
 бы верить, что с kdbus дела пойдут побыстрее, т.к. `таскать с пару дюжин
 out-of-tree патчей и бэкпортить их
-туда-сюда <http://pkgs.fedoraproject.org/cgit/wireshark.git/tree/>`__,
+туда-сюда <https://src.fedoraproject.org/cgit/wireshark.git/tree/>`__,
 это не самое приятное времяпровождение.
 

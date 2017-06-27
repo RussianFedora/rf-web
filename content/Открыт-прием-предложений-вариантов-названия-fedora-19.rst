@@ -12,7 +12,7 @@
 
 
 Буквально час назад Робин
-`объявила <http://lists.fedoraproject.org/pipermail/announce/2012-October/003106.html>`__
+`объявила <https://lists.fedoraproject.org/pipermail/announce/2012-October/003106.html>`__
 в рассылке *fedora-announce* o начале сбора предложений названия для
 Fedora 19.
 

@@ -43,7 +43,7 @@ Opus <http://xiphmont.livejournal.com/62366.html>`__. Новость
 Участник проектов Fedora и GNOME, инженер Red Hat, `Dan
 Winship <https://fedoraproject.org/wiki/User:Danw>`__, разработал `новый
 CLI для
-NetworkManager <http://cgit.freedesktop.org/NetworkManager/NetworkManager/commit/?id=3bda3fb>`__,
+NetworkManager <https://cgit.freedesktop.org/NetworkManager/NetworkManager/commit/?id=3bda3fb>`__,
 основанный на curses.
 
 Дружественная нам компания Igalia, разрабочтики GNOME, объявила, что

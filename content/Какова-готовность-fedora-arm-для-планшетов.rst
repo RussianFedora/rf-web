@@ -18,7 +18,7 @@ Android <https://thread.gmane.org/gmane.linux.redhat.fedora.arm/3013>`__,
 на нужном уровне. Зная это, `Richard W.M.
 Jones <http://people.redhat.com/~rjones/>`__ спросил, `можно ли
 использовать на планшетах Fedora в headless
-конфигурации? <http://lists.fedoraproject.org/pipermail/arm/2012-July/003605.html>`__
+конфигурации? <https://lists.fedoraproject.org/pipermail/arm/2012-July/003605.html>`__
 Без X.org, по ssh, как уже делается энтузиастами с самым различным
 оборудованием. Ответы в целом обнадеживающие - можно, с ограничениями.
 

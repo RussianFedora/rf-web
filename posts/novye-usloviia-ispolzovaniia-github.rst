@@ -19,7 +19,7 @@
 Все это напрямую затрагивает и нас, но, к сожалению, публично комментировать
 юридические вопросы по существу никто не будет. Тем не менее, участник Fedora
 Legal, юрист SFLC и патентный адвокат Red Hat, `Richard Fontana
-<http://en.wikipedia.org/wiki/Richard_Fontana>`_, обозначил свою точку зрения
+<https://en.wikipedia.org/wiki/Richard_Fontana>`_, обозначил свою точку зрения
 по поводу такого радикального прочтения новых условия использования GitHub -
 `это неправильная трактовка
 <https://twitter.com/richardfontana/status/837370085392199681>`_. Richard

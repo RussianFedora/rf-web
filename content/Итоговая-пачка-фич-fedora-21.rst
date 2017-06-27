@@ -165,7 +165,7 @@
    проблем <https://bugzilla.redhat.com/showdependencytree.cgi?id=1038083&hide_resolved=0>`__,
    часть из которых уже исправлена (и патчи, как обычно, уже отправлены
    или отправляются в апстрим). Типичное исправление `выглядит довольно
-   просто <http://pkgs.fedoraproject.org/cgit/rtpproxy.git/tree/rtpproxy-0008-Fix-FTBFS-if-Werror-format-security-flag-is-used.patch>`__,
+   просто <https://src.fedoraproject.org/cgit/rtpproxy.git/tree/rtpproxy-0008-Fix-FTBFS-if-Werror-format-security-flag-is-used.patch>`__,
    но его нужно сделать, чем мы традиционно и занимаемся.*
 -  `Фреймворк для управлений ролями Fedora
    Server <https://fedoraproject.org/wiki/Changes/FrameworkForServerRoleDeployment>`__.

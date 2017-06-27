@@ -14,7 +14,7 @@
 Инженер Red Hat и участник Fedora, `Dan
 Williams <https://www.openhub.net/accounts/dcbw>`__ выпустил `новую версию
 NetworkManager -
-0.9.8 <http://www.phoronix.com/scan.php?page=news_item&px=MTMwNzY>`__.
+0.9.8 <https://www.phoronix.com/scan.php?page=news_item&px=MTMwNzY>`__.
 
 Новость уже обсуждается на
 `Linux.org.ru <https://www.linux.org.ru/news/opensource/8876618>`__.
@@ -48,7 +48,7 @@ Wayland), о чем вы можете более подробно прочита
 LWN <https://lwn.net/Articles/536484/>`__. Теперь-то уж всем понятно,
 что неспроста X.org Foundation объявило, что `2013 год будет годом
 "мобильного"
-Wayland <http://www.phoronix.com/scan.php?page=news_item&px=MTMwOTI>`__.
+Wayland <https://www.phoronix.com/scan.php?page=news_item&px=MTMwOTI>`__.
 
 `Постепенно определяются даты тестовых дней Fedora
 19 <https://fedoraproject.org/wiki/QA/Fedora_19_test_days>`__. Некоторые

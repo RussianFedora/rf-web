@@ -35,11 +35,11 @@
 Ссылки для скачивания
 =====================
 
-* RFRemix Cloud [ `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/CloudImages/i386/images/>`__ ] [ `x86_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/CloudImages/x86_64/images/>`__ ]
-* RFRemix Docker [ `x86_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Docker/x86_64/images/>`__ ]
-* RFRemix Server [ `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Server/i386/iso/>`__ ] [ `x86_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Server/x86_64/iso/>`__ ]
-* RFRemix Workstation [ `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Workstation/i386/iso/>`__ ] [ `x86_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Workstation/x86_64/iso>`__ ]
-* Образы Live [ `i686 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Spins/i686/>`__ ] [ `x86_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Spins/x86_64>`__ ]
+* RFRemix Cloud [ `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/CloudImages/i386/images/>`__ ] [ `x86_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/CloudImages/x86_64/images/>`__ ]
+* RFRemix Docker [ `x86_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Docker/x86_64/images/>`__ ]
+* RFRemix Server [ `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Server/i386/iso/>`__ ] [ `x86_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Server/x86_64/iso/>`__ ]
+* RFRemix Workstation [ `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Workstation/i386/iso/>`__ ] [ `x86_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Workstation/x86_64/iso>`__ ]
+* Образы Live [ `i686 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Spins/i686/>`__ ] [ `x86_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/26_Beta/Spins/x86_64>`__ ]
 
 Куда сходить спросить, пожаловаться
 ===================================

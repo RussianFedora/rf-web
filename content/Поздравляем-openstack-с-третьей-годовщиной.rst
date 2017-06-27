@@ -81,7 +81,7 @@ McLoughlin <https://www.openhub.net/accounts/markmc>`__ публикует и с
 Python <http://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/>`__
 (на котором написано очень многое в OpenStack).
 
-В блоге `Mirantis <http://www.mirantis.ru/>`__ на Habrahabr появилось
+В блоге `Mirantis <https://www.mirantis.com/>`__ на Habrahabr появилось
 еще несколько статей по OpenStack-тематике. `Почитайте обязательно, если
 интересуетесь
 вопросом <https://habrahabr.ru/users/mirantis_openstack/topics/>`__.

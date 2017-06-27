@@ -92,9 +92,9 @@ AArch64 <http://review.coreboot.org/gitweb?p=coreboot.git;a=commit;h=2af76f4>`__
 стороны - через создание нужного нам открытого стандарта, которому будут
 подчиняться другие заинтересованные лица и организации, и который мы и
 будем использовать. Недавно, например, в systemd был `добавлен
-gummiboot <http://cgit.freedesktop.org/systemd/systemd/commit/?id=0fa2cac>`__,
+gummiboot <https://cgit.freedesktop.org/systemd/systemd/commit/?id=0fa2cac>`__,
 и `добавлена возможность перезагружаться в режим настройки
-UEFI <http://cgit.freedesktop.org/systemd/systemd/commit/?id=5bdf224>`__.
+UEFI <https://cgit.freedesktop.org/systemd/systemd/commit/?id=5bdf224>`__.
 
 Насчет настройки - интересно, что почти аналогичную функциональность
 реализовал Rich WM Jones `в своем
@@ -105,7 +105,7 @@ UEFI <http://cgit.freedesktop.org/systemd/systemd/commit/?id=5bdf224>`__.
 еще раз перезагрузиться, с уже измененными параметрами.
 
 Кстати, недавно `gummiboot был исправлен для работы на
-AArch64 <http://cgit.freedesktop.org/systemd/systemd/commit/?id=684edf2>`__.
+AArch64 <https://cgit.freedesktop.org/systemd/systemd/commit/?id=684edf2>`__.
 
 Самое время, учитывая, что `Gigabyte с минуты на минуту начнет выпуск
 AArch64-оборудования <http://www.anandtech.com/show/9107/gigabyte-server-releases-arm-solutions-using-appliedmicro-and-annapurna-labs-socs>`__,

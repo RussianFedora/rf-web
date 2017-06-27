@@ -59,7 +59,7 @@ opengov-инициативами, community building, пишут открыто�
 (мы уже `рассказывали об этом
 проекте </content/Новости-fedora-arm-sig-0>`__). Начиная с Linux 3.12
 `начальная поддержка будет доступна в
-ядре <http://cgit.freedesktop.org/~airlied/linux/commit/?id=e906d7b>`__.
+ядре <https://cgit.freedesktop.org/~airlied/linux/commit/?id=e906d7b>`__.
 
 Как раз на днях `Google сбросил цену на Nexus
 4 <http://www.androidcentral.com/nexus-4-price-drops-100-google-play-199-or-249>`__,

@@ -21,11 +21,11 @@
 -  `VMware продолжает вкладываться в
    OpenStack </content/Облачные-новости>`__. Вчера, в Гонконге, они и
    Mirantis `объявили о
-   сотрудничестве <http://www.mirantis.com/company/press-center/company-news/mirantis-and-vmware-announce-partnership-to-simplify-cloud-deployments-on-mirantis-openstack-distribution-with-vmware-technologies/>`__.
+   сотрудничестве <https://www.mirantis.com/company/press-center/company-news/mirantis-and-vmware-announce-partnership-to-simplify-cloud-deployments-on-mirantis-openstack-distribution-with-vmware-technologies/>`__.
 
    Интересно, что по статистике, `гипервизор VMware в 2013 году вышел на
    второе место по
-   популярности <http://www.mirantis.com/blog/openstack-does-the-hypervisor-matter/>`__
+   популярности <https://www.mirantis.com/blog/openstack-does-the-hypervisor-matter/>`__
    среди используемых для OpenStack платформ. Молодцы, VMware, что уж
    тут.
 

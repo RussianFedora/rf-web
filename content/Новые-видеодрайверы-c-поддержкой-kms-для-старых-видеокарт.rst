@@ -24,9 +24,9 @@ Fedora, Russian Fedora (проверьте по его статистике на
 Для исправления ситуации, участник Fedora, `David
 Airlie <https://www.openhub.net/accounts/airlied>`__ опубликовал два
 патчсета - `KMS драйвер для видеокарт
-AST <http://www.phoronix.com/scan.php?page=news_item&px=MTA5MTY>`__ и
+AST <https://www.phoronix.com/scan.php?page=news_item&px=MTA5MTY>`__ и
 `KMS драйвер для Matrox
-G200 <http://www.phoronix.com/scan.php?page=news_item&px=MTA5Mjk>`__.
+G200 <https://www.phoronix.com/scan.php?page=news_item&px=MTA5Mjk>`__.
 
 Оба патчсета скорее всего будут включены в ядро 3.5, но не торопитесь
 доставать из чулана старый "матрас" - для обоих драйверов добавлена

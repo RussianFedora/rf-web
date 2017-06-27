@@ -28,7 +28,7 @@ Sievers <https://www.openhub.net/accounts/kaysievers>`__ и `Harald
 Hoyer <https://www.openhub.net/accounts/backslash>`__ уже написали такой
 загрузчик, который только собирается дописывать неизвестно кто в
 Canonical. Kay и Harald назвали загрузчик
-`gummyboot <http://cgit.freedesktop.org/~kay/gummiboot>`__, и он уже
+`gummyboot <https://cgit.freedesktop.org/~kay/gummiboot>`__, и он уже
 быстро потолстел с первоначальных 600 строк кода до тысячи. Из последних
 новостей Kay сообщает в своей ленте Google+, что `загрузчик научился
 запоминать опцию загрузки по

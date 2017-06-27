@@ -30,7 +30,7 @@
         -- `Robert Ancell <https://plus.google.com/+RobertAncell>`_
 
 Дожили. Но кое кто сообщает, что `это еще не самое плохое, что происходит
-<http://www.techradar.com/news/what-happened-at-canonical>`_.
+<https://www.techradar.com/news/what-happened-at-canonical>`_.
 
 Вообще, странно все это. Ведь Martin, даже работая в Red Hat, продолжает
 уделять время улучшению Ubuntu. Например, недавно он `включил в состав Debian и

@@ -71,7 +71,7 @@ OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40373>`__.
 файловой системы XFS </content/xfs-в-rhel-7>`__, серьезно ее
 переработал. `Он прикрутил к ней sysfs-интерфейс и выделил общие с
 userspace-приложениями
-части <http://www.phoronix.com/scan.php?page=news_item&px=MTc2MTc>`__.
+части <https://www.phoronix.com/scan.php?page=news_item&px=MTc2MTc>`__.
 
 И напоследок, новость не относящаяся к Fedora напрямую, но касающаяся
 одного из наших основных инструментов - `Git предложили перевести на

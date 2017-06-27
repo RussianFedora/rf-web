@@ -13,7 +13,7 @@
 и в честь этого события хотелось бы поговорить о тестировании.
 
 Наш коллега, инженер Red Hat, `David Malcolm
-<http://fedoraproject.org/wiki/User:Dmalcolm>`_, опубликовал заметку о том,
+<https://fedoraproject.org/wiki/User:Dmalcolm>`_, опубликовал заметку о том,
 `как тестируется GCC
 <https://developers.redhat.com/blog/2017/02/13/testing-testing-gcc/>`_, и какие
 можно ожидать улучшения.  Напомним, именно он `работал над включением

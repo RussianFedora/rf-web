@@ -14,5 +14,5 @@
 Для счастливых (или не очень) обладателей мейнфреймов. Вышла сборка
 Fedora 16 для s390x (IBM System z). Анонс и подробности - `в письме Dan
 Horák в
-рассылке <http://lists.fedoraproject.org/pipermail/devel/2011-December/160514.html>`__.
+рассылке <https://lists.fedoraproject.org/pipermail/devel/2011-December/160514.html>`__.
 

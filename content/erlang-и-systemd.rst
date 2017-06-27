@@ -12,11 +12,11 @@
 улучшению состояния с этим языком в Fedora
 21 <https://fedoraproject.org/wiki/Changes/BetterErlangSupport>`__. На
 текущий момент мы уже `включили поддержку socket activation в
-epmd <http://pkgs.fedoraproject.org/cgit/erlang.git/commit/?id=f7eb6dd>`__,
+epmd <https://src.fedoraproject.org/cgit/erlang.git/commit/?id=f7eb6dd>`__,
 которую `добавил Matwey V.
 Kornilov </content/erlang-продолжает-получать-поддержку-systemd>`__, а
 также `добавили поддержку system
-notification <http://pkgs.fedoraproject.org/cgit/erlang.git/commit/?id=0585732>`__,
+notification <https://src.fedoraproject.org/cgit/erlang.git/commit/?id=0585732>`__,
 что повышает надежность старта приложений, требующих запущенного epmd.
 
 Благодаря новой библиотеке `erlang-sd\_notify
@@ -24,7 +24,7 @@ notification <http://pkgs.fedoraproject.org/cgit/erlang.git/commit/?id=0585732>`
 notification, инженеру Red Hat, `John Eckersberg
 <https://github.com/jeckersb>`__, удалось `изменить типа systemd-сервиса для
 RabbitMQ на Notify
-<http://pkgs.fedoraproject.org/cgit/rabbitmq-server.git/commit/?id=eea61e0>`__
+<https://src.fedoraproject.org/cgit/rabbitmq-server.git/commit/?id=eea61e0>`__
 (пользователи Red Hat OpenStack 5.0 `смогут воспользоваться результатами нашей
 работы <https://rhn.redhat.com/errata/RHEA-2014-0845.html>`__), что резко
 повысит надежность запуска RabbitMQ в облаках. До сих пор `SysV init-скрипт
@@ -41,7 +41,7 @@ Community, `Warren Togami <https://github.com/wtogami>`__, взялся за
 CouchDB. Он использует его в своем бизнесе, и также был заинтересован,
 чтоб он работал с большей степенью использования API systemd. `CouchDB
 теперь тоже использует
-systemd <http://pkgs.fedoraproject.org/cgit/couchdb.git/commit/?id=e63180e>`__,
+systemd <https://src.fedoraproject.org/cgit/couchdb.git/commit/?id=e63180e>`__,
 и мы, как обычно, `предложили наши изменения в upstream, на
 включение <https://github.com/apache/couchdb/pull/258>`__. Так,
 потихоньку, поддержка systemd будет реализована везде.

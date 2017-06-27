@@ -12,7 +12,7 @@
 
 
 | Отличные новости - `в systemd включили возможность редактировать
-  юниты <http://cgit.freedesktop.org/systemd/systemd/commit/?id=7d4fb3b>`__!
+  юниты <https://cgit.freedesktop.org/systemd/systemd/commit/?id=7d4fb3b>`__!
   Пока по умолчанию запускается редактор, указанный в переменных
   SYSTEMD\_EDITOR, EDITOR, VISUAL (проверяется в такой
   последовательности до первого значения), либо vim.

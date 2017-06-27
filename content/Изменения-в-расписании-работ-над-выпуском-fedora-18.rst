@@ -13,7 +13,7 @@
 
 Координатор команды локализации — `Миша
 Шнурапет <https://fedoraproject.org/wiki/shnurapet>`__ —
-`сообщил <http://lists.fedoraproject.org/pipermail/trans-ru/2012-September/001615.html>`__
+`сообщил <https://lists.fedoraproject.org/pipermail/trans-ru/2012-September/001615.html>`__
 о следующих изменениях в расписании:
 18 сентября
 — выход альфа-версии Fedora 18;

@@ -13,7 +13,7 @@
 
 Из-за большого количества блокирующих выпуск ошибок `было решено
 сдвинуть сроки выхода Fedora 18 на одну
-неделю <http://lists.fedoraproject.org/pipermail/test-announce/2012-August/000489.html>`__.
+неделю <https://lists.fedoraproject.org/pipermail/test-announce/2012-August/000489.html>`__.
 
 Ничего страшного - просто рабочий момент.
 

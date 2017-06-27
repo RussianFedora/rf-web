@@ -16,7 +16,7 @@ systemd </content/Сеть-в-systemd>`__. `Не так давно присое�
 Red Hat </content/Короткие-новости-19>`__ участник Arch Linux, `Tom
 Gundersen <https://plus.google.com/+TomGundersen/about>`__, добавил
 `поддержку PPPoE в
-systemd-networkd <http://cgit.freedesktop.org/systemd/systemd/commit/?id=cda391c>`__.
+systemd-networkd <https://cgit.freedesktop.org/systemd/systemd/commit/?id=cda391c>`__.
 
 Автор предупреждает, что до полноценного использования еще довольно
 далеко, но можно предполагать, что к версии 218 будет на что посмотреть.

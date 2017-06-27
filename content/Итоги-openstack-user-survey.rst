@@ -15,7 +15,7 @@
 OpenStack <http://superuser.openstack.org/articles/openstack-user-survey-insights-november-2014>`__.
 
 Как и в `предыдущем опросе полугодовой
-давности <http://www.slideshare.net/ryan-lane/openstack-atlanta-user-survey>`__
+давности <https://www.slideshare.net/ryan-lane/openstack-atlanta-user-survey>`__
 интересных фактов очень много, и остановимся лишь на самых важных.
 
 Начнем с того, на базе какого дистрибутива строятся решения:

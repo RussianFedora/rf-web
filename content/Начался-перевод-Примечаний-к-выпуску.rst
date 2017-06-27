@@ -15,4 +15,4 @@
 Fedora 17 на родные языки.
 
 Подробности ищите в списке рассылки -
-http://lists.fedoraproject.org/pipermail/trans-ru/2012-April/001469.html
+https://lists.fedoraproject.org/pipermail/trans-ru/2012-April/001469.html

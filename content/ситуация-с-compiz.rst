@@ -20,7 +20,7 @@ NetBeans не войдут в Fedora
 то, что их некому чинить, показывают падение интереса к Fedora. Хотелось
 бы им возразить, как минимум, в отношении compiz.
 
-`Сообщают <http://www.phoronix.com/scan.php?page=news_item&px=MTA1Mjc>`__,
+`Сообщают <https://www.phoronix.com/scan.php?page=news_item&px=MTA1Mjc>`__,
 что не только в Fedora, но и в Gentoo и openSUSE решили выбросить
 Compiz, как имеющий проблемы со стабильностью и заброшенный своим
 разработчиком. Пока что единственные, кто всерьез использует Compiz, это

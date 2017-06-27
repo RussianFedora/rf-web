@@ -13,7 +13,7 @@
 
 | Участник команды локализации `Александр
   Брежнев <https://fedoraproject.org/wiki/Users:Brezhnev>`__
-  `сообщил <http://lists.fedoraproject.org/pipermail/trans-ru/2012-June/001534.html>`__
+  `сообщил <https://lists.fedoraproject.org/pipermail/trans-ru/2012-June/001534.html>`__
   о завершении работ по переводу руководства "Управление системными
   ресурсами". Таким образом, документ находится на стадии вычитки, на
   котором все желающие могут оказать свою посильную помощь.

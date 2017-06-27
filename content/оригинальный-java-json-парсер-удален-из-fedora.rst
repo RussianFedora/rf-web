@@ -12,7 +12,7 @@
 
 
 Сегодня, в рассылке Fedora-Devel было
-`объявлено <http://lists.fedoraproject.org/pipermail/devel/2012-March/164017.html>`__,
+`объявлено <https://lists.fedoraproject.org/pipermail/devel/2012-March/164017.html>`__,
 что оригинальный `JSON парсер для
 Java <https://github.com/douglascrockford/JSON-java>`__ будет удален из
 репозитория. От него больше не зависит ни один пакет, и удаление пройдет

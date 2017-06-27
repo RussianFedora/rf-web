@@ -54,7 +54,7 @@ vt102. Также будет доступна многоязычность (по
 вопрос - недаром он так беспокоит анонимных аналитиков при обсуждении
 скриншотов рабочих столов). Благодаря `совместным разработкам с systemd
 и
-Wayland <http://www.phoronix.com/scan.php?page=news_item&px=MTEzMzI>`__
+Wayland <https://www.phoronix.com/scan.php?page=news_item&px=MTEzMzI>`__
 планируются серьезные улучшения multiseat. Автор скомпоновал `небольшой
 список ЧаВо <https://github.com/dvdhrm/kmscon/wiki/FAQ>`__ и предлагает
 задавать ему вопросы по теме, если остались.

@@ -21,5 +21,5 @@ SIG <https://fedoraproject.org/wiki/Architectures/ARM>`__, полностью
 Несмотря на то, что процессоры x86 еще будут выпускаться AMD, эти
 новости совпали по времени с `новостью об увольнении ряда Linux Kernel
 разработчиков из AMD, занимавшихся x86
-процессорами <http://www.phoronix.com/scan.php?page=news_item&px=MTIxNzI>`__.
+процессорами <https://www.phoronix.com/scan.php?page=news_item&px=MTIxNzI>`__.
 

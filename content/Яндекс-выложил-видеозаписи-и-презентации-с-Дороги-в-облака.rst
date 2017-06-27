@@ -1,35 +1,31 @@
 .. title: Яндекс выложил видеозаписи и презентации с "Дороги в облака"
 .. slug: Яндекс-выложил-видеозаписи-и-презентации-с-Дороги-в-облака
 .. date: 2013-10-07 09:23:53
-.. tags:
-.. category:
+.. tags: yandex, clouds, mirantis, redhat
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
+Яндекс выложил видеозаписи и презентации с `"Дороги в облака"
+</content/Конференция-«Дорога-в-облака»-посвященная-облачным-технологиям>`__:
 
-
-| Яндекс выложил видеозаписи и презентации с `"Дороги в
-  облака" </content/Конференция-«Дорога-в-облака»-посвященная-облачным-технологиям>`__:
-
--  `Нестандартное использование Puppet в деплойменте. Михаил Щербаков,
-   Mirantis. <http://tech.yandex.ru/events/yagosti/fedora/talks/1161/>`__
--  `Как облачные технологии меняют Linux-дистрибутивы? Петр Леменков,
+- `Нестандартное использование Puppet в деплойменте. Михаил Щербаков,
+   Mirantis. <https://events.yandex.ru/lib/talks/1161/>`__
+- `Как облачные технологии меняют Linux-дистрибутивы? Петр Леменков,
    Fedora
-   Project. <http://tech.yandex.ru/events/yagosti/fedora/talks/1162/>`__
--  `Производительность и масштабируемость OpenStack. Борис Павлович,
-   Mirantis. <http://tech.yandex.ru/events/yagosti/fedora/talks/1163/>`__
--  `Развертывание OpenStack с помощью Fuel. Михаил Щербаков,
-   Mirantis. <http://tech.yandex.ru/events/yagosti/fedora/talks/1171/>`__
--  `Configuration Management at Large Companies. Matthew Mosesohn,
-   Mirantis. <http://tech.yandex.ru/events/yagosti/fedora/talks/1165/>`__
--  `Насколько надёжным должно быть ваше хранилище данных? Евгений
+   Project. <https://events.yandex.ru/lib/talks/1162/>`__
+- `Производительность и масштабируемость OpenStack. Борис Павлович,
+   Mirantis. <https://events.yandex.ru/lib/talks/1163/>`__
+- `Развертывание OpenStack с помощью Fuel. Михаил Щербаков,
+   Mirantis. <https://events.yandex.ru/lib/talks/1171/>`__
+- `Configuration Management at Large Companies. Matthew Mosesohn,
+   Mirantis. <https://events.yandex.ru/lib/talks/1165/>`__
+- `Насколько надёжным должно быть ваше хранилище данных? Евгений
    Поляков,
-   Яндекс. <http://tech.yandex.ru/events/yagosti/fedora/talks/1172/>`__
--  `Облачные решения от Red Hat и будущее. Сергей Бугрин, Red
-   Hat. <http://tech.yandex.ru/events/yagosti/fedora/talks/1173/>`__
+   Яндекс. <https://events.yandex.ru/lib/talks/1172/>`__
+- `Облачные решения от Red Hat и будущее. Сергей Бугрин, Red
+   Hat. <https://events.yandex.ru/lib/talks/1173/>`__
 
-| 
-| Следите за нашими анонсами!
+Следите за нашими анонсами!

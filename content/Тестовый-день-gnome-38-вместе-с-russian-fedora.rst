@@ -1,15 +1,12 @@
 .. title: Тестовый день Gnome 3.8 вместе с Russian Fedora
 .. slug: Тестовый-день-gnome-38-вместе-с-russian-fedora
 .. date: 2013-03-20 11:56:52
-.. tags:
-.. category:
+.. tags: gnome
+.. category: Тестовые дни Fedora
 .. link:
 .. description:
 .. type: text
 .. author: bookwar
-
-**Это архивная статья**
-
 
 Сообщество Russian Fedora приглашает всех желающих принять участие в
 нашем мероприятии, приуроченном к проходящему на этой неделе тестовому
@@ -34,7 +31,7 @@
 #. Прохождение всех `основных
    тестов <https://fedoraproject.org/wiki/Test_Day:2013-03-21_Gnome_3.8#Test_Cases>`__
 #. Оформление найденных багов в
-   `багтрекере <http://bugzilla.redhat.com>`__
+   `багтрекере <https://bugzilla.redhat.com>`__
 #. Заполнение `таблицы
    результатов <https://fedoraproject.org/wiki/Test_Day:2013-03-21_Gnome_3.8#Test_Results>`__
 #. Разговоры о жизни и всяком таком в фоновом режиме
@@ -50,4 +47,3 @@
 Всё происходящее будет транслироваться в джаббер-канал fedora-classroom
 на сервере conference.jabber.ru и на YouTube через сервис Google
 Hangout.
-

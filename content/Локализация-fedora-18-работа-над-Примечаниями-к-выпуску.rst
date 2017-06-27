@@ -29,7 +29,7 @@
 
 В случае Release Notes определенные проблемы тоже возникли. При чем
 `некоторые из
-них <http://lists.fedoraproject.org/pipermail/trans/2012-November/010396.html>`__
+них <https://lists.fedoraproject.org/pipermail/trans/2012-November/010396.html>`__
 породили длинные обсуждения более фундаментальных организационных
 вопросов, которые до сих пор были не решены. Следить за ситуацией можно
 в `общей рассылке

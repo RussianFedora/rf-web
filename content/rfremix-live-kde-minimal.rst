@@ -12,7 +12,7 @@
 
 
 Прошёл одобрение кикстарт образа `RFRemix
-Live-Kminimal <http://mirror.yandex.ru/fedora/russianfedora/stage/17/Custom-Lives/>`__,
+Live-Kminimal <https://mirror.yandex.ru/fedora/russianfedora/stage/17/Custom-Lives/>`__,
 особенностями которого являются:
 
 -  вмещаемость на CD (на данный момент ~630M), что облегчает скачивание;

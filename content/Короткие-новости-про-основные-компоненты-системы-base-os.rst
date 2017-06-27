@@ -114,14 +114,14 @@ KH <https://plus.google.com/u/0/111049168280159033135/posts/Mk9hJjjhj7V>`__.
 
 Но, конечно, с systemd ситуация вскоре упростится. Кстати, `видеозапись
 выступления Дэвида уже
-доступна <http://www.phoronix.com/scan.php?page=news_item&px=MTQ2ODI>`__.
+доступна <https://www.phoronix.com/scan.php?page=news_item&px=MTQ2ODI>`__.
 
 И напоследок, несмотря на модный ныне тренд базироваться на LLVM в новых
 проектах, старички с GCC наперевес не сдаются так просто. Наш коллега,
 участник Fedora, разработчик GCC, и инженер Red Hat, `David
 Malcolm <https://fedoraproject.org/wiki/User:Dmalcolm>`__ представил
 `встраиваемый JIT компилятор, основанный на
-GCC <http://www.phoronix.com/scan.php?page=news_item&px=MTQ3NTc>`__.
+GCC <https://www.phoronix.com/scan.php?page=news_item&px=MTQ3NTc>`__.
 
 Новость уже `обсуждается на
 OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38075>`__.

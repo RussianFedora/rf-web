@@ -13,7 +13,7 @@
 
 Мы поздравляем компанию Canonical с почином! Первый разработчик
 `официально начал коммитить в
-systemd <http://cgit.freedesktop.org/systemd/systemd/log/?qt=author&q=Didier+Roche&showmsg=1>`__
+systemd <https://cgit.freedesktop.org/systemd/systemd/log/?qt=author&q=Didier+Roche&showmsg=1>`__
 - `Didier Roche <https://www.openhub.net/accounts/didrocks>`__.
 
 Разработчики из Canonical присылали патчи и раньше, например наш хороший

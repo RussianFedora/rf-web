@@ -27,35 +27,35 @@
   Weston <https://thread.gmane.org/gmane.comp.freedesktop.wayland.devel/11069>`__.
 
 | `Phoronix протестировал Wayland в Fedora
-  20 <http://www.phoronix.com/scan.php?page=article&item=fedora20_wayland_preview&num=1>`__.
+  20 <https://www.phoronix.com/scan.php?page=article&item=fedora20_wayland_preview&num=1>`__.
 
   Как и в случае с Mir, пока чуть медленнее, чем иксы. Мы называем это
   *"пока медленнее, но четко видна хорошая перспектива на улучшение"*, в
   отличие ситуации с бенчмарками от Mir, которую мы называем *"как и
   следовало ожидать, медленнее иксов, а что вы хотели?"*. Mir, кстати,
   `продолжает разрастаться и
-  разрастаться <http://www.phoronix.com/scan.php?page=news_item&px=MTQ3NTU>`__,
+  разрастаться <https://www.phoronix.com/scan.php?page=news_item&px=MTQ3NTU>`__,
   и уже сейчас наши и без того серьезные сомнения в жизнеспособности
   проекта стали еще более серьезными.
 
 | Пока Wayland прогрессирует, в X.org тоже идет работа:
 
 -  `Пофиксили баг аж с 1993
-   года <http://www.phoronix.com/scan.php?page=news_item&px=MTQ4MjI>`__.
+   года <https://www.phoronix.com/scan.php?page=news_item&px=MTQ4MjI>`__.
 
 -  `Adam Jackson <https://www.openhub.net/accounts/ajax>`__, инженер Red
    Hat и участник Fedora, `переписал подсистему
-   GLX <http://www.phoronix.com/scan.php?page=news_item&px=MTQ2OTY>`__.
+   GLX <https://www.phoronix.com/scan.php?page=news_item&px=MTQ2OTY>`__.
 
 -  `Почти завершена работа по новому ABI для
-   OpenGL <http://www.phoronix.com/scan.php?page=news_item&px=MTQ3MTc>`__,
+   OpenGL <https://www.phoronix.com/scan.php?page=news_item&px=MTQ3MTc>`__,
    предложенному инженером NVIDIA, Andy Ritger (о чем `мы уже
    рассказывали </content/Новости-xorg-drm2-dri3-dri-next-egl-отказ-от-glx>`__).
 
 
 | 
 | Как результат, `релиз X.org.1.15 будет немного
-  задержан <http://www.phoronix.com/scan.php?page=news_item&px=MTQ2ODM>`__,
+  задержан <https://www.phoronix.com/scan.php?page=news_item&px=MTQ2ODM>`__,
   чтоб успеть включить туда все нужное для Wayland, ну и еще кое-какие
   фичи.
 
@@ -76,13 +76,13 @@
 
   Это привело к `появлению поддержки Xv в GLAMOR в открытых
   видеодрайверах
-  ATI/AMD <http://cgit.freedesktop.org/xorg/driver/xf86-video-ati/commit/?id=4fc1fa9>`__.
+  ATI/AMD <https://cgit.freedesktop.org/xorg/driver/xf86-video-ati/commit/?id=4fc1fa9>`__.
 
 | Очень интересная утечка из секретных дата-центров Red Hat.
 
   Оказывается, `Red Hat совместно с NVIDIA разрабатывают новую
   архитектуру для
-  видеодрайверов <http://www.phoronix.com/scan.php?page=news_item&px=MTQ3MTY>`__.
+  видеодрайверов <https://www.phoronix.com/scan.php?page=news_item&px=MTQ3MTY>`__.
 
   В отличие от некоторых других компаний, что загадочно рассказывают о
   неких ведущихся переговорах с производителями оборудования, тут все

@@ -52,7 +52,7 @@ Campagna <https://plus.google.com/112529497463297468627/about>`__,
 
 Готов для десктопа!
 Еще о Wayland, `в Weston недавно включили базовую поддержку
-touch-устройств <http://www.phoronix.com/scan.php?page=news_item&px=MTQzNDY>`__
+touch-устройств <https://www.phoronix.com/scan.php?page=news_item&px=MTQzNDY>`__
 (touchscreen, touchpad).
 
 И еще о Wayland - `вышла новая версия Hawaii

@@ -15,7 +15,7 @@
 Hat, `David Airlie <https://www.openhub.net/accounts/airlied>`__
 `анонсировал <http://lists.x.org/archives/xorg/2012-February/054131.html>`__
 первую официальную версию нового драйвера для X.org -
-`xf86-video-modesetting <http://cgit.freedesktop.org/xorg/driver/xf86-video-modesetting/>`__.
+`xf86-video-modesetting <https://cgit.freedesktop.org/xorg/driver/xf86-video-modesetting/>`__.
 
 Планируется, что это будет кандидат на замену довольно старого
 VESA-драйвера. В xf86-video-modesetting будут задействованы возможности

@@ -12,7 +12,7 @@
 
 
 `Прощай, Fedora для
-SPARC <http://pkgs.fedoraproject.org/cgit/kernel.git/commit/?id=5d109f07815af1ae4c543b01ee08ccc6b994b7a6>`__.
+SPARC <https://src.fedoraproject.org/cgit/kernel.git/commit/?id=5d109f07815af1ae4c543b01ee08ccc6b994b7a6>`__.
 
 `Сборочная система Fedora для
 SPARC <http://sparc.koji.fedoraproject.org/koji/>`__ была в нерабочем

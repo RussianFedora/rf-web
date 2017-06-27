@@ -16,11 +16,11 @@ Lennart Poettering добавил в systemd поддержку NAT, о чем `
 Google+ <https://plus.google.com/u/0/+LennartPoetteringTheOneAndOnly/posts/TJXfHmMUmbM>`__.
 
 Была добавлена опция
-`--port=... <http://cgit.freedesktop.org/systemd/systemd/commit/?id=6d0b55c>`__
+`--port=... <https://cgit.freedesktop.org/systemd/systemd/commit/?id=6d0b55c>`__
 (например *--port=tcp:1024:4096*, что пробросит TCP-порт 1024 внутрь
 контейнера и присоединит к порту 4096) и две опции в \*.network файлах,
 `IPForwarding=yes и
-IPMasquerade=yes <http://cgit.freedesktop.org/systemd/systemd/commit/?id=5a8bcb6>`__.
+IPMasquerade=yes <https://cgit.freedesktop.org/systemd/systemd/commit/?id=5a8bcb6>`__.
 
 Таким образом, разворачивать сервисы в контейнерах стало еще легче.
 

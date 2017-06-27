@@ -15,7 +15,7 @@
 `David Airlie <https://www.openhub.net/accounts/airlied>`__ и инженер AMD
 и участник Debian `Alex
 Deucher <https://www.openhub.net/accounts/agd5f>`__ `представили
-патчи <http://www.phoronix.com/scan.php?page=news_item&px=MTEwMjA>`__
+патчи <https://www.phoronix.com/scan.php?page=news_item&px=MTEwMjA>`__
 для поддержки GPU offloading для Intel, NVIDIA и ATI видеокарт с помощью
 технологии DMA-BUF/PRIME. Ожидается поддержка в видеодрайверах для
 ARM-платформ.
@@ -155,7 +155,7 @@ offloading на примере подключения на лету USB-виде
 Решение все еще требовало разных хаков тут и там, и автор прямо заявлял,
 что он не ожидает скорого включения поддержки этой технологии в X11, но
 в этот раз он начал `более активно
-работать <http://www.phoronix.com/scan.php?page=news_item&px=MTAyMDM>`__.
+работать <https://www.phoronix.com/scan.php?page=news_item&px=MTAyMDM>`__.
 
 Примерно в это же время инженеры Linaro, Samsung и Texas Instruments
 `предложили <https://lkml.org/lkml/2011/12/2/51>`__ первый вариант того,
@@ -168,7 +168,7 @@ offloading на примере подключения на лету USB-виде
 уже выпустил, `основанный на
 DMA-BUF <http://airlied.livejournal.com/75555.html>`__. Темпы внедрения
 ощутимо ускорились, и последним куском мозаики был VGEM,
-`представленный <http://www.phoronix.com/scan.php?page=news_item&px=MTA0MTQ>`__
+`представленный <https://www.phoronix.com/scan.php?page=news_item&px=MTA0MTQ>`__
 `Adam Jackson <https://www.openhub.net/accounts/ajax>`__, который позволит
 использовать различные DMA-BUF оптимизации устройствам, не имеющим
 DRM-драйвера (LLVMpipe). Все было готово - осталось лишь замотать все

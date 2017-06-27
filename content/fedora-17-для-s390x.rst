@@ -14,7 +14,7 @@
 <https://fedoraproject.org/wiki/Architectures/s390x>`__ `Dan Horák
 <https://fedoraproject.org/wiki/User:Sharkcz>`__ анонсировал выход `Fedora 17
 для s390x
-<http://lists.fedoraproject.org/pipermail/devel/2012-June/169484.html>`__.
+<https://lists.fedoraproject.org/pipermail/devel/2012-June/169484.html>`__.
 
 Если у вас под рукой есть такая машинка, то попробуйте!
 

@@ -51,7 +51,7 @@ GNU.org <https://www.opennet.ru/opennews/art.shtml?num=39043>`__, в
 начали делиться другими интересными советами.
 
 И напоследок новость `о грядущем выходе systemd
-209 <http://cgit.freedesktop.org/systemd/systemd/tree/NEWS>`__, которую
+209 <https://cgit.freedesktop.org/systemd/systemd/tree/NEWS>`__, которую
 `уже перевели на
 Linux.org.ru <https://www.linux.org.ru/news/opensource/10195930>`__.
 

@@ -92,7 +92,7 @@ Rich W.M. Jones `выпустил libguestfs
 интеграция с systemd (теперь используется Journald), биндинги к golang.
 
 В Weston `начата работа по замене бэкендов отрисовки на
-лету <http://cgit.freedesktop.org/wayland/weston/commit/?id=aa398ae1>`__.
+лету <https://cgit.freedesktop.org/wayland/weston/commit/?id=aa398ae1>`__.
 
 Вышла `статистика по ядру Linux
 3.12 <https://lwn.net/Articles/570483/>`__. В этот раз случилась

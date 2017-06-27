@@ -56,24 +56,24 @@ netinstall образ RFRemix Workstation.
 
 
 -  RFRemix Server [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Server/i386/iso/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Server/i386/iso/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Server/x86_64/iso/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Server/x86_64/iso/>`__
    ]
 -  RFRemix Workstation [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Workstation/i386/iso/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Workstation/i386/iso/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Workstation/x86_64/iso>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Workstation/x86_64/iso>`__
    ]
 -  Образы Live [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Spins/i386/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Spins/i386/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Spins/x86_64>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Spins/x86_64>`__
    ]
 -  Торренты [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Torrents/i386/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Torrents/i386/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Torrents/x86_64>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Torrents/x86_64>`__
    ]
 
 **Куда сходить спросить, пожаловаться**

@@ -12,7 +12,7 @@
 
 
 | Один из наших коллег был вынужден использовать `вот такой
-  патч <http://pkgs.fedoraproject.org/cgit/rpms/chromium.git/plain/chromium-46.0.2490.71-gcc5.patch>`__:
+  патч <https://src.fedoraproject.org/cgit/rpms/chromium.git/plain/chromium-46.0.2490.71-gcc5.patch>`__:
 
     ::
 

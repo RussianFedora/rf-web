@@ -15,7 +15,7 @@
 (2D-ускорение EXA, реализованное на базе Gallium3D), `OpenGL
 2.0 <http://bloggingthemonkey.blogspot.com/2014/05/freedreno-turns-gl-20-today.html>`__,
 `поддержку sRGB текстур и OpenGL
-2.1 <http://cgit.freedesktop.org/mesa/mesa/commit/?id=5646319>`__, но и
+2.1 <https://cgit.freedesktop.org/mesa/mesa/commit/?id=5646319>`__, но и
 `нашел ошибку безопасности в (полу)проприетарном
 видеодрайвере <http://bloggingthemonkey.blogspot.com/2014/06/fire-in-root-hole.html>`__,
 позволившую ему `установить Fedora на Amazon Fire

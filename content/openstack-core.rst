@@ -20,7 +20,7 @@ McLoughlin <https://www.openhub.net/accounts/markmc>`__ изложил свои
 Проблема, давно вставшая перед ведущими игроками, вкладывающимися в
 OpenStack, это то, какие компоненты вообще могут содержать в названии
 `торговую марку
-OpenStack <http://www.openstack.org/brand/openstack-trademark-policy/>`__?
+OpenStack <https://www.openstack.org/brand/openstack-trademark-policy/>`__?
 Эта тема уже давно обсуждается на самом высшем уровне иерархии OpenStack
 Foundation (например, Rob Hirschfeld, участник совета директоров,
 `написал серию статей по

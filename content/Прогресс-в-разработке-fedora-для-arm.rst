@@ -28,7 +28,7 @@ Robinson <https://plus.google.com/117898952501074015902/posts>`__
 ARM <https://thread.gmane.org/gmane.linux.redhat.fedora.arm/4257>`__. Мы
 `уже сообщали </content/Новости-secondary-arch-fedora>`__ о том, что
 ведется работа в этом направлении, и вот - `первые
-результаты <http://pkgs.fedoraproject.org/cgit/kernel.git/commit/?id=faa8d0c>`__
+результаты <https://src.fedoraproject.org/cgit/kernel.git/commit/?id=faa8d0c>`__
 уже в Git-репозитории (а вскоре и в Koji). Не за горами тот час, когда
 для новых ARM-устройств не понадобится собирать специфичное ядро для
 каждой конкретной системы, и в ряде случаев даже можно будет

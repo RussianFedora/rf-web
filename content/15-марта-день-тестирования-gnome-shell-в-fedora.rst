@@ -31,7 +31,7 @@ Shell и дополнений к GNOME.
           4ee9523cf832043fe73cd57743dacb82f5ae4240d98016a4ccd12314724dfd30
 
 Российские локализаторы `просят
-<http://lists.fedoraproject.org/pipermail/trans-ru/2012-March/001459.html>`__
+<https://lists.fedoraproject.org/pipermail/trans-ru/2012-March/001459.html>`__
 сообщать о багах непосредственно в `русскоязычную рассылку
 <http://mail.gnome.org/mailman/listinfo/gnome-cyr>`__ команды GNOME или вносить
 их в `вики-таблицу

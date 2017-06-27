@@ -75,10 +75,10 @@ GSoC этого года уже завершен, а мы рекомендуем
 <https://github.com/axeldavy/xf86-video-wlglamor>`__, видеодрайвер,
 использующий `Glamor <http://www.freedesktop.org/wiki/Software/Glamor/>`__. А
 ведь еще есть `xf86-video-wayland
-<http://cgit.freedesktop.org/xorg/driver/xf86-video-wayland/>`__ (который
+<https://cgit.freedesktop.org/xorg/driver/xf86-video-wayland/>`__ (который
 `включают в Fedora <https://bugzilla.redhat.com/1015162>`__, и который будет
 использоваться для XWayland) и `xf86-video-wlshm
-<http://cgit.freedesktop.org/~daniels/xf86-video-wlshm/>`__. Все это выглядит
+<https://cgit.freedesktop.org/~daniels/xf86-video-wlshm/>`__. Все это выглядит
 не очень прямо, но главное, что процесс идет.
 
 Кроме GTK3, Qt5 `также вполне работоспособен в Wayland

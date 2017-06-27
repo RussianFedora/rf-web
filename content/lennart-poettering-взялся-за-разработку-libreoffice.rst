@@ -12,7 +12,7 @@
 
 
 В дерево LibreOffice принят `первый коммит от Lennart
-Poettering <http://cgit.freedesktop.org/libreoffice/core/commit/?id=1958ca2>`__.
+Poettering <https://cgit.freedesktop.org/libreoffice/core/commit/?id=1958ca2>`__.
 
 Как утверждает автор `в своей ленте
 Google+ <https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/VUzeRLf5g5m>`__,

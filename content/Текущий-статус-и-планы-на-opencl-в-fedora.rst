@@ -12,7 +12,7 @@
 
 
 Начиная с мая 2012, `в Mesa есть базовая поддержка
-OpenCL <http://www.phoronix.com/scan.php?page=news_item&px=MTEwMTE>`__.
+OpenCL <https://www.phoronix.com/scan.php?page=news_item&px=MTEwMTE>`__.
 
 Для тех, кто не в курсе - поддержка OpenCL уже давно есть в Mac OS X "из
 коробки" и в Windows, если на ней установлен DirectX 11, но ситуация с

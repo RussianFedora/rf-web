@@ -12,15 +12,15 @@
 
 
 PulseAudio `уже практически
-перенесли <http://www.phoronix.com/scan.php?page=news_item&px=MTA5NDM>`__
+перенесли <https://www.phoronix.com/scan.php?page=news_item&px=MTA5NDM>`__
 (вся работа `была
-начата <http://www.phoronix.com/scan.php?page=news_item&px=MTA0MzY>`__
+начата <https://www.phoronix.com/scan.php?page=news_item&px=MTA0MzY>`__
 несколько месяцев назад). По итогам уже видны положительные изменения -
 `энергопотребление упадет, чуть упадет нагрузка на процессор и появятся
 все "фичи"
 PulseAudio <http://arunraghavan.net/2012/01/pulseaudio-vs-audioflinger-fight/>`__,
 например сетевое проигрывание. А вот Wayland `только начали
-переносить <http://www.phoronix.com/scan.php?page=news_item&px=MTA5MzA>`__.
+переносить <https://www.phoronix.com/scan.php?page=news_item&px=MTA5MzA>`__.
 
 Все делается дружественной к Fedora компанией Collabora. Ждем переноса
 systemd!

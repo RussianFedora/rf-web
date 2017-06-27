@@ -17,7 +17,7 @@
 `chrome <https://thread.gmane.org/gmane.linux.drivers.openchrome.devel/389>`__,
 написанный (вернее недописанный) участником проектов OLPC, Gentoo,
 Kernel и Fedora `Daniel Drake <https://www.openhub.net/accounts/dsd>`__,
-`Unichrome <http://cgit.freedesktop.org/~libv/xf86-video-unichrome/>`__,
+`Unichrome <https://cgit.freedesktop.org/~libv/xf86-video-unichrome/>`__,
 заброшенный основным разработчиком, бывшим инженером Novell и участником
 проектов X.org, Debian и Coreboot `Luc
 Verhaegen <https://www.openhub.net/accounts/libv>`__ и

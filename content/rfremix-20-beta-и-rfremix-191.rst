@@ -51,9 +51,9 @@ Live-образы с GNOME, KDE, XFCE, LXDE и MATE. Загрузка образ
    `x86\_64 <http://mirrors.rfremix.ru/mirrorlist?path=releases/test/RFRemix/20-Beta/Live/x86_64/>`__
    ]
 -  Торренты [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/20-Beta/RFRemix/i386/torrents/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/20-Beta/RFRemix/i386/torrents/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/20-Beta/RFRemix/x86_64/torrents/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/test/RFRemix/20-Beta/RFRemix/x86_64/torrents/>`__
    ]
 
 **Изменения RFRemix 19.1:**
@@ -84,9 +84,9 @@ delta, а также Live-образы с GNOME, KDE, XFCE, LXDE, MATE и KDE-mi
    `x86\_64 <http://mirrors.rfremix.ru/mirrorlist?path=releases/RFRemix/19.1/Live/x86_64/>`__
    ]
 -  Торренты [
-   `i386 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/19.1/RFRemix/i386/torrents/>`__
+   `i386 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/19.1/RFRemix/i386/torrents/>`__
    ] [
-   `x86\_64 <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/19.1/RFRemix/x86_64/torrents/>`__
+   `x86\_64 <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/19.1/RFRemix/x86_64/torrents/>`__
    ]
 
 Все найденные ошибки просьба отправлять в наш

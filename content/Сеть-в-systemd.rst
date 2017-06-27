@@ -19,7 +19,7 @@ Gundersen <https://plus.google.com/+TomGundersen/about>`__. Недавно,
 `systemd научился создавать
 bridge </content/Новости-systemd-за-прошедший-месяц-полтора>`__, а
 теперь `Tom научил systemd
-bonding <http://cgit.freedesktop.org/systemd/systemd/commit/?id=52433f6>`__.
+bonding <https://cgit.freedesktop.org/systemd/systemd/commit/?id=52433f6>`__.
 
 Если кто пропустил, то Tom написал цикл статей про свою мотивацию,
 текущее состояние (на момент написания) и планы по включению сетевых

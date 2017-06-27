@@ -32,5 +32,5 @@ JIT-компилятора из PCRE, что сильно ускорит раб�
 
 `Maksim Melnikau <https://github.com/max-posedon>`__, инженер Wargaming,
 побывал на LinuxCon Europe 2013 и `изложил запомнившееся в виде
-презентации <http://www.slideshare.net/max_posedon/linuxcon-europe-2013>`__.
+презентации <https://www.slideshare.net/max_posedon/linuxcon-europe-2013>`__.
 

@@ -78,7 +78,7 @@
     Devstack — написанный на Bash фреймворк для деплоймента базового
     OpenStack-окружения. На развернутом окружении далее прогоняется
     Python-based
-    `Tempest <http://docs.openstack.org/developer/tempest/>`__
+    `Tempest <https://docs.openstack.org/developer/tempest/>`__
     framework, он и позволяет тестировать сценарии взаимодействия между
     разными сервисами экосистемы OpenStack. Например, для создания
     compute-ноды нужно авторизоваться в Keystone, получить базовый образ

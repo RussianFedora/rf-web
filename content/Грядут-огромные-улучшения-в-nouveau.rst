@@ -18,7 +18,7 @@ Skeggs <https://www.openhub.net/accounts/darktama>`__
 видеодрайвере для видеокарт NVIDIA - nouveau. Основатель Phoronix
 `Michael Larabel <http://www.michaellarabel.com/michael.php>`__ написал
 `развернутую
-статью <http://www.phoronix.com/scan.php?page=news_item&px=MTA4NzI>`__ о
+статью <https://www.phoronix.com/scan.php?page=news_item&px=MTA4NzI>`__ о
 том, какие-же изменения идут (и пообещал провести бенчмарки). Вкратце,
 результаты некоторых синтетических тестов улучшились вдвое (по
 заявлениям разработчиков), упала нагрузка на центральный процессор

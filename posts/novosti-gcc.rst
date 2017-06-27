@@ -16,7 +16,7 @@
 Проблема существует с 4й версии GCC. Бывает, что.
 
 Наш коллега, инженер Red Hat, `David Malcolm
-<http://fedoraproject.org/wiki/User:Dmalcolm>`_ завел `страничку для новичков
+<https://fedoraproject.org/wiki/User:Dmalcolm>`_ завел `страничку для новичков
 <https://dmalcolm.fedorapeople.org/gcc/newbies-guide/index.html>`_, которые бы
 хотели заняться разработкой GCC. Если хотите написать для GCC фронтенд для
 нового языка программирования, то начните с этого адреса.

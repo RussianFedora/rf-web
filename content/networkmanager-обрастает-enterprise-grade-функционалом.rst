@@ -27,9 +27,9 @@ WLAN в отдельный плагин, т.к. оно зачастую `не
 </content/Короткие-новости-18>`__ и по `удалению кода из Glib
 </content/Из-glib-удалили-поддержку-операционных-систем-из-1990х>`__, за два
 коммита включил в NM `поддержку
-<http://cgit.freedesktop.org/NetworkManager/NetworkManager/commit/?id=4bfb430>`__
+<https://cgit.freedesktop.org/NetworkManager/NetworkManager/commit/?id=4bfb430>`__
 `VxLAN
-<http://cgit.freedesktop.org/NetworkManager/NetworkManager/commit/?id=42df06e>`__
+<https://cgit.freedesktop.org/NetworkManager/NetworkManager/commit/?id=42df06e>`__
 (см. `статью в википедии
 <https://ru.wikipedia.org/wiki/Virtual_Extensible_LAN>`__).  Работа заняла у
 него более полугода, и проводилась в рамках `разработки RHEL 7

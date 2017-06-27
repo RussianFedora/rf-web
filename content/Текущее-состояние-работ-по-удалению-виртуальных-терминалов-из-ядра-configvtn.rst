@@ -21,7 +21,7 @@ userspace и использующего KMS, udev, systemd, Mesa и gtk2/pango.
 Herrmann <https://plus.google.com/112212087950959620804/about>`__,
 подвел итоги проделанной работы и озвучил дальнейшие планы. Вы можете
 посмотреть `видео от
-PHORONIX <http://www.phoronix.com/scan.php?page=news_item&px=MTI5Njc>`__
+PHORONIX <https://www.phoronix.com/scan.php?page=news_item&px=MTI5Njc>`__
 и `ознакомиться со
 слайдами <https://fosdem.org/2013/schedule/event/kmscon/attachments/slides/248/export/events/attachments/kmscon/slides/248/FOSDEM2013_linux_console.pdf>`__.
 

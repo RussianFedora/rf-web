@@ -86,7 +86,7 @@
    systemd <https://fedoraproject.org/wiki/Changes/systemd_package_split>`__
 
 Также стоит отметить готовность репозиториев `Russian Fedora
-<http://mirror.yandex.ru/fedora/russianfedora/russianfedora/>`__ для Fedora 24.
+<https://mirror.yandex.ru/fedora/russianfedora/russianfedora/>`__ для Fedora 24.
 Образы RFRemix 24 уже на подходе!
 
 >>> `Загрузить <http://getfedora.org>`__
