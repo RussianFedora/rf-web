@@ -1,15 +1,12 @@
 .. title: Daniel Stenberg собрал статистику использования клавиатуры
 .. slug: daniel-stenberg-собрал-статистику-использования-клавиатуры
 .. date: 2015-08-21 11:58:30
-.. tags:
+.. tags: mozilla
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Daniel Stenberg <https://www.openhub.net/accounts/bagder>`__, наш
 хороший знакомый, с которым мы теперь регулярно видимся на FOSDEM, и
