@@ -12,7 +12,7 @@
 
 
 Перевод
-`статьи <http://blogs.gnome.org/mclasen/2013/08/23/gnome-3-10-sightings/>`__
+`статьи <https://blogs.gnome.org/mclasen/2013/08/23/gnome-3-10-sightings/>`__
 от `Matthias
 Clasen <https://plus.google.com/103842270499979733054/posts>`__:
 Я не очень активно писал статьи о развитии этой ветки GNOME. Я был занят
@@ -74,19 +74,19 @@ Clasen <https://plus.google.com/103842270499979733054/posts>`__:
 добиваются стабильного прогресса.
 
 
-.. |System Status| image:: http://blogs.gnome.org/mclasen/files/2013/08/systemstatus.png
+.. |System Status| image:: https://blogs.gnome.org/mclasen/files/2013/08/systemstatus.png
    :width: 100.0%
-.. |Header Bar| image:: http://blogs.gnome.org/mclasen/files/2013/08/headerbar.png
+.. |Header Bar| image:: https://blogs.gnome.org/mclasen/files/2013/08/headerbar.png
    :width: 100.0%
-.. |Universal Access Panel| image:: http://blogs.gnome.org/mclasen/files/2013/08/a11y.png
+.. |Universal Access Panel| image:: https://blogs.gnome.org/mclasen/files/2013/08/a11y.png
    :width: 100.0%
-.. |Displays Panel| image:: http://blogs.gnome.org/mclasen/files/2013/08/displays.png
+.. |Displays Panel| image:: https://blogs.gnome.org/mclasen/files/2013/08/displays.png
    :width: 100.0%
-.. |Backgrounds Panel| image:: http://blogs.gnome.org/mclasen/files/2013/08/backgrounds.png
+.. |Backgrounds Panel| image:: https://blogs.gnome.org/mclasen/files/2013/08/backgrounds.png
    :width: 100.0%
-.. |Date & Time Panel| image:: http://blogs.gnome.org/mclasen/files/2013/08/datetime.png
+.. |Date & Time Panel| image:: https://blogs.gnome.org/mclasen/files/2013/08/datetime.png
    :width: 100.0%
-.. |Date & Time Choose| image:: http://blogs.gnome.org/mclasen/files/2013/08/datetime2.png
+.. |Date & Time Choose| image:: https://blogs.gnome.org/mclasen/files/2013/08/datetime2.png
    :width: 100.0%
-.. |GNOME Maps| image:: http://blogs.gnome.org/mclasen/files/2013/08/maps.png
+.. |GNOME Maps| image:: https://blogs.gnome.org/mclasen/files/2013/08/maps.png
    :width: 100.0%

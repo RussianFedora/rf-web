@@ -13,7 +13,7 @@
 т.к. все были очень заняты важными делами. Зато уж не пропустите `Digital Go
 <http://www.digitaloctober.ru/ru/events/golang_moscow>`__, 21го июня 2014 года
 в столице. Это очередная встреча `Moscow Golang Community
-<http://www.meetup.com/Golang-Moscow/>`__ (`предыдущая была в Яндексе этой
+<https://www.meetup.com/Golang-Moscow/>`__ (`предыдущая была в Яндексе этой
 зимой </content/go-moscow-meetup>`__).
 
 Программа мероприятия:

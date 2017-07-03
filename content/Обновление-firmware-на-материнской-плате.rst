@@ -110,6 +110,6 @@ AArch64 <https://cgit.freedesktop.org/systemd/systemd/commit/?id=684edf2>`__.
 Самое время, учитывая, что `Gigabyte с минуты на минуту начнет выпуск
 AArch64-оборудования <http://www.anandtech.com/show/9107/gigabyte-server-releases-arm-solutions-using-appliedmicro-and-annapurna-labs-socs>`__,
 да и говорят, что `Samsung может купить
-AMD <http://www.theregister.co.uk/2015/03/27/chip_industry_rumor_roundup/>`__,
+AMD <https://www.theregister.co.uk/2015/03/27/chip_industry_rumor_roundup/>`__,
 которые, как вы помните, `переходят на
 ARM </content/amd-начало-переход-на-arm>`__

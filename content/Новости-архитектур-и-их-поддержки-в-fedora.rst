@@ -65,7 +65,7 @@ ARM. </content/centos-начинает-набирать-скорость>`__
 кастомизированные
 Power-системы <http://www.enterprisetech.com/2014/04/28/inside-google-tyan-power8-server-boards/>`__,
 но и продолжает экспериментировать с ARM. Недавно они наняли `инженера
-Calxeda <http://www.theregister.co.uk/2014/05/01/google_calxeda_chip_hire/>`__,
+Calxeda <https://www.theregister.co.uk/2014/05/01/google_calxeda_chip_hire/>`__,
 которая `недавно вылетела из
 бизнеса </content/Короткие-новости-про-основные-компоненты-системы-base-os-0>`__.
 

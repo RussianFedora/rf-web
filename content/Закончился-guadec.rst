@@ -15,11 +15,11 @@
 <https://www.guadec.org/schedule/>`__. Наших коллег, само собой, там было
 навалом. Из отчетов посоветуем почитать, что пишет `Jiří Eischmann
 <https://plus.google.com/112174839778779720402/about>`__ - `первый день
-<http://fedoramagazine.org/guadec-2014-day-one/>`__, `второй
-<http://fedoramagazine.org/guadec-2014-day-two-pitivi-automotive-boxes-fleet-commander/>`__,
-`третий <http://fedoramagazine.org/guadec-day-3-gtk-and-wayland/>`__,
+<https://fedoramagazine.org/guadec-2014-day-one/>`__, `второй
+<https://fedoramagazine.org/guadec-2014-day-two-pitivi-automotive-boxes-fleet-commander/>`__,
+`третий <https://fedoramagazine.org/guadec-day-3-gtk-and-wayland/>`__,
 `четвертый
-<http://fedoramagazine.org/guadec-2014-day-four-hardware-new-ide-for-gnome/>`__.
+<https://fedoramagazine.org/guadec-2014-day-four-hardware-new-ide-for-gnome/>`__.
 
 Вкратце, что заметил Jiří:
 

@@ -16,11 +16,11 @@
   всех участников проекта Fedora прийти и проголосовать. На два места
   претендуют пять человек, и их уже проинтервьюировали:
 
--  `Rex Dieter <http://fedoramagazine.org/?p=6369>`__
--  `Haïkel Guémar <http://fedoramagazine.org/?p=6337>`__
--  `Michael Scherer <http://fedoramagazine.org/?p=6350>`__
--  `Pete Travis <http://fedoramagazine.org/?p=6344>`__
--  `Langdon White <http://fedoramagazine.org/?p=6352>`__
+-  `Rex Dieter <https://fedoramagazine.org/?p=6369>`__
+-  `Haïkel Guémar <https://fedoramagazine.org/?p=6337>`__
+-  `Michael Scherer <https://fedoramagazine.org/?p=6350>`__
+-  `Pete Travis <https://fedoramagazine.org/?p=6344>`__
+-  `Langdon White <https://fedoramagazine.org/?p=6352>`__
 
 | 
 | Все на выборы!

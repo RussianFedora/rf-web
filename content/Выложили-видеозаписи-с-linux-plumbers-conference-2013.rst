@@ -14,7 +14,7 @@
 | Вслед за `видеозаписями и слайдами с LinuxCon и CloudOpen
   2013 </content/Выложили-видеозаписи-с-linuxcon-и-cloudopen-2013>`__
   выложили
-  `видеозаписи <http://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A/videos>`__
+  `видеозаписи <https://www.youtube.com/channel/UCIxsmRWj3-795FMlrsikd3A/videos>`__
   и
   `слайды <http://www.linuxplumbersconf.org/2013/ocw/events/LPC2013/schedule>`__
   с Linux Plumbers Conference 2013. Опять же, интересного очень много, и
@@ -22,74 +22,74 @@
   дружественных нам компаний:
 
 -  `Fedora/systemd on lxc status - Michael H Warfield,
-   IBM <http://www.youtube.com/watch?v=pLj5nvqU86I>`__
+   IBM <https://www.youtube.com/watch?v=pLj5nvqU86I>`__
 -  `Shingled Drive Impace on File and Storage Stack - Ric Wheeler, Red
-   Hat <http://www.youtube.com/watch?v=upvxl7YgeUQ>`__
+   Hat <https://www.youtube.com/watch?v=upvxl7YgeUQ>`__
 -  `How will we Address Persistent Memory? - Jeff Moyer, Red Hat,
-   Inc. <http://www.youtube.com/watch?v=CAJy3dCgjDw>`__
+   Inc. <https://www.youtube.com/watch?v=CAJy3dCgjDw>`__
 -  `vmsplice with transparent huge pages - Robert Jennings,
-   IBM <http://www.youtube.com/watch?v=3ZVPpMgW7GQ>`__
+   IBM <https://www.youtube.com/watch?v=3ZVPpMgW7GQ>`__
 -  `Full dynticks status - Frederic Weisbecker, Red
-   Hat <http://www.youtube.com/watch?v=G3jHP9kNjwc>`__
+   Hat <https://www.youtube.com/watch?v=G3jHP9kNjwc>`__
 -  `Kexec/Kdump and Secureboot - Vivek Goyal, Red
-   Hat <http://www.youtube.com/watch?v=d6fQnuJuXwg>`__
+   Hat <https://www.youtube.com/watch?v=d6fQnuJuXwg>`__
 -  `Kicking it up a Level: Bringing the Trusted Platform Module into
    qemu - Joel Schopp,
-   IBM <http://www.youtube.com/watch?v=cmZFKEyQUcU>`__
+   IBM <https://www.youtube.com/watch?v=cmZFKEyQUcU>`__
 -  `Virtually Thin: Tuning XFS on Top of Device Mapper dm-thin - Carlos
-   Maiolino, Red Hat <http://www.youtube.com/watch?v=4Bhjcdcc2Uw>`__
+   Maiolino, Red Hat <https://www.youtube.com/watch?v=4Bhjcdcc2Uw>`__
 -  `Splitting DRM/KMS device nodes - David Herrmann, student (т.е.
-   школота) <http://www.youtube.com/watch?v=j2Gr3JevG7E>`__
+   школота) <https://www.youtube.com/watch?v=j2Gr3JevG7E>`__
 -  `Unified in-kernel IPC - KDBUS/Binder - John Stultz,
-   Linaro.org <http://www.youtube.com/watch?v=yRvHq-HTJ7g>`__
+   Linaro.org <https://www.youtube.com/watch?v=yRvHq-HTJ7g>`__
 -  `Current status of lock elision in Linux - Andi Kleen,
-   Intel <http://www.youtube.com/watch?v=nUTHUwaM72M>`__
+   Intel <https://www.youtube.com/watch?v=nUTHUwaM72M>`__
 -  `SCSI midlayer scalability (Christoph Hellwig) - Ric Wheeler, Red
-   Hat <http://www.youtube.com/watch?v=abDTx9XdKn4>`__
+   Hat <https://www.youtube.com/watch?v=abDTx9XdKn4>`__
 -  `Copy offloading - Zach Brown, Red
-   Hat <http://www.youtube.com/watch?v=A_BB3Hf22xY>`__
+   Hat <https://www.youtube.com/watch?v=A_BB3Hf22xY>`__
 -  `Media decode and composition: bridging the gap - Daniel Stone,
-   Collabora Ltd. <http://www.youtube.com/watch?v=x9RZ84R5g3g>`__
+   Collabora Ltd. <https://www.youtube.com/watch?v=x9RZ84R5g3g>`__
 -  `Unifying Secure Boot code and getting additions into UEFI - James
    E.J. Bottomley, Parallels,
-   Inc. <http://www.youtube.com/watch?v=yh8jKS2PAsE>`__
+   Inc. <https://www.youtube.com/watch?v=yh8jKS2PAsE>`__
 -  `SR-IOV Virtual Function Lifetimes - Myron Stowe, Red
-   Hat <http://www.youtube.com/watch?v=xsF5zYzGnWg>`__
+   Hat <https://www.youtube.com/watch?v=xsF5zYzGnWg>`__
 -  `Using BlueZ in the Automotive World - Gustavo Padovan, Collabora
-   Ltd <http://www.youtube.com/watch?v=FozB5m-8Ogg>`__
+   Ltd <https://www.youtube.com/watch?v=FozB5m-8Ogg>`__
 -  `Hardening the kernel for Secure Boot - Matthew Garrett,
-   Nebula <http://www.youtube.com/watch?v=fDzAVksopYw>`__
+   Nebula <https://www.youtube.com/watch?v=fDzAVksopYw>`__
 -  `Signature Verification fo Hibernate Snapshot - Joey Lee,
-   Suse <http://www.youtube.com/watch?v=snXZIP2JJtg>`__
+   Suse <https://www.youtube.com/watch?v=snXZIP2JJtg>`__
 -  `State of CRIU and integration with LXC - Pavel Emelianov, Serge
-   Hallyn <http://www.youtube.com/watch?v=d2DkDoz-Oh0>`__
+   Hallyn <https://www.youtube.com/watch?v=d2DkDoz-Oh0>`__
 -  `Open vSwitch: Hardware assisted filtering - Thomas Graf, Red
-   Hat <http://www.youtube.com/watch?v=C_E4xICTGyw>`__
+   Hat <https://www.youtube.com/watch?v=C_E4xICTGyw>`__
 -  `All Your Control Groups Are Belong To Us! - Lennart Poettering, Red
-   Hat <http://www.youtube.com/watch?v=MSG4jW187Is>`__
+   Hat <https://www.youtube.com/watch?v=MSG4jW187Is>`__
 -  `5s Boot Delivered - Harald Hoyer, Lennart Poettering, Red Hat ; Kay
-   Sievers, Red Hat <http://www.youtube.com/watch?v=M6e-ANgye30>`__
+   Sievers, Red Hat <https://www.youtube.com/watch?v=M6e-ANgye30>`__
 -  `Zero Configuration File System Discovery and Mounting - Harald
-   Hoyer <http://www.youtube.com/watch?v=NXHNbQ04AiI>`__
+   Hoyer <https://www.youtube.com/watch?v=NXHNbQ04AiI>`__
 -  `Using OpenVZ to build a PaaS with Openstack's Nova - Daniel Salinas,
-   Rackspace <http://www.youtube.com/watch?v=k0kyd0ozaYM>`__
+   Rackspace <https://www.youtube.com/watch?v=k0kyd0ozaYM>`__
 -  `Lightweight Containers with nspawn - Lennart Poettering, Red
-   Hat <http://www.youtube.com/watch?v=PRpuzr7H3EQ>`__
+   Hat <https://www.youtube.com/watch?v=PRpuzr7H3EQ>`__
 -  `Platform Device VFIO - Alexander Graf,
-   Suse <http://www.youtube.com/watch?v=qRITZ8OPF98>`__
+   Suse <https://www.youtube.com/watch?v=qRITZ8OPF98>`__
 -  `Containers control tools: can we unify those? - Kirill Kolyshkin,
    Parallels ; Stéphane Graber, Canonical
-   Ltd. <http://www.youtube.com/watch?v=ern3qWNKbD4>`__
+   Ltd. <https://www.youtube.com/watch?v=ern3qWNKbD4>`__
 -  `Detecting RCU Usage Bugs - D. Giani ; P. McKenney, IBM ; F.
-   Weisbecker, Red Hat <http://www.youtube.com/watch?v=O6J171fAdtc>`__
+   Weisbecker, Red Hat <https://www.youtube.com/watch?v=O6J171fAdtc>`__
 -  `Open Source Graphics on ARM - Rob Clark, Red
-   Hat <http://www.youtube.com/watch?v=lllNQN6JzXs>`__
+   Hat <https://www.youtube.com/watch?v=lllNQN6JzXs>`__
 -  `Hasslefree Boot Loading with Gummiboot - Harald Hoyer, Red
-   Hat <http://www.youtube.com/watch?v=-d_G1cn9gJc>`__
+   Hat <https://www.youtube.com/watch?v=-d_G1cn9gJc>`__
 -  `IVI and Wayland: why, what, how - Daniel Stone, Collabora
-   Ltd. <http://www.youtube.com/watch?v=3bX2v6JvUNw>`__
+   Ltd. <https://www.youtube.com/watch?v=3bX2v6JvUNw>`__
 -  `TCP repair overview - Pavel Emelianov,
-   Parallels <http://www.youtube.com/watch?v=IkH7p2jmxok>`__
+   Parallels <https://www.youtube.com/watch?v=IkH7p2jmxok>`__
 
 | 
 | Cмотрите, ставьте лайки и делайте репосты.
@@ -100,7 +100,7 @@
 | 
 | Отдельно хочется обратить внимание на короткий, но очень показательный
   доклад `Upstart Roadmap - James Hunt, Canonical, Ubuntu ; Dmitrijs
-  Ledkovs, Canonical <http://www.youtube.com/watch?v=WAfXgAk53Mg>`__. Мы
+  Ledkovs, Canonical <https://www.youtube.com/watch?v=WAfXgAk53Mg>`__. Мы
   бы не обратили особого внимания, но Mark Shuttleworth опять
   `высказался по поводу systemd и
   bloatware <http://www.markshuttleworth.com/archives/1295>`__, по

@@ -15,7 +15,7 @@
 коллега, участник Fedora и член технического комитета OpenStack, `Mark
 McLoughlin <https://www.openhub.net/accounts/markmc>`__ изложил свои
 соображения на тему, `OpenStack и его базовые
-компоненты <http://blogs.gnome.org/markmc/2013/10/30/openstack-core-and-interoperability/>`__.
+компоненты <https://blogs.gnome.org/markmc/2013/10/30/openstack-core-and-interoperability/>`__.
 
 Проблема, давно вставшая перед ведущими игроками, вкладывающимися в
 OpenStack, это то, какие компоненты вообще могут содержать в названии

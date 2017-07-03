@@ -11,7 +11,7 @@
 В продолжение `новостей об
 ARM </content/Прогресс-в-разработке-fedora-для-arm>`__ - теперь `AMD
 официально объявила о переходе с x86 на
-ARM64 <http://www.amd.com/us/press-releases/Pages/press-release-2012Oct29.aspx>`__.
+ARM64 <https://www.amd.com/us/press-releases/Pages/press-release-2012Oct29.aspx>`__.
 
 Вся работа будет проводиться в рамках `Fedora ARM
 SIG <https://fedoraproject.org/wiki/Architectures/ARM>`__, полностью

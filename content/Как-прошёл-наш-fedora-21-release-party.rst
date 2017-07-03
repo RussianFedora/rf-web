@@ -22,7 +22,7 @@
 
 ****
 
-.. rubric:: `Видеозапись <http://youtu.be/UU7UPeS5DE0>`__
+.. rubric:: `Видеозапись <https://youtu.be/UU7UPeS5DE0>`__
    :name: видеозапись
 
 

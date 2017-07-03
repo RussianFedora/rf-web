@@ -19,7 +19,7 @@ Fedora 17.
    картинку)
 -  флешка с поддержкой USB 3.0
 -  Live-образ с текущей сборкой Fedora 17
-   (`скачать <http://alt.fedoraproject.org/pub/alt/nightly-composes/desktop/>`__)
+   (`скачать <https://alt.fedoraproject.org/pub/alt/nightly-composes/desktop/>`__)
 
 Участвовать в тестовом дне можно и после его окончания. Статистика результатов
 подсчитывается обычно спустя 5-7 дней.

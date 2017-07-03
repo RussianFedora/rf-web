@@ -48,7 +48,7 @@ freedreno <http://bloggingthemonkey.blogspot.com/2013/09/freedreno-update-moar-f
 
 Rich W.M. Jones объявил, что `обновляет Ocaml в Fedora до недавно
 вышедшей версии
-4.01.0 <http://rwmj.wordpress.com/2013/09/14/ocaml-4-01-0-entering-rawhide/>`__.
+4.01.0 <https://rwmj.wordpress.com/2013/09/14/ocaml-4-01-0-entering-rawhide/>`__.
 
 Danel Pocock, недавно пришедший к нам из коммьюнити Debian, `написал
 статью о существующих стандартах для адресной книги и

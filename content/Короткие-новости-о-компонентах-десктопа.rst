@@ -29,7 +29,7 @@ Meeks <https://en.wikipedia.org/wiki/Michael_Meeks_%28software_developer%29>`__,
 Надо отметить, что до недавних пор с OpenGL в линуксе было не очень
 хорошо, но в последние несколько лет начало улучшаться. Например,
 `недавно добавили поддержку OpenGL в
-GTK <http://blogs.gnome.org/alexl/2014/10/24/introducing-gthree/>`__.
+GTK <https://blogs.gnome.org/alexl/2014/10/24/introducing-gthree/>`__.
 
 Модернизация с помощью перехода на современные технологии, такие, как
 systemd, и отказа от устаревшего груза в виде поддержки игрушечных ядер,

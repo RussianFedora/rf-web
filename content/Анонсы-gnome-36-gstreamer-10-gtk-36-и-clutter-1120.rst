@@ -15,7 +15,7 @@
 `анонсировали выход новой версии мультимедиа-фреймворка
 GStreamer <http://gstreamer.freedesktop.org/news/#2012-09-24T18:00:00Z>`__,
 приуроченного к выходу новой версии GNOME. Он `уже включен в Fedora
-18 <http://blogs.gnome.org/uraeus/2012/09/26/gstreamer-1-0-released/>`__,
+18 <https://blogs.gnome.org/uraeus/2012/09/26/gstreamer-1-0-released/>`__,
 и ведется портирование с линейки 0.1x на него. Новость `уже обсуждается
 на Linux.org.ru <https://www.linux.org.ru/news/multimedia/8267717>`__.
 

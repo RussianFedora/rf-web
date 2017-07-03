@@ -33,5 +33,5 @@ ARM в Fedora. Помимо сугубо технических инфрастр
 
 С видеозаписью основной презентации (на английском языке) работы в
 рамках Fedora ARM можно познакомиться
-`здесь <http://alt.fedoraproject.org/pub/alt/videos/2012/fudcon-blacksburg/intro-to-arm.ogg>`__.
+`здесь <https://alt.fedoraproject.org/pub/alt/videos/2012/fudcon-blacksburg/intro-to-arm.ogg>`__.
 

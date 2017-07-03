@@ -14,7 +14,7 @@
 Участник Fedora, `Christian
 Schaller <https://www.openhub.net/accounts/Uraeus>`__, разработчик
 gstreamer и GNOME, сообщает `новости о Wayland в
-Fedora <http://blogs.gnome.org/uraeus/2013/09/09/fedora-wayland-update/>`__.
+Fedora <https://blogs.gnome.org/uraeus/2013/09/09/fedora-wayland-update/>`__.
 
 Пока все идет по плану, и технологическая превьюшка GNOME на базе
 Wayland будет доступна уже в Fedora 20. К сожалению, пока непонятно,

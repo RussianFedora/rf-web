@@ -18,7 +18,7 @@ Juszkiewicz <https://www.openhub.net/accounts/hrw>`__. Разработчику 
 реализоваться в коммьюнити, в котором не ценится и не ведется
 разработка, и которое управляется командой маркетологов. Неудивительно,
 что `он с радостью перешел в Red Hat при первой
-возможности <http://marcin.juszkiewicz.com.pl/2013/08/01/new-job-senior-software-engineer-red-hat/>`__.
+возможности <https://marcin.juszkiewicz.com.pl/2013/08/01/new-job-senior-software-engineer-red-hat/>`__.
 
 Спасибо, `Tyler
 Šiprová <https://plus.google.com/100383574349411246751/posts>`__, что

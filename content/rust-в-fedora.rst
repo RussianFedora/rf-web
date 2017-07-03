@@ -31,7 +31,7 @@ Grover <https://www.openhub.net/accounts/agrover>`__, по `использова
 поддержку с их стороны. Недавно Andy выступил на ежемесячном митапе по
 Rust, проводимом MoFo. Тема его выступления была - `"Froyo: Using Rust
 to get fancy with
-storage" <http://www.meetup.com/PDXRust/events/230723873/>`__. К
+storage" <https://www.meetup.com/PDXRust/events/230723873/>`__. К
 сожалению, доступно только видео на Archive.org:
 Раз уж заговорили о Rust, то обратите внимание на это `спорное
 предложение <http://notes.willcrichton.net/rust-the-new-llvm/>`__. Will

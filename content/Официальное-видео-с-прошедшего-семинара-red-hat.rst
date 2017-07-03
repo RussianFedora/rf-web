@@ -19,20 +19,20 @@
 
 Поэтому если вы его пропустили, смотрите на YouTube:
 
--  `Начало семинара. <http://youtu.be/AccMiT6lmC4>`__ Вступительное
+-  `Начало семинара. <https://youtu.be/AccMiT6lmC4>`__ Вступительное
    слово руководителя УЦ Инвента и главы Российского Представительства
    Red Hat.
 
 -  `Обзор продукта Red Hat Enterprise Virtualization
-   3.0. <http://youtu.be/YlNAzCrYxvI>`__ Что будет в последующих версиях
+   3.0. <https://youtu.be/YlNAzCrYxvI>`__ Что будет в последующих версиях
    продукта.
 
 -  `Обзор продукта Red Hat Cloud Forms
-   1.0. <http://youtu.be/skiZLedhhx0>`__
--  `Обзор продукта Red Hat Storage. <http://youtu.be/qYvaPsu0vLY>`__
+   1.0. <https://youtu.be/skiZLedhhx0>`__
+-  `Обзор продукта Red Hat Storage. <https://youtu.be/qYvaPsu0vLY>`__
 -  `SELinux. Общий обзор и инструменты
-   администратора. <http://youtu.be/JZH42p6d8_A>`__
+   администратора. <https://youtu.be/JZH42p6d8_A>`__
 -  `Настройка производительности. Новое в RHEL6: демон
-   tuned. <http://youtu.be/cWYBjq6L_vo>`__
+   tuned. <https://youtu.be/cWYBjq6L_vo>`__
 -  `Настройка производительности. Выбор и настройка планировщика
-   ввода/вывода. <http://youtu.be/OmQ96Z58lQI>`__
+   ввода/вывода. <https://youtu.be/OmQ96Z58lQI>`__

@@ -25,7 +25,7 @@ FeedHenry <https://www.redhat.com/en/about/press-releases/red-hat-acquire-feedhe
 анонсирована <https://thread.gmane.org/gmane.comp.lang.rust.devel/11188>`__
 и `уже тоже обсуждается коллегами-аналитиками на
 OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40791>`__, это
-`Rust <http://www.rust-lang.org/>`__. Его не то, что нет в репозиториях,
+`Rust <https://www.rust-lang.org/>`__. Его не то, что нет в репозиториях,
 но раньше он даже не собирался в Fedora 20 и старше, настолько он
 инновационен. Зато начиная с Fedora 21, и с его версии 0.12 он хоть
 собирается. Язык довольно интересен. Например, `его сборщик мусора умеет

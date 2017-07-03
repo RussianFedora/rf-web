@@ -13,7 +13,7 @@
 
 | На прошедшем `GUADEC <https://www.guadec.org/>`__ были пересмотрены и
   скорректированы ближайшие планы GNOME по поддержке Wayland, о чем нам
-  `рассказывает <http://blogs.gnome.org/mclasen/2013/08/05/gnome-wayland-plans/>`__
+  `рассказывает <https://blogs.gnome.org/mclasen/2013/08/05/gnome-wayland-plans/>`__
   в своем блоге `Matthias
   Clasen <https://fedoraproject.org/wiki/User:Mclasen>`__. Запланировано
   следующее:

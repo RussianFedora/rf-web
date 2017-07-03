@@ -29,7 +29,7 @@ Kernel </content/Прогресс-в-разработке-fedora-для-arm>`__.
 Jon рассказал во время своей презентации на Red Hat Summit (доступны
 `слайды <http://people.redhat.com/jcm/arm/masters_t_0120_hyperscale_redhat_powered_arm_server.pdf>`__
 и `короткий
-видеоролик <http://www.youtube.com/watch?v=ZEEZKg4ix_E&feature=share>`__).
+видеоролик <https://www.youtube.com/watch?v=ZEEZKg4ix_E&feature=share>`__).
 
 Вся работа была проведена совместно с другими заинтересованными
 компаниями в рамках проекта Linaro, в котором Red Hat принимает
@@ -57,7 +57,7 @@ Red Hat не только представляет новое железо, но
 ARM-архитектуру </content/amd-переходит-на-arm>`__, и наконец-то эти
 планы начали обретать видимые очертания - `анонсировано о начале выпуска
 ARM-систем начиная с 2014
-года <http://www.theregister.co.uk/2013/06/18/amd_opteron_arm_server_chips/>`__.
+года <https://www.theregister.co.uk/2013/06/18/amd_opteron_arm_server_chips/>`__.
 
 Участники Fedora ARM SIG не только помогают создавать новые платформы
 для дата-центров, но и работают над проектами, ориентированными на

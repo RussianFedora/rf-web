@@ -17,7 +17,7 @@
 данных <https://czanik.blogs.balabit.com/2014/09/journal-source-in-syslog-ng-3-6-beta1/>`__.
 
 Olav Vitters `рассказал о планах GNOME на
-systemd <http://blogs.gnome.org/ovitters/2014/09/07/systemd-in-gnome-3-14-and-beyond/>`__.
+systemd <https://blogs.gnome.org/ovitters/2014/09/07/systemd-in-gnome-3-14-and-beyond/>`__.
 
 К сожалению, полного перехода с ConsoleKit в версии 3.14 не произойдет.
 

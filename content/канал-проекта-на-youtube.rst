@@ -9,7 +9,7 @@
 .. author: mama-sun
 
 У нас сменился канал на Youtube. Теперь это -
-`fedorarussian <http://www.youtube.com/fedorarussian>`__. Старые ролики
+`fedorarussian <https://www.youtube.com/fedorarussian>`__. Старые ролики
 до сих пор находятся на старом аккаунте, но в будущем он будет удален.
 
 Это пришлось сделать по причине фиксированной привязки каналов Youtube к

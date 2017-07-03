@@ -61,7 +61,7 @@ Wright <https://www.linkedin.com/pub/chris-wright/1/385/b73>`__ на
 `Collaboration Summit
 2014 <https://events.linuxfoundation.org/events/archive/2014/collaboration-summit>`__:
 ...и
-`комментариями <http://blogs.gnome.org/markmc/2014/10/02/network-function-virtualization-the-opportunity-for-openstack-and-open-source/>`__
+`комментариями <https://blogs.gnome.org/markmc/2014/10/02/network-function-virtualization-the-opportunity-for-openstack-and-open-source/>`__
 нашего коллеги, Mark McLoughlin, на эту тему. Можно полагать, что если
 будет реализована хотя бы часть задуманного в рамках создания открытой
 виртуализированной распределенной архитектуры, то проприетарные системы
@@ -76,7 +76,7 @@ Wright <https://www.linkedin.com/pub/chris-wright/1/385/b73>`__ на
 Network недавно `предупредило честных людей, что у коммьюнити OpenStack
 нет никаких возможностей защищать своих пользователей и разработчиков от
 патентных
-троллей <http://www.theregister.co.uk/2014/10/02/oin_openstack_warning/>`__.
+троллей <https://www.theregister.co.uk/2014/10/02/oin_openstack_warning/>`__.
 Сейчас OIN расширяет свой защитный экран на OpenStack, и уже
 прикрывается 33 Python-пакета. Сейчас `к OIN начали активно подключаться
 новые

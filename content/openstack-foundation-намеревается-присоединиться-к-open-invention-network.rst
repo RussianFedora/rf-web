@@ -11,7 +11,7 @@
 Участник Fedora и член технического комитета OpenStack, `Mark
 McLoughlin <https://www.openhub.net/accounts/markmc>`__ опубликовал
 `очередной отчет об OpenStack Foundation Board
-Meeting <http://blogs.gnome.org/markmc/2013/08/08/aug-6th-openstack-foundation-board-meeting/>`__.
+Meeting <https://blogs.gnome.org/markmc/2013/08/08/aug-6th-openstack-foundation-board-meeting/>`__.
 
 Из важного надо отметить открытое обсуждение назревающей проблемы с
 патентными троллями, которые вскоре начнут атаковывать пользователей

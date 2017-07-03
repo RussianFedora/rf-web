@@ -26,5 +26,5 @@
 |GNOME MultiWriter|
 `Оригинал <https://blogs.gnome.org/hughsie/2015/01/02/introducing-gnome-multiwriter/>`__
 
-.. |GNOME MultiWriter| image:: http://blogs.gnome.org/hughsie/files/2015/01/Screenshot-from-2015-01-02-162435.png
+.. |GNOME MultiWriter| image:: https://blogs.gnome.org/hughsie/files/2015/01/Screenshot-from-2015-01-02-162435.png
    :width: 100.0%

@@ -24,7 +24,7 @@ Wright <https://en.wikipedia.org/wiki/Chris_Wright_%28programmer%29>`__,
 лидером проекта Fedora, и `Greg
 DeKoenigsberg <http://www.linkedin.com/in/gregdek>`__, вице-президентом
 компании Eucalyptus Systems. В `коротком пятиминутном
-интервью <http://www.youtube.com/watch?v=dmWdYJTsKbM>`__ говорят о новых
+интервью <https://www.youtube.com/watch?v=dmWdYJTsKbM>`__ говорят о новых
 "фичах", о том, почему надо использовать Fedora, как платформу для
 разработки, куда движется Fedora, и будем ли мы завоевывать облачные
 вычисления. Ну и о хот-догах, разумеется.

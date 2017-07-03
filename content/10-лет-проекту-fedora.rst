@@ -11,7 +11,7 @@
 Мы запоздали на пару дней, но тем не менее - вот, `анонс
 <https://lists.fedoraproject.org/pipermail/users/2003-September/098440.html>`__
 об объединении усилий `участников проекта fedora.us
-<http://web.archive.org/web/20031001204515/http://www.fedora.us/>`__ и
+<https://web.archive.org/web/20031001204515/http://www.fedora.us/>`__ и
 инженеров Red Hat. Ура!
 
 .. image:: http://3.bp.blogspot.com/-GmbsR0WuIyQ/UkBRyj2AKiI/AAAAAAAAHps/SiHyhlbIQ9E/s1600/fc.jpg

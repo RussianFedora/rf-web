@@ -77,7 +77,7 @@ Collabora <https://people.gnome.org/~michael/blog/2013-09-03-collabora.html>`__.
 
 Rich W.M. Jones обращает наше внимание, что `в Fedora 20 наконец-то
 реализовали возможность запускать гостевые ARM-системы с помощью
-libvirt <http://rwmj.wordpress.com/2013/09/03/an-arm-libvirt-guest-on-an-x86-64-host/>`__.
+libvirt <https://rwmj.wordpress.com/2013/09/03/an-arm-libvirt-guest-on-an-x86-64-host/>`__.
 
 Теперь можно разрабатывать ARM-системы без использования физического
 железа с небывалым доселе уровнем комфорта. [STRIKEOUT:Учитывая, что ARM
@@ -122,7 +122,7 @@ DE <https://plus.google.com/107555540696571114069/posts/Bt4kY2yNyxy>`__?
 Он высказывает свое `оценочное
 суждение <http://tvrain.ru/articles/zhuliki_i_vory_otsenochnye_suzhdenija-328536/>`__,
 что нет, не хватит ресурсов. Он полагает, что `двух DE должно быть
-достаточно каждому <http://lurkmore.to/640_килобайт>`__, чем несколько
+достаточно каждому <https://lurkmore.to/640_килобайт>`__, чем несколько
 недоделанных из-за нехватки разработчиков вариантов.
 
 `На OpenNET.ru собирают

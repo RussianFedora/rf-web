@@ -57,7 +57,7 @@
 например Google Summer of Code. В этом году, в GSoC от GNOME участвовал наш
 коллега, `Kalev Lember <https://www.openhub.net/accounts/klember>`__, и не так
 давно он подвел `итог его участию в этом проекте
-<http://blogs.gnome.org/kalev/2013/09/24/wrapping-up-summer-of-code/>`__.
+<https://blogs.gnome.org/kalev/2013/09/24/wrapping-up-summer-of-code/>`__.
 
 GSoC этого года уже завершен, а мы рекомендуем студентам и аспирантам уже
 начать готовиться `к GSoC 2014, который уже анонсирован
@@ -69,7 +69,7 @@ GSoC этого года уже завершен, а мы рекомендуем
 инструкция по запуску
 <http://gcampax.blogspot.com/2013/10/every-frame-matters.html>`__ (и `еще одна
 от Matthias Clasen
-<http://blogs.gnome.org/mclasen/2013/10/03/gnome-wayland-in-fedora/>`__),
+<https://blogs.gnome.org/mclasen/2013/10/03/gnome-wayland-in-fedora/>`__),
 правда степень работоспособности зависит от видеокарты. Пока поддерживается
 только Intel, а для карт AMD и NVIDIA потребуется собрать `xf86-video-wlglamor
 <https://github.com/axeldavy/xf86-video-wlglamor>`__, видеодрайвер,

@@ -50,9 +50,9 @@ Telegram CLI
 
 https://web.telegram.org/
 
-.. |Fedora Telegram| image:: http://fedoramagazine.org/wp-content/uploads/2015/07/fedora-telegram-945x400.png
+.. |Fedora Telegram| image:: https://fedoramagazine.org/wp-content/uploads/2015/07/fedora-telegram-945x400.png
    :width: 100.0%
-.. |The official desktop client.| image:: http://fedoramagazine.org/wp-content/uploads/2015/07/telegram1.png
+.. |The official desktop client.| image:: https://fedoramagazine.org/wp-content/uploads/2015/07/telegram1.png
    :width: 100.0%
-.. |Cutegram.| image:: http://fedoramagazine.org/wp-content/uploads/2015/07/cutegram.png
+.. |Cutegram.| image:: https://fedoramagazine.org/wp-content/uploads/2015/07/cutegram.png
    :width: 100.0%

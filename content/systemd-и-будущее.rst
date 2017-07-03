@@ -44,7 +44,7 @@ D-Bus (и в частности kdbus)
 в списке рассылки по `flow-based
 programming <https://en.wikipedia.org/wiki/Flow-based_programming>`__,
 но, конечно, гораздо более интересным был бы перевод
-`Binder <http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob;f=drivers/staging/android/binder.c;hb=HEAD>`__
+`Binder <https://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob;f=drivers/staging/android/binder.c;hb=HEAD>`__
 на kdbus.
 
 С самым первым анонсом kdbus, многие заинтересованные лица рассуждали на
@@ -83,7 +83,7 @@ Greg KH в комментариях в ленте Google+ у Takahiro Akashi `у
 К сожалению, в ядрах, доступных в Fedora, kdbus отключен (мы не включаем
 out-of-tree патчи), но `с недавних пор появился сторонний
 полуофициальный репозиторий с ядрами, в которых включены тестовые
-фичи <http://fedoramagazine.org/try-out-experimental-linux-kernel-features-with-the-kernel-playground/>`__,
+фичи <https://fedoramagazine.org/try-out-experimental-linux-kernel-features-with-the-kernel-playground/>`__,
 и среди прочего там доступен kdbus (новость уже `обсуждается на
 OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=40172>`__).
 

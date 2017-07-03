@@ -14,7 +14,7 @@
 лишнего", и `Dan Williams <https://www.openhub.net/accounts/dcbw>`__ пошел
 им навстречу. Недавно он `анонсировал отделение от NetworkManager ряда
 функциональных
-компонентов <http://blogs.gnome.org/dcbw/2014/03/04/spin-class/>`__. В
+компонентов <https://blogs.gnome.org/dcbw/2014/03/04/spin-class/>`__. В
 отдельные плугины были выделен функционал по управлению соединениями
 ATM, Bluetooth, и WWAN. В дальнейшем Dan планирует выделить управление
 WLAN в отдельный плагин, т.к. оно зачастую `не

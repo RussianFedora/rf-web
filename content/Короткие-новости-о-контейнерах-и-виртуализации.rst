@@ -62,7 +62,7 @@ Docker <http://rhatdan.wordpress.com/2014/04/30/running-systemd-within-a-docker-
 требуемых операций.
 
 Раз уж говорим о Docker, недавно `Docker запустили внутри Hadoop YARN
-<http://www.theregister.co.uk/2014/05/02/docker_hadoop/>`__, и результаты очень
+<https://www.theregister.co.uk/2014/05/02/docker_hadoop/>`__, и результаты очень
 хорошие. `YARN
 <https://hadoop.apache.org/docs/r2.3.0/hadoop-yarn/hadoop-yarn-site/YARN.html>`__
 предназначается для запуска заданий внутри Hadoop, и раз заданиями могут быть,
@@ -100,7 +100,7 @@ SELinux.**.
 десктопе. Участник Fedora, `Christian Schaller
 <https://www.openhub.net/accounts/Uraeus>`__, разработчик gstreamer и GNOME,
 `рассказал о текущем состоянии дел
-<http://blogs.gnome.org/uraeus/2014/07/10/desktop-containers-the-way-forward/>`__
+<https://blogs.gnome.org/uraeus/2014/07/10/desktop-containers-the-way-forward/>`__
 (`заметка уже обсуждается на OpenNET.ru
 <https://www.opennet.ru/opennews/art.shtml?num=40176>`__). Сделано уже довольно
 много, и пока мы идем по роадмапу, который составил давным давно Lennart

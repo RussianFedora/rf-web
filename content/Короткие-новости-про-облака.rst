@@ -59,7 +59,7 @@ systemd <https://www.getpantheon.com/blog/pantheon-running-over-500000-systemd-u
 плодя провальный проект за провальным проектом.
 
 `Даже Oracle пытается впрыгнуть в поезд OpenStack
-<http://www.theregister.co.uk/2013/09/24/oracle_openstack/>`__. Будет ли от них
+<https://www.theregister.co.uk/2013/09/24/oracle_openstack/>`__. Будет ли от них
 нам всем толк, это еще неизвестно, может хотя-бы никого из коллег по коммьюнити
 не будут судить?
 

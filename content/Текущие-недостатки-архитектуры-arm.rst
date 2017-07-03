@@ -13,7 +13,7 @@
 
 | `Rich W.M. Jones <http://people.redhat.com/~rjones/>`__ разразился
   гневным постом о `недостатках архитектуры
-  ARM <http://rwmj.wordpress.com/2013/08/08/bring-back-the-bios/>`__. Он
+  ARM <https://rwmj.wordpress.com/2013/08/08/bring-back-the-bios/>`__. Он
   особо выделяет следующее:
 
 -  Нет стандартного дисплея или стандартного последовательного порта для

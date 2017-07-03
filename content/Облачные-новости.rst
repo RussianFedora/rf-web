@@ -85,7 +85,7 @@
   несовершенное решение, и перейти на перспективное и открытое, т.е.
   OpenStack. Мы, конечно, прекрасно понимаем, что `личные интересы самых
   разных людей в пищевой пирамиде VMware идут вразрез с интересами
-  компании <http://lurkmore.to/Откат>`__, но надо же принимать и
+  компании <https://lurkmore.to/Откат>`__, но надо же принимать и
   непопулярные, но правильные решения. К счастью, похоже в компании
   встали на путь исправления - `VMware всерьез взялось за разработку
   OpenStack <http://www.eweek.com/cloud/vmware-doubles-down-on-openstack-havana-cloud.html>`__.
@@ -138,7 +138,7 @@
   кое-кто называет виртуализацию с помощью Docker -
   `bare-metal <https://ru.wikipedia.org/wiki/Bare_metal>`__! Например
   Randy Bias, CEO компании Cloudscaling `произнес перед наивными
-  журналистами <http://www.theregister.co.uk/2013/10/18/openstack_havana/>`__
+  журналистами <https://www.theregister.co.uk/2013/10/18/openstack_havana/>`__
   следующее:
 
     *"We see Docker as a very clean way to provide a **bare-metal**
@@ -161,7 +161,7 @@
   Larsson <https://www.openhub.net/accounts/alexl>`__, в свое время
   `напугавший любителей юникс-вэя предложением переписать Unix
   pipes </content/Предложены-радикальные-изменения-в-работу-unix-pipes>`__,
-  `рассказывает <http://blogs.gnome.org/alexl/2013/10/15/adventures-in-docker-land/>`__
+  `рассказывает <https://blogs.gnome.org/alexl/2013/10/15/adventures-in-docker-land/>`__
   о том, как Red Hat протянула руку помощи зашедшему в технологический
   тупик проекту, переведя его на thin provisioning на основе device
   mapper (`фича Fedora

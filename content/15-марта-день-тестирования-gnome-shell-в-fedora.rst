@@ -33,7 +33,7 @@ Shell и дополнений к GNOME.
 Российские локализаторы `просят
 <https://lists.fedoraproject.org/pipermail/trans-ru/2012-March/001459.html>`__
 сообщать о багах непосредственно в `русскоязычную рассылку
-<http://mail.gnome.org/mailman/listinfo/gnome-cyr>`__ команды GNOME или вносить
+<https://mail.gnome.org/mailman/listinfo/gnome-cyr>`__ команды GNOME или вносить
 их в `вики-таблицу
 <http://gnome.org.ru/wiki/doku.php?id=%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8_%D0%B2_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0%D1%85>`__
 (регистрация не требуется).

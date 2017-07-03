@@ -136,7 +136,7 @@
   Drepper <http://www.linkedin.com/in/ulrichdrepper>`__ включение фичи
   такого масштаба заняло бы годы, если бы было вообще возможно. С другой
   стороны, Drepper сейчас VP в Goldman Sachs, так что надо `сперва
-  добиться <http://lurkmore.to/Сперва_добейся>`__. Сейчас эта фича
+  добиться <https://lurkmore.to/Сперва_добейся>`__. Сейчас эта фича
   проходит `15й цикл обсуждения с инженерами Red Hat, IBM и
   Novell <https://thread.gmane.org/gmane.comp.lib.glibc.alpha/33404>`__,
   и возможно ее включат в Glibc 2.19, т.е. в Fedora 21 или Fedora 22.
@@ -171,7 +171,7 @@
    участником проектов GNOME и Fedora, `Alexander
    Larrson <https://www.openhub.net/accounts/alexl>`__. Работа была
    проведена в рамках `поддержки дисплеев высокого разрешения в
-   GNOME <http://blogs.gnome.org/alexl/2013/06/28/hidpi-support-in-gnome/>`__.
+   GNOME <https://blogs.gnome.org/alexl/2013/06/28/hidpi-support-in-gnome/>`__.
 
    В свое время Alexander до полусмерти напугал отечественных любителей
    юниксвэя `предложением модернизировать Unix

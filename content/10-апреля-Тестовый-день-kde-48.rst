@@ -12,7 +12,7 @@
 
 -  `Инструкция <https://fedoraproject.org/wiki/Test_Day:2012-04-10_KDE_4.8>`__
 -  `Live-образы для
-   тестирования <http://alt.fedoraproject.org/pub/alt/nightly-composes/desktop/>`__
+   тестирования <https://alt.fedoraproject.org/pub/alt/nightly-composes/desktop/>`__
 
 К тестированию особенно рекомендуются:
 

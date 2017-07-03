@@ -97,7 +97,7 @@
   всего из исходников. Участник Fedora `Richard
   Hughes <https://www.openhub.net/accounts/hughsient>`__ `объясняет причины
   этого нововведения и задачи, которые планируется
-  решить <http://blogs.gnome.org/hughsie/2012/06/04/offline-os-updates-looking-forward-to-gnome-3-6/>`__.
+  решить <https://blogs.gnome.org/hughsie/2012/06/04/offline-os-updates-looking-forward-to-gnome-3-6/>`__.
 
 | Одна инициатива не получила одобрение (была отвергнута единогласно) -
   `оптимизация systemd-юнитов в соответствии с последними

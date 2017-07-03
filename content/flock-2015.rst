@@ -9,7 +9,7 @@
 .. author: Peter Lemenkov
 
 `Объявлено место проведения конференции Flock
-2015 <http://fedoramagazine.org/flock-2015-rochester-institute-of-technology/>`__.
+2015 <https://fedoramagazine.org/flock-2015-rochester-institute-of-technology/>`__.
 
 В отличие от `Flock 2014 </content/flock-2014>`__, эта конференция будет
 проведена не в Европе, а в США, в `Rochester Institute of

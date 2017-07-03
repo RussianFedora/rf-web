@@ -85,5 +85,5 @@ nova-conductor <https://russellbryantnet.wordpress.com/2012/11/19/a-new-nova-ser
 И в завершении заметок об OpenStack - `Mark
 McLoughlin <https://www.openhub.net/accounts/markmc>`__ рассказывает об
 `обсуждении разделения проекта OpenStack на базовую часть и на
-"incubation" <http://blogs.gnome.org/markmc/2012/11/17/the-future-of-incubation-and-core/>`__.
+"incubation" <https://blogs.gnome.org/markmc/2012/11/17/the-future-of-incubation-and-core/>`__.
 

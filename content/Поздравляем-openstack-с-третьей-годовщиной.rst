@@ -67,9 +67,9 @@ IO для хранилищ у OpenStack и конкурентов
 участник Fedora и член технического комитета OpenStack, `Mark McLoughlin
 <https://www.openhub.net/accounts/markmc>`__, регулярно публикует отчеты с
 заседаний управлющих советов OpenStack - `за май 2013
-<http://blogs.gnome.org/markmc/2013/06/05/may-30th-openstack-foundation-board-meeting/>`__
+<https://blogs.gnome.org/markmc/2013/06/05/may-30th-openstack-foundation-board-meeting/>`__
 и `за июнь 2013
-<http://blogs.gnome.org/markmc/2013/06/29/june-27th-openstack-foundation-board-meeting/>`__.
+<https://blogs.gnome.org/markmc/2013/06/29/june-27th-openstack-foundation-board-meeting/>`__.
 По нашему мнению, это высокая степень открытости проекта, и процесса принятия
 решений внутри него, что выгодно отличает OpenStack от многих других
 организаций и компаний, занимающихся OpenSource.
@@ -78,7 +78,7 @@ IO для хранилищ у OpenStack и конкурентов
 McLoughlin <https://www.openhub.net/accounts/markmc>`__ публикует и статьи
 технического характера. Одна из последних, это его `обзор различных
 способов асинхронного программирования в
-Python <http://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/>`__
+Python <https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/>`__
 (на котором написано очень многое в OpenStack).
 
 В блоге `Mirantis <https://www.mirantis.com/>`__ на Habrahabr появилось

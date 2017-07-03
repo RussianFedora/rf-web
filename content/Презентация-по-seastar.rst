@@ -15,7 +15,7 @@
 Qumranet и Red Hat, и основатель компании `Cloudius
 Systems <http://www.cloudius-systems.com/>`__, выступил в тель-авивском
 кампусе Google с
-`презентацией <http://www.meetup.com/saylambda/events/221522808/>`__
+`презентацией <https://www.meetup.com/saylambda/events/221522808/>`__
 недавно анонсированного `фреймворка Seastar </content/seastar>`__.
 
 

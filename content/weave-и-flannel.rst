@@ -123,13 +123,13 @@ latency в 4 раза. До 6 процентов от номинала, и в 4 
 статью <https://www.mirantis.com/blog/whats-opendaylight/>`__ написали в
 Mirantis. Проект уже довольно серьезный, что немного пугает
 проприетарных вендоров, некоторые из них (`VMware и
-Juniper <http://www.theregister.co.uk/2015/04/02/opendaylight_juniper_part_ways/>`__
+Juniper <https://www.theregister.co.uk/2015/04/02/opendaylight_juniper_part_ways/>`__
 - опять VMware, да что это с ними такое?) снижают степень вовлеченности
 в проект. Зря, кстати.
 
 Проблема с открытыми SDN-системами ровно одна - законченных продуктов не
 было. До сих пор не было. Первого апреля был `интересный
-анонс <http://www.theregister.co.uk/2015/04/01/opendaylight_and_friends_spin_up_cloudrouter_project/>`__
+анонс <https://www.theregister.co.uk/2015/04/01/opendaylight_and_friends_spin_up_cloudrouter_project/>`__
 - `CloudRouter <https://cloudrouter.org/>`__, специализированный
 Linux-дистрибутив для создания роутеров для облачных систем. Среди
 участников есть дружественная нам `Cloudius
