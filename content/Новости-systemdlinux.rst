@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 `Сформирована программа
 <https://cfp.systemd.io/en/systemdconf_2016/public/schedule>`__ конференции
 `systemd.conf 2016 </content/Анонсирован-systemdconf-2016>`__. Среди
