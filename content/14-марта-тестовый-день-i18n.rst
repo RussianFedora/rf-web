@@ -15,6 +15,6 @@
 -  `Инструкция по
    участию <https://fedoraproject.org/wiki/Test_Day:2012-03-14>`__
 -  `Live-образ для
-   тестирования <http://dl.fedoraproject.org/pub/alt/stage/f17-translation/>`__
+   тестирования <https://dl.fedoraproject.org/pub/alt/stage/f17-translation/>`__
 -  `Список тестовых
    случаев <https://fedoraproject.org/wiki/Test_Day:2012-03-14#Test_Cases>`__

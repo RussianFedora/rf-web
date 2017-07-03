@@ -24,7 +24,7 @@ OpenStack </content/Участник-fedora-выдвигается-в-управ
 разработку
 OpenStack </content/Статистика-по-вкладу-компаний-в-разработку-openstack>`__,
 и с выходом новой версии он `собрал ее
-вновь <http://blogs.gnome.org/markmc/2012/09/28/who-wrote-folsom/>`__.
+вновь <https://blogs.gnome.org/markmc/2012/09/28/who-wrote-folsom/>`__.
 
 Если `посмотреть на
 статистику <https://github.com/markmc/openstack-gitdm/blob/results/folsom/git-stats.txt>`__,

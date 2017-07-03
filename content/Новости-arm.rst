@@ -108,7 +108,7 @@
   `отмечавший двухлетнюю годовщину своей занятости над
   AArch64 </content/2-года-работы-над-aarch64>`__, сообщает, что
   `запустил X11 на физическом железе
-  AArch64 <http://marcin.juszkiewicz.com.pl/2015/01/14/started-x11-on-aarch64-hardware-this-time/>`__.
+  AArch64 <https://marcin.juszkiewicz.com.pl/2015/01/14/started-x11-on-aarch64-hardware-this-time/>`__.
 
 
 .. |image0| image:: https://lh3.googleusercontent.com/-HzbWhNI-c4c/VLcgZnmsHfI/AAAAAAABKpg/OdEIub5OTbQ/w506-h380/15%2B-%2B1

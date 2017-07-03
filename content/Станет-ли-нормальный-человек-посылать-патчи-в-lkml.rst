@@ -38,7 +38,7 @@ Jon Masters `планирует выступить на ближайшем Linux
 Из других ARM-новостей, `AMD продолжает продолжать переходить на
 ARM </content/amd-начало-переход-на-arm>`__. Они анонсировали `выход
 Developer Kit с будущим Opteron на
-AArch64/ARM64 <http://www.amd.com/en-us/press-releases/Pages/64-bit-developer-kit-2014jul30.aspx>`__.
+AArch64/ARM64 <https://www.amd.com/en-us/press-releases/Pages/64-bit-developer-kit-2014jul30.aspx>`__.
 
 Стоит довольно мало для своего класса - примерно 5 биткойнов по
 нынешнему курсу. В качестве рабочей операционной системы там, как мы и

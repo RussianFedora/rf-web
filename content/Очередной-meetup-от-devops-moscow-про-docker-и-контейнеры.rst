@@ -12,7 +12,7 @@
 
 
 | Только что `анонсировали очередной митап DevOps Moscow
-  коммьюнити <http://www.meetup.com/DevOps-Moscow-in-Russian/events/214753582/>`__:
+  коммьюнити <https://www.meetup.com/DevOps-Moscow-in-Russian/events/214753582/>`__:
 
     После летнего перерыва возвращаемся к DevOps митапам. В этот раз
     эксперимент - будем проводить митап в будний день. К нам приедет

@@ -14,7 +14,7 @@
 Участник Fedora и член технического комитета OpenStack, `Mark
 McLoughlin <https://www.openhub.net/accounts/markmc>`__ опубликовал
 `очередной отчет об октябрьском OpenStack Foundation Board
-Meeting <http://blogs.gnome.org/markmc/2013/10/03/oct-3rd-openstack-foundation-board-meeting/>`__.
+Meeting <https://blogs.gnome.org/markmc/2013/10/03/oct-3rd-openstack-foundation-board-meeting/>`__.
 
 На собрании обсуждались оргвопросы предстоящих ивентов (на очереди в
 Гонконге), бюджет OpenStack Foundation на следующий год, и вопросы по

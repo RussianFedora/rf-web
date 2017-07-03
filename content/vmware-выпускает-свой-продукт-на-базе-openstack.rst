@@ -11,7 +11,7 @@
 **Это архивная статья**
 
 
-`Пишут <http://www.theregister.co.uk/2014/08/25/vmware_to_release_own_version_of_openstack/>`__,
+`Пишут <https://www.theregister.co.uk/2014/08/25/vmware_to_release_own_version_of_openstack/>`__,
 что VMware планирует выпустить свой продукт на базе OpenStack, который
 будет называться VMware Integrated OpenStack (VIOS). Пока ожидается
 первый релиз в первой половине 2015 года.

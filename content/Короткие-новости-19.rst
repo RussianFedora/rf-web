@@ -23,7 +23,7 @@ systemd </content/В-systemd-приходит-управление-сетью>`_
 присоединилось уже прилично бывших арчеводов и убунтоводов. Ну и у Red
 Hat показатели все лучше и лучше благодаря такой практике - `третий
 фискальный квартал 2013 года они закончили с отличными
-результатами <http://www.theregister.co.uk/2013/12/20/red_hat_q3_2014/>`__,
+результатами <https://www.theregister.co.uk/2013/12/20/red_hat_q3_2014/>`__,
 в то время, как у компании, сделавшей ставки на дизайнеров и пиарщиков,
 похвастаться традиционно нечем.
 
@@ -35,11 +35,11 @@ Vlasenko <http://busybox.net/~vda/resume/denys_vlasenko.htm>`__, объявил
 OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38766>`__.
 
 `Rich WM Jones <http://people.redhat.com/~rjones/>`__
-`бэкпортировал <http://rwmj.wordpress.com/2013/12/31/fedora-21-has-a-working-ocaml-arm64/>`__
+`бэкпортировал <https://rwmj.wordpress.com/2013/12/31/fedora-21-has-a-working-ocaml-arm64/>`__
 поддержку архитектуры AArch64 (ARM64) в текущую версию Ocaml для Fedora
 21. Заодно, Rich рассказал, `как запустить полученные AArch64-бинарники
 с помощью
-Qemu <http://rwmj.wordpress.com/2013/12/22/how-to-run-aarch64-binaries-on-an-x86-64-host-using-qemu-userspace-emulation/>`__,
+Qemu <https://rwmj.wordpress.com/2013/12/22/how-to-run-aarch64-binaries-on-an-x86-64-host-using-qemu-userspace-emulation/>`__,
 Debian начал определяться насчет
 `Upstart <https://thread.gmane.org/gmane.linux.debian.devel.bugs.general/1111305>`__
 и

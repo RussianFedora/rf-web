@@ -115,7 +115,7 @@ Google+ <https://plus.google.com/+IkeyDoherty/posts/VwZ8ut7y6uZ>`__. Мы,
 Изменения подобного плана уже назрели. Наш нынешний Fedora Project
 Leader, Matthew Miller, с некоторым беспокойством отмечает, что
 `дистрибутивы просто не поспевают за тем же
-GitHub <http://www.theregister.co.uk/2014/08/25/are_linux_distros_boring/>`__
+GitHub <https://www.theregister.co.uk/2014/08/25/are_linux_distros_boring/>`__
 (он `выступал на LinuxCon + CloudOpen North America
 2014 <http://lccona14.sched.org/event/a864b4ae396ea4f9d15f369713f2690c>`__).
 

@@ -26,9 +26,9 @@ Google+
 `nbdkit <https://github.com/libguestfs/nbdkit>`__, о котором вы `уже
 слышали </content/Новый-проект-rich-wm-jones-nbdkit>`__ - `плагин для
 прозрачной работы с дисками, сжатыми с помощью
-xz <http://rwmj.wordpress.com/2013/06/24/xz-plugin-for-nbdkit/>`__, и
+xz <https://rwmj.wordpress.com/2013/06/24/xz-plugin-for-nbdkit/>`__, и
 `плагин для использования функционала из VMware
-VDDK <http://rwmj.wordpress.com/2013/06/27/vmware-vddk-for-nbdkit/>`__.
+VDDK <https://rwmj.wordpress.com/2013/06/27/vmware-vddk-for-nbdkit/>`__.
 
 Теперь диски VMDK можно открывать и с помощью открытых приложений, и с
 помощью проприетарных блобов от VMware.

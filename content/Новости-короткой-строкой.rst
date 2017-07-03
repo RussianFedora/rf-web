@@ -57,11 +57,11 @@ Jeff Layton описывает `ситуацию с NFS-серверами в п
 
 Rich W.M. Jones сообщает, что `в libguestfs появилось горячее
 подключение
-дисков <http://rwmj.wordpress.com/2012/10/08/hotplugging-in-libguestfs/>`__.
+дисков <https://rwmj.wordpress.com/2012/10/08/hotplugging-in-libguestfs/>`__.
 
 Matthias Clasen пишет об итогах GNOME Summit, где он `присутствовал на
 секции по
-GLib <http://blogs.gnome.org/mclasen/2012/10/08/gnome-summit-sunday/>`__,
+GLib <https://blogs.gnome.org/mclasen/2012/10/08/gnome-summit-sunday/>`__,
 на которой закрыли `десятилетний
 баг <https://bugzilla.gnome.org/show_bug.cgi?id=118536>`__.
 

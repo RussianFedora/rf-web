@@ -23,7 +23,7 @@
 появляться подтверждения - `да
 <http://community.amd.com/community/amd-blogs/amd-business/blog/2013/12/12/amd-s-64-bit-seattle-arm-processor-brings-best-of-breed-hardware-and-software-to-the-datacenter>`__,
 у AMD скоро будет `AMD Opteron на базе ARM64/AArch64
-<http://www.amd.com/us/press-releases/Pages/amd-to-accelerate-2014jan28.aspx>`__.
+<https://www.amd.com/us/press-releases/Pages/amd-to-accelerate-2014jan28.aspx>`__.
 
 Коллеги-аналитики `уже обсуждают
 новость <https://www.linux.org.ru/news/hardware/10111346>`__.

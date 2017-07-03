@@ -23,13 +23,13 @@ ARM-платформу.
 VMware </content/paypal-отказывается-от-vmware-в-пользу-openstack-теперь-уже-всерьез>`__.
 Так вот, было объявлено, что `PayPal начали разворачивать серверы
 производства X-Gene на базе
-ARM <http://www.theregister.co.uk/2015/04/29/aookied_micro_q4_2015_results/>`__.
+ARM <https://www.theregister.co.uk/2015/04/29/aookied_micro_q4_2015_results/>`__.
 А какая разница на чем открытое ПО запускать? Главное, чтоб затраты на
 транзакцию понижались.
 
 А вот у AMD `переход на ARM </content/amd-начало-переход-на-arm>`__
 пошел плохо. Они объявили, что `выходят из производства
-ARM-серверов <http://www.theregister.co.uk/2015/04/16/amd_q1_2015_earnings/>`__.
+ARM-серверов <https://www.theregister.co.uk/2015/04/16/amd_q1_2015_earnings/>`__.
 Может и правда им `продаться поскорее
 Samsung </content/Обновление-firmware-на-материнской-плате>`__, пока
 вообще целы?

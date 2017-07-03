@@ -21,7 +21,7 @@
   сборочная система copr </content/Новая-сборочная-система-copr>`__, -
   это лишь видимая часть, и `не все из текущих проектов доживут до
   стадии внедрения в
-  Fedora <http://lurkmore.to/Не_все_доживут_до_зимы>`__.
+  Fedora <https://lurkmore.to/Не_все_доживут_до_зимы>`__.
 
 | Наша текущая проблема в том, что несмотря на `стандартизированность
   RPM <https://en.wikipedia.org/wiki/Linux_Standard_Base#Choice_of_RPM_package_format>`__

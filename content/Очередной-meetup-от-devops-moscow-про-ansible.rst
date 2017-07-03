@@ -12,7 +12,7 @@
 
 
 | `16 апреля в столице состоится очередной митап сообщества DevOps
-  Moscow <http://www.meetup.com/DevOps-Moscow-in-Russian/events/221350616/>`__.
+  Moscow <https://www.meetup.com/DevOps-Moscow-in-Russian/events/221350616/>`__.
 
   В этот раз он будет посвящен Ansible. Состоится он в офисе Badoo на
   Цветном бульваре.

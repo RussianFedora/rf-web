@@ -8,7 +8,7 @@
 .. type: text
 .. author: Peter Lemenkov
 
-.. image:: http://imgs.xkcd.com/comics/supported_features.png
+.. image:: https://imgs.xkcd.com/comics/supported_features.png
    :align: center
    :target: http://xkcd.com/619/
 
@@ -16,4 +16,4 @@
 правдивым. Нет, Flash все так же глючит в разных конфигурациях, но наш коллега
 `Josh Boyer <https://fedoraproject.org/wiki/User:Jwboyer>`__ `поднял
 ограничение на количество микропроцессоров в Linux до 8192
-<http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=b53b5ed>`__!
+<https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=b53b5ed>`__!

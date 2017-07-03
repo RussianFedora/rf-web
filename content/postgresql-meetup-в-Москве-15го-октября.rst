@@ -13,7 +13,7 @@
 
 | В 19.00, 15го октября в Москве, в офисе компании
   `Avito.ru <http://www.avito.ru/>`__ состоится `PostreSQL
-  Meetup <http://www.meetup.com/postgresqlrussia/events/211094692/>`__.
+  Meetup <https://www.meetup.com/postgresqlrussia/events/211094692/>`__.
 
 
     | ПЛАН ВСТРЕЧИ
@@ -112,5 +112,5 @@
 
 | 
 | Для участия `необходимо
-  зарегистрироваться <http://www.meetup.com/postgresqlrussia/events/211094692/>`__.
+  зарегистрироваться <https://www.meetup.com/postgresqlrussia/events/211094692/>`__.
 

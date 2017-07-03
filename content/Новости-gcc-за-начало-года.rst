@@ -125,7 +125,7 @@ C-кода <https://sourceware.org/gdb/wiki/GCCCompileAndExecute>`__
 было решено пойти на компромисс - ABI будет почти как старый, но
 возможности будут от нового GCC. Подробнее об этом наши коллеги написали
 `в статье про
-ABI <http://fedoramagazine.org/gcc-5-in-fedora-whats-an-abi-and-what-happens-when-we-change-it/>`__.
+ABI <https://fedoramagazine.org/gcc-5-in-fedora-whats-an-abi-and-what-happens-when-we-change-it/>`__.
 
 После `обнародования списка организаций-участников GSoC
 2015 </content/Опубликован-список-организаций-участников-gsoc-2015>`__,

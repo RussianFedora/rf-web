@@ -45,7 +45,7 @@
     В 2012 году, когда Эндрю Мортон принял первую серию патчей для ядра
     Linux с целью поддержки C/R (Checkpoint/Restore) в пространстве
     пользователя,
-    `идея <http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=099469502f62fbe0d7e4f0b83a2f22538367f734>`__
+    `идея <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=099469502f62fbe0d7e4f0b83a2f22538367f734>`__
     реализовать такую функциональность все ещё выглядела сумасшедшей.
 
     А спустя четыре года проект CRIU получил признание и всё больше

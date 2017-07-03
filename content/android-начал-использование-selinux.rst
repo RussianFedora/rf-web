@@ -9,9 +9,9 @@
 .. author: Peter Lemenkov
 
 Наконец-то наработки проекта
-`SEAndroid <http://selinuxproject.org/page/SEAndroid>`__, основную
+`SEAndroid <https://selinuxproject.org/page/SEAndroid>`__, основную
 работу над которым `провела североамериканская
-гэбня <http://www.theregister.co.uk/2012/01/17/security_hardened_android/>`__,
+гэбня <https://www.theregister.co.uk/2012/01/17/security_hardened_android/>`__,
 включают в известный дистрибутив Linux для мобильных устройств -
 Android. Сообщают, что `помимо других
 security-фич <http://www.androidpolice.com/2012/10/17/exclusive-android-4-2-alpha-teardown-part-2-selinux-vpn-lockdown-and-premium-sms-confirmation/>`__,

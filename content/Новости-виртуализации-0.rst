@@ -27,11 +27,11 @@ Meetup <http://tech.yandex.ru/events/yagosti/msk-feb-2014/>`__ (первый
 плагины </content/Новый-фронтэнд-для-libvirt>`__). Теперь же Rich
 упростил процесс расширения nbdkit еще, `добавив возможность создавать
 плагины на
-python <http://rwmj.wordpress.com/2014/02/15/new-in-nbdkit-write-plugins-in-python/>`__.
+python <https://rwmj.wordpress.com/2014/02/15/new-in-nbdkit-write-plugins-in-python/>`__.
 
 Кроме расширения возможностей по созданию плугинов, Rich добавил
 интересную возможность - `запуск nbdkit, как связанного
-процесса <http://rwmj.wordpress.com/2014/02/16/new-in-nbdkit-run-nbdkit-as-a-captive-process/>`__.
+процесса <https://rwmj.wordpress.com/2014/02/16/new-in-nbdkit-run-nbdkit-as-a-captive-process/>`__.
 
 Теперь можно передать nbdkit строчку запуска другого процесса, который
 будет запущен, и к которому nbdkit будет "привязан". Как только этот

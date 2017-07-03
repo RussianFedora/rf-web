@@ -12,7 +12,7 @@
 
 
 Rich W.M. Jones демонстрирует
-`способ <http://rwmj.wordpress.com/2014/07/10/which-services-need-restarting-after-an-upgrade/>`__,
+`способ <https://rwmj.wordpress.com/2014/07/10/which-services-need-restarting-after-an-upgrade/>`__,
 которым можно установить какие сервисы нуждаются в перезапуске после
 обновления системы. Как вы знаете, есть популярная городская легенда,
 что в линуксе обновления не требуют перезагрузки (еще добавляют, что "в

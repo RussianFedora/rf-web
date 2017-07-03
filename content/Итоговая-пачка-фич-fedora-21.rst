@@ -109,7 +109,7 @@
    серверов <https://fedoraproject.org/wiki/Changes/Convert_Fedora_Cloud_Image_to_Fedora_Server>`__.
 
    Т.е. быстрый способ попасть `со скотного двора в
-   дом <http://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/>`__.
+   дом <https://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/>`__.
 
 -  [STRIKEOUT:*`Перевод приложений с cron jobs на timer-юниты
    systemd <https://fedoraproject.org/wiki/Changes/cron-to-systemd-time-units>`__*].

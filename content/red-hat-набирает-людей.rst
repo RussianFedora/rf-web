@@ -10,7 +10,7 @@
 
 `Christian Schaller <https://www.openhub.net/accounts/Uraeus>`__ в своем блоге
 `объявил
-<http://blogs.gnome.org/uraeus/2015/01/21/want-to-join-our-innovative-development-team-doing-cool-open-source-software/>`__
+<https://blogs.gnome.org/uraeus/2015/01/21/want-to-join-our-innovative-development-team-doing-cool-open-source-software/>`__
 о массовом наборе (6-7 человек) на работу по улучшению десктопного линукса.
 
 Вместо формального списка требований, Christian опубликовал список пожеланий к
@@ -48,6 +48,6 @@
 
 Чтобы лучше понимать, какие задачи предстоит решать, Christian предлагает
 `ознакомиться с десктопными фичами
-<http://blogs.gnome.org/uraeus/2015/01/19/planning-for-fedora-workstation-22/>`__,
+<https://blogs.gnome.org/uraeus/2015/01/19/planning-for-fedora-workstation-22/>`__,
 которые запланированы на Fedora 22. Если вы хотите поработать над этими или
 схожими задачами, то напишите ему по почте cschalle(at)redhat(dot)com.

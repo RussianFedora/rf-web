@@ -49,7 +49,7 @@ OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=42150>`__.
 иначе события пойдут по плохому сценарию). А вот кое кто быстро
 перестраивается. Например Seagate, традиционный участник RICON, который
 обещает вскоре открыть `Kinetic Storage
-platform <http://www.theregister.co.uk/2015/04/24/seagate_to_opensource_kinetics_at_openstack_summit/>`__,
+platform <https://www.theregister.co.uk/2015/04/24/seagate_to_opensource_kinetics_at_openstack_summit/>`__,
 свое решение для облачного хранилища объектов. Это очередной уровень
 абстракции - хранить не файлики, а сразу готовые объекты уровня
 бизнес-логики. Seagate собирается запрыгнуть в этот поезд, чтобы по

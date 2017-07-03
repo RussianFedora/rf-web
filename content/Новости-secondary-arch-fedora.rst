@@ -27,7 +27,7 @@ Connect <https://plus.google.com/103294826956432430431/about>`__, на
 котором присутствовал участник Fedora ARM SIG `Jon
 Masters <https://plus.google.com/106265217227408958782/about>`__,
 интервью с которым
-`доступно <http://www.youtube.com/watch?v=aaAIjx8HJNs>`__ на YouTube.
+`доступно <https://www.youtube.com/watch?v=aaAIjx8HJNs>`__ на YouTube.
 
 Среди выступающих там был представитель Linaro и по совместительству
 участник коммьюнити Ubuntu, Deepak Saxena, который рассказал о текущем

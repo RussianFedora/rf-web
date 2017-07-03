@@ -21,7 +21,7 @@ Pipes <https://en.wikipedia.org/wiki/Pipeline_%28Unix%29>`__. Участник
 проектов GNOME и Fedora, `Alexander
 Larsson <https://www.openhub.net/accounts/alexl>`__ предложил `радикально
 переработать этот старый
-интерфейс <http://blogs.gnome.org/alexl/2012/08/10/rethinking-the-shell-pipeline/>`__.
+интерфейс <https://blogs.gnome.org/alexl/2012/08/10/rethinking-the-shell-pipeline/>`__.
 
 Вместо никак не стандартизированного потока байтов, предлагается ввести
 возможность обмениваться стандартизированными и типизированными

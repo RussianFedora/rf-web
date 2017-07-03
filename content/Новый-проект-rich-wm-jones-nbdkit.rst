@@ -13,13 +13,13 @@
 
 `Rich W.M. Jones <http://people.redhat.com/~rjones/>`__ анонсировал
 `очередную свою
-разработку <http://rwmj.wordpress.com/2013/06/21/new-project-nbdkit-liberally-licensed-nbd-server-with-a-plugin-api/>`__
+разработку <https://rwmj.wordpress.com/2013/06/21/new-project-nbdkit-liberally-licensed-nbd-server-with-a-plugin-api/>`__
 - `nbdkit <https://github.com/libguestfs/nbdkit>`__, фреймворк для
 создания NBD-серверов. Отличительными особенностями являются либеральная
 лицензия, хорошая производительность благодаря многопоточности, хорошая
 документация, и возможность расширения с помощью плагинов. Он уже
 `написал три простейших
-расширения <http://rwmj.wordpress.com/2013/06/21/three-plugins-for-nbdkit/>`__.
+расширения <https://rwmj.wordpress.com/2013/06/21/three-plugins-for-nbdkit/>`__.
 
 Основной идеей проекта было расширение возможностей libguestfs, но
 перспективы у проекта гораздо больше. С его помощью, например, можно

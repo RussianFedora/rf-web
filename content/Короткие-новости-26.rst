@@ -33,7 +33,7 @@ Raspberry Pi. Примечательно, что `за основу для св�
 freedreno <https://anholt.livejournal.com/44312.html?nojs=1>`__.
 
 Dan Williams выпустил `NetworkManager
-0.9.10 <http://blogs.gnome.org/dcbw/2014/06/20/well-build-a-dream-house-of-net/>`__
+0.9.10 <https://blogs.gnome.org/dcbw/2014/06/20/well-build-a-dream-house-of-net/>`__
 (новость уже `обсуждают на
 Linux.org.ru <https://www.linux.org.ru/news/opensource/10604299>`__). Из
 нового, это `продолжающееся добавление Enterprise-grade

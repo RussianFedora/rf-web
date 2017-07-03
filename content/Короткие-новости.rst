@@ -79,7 +79,7 @@ Fedora <http://blog.linuxgrrl.com/2013/01/22/fudcon-lawrence-overhauling-the-fed
 отчет <http://jdulaney.wordpress.com/2013/01/22/fudcon-na-2013/>`__.
 
 Matthias Clasen подготовил `обзор новинок GNOME
-3.8 <http://blogs.gnome.org/mclasen/2013/01/25/gnome-3-7-at-the-halfway-mark/>`__
+3.8 <https://blogs.gnome.org/mclasen/2013/01/25/gnome-3-7-at-the-halfway-mark/>`__
 (перевод на русский на
 `OpenNET <https://www.opennet.ru/opennews/art.shtml?num=35931>`__). Особо
 хочется отметить, что был добавлен "classic" режим. Теперь для любителей

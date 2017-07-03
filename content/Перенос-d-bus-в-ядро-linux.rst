@@ -16,7 +16,7 @@ D-Bus в ядро Linux <http://www.kroah.com/log/linux/af_bus.html>`__.
 
 Как известно, сейчас на десктопах под управлением Linux работают две
 популярные шины сообщений - D-Bus и
-`Binder <http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob;f=drivers/staging/android/binder.c;hb=HEAD>`__
+`Binder <https://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob;f=drivers/staging/android/binder.c;hb=HEAD>`__
 (используется в Linux-дистрибутиве "Android"). В целом, идея о
 приложениях, связанных посредством некоей шины, обменивающихся
 сообщениями и посылающим друг другу команды (т.е. не просто шина

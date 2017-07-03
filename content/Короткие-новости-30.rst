@@ -9,7 +9,7 @@
 .. author: Peter Lemenkov
 
 Оказывается, `уже прошел
-год <http://marcin.juszkiewicz.com.pl/2014/09/01/year-at-red-hat/>`__,
+год <https://marcin.juszkiewicz.com.pl/2014/09/01/year-at-red-hat/>`__,
 как `к Red Hat присоединился Marcin
 Juszkiewicz </content/Новости-fedora-arm-sig-1>`__. Поздравляем коллегу!
 Его работа по AArch64 полезна не только нам, но всему OSS-коммьюнити.

@@ -58,9 +58,9 @@ Fedora.NEXT </content/Обсуждение-реорганизации-всего
 столкнувшись с критикой и непониманием разъясняет различные неясные
 моменты. Он начал серию постов по данной тематике, из которых уже
 доступны два - `Fedora.Next:
-Зачем? <http://fedoramagazine.org/fedora-present-and-future-a-fedora-next-2014-update-part-i-why/>`__
+Зачем? <https://fedoramagazine.org/fedora-present-and-future-a-fedora-next-2014-update-part-i-why/>`__
 и `Fedora.Next: Что
-происходит? <http://fedoramagazine.org/fedora-present-and-future-a-fedora-next-2014-update-part-ii-whats-happening/>`__.
+происходит? <https://fedoramagazine.org/fedora-present-and-future-a-fedora-next-2014-update-part-ii-whats-happening/>`__.
 
 Вскоре будет продолжение - ждем. Ну и почти одновременно с Matthew на
 тему `высказалась Robyn

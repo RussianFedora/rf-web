@@ -15,7 +15,7 @@
 
 
     `Первый митап о функциональном программировании в DI Telegraph
-    <http://www.meetup.com/Functional-programming-Moscow-Tech-Meetup/events/196440872/>`__
+    <https://www.meetup.com/Functional-programming-Moscow-Tech-Meetup/events/196440872/>`__
     
     В программе:
 

@@ -63,4 +63,4 @@ OpenNebula.
 
 `Полный список фич Fedora 17 <https://fedoraproject.org/wiki/Releases/17/FeatureList>`_
 
-`Ночные сборки респинов <http://dl.fedoraproject.org/pub/alt/nightly-composes/>`_
+`Ночные сборки респинов <https://dl.fedoraproject.org/pub/alt/nightly-composes/>`_

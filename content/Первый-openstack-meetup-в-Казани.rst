@@ -12,7 +12,7 @@
 
 
 | Официально анонсирован `первый OpenStack Meetup в
-  Казани <http://www.meetup.com/OpenStack-Russia-Kazan/events/225176497/>`__!
+  Казани <https://www.meetup.com/OpenStack-Russia-Kazan/events/225176497/>`__!
 
     | **21 апреля 2016** приглашаем всех в **Казань** на проведение
       **OpenStack Meetup !**

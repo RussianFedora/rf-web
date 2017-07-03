@@ -93,4 +93,4 @@
 >>> `Обновление с предыдущих выпусков <https://fedoraproject.org/wiki/Upgrading>`__
 >>> `Примечания к выпуску <https://docs.fedoraproject.org/en-US/Fedora/24/html/Release_Notes/>`__
 >>> `Известные ошибки <https://fedoraproject.org/wiki/Common_F24_bugs>`__
->>> `Подробности <http://fedoramagazine.org/fedora-24-released/>`__
+>>> `Подробности <https://fedoramagazine.org/fedora-24-released/>`__

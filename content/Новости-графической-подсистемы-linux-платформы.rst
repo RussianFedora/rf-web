@@ -19,7 +19,7 @@
 
 Вполне может оказаться, что изменения пойдут в 1.7.
 `Red Hat нанимает разработчиков открытых
-видеодрайверов <http://blogs.gnome.org/uraeus/2014/08/18/want-to-join-the-red-hat-graphics-team/>`__.
+видеодрайверов <https://blogs.gnome.org/uraeus/2014/08/18/want-to-join-the-red-hat-graphics-team/>`__.
 
 Рабочие руки никогда не помешают, и если вам интересно, то черкните
 строчку.

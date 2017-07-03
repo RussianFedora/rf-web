@@ -61,7 +61,7 @@ Boulle <https://github.com/jonboulle>`__ из CoreOS.
 
 .. image:: https://regmedia.co.uk/2014/12/01/container_disaster.jpg
    :align: center
-   :target: http://www.theregister.co.uk/2015/05/05/coreos_fest_roundtable
+   :target: https://www.theregister.co.uk/2015/05/05/coreos_fest_roundtable
 
 .. class:: align-center
 

@@ -21,10 +21,10 @@
 разработчики это плохие пиарщики (и наоборот), но Rob обещает скоро
 рассказать о результате.
 
-`Carlos Garnacho <http://blogs.gnome.org/carlosg/>`__, инженер Lanedo,
+`Carlos Garnacho <https://blogs.gnome.org/carlosg/>`__, инженер Lanedo,
 участник GNOME, непонятно почему все еще использующий Ubuntu, разработал
 и анонсировал
-`Mechane <http://blogs.gnome.org/carlosg/2013/07/29/introducing-mechane-guadec/>`__,
+`Mechane <https://blogs.gnome.org/carlosg/2013/07/29/introducing-mechane-guadec/>`__,
 новый графический тулкит. Он начал с реализации Wayland, несмотря на то,
 что в Canonical теперь решили от него отказаться. Но мы, конечно,
 заинтересованы в его работе, и надеемся, что еще один заблудший
@@ -42,7 +42,7 @@ Airlie <https://www.openhub.net/accounts/airlied>`__ над DRM PRIME (из
 добился в Wayland рисования окна на встроенной видеокарте Intel с
 помощью дискретной видеокарты ATI/AMD (т.н. "GPU offloading"). Пока кода
 нет, но он выхожил `видеоролик-демонстрашку на
-YouTube <http://www.youtube.com/watch?v=lMgtogChpAM>`__. Если уж
+YouTube <https://www.youtube.com/watch?v=lMgtogChpAM>`__. Если уж
 заговорили про AMD - `Alex Deucher объявил, что в ядре 3.11 управление
 питанием на видеокартах AMD можно считать
 стабильным <http://lists.freedesktop.org/archives/dri-devel/2013-July/042480.html>`__.

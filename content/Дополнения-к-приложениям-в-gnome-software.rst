@@ -39,7 +39,7 @@
 
 | Как выглядит обычный metainfo.xml, заметки и как его использовать
   можно посмотреть в `блоге
-  Ричарда <http://blogs.gnome.org/hughsie/2014/06/11/application-addons-in-gnome-software/>`__
+  Ричарда <https://blogs.gnome.org/hughsie/2014/06/11/application-addons-in-gnome-software/>`__
 | Kalev Lember в настоящее время работает над интерфейсом плагинов в
   GNOME Software, Richard Hughes только завершил поддержку metainfo.xml
   в `обработчике
@@ -112,4 +112,4 @@
 
 | 
 | **Источник**:
-  http://blogs.gnome.org/hughsie/2014/06/11/application-addons-in-gnome-software/
+  https://blogs.gnome.org/hughsie/2014/06/11/application-addons-in-gnome-software/
