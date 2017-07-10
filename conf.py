@@ -134,6 +134,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Пульс"),
         ("/stories/rfremix/", "RFRemix"),
+        ("/stories/repository/", "Репозиторий"),
         ("/stories/download/", "Скачать"),
         ("/archive.html", "Архив"),
         ("/categories/", "Тэги"),
