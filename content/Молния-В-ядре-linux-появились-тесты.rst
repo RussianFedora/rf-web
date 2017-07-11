@@ -1,15 +1,12 @@
 .. title: Молния! В ядре Linux появились тесты!
 .. slug: Молния-В-ядре-linux-появились-тесты
 .. date: 2013-02-28 12:33:04
-.. tags: kernel, testing
+.. tags: kernel, testing, redhat, parallels
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Как известно, за 22 года существования ядра Linux никакого
 регрессионного тестирования в него включено не было. Патчи оценивались
@@ -36,6 +33,8 @@ Wi-Fi, отвалился звук, появились артефакты вид
 
 .. image:: http://habrastorage.org/storage2/aa4/838/050/aa4838050cfbc1d949bda5107551c4dd.jpeg
    :align: center
+
+.. class:: align-center
 
 *Типичная ситуация - ядро Linux после обновления на новую версию.*
 
