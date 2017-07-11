@@ -11,7 +11,7 @@
 
 Итак сегодня вышла Fedora 26 и по традиции RFRemix 26, основанный на репозиториях Fedora, RPM Fusion, и Russian Fedora. Для загрузки доступны Live-образы KDE, LXQt, LXDE, XFCE, MATE, Cinnamon, а также Workstation версия с GNOME 3.24. Доступна Серверная редакция, образы сетевой установки. Также доступны образы Cloud и Docker.
 
-Russian Fedora внезапно попала под украинские санкции (так как хостится на mirror.yandex.ru), поэтому появилось новое зеркало в Германии: `http://ftp.russianfedora.pro/fedora/russianfedora/">http://ftp.russianfedora.pro/fedora/russianfedora/ <http://ftp.russianfedora.pro/fedora/russianfedora/">`__.
+Russian Fedora внезапно попала под украинские санкции (так как хостится на mirror.yandex.ru), поэтому появилось новое зеркало в Германии: `http://ftp.russianfedora.pro/fedora/russianfedora/ <http://ftp.russianfedora.pro/fedora/russianfedora/">`__.
 
 .. image:: /images/MATE.png
    :align: center
