@@ -36,6 +36,35 @@ Fedora
 RFRemix
 =======
 
+RFRemix 26
+----------
+
+Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, XFCE, MATE и Cinnamon. DVD и netinstall образ RFRemix Server и netinstall образ RFRemix Workstation.
+
+* RFRemix Server [ `i686
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Server/i386/iso/>`__
+  ] [ `x86_64
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Server/x86_64/iso/>`__
+  ]
+
+* RFRemix Workstation [ `i686
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Workstation/i386/iso/>`__
+  ] [ `x86_64
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Workstation/x86_64/iso/>`__
+  ]
+
+* Прочие образы Live [ `i686
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Spins/i386/>`__
+  ] [ `x86_64
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Spins/x86_64/>`__
+  ]
+
+* Торренты [ `i686
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Torrents/i386/>`__
+  ] [ `x86_64
+  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Torrents/x86_64/>`__
+  ]
+
 RFRemix 25
 ----------
 
