@@ -1,15 +1,12 @@
 .. title: Безопасность в контейнерах
 .. slug: Безопасность-в-контейнерах
 .. date: 2015-10-22 14:59:06
-.. tags:
+.. tags: containers, security, selinux, docker, rackspace, ubuntu, hp, debian, hr, nebula, coreos, vmware
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Red Hat запартнерилась с Black Duck Software (это те, кто сейчас владеет
 `OpenHUB.net <https://www.openhub.net/>`__), чтобы улучшить безопасность
@@ -33,7 +30,6 @@ Walsh </content/docker-и-selinux>`__, об это регулярно расск
 потребность в проверке содержимого. `Вот ради этого Red Hat и объединяет
 усилия с Black
 Duck <http://thenewstack.io/red-hat-enlists-black-duck-fortify-container-security/>`__.
-
 Напомним наше предсказание - скоро в контейнеры добавят зависимости.
 
 Откуда вообще в Docker такое количество архитектурных проблем? Ну, мы
@@ -45,7 +41,8 @@ Duck <http://thenewstack.io/red-hat-enlists-black-duck-fortify-container-securit
 резюме <http://majorhayden.com/>`__, решил разобраться, а как в Ubuntu с
 промышленно принятыми стандартами безопасности? Ну, понятно, что SELinux
 там нет, т.е. дистрибутив отстает лет на 10 от нас, а что с остальным?
-Оказалось, что `все очень
+
+Оказалось, что `все очень 
 плохо <https://major.io/2015/10/14/what-i-learned-while-securing-ubuntu/>`__,
 и с т.з. безопасности лучше даже Arch. Вероятно именно поэтому, из-за
 отсутствия хоть какого то бы ни было соответствия промышленным
@@ -70,7 +67,6 @@ SELinux <https://coreos.com/blog/container-security-selinux-coreos/>`__
 который просто не решить с SELinux, и там предлагают уже известное и
 применяющееся в том же Google решение - `контейнеры запускать в
 виртуалках <https://coreos.com/blog/rkt-0.8-with-new-vm-support/>`__.
-
 Это отчасти работает, конечно, но хочется-то на baremetal-машинах.
 
 Напомню, что у нас есть `видение того, какие есть проблемы с
