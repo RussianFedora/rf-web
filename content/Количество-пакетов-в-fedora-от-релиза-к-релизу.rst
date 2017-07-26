@@ -1,21 +1,22 @@
 .. title: Количество пакетов в Fedora от релиза к релизу
 .. slug: Количество-пакетов-в-fedora-от-релиза-к-релизу
 .. date: 2015-07-29 12:57:02
-.. tags:
-.. category:
+.. tags: copr, git, buildbot
+.. category: статистика
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Наш коллега, `Jiří
 Eischmann <https://plus.google.com/112174839778779720402/about>`__,
 собрал `интересную статистику по количеству пакетов в релизах
 Fedora <https://eischmann.wordpress.com/2015/07/27/growth-of-fedora-repository-has-almost-stalled/>`__:
-|image0|
+
+.. image:: https://eischmann.files.wordpress.com/2015/07/fedora-number-of-packages.png
+   :align: center
+   :width: 500px
+
 Кто-то полагает, что рост числа пакетов замедляется, и может быть даже
 выходит на плато (хотя, как считают некоторые коллеги-аналитики,
 оснований для вывода о стабилизации на некоем уровне пока нет). Сам Jiří
@@ -36,7 +37,7 @@ Fedora <https://eischmann.wordpress.com/2015/07/27/growth-of-fedora-repository-h
 формально большим репозиторием, мы не желаем. Ну и в-3, Copr оценивают
 не только положительно.
 
-Напомним, Copr появился в рамках работы по реализации `идеи о рзделении
+Напомним, Copr появился в рамках работы по реализации `идеи о разделении
 Fedora на
 кольца </content/Обсуждение-реорганизации-всего-процесса-разработки-fedora>`__,
 но моментально стал использоваться для сборки и выкладывания пакетов, в
@@ -87,6 +88,3 @@ Git-репозитария.
 Team <http://paul.frields.org/2015/07/21/fedora-engineering-team-opening/>`__.
 
 Присоединяйтесь!
-
-.. |image0| image:: https://eischmann.files.wordpress.com/2015/07/fedora-number-of-packages.png
-   :width: 500px

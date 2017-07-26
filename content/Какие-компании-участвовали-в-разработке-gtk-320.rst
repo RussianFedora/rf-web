@@ -2,14 +2,11 @@
 .. slug: Какие-компании-участвовали-в-разработке-gtk-320
 .. date: 2016-05-12 14:36:27
 .. tags: statistics, gnome
-.. category:
+.. category: статистика
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Emmanuele Bassi <https://wiki.gnome.org/EmmanueleBassi>`__ собрал `статистику
 по корпоративным разработчикам GTK версии 3.20
