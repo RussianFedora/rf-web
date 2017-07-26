@@ -1,15 +1,12 @@
 .. title: Вышел Riak 1.4 CS с поддержкой OpenStack
 .. slug: Вышел-riak-14-cs-с-поддержкой-openstack
 .. date: 2013-08-13 22:19:33
-.. tags: riak, dds, openstack, posix, clouds
+.. tags: riak, dds, openstack, posix, clouds, basho
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Riak CS <http://basho.com/riak-cloud-storage/>`__, это облачное
 хранилище, построенное на базе `Riak <http://basho.com/riak/>`__. До
