@@ -1,15 +1,12 @@
 .. title: RICON 2014
 .. slug: ricon-2014
 .. date: 2014-09-27 09:53:47
-.. tags:
+.. tags: basho, ricon, мероприятия
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Остался месяц до `RICON 2014 <http://ricon.io/>`__, который в этом году
 состоится 28го и 29го октября в Лас-Вегасе, США.
