@@ -2,7 +2,7 @@
 .. slug: Статистика-по-вкладу-компаний-в-разработку-openstack
 .. date: 2012-04-10 11:29:55
 .. tags: openstack, canonical, statistics, redhat 
-.. category:
+.. category: статистика
 .. link:
 .. description:
 .. type: text

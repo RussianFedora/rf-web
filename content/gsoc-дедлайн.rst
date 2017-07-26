@@ -1,15 +1,12 @@
 .. title: GSoC дедлайн
 .. slug: gsoc-дедлайн
 .. date: 2014-04-22 22:44:45
-.. tags:
-.. category:
+.. tags: gsoc, statistics
+.. category: статистика
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Официально
 анонсирован <http://google-opensource.blogspot.com/2014/04/students-announced-for-google-summer-of.html>`__
