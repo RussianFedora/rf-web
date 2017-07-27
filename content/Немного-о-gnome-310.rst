@@ -1,15 +1,12 @@
 .. title: Немного о GNOME 3.10
 .. slug: Немного-о-gnome-310
 .. date: 2013-08-23 22:36:32
-.. tags:
+.. tags: gnome
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: i.gnatenko.brain
-
-**Это архивная статья**
-
 
 Перевод
 `статьи <https://blogs.gnome.org/mclasen/2013/08/23/gnome-3-10-sightings/>`__

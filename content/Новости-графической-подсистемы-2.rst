@@ -1,22 +1,17 @@
 .. title: Новости графической подсистемы
 .. slug: Новости-графической-подсистемы-2
 .. date: 2016-09-02 16:33:39
-.. tags:
+.. tags: wayland, sdl, gtk, xfce, gnome, 
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
-Коллеги-аналитики на Linux.org.ru удивляются, что `в Fedora 25 Wayland
-будет по умолчанию <https://www.linux.org.ru/news/gnome/12820260>`__.
-
-Непонятно, чему удивляться, если мы планировали это достаточно давно, а
-`используем уже с Fedora
-24 </content/Улучшения-в-gettext-и-другие-новости>`__ (некоторые даже с
+Коллеги-аналитики на Linux.org.ru удивляются, что `в Fedora 25 Wayland будет по
+умолчанию <https://www.linux.org.ru/news/gnome/12820260>`__.  Непонятно, чему
+удивляться, если мы планировали это достаточно давно, а `используем уже с
+Fedora 24 </content/Улучшения-в-gettext-и-другие-новости>`__ (некоторые даже с
 Fedora 23). Все работает.
 
 Конечно, все это происходило не само. Наши коллеги улучшали и продолжают
@@ -41,7 +36,6 @@ Wayland <https://lists.freedesktop.org/archives/wayland-devel/2016-August/030863
 Mutter <https://mail.gnome.org/archives/gnome-announce-list/2016-August/msg00017.html>`__.
 
 Наши друзья и коллеги занимались и разработкой модулей ядра и драйверов.
-
 `Eric Anholt <https://github.com/anholt>`__, уже `пару лет работающий на
 Broadcom </content/Короткие-новости-26>`__ над видеодрайвером VC4,
 `начал в своем блоге на LJ регулярно постить новости
