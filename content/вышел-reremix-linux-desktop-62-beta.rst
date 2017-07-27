@@ -8,9 +8,6 @@
 .. type: text
 .. author: Tigro
 
-**Это архивная статья**
-
-
 Итак, спустя три месяца с момента выхода Alpha версии доступен для
 загрузки RERemix Linux Desktop 6.2 Beta. RERemix основан на репозиториях
 Scientific Linux 6.2 (6rolling на данный момент), EPEL, ELRepo,

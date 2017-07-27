@@ -1,5 +1,5 @@
-.. title: Статистика разработки ядра Linux 4.13
-.. slug: statistika-razrabotki-iadra-linux-413
+.. title: Статистика разработки ядра Linux 4.12
+.. slug: statistika-razrabotki-iadra-linux-412
 .. date: 2017-07-26 17:39:00 UTC+03:00
 .. tags: kernel, statistics
 .. category: статистика
