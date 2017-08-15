@@ -1,23 +1,19 @@
 .. title: И еще одна типичная система под управлением Red Hat
 .. slug: И-еще-одна-типичная-система-под-управлением-red-hat
 .. date: 2014-04-18 14:13:27
-.. tags:
+.. tags: rhel, success story, cern, lhc
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
-CERN объявил, что `на Large Hadron Collider (LHC) Logging Server будет
-работать
-RHEL <https://www.redhat.com/about/news/press-archive/2014/4/cern-deploys-red-hat-platform>`__.
-
+CERN объявил, что `на Large Hadron Collider (LHC) Logging Server будет работать
+RHEL
+<https://www.redhat.com/en/about/press-releases/red-hat-provides-cern-platform-mission-critical-applications>`_.
 Ну, с другой стороны, а что еще можно было туда поставить?
-|image0|
 
-.. |image0| image:: http://cla.colocationameric.netdna-cdn.com/picts/blog/large-hadron-red-hat.jpg
+.. image:: /images/large-hadron-red-hat.jpg
    :width: 495px
-   :target: http://cla.colocationameric.netdna-cdn.com/picts/blog/large-hadron-red-hat.jpg
+   :align: center
+   :target: https://www.colocationamerica.com/blog/cern-and-red-hat-a-match-made-in-particle-smashing-heaven.htm
