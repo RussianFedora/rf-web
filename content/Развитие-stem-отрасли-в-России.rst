@@ -1,15 +1,12 @@
 .. title: Развитие STEM-отрасли в России
 .. slug: Развитие-stem-отрасли-в-России
 .. date: 2014-09-02 10:17:45
-.. tags:
+.. tags: parallels, политика
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наш соотечественник, инженер Parallels, `Дмитрий
 Монахов <https://plus.google.com/101761226576930717211/about>`__,
@@ -26,7 +23,6 @@
 возможные задержки при ответе на письма, при рассмотрении патчей и при
 комментировании в багзиллах.
 
-|image0|
-
-.. |image0| image:: http://vasya-lozhkin.ru/media/paintings/gimage_500.gif
+.. image:: http://vasya-lozhkin.ru/media/paintings/gimage_500.gif
+   :align: center
    :target: http://vasya-lozhkin.ru/
