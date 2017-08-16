@@ -1,15 +1,12 @@
 .. title: Дисковый массив с Ceph от Western Digital 
 .. slug: Дисковый-массив-с-ceph-от-western-digital
 .. date: 2016-04-29 14:23:05
-.. tags: western digital, ceph, redhat, posix, xfs, 
+.. tags: western digital, ceph, redhat, posix, xfs
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `WD Labs анонсировали дисковый
 массив <http://ceph.com/community/500-osd-ceph-cluster/>`__ из
