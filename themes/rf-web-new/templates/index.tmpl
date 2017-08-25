@@ -14,6 +14,18 @@
 {% block content_header %}{% endblock %}
 <h2 class="title is-2">О проекте</h2>
 {{ blog_about }}<br/>
+<h3 class="title is-3">Полезные материалы</h3>
+<table class="table is-striped">
+  <tbody>
+    {% for item in content_pinned_articles %}
+    <tr>
+        <td class="is-hidden-mobile">{{ item.type }}</td>
+        <td><a class="is-info" href="{{ item.link }}">{{ item.title }}</a></td>
+        <td class="has-text-right is-hidden-mobile">{{ item.date }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
 <div class="postindex">
 {% for post in posts %}
