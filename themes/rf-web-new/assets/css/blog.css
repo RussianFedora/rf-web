@@ -24,3 +24,7 @@
 .translationslist p {
     display: inline;
 }
+
+.tags {
+  margin: 5px;
+}

@@ -27,18 +27,22 @@
 
 {% macro html_pager(post) %}
     {% if post.prev_post or post.next_post %}
-        <ul class="pager hidden-print">
+      <div class="field is-grouped">
         {% if post.prev_post %}
-            <li class="previous">
-                <a href="{{ post.prev_post.permalink() }}" rel="prev" title="{{ post.prev_post.title()|e }}">{{ messages("Previous post") }}</a>
-            </li>
+          <p class="control">
+            <a class="button" href="{{ post.prev_post.permalink() }}" rel="prev" title="{{ post.prev_post.title()|e }}">
+              <i class="fa fa-chevron-left" aria-hidden="true"></i>&nbsp;
+              {{ messages("Previous post") }}</a>
+          </p>
         {% endif %}
         {% if post.next_post %}
-            <li class="next">
-                <a href="{{ post.next_post.permalink() }}" rel="next" title="{{ post.next_post.title()|e }}">{{ messages("Next post") }}</a>
-            </li>
+          <p class="control">
+            <a class="button" href="{{ post.next_post.permalink() }}" rel="next" title="{{ post.next_post.title()|e }}">
+              <i class="fa fa-chevron-right" aria-hidden="true"></i>&nbsp;
+              {{ messages("Next post") }}</a>
+          </p>
         {% endif %}
-        </ul>
+      </div>
     {% endif %}
 {% endmacro %}
 
