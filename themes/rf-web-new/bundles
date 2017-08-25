@@ -1,4 +1,4 @@
-assets/css/all-nocdn.css=main.css
-assets/css/all.css=main.css
+assets/css/all-nocdn.css=main.css,rst.css,code.css,colorbox.css,theme.css,blog.css
+assets/css/all.css=main.css,rst.css,code.css,colorbox.css,theme.css,blog.css
 assets/js/all-nocdn.js=jquery.min.js,bootstrap.min.js,jquery.colorbox-min.js,moment-with-locales.min.js,fancydates.js
 assets/js/all.js=jquery.colorbox-min.js,moment-with-locales.min.js,fancydates.js
