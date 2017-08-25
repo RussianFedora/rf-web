@@ -32,7 +32,7 @@
     <article class="blog-post">
     <header>
         <h2 class="blog-post-title"><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
-        <div class="blog-post-meta">
+        <div class="metadata blog-post-meta">
             <p class="byline author vcard"><span class="byline-name fn">{{ post.author() }}</span></p>
             <p class="dateline"><a href="{{ post.permalink() }}" rel="bookmark"><time class="published dt-published" datetime="{{ post.date.isoformat() }}" title="{{ post.formatted_date(date_format) }}">{{ post.formatted_date(date_format) }}</time></a></p>
         </div>
