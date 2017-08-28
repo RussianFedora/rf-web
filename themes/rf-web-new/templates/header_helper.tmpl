@@ -1,0 +1,86 @@
+{% macro html_logo() %}
+
+{% if logo_url %}
+<div id="logo">
+  <a href="/" title="Главная" rel="home"><img src="{{ logo_url }}" alt="Главная">
+  </a>
+
+  <div class="social-buttons">
+    <div class="first-line">
+      <a href="https://plus.google.com/113782932104817709355" rel="publisher" style="text-decoration:none;" alt="G+" target="blank"><img src="/assets/images/social/gplus.png"></a>
+      <a href="https://www.facebook.com/pages/Russian-Fedora/123818667674026" target="blank"><img src="/assets/images/social/facebook.png"></a>
+      <a href="https://vk.com/russianfedora" target="blank"><img src="/assets/images/social/vkontakte.png"></a>
+      <a href="https://www.linkedin.com/company/russian-fedora?trk=fc_badge" target="blank"><img src="/assets/images/social/linkedin.png"></a>
+      <a href="https://twitter.com/RussianFedora" target="blank"><img src="/assets/images/social/twitter.png"></a>
+    </div>
+    <div class="second-line">
+      <a href="https://github.com/RussianFedora" target="blank"><img src="/assets/images/social/github.png"></a>
+      <a href="https://www.openhub.net/p/russianfedora" target="blank"><img src="/assets/images/social/oh.png"></a>
+      <a href="https://vimeo.com/channels/russianfedora" target="blank"><img src="/assets/images/social/vimeo.png"></a>
+      <a href="https://www.youtube.com/fedorarussian" target="blank"><img src="/assets/images/social/youtube.png"></a>
+      <a href="/rss.xml" target="blank"><img src="/assets/images/social/feed.png"></a>
+      </div>
+    </div>
+</div>
+{% endif %}
+
+{% endmacro %}
+
+{% macro menubar() %}
+<!-- Menubar -->
+<header>
+  <div class="container">
+    <nav class="nav has-shadow">
+      <div class="nav-left is-one-third">
+        <div class="nav-item is-active">
+          <h3><a href="/">Russian Fedora</a></h3>
+        </div>
+      </div>
+      <div class="nav-right is-hidden-mobile">
+        {{ base.html_navigation_links() }}
+        {{ template_hooks['menu']() }}
+        {% if search_form %}
+            {{ search_form }}
+        {% endif %}
+
+        {% block belowtitle %}
+        {% if translations|length > 1 %}
+            {{ base.html_translations() }}
+        {% endif %}
+        {% endblock %}
+        {% if show_sourcelink %}
+            {% block sourcelink %}{% endblock %}
+        {% endif %}
+        {{ template_hooks['menu_alt']() }}
+
+        <div class="nav-item">
+            <div class="field is-grouped">
+                <p class="control">
+                    <a class="button is-info">
+                        <span class="icon"><i class="fa fa-download"></i></span>
+                        <span>Загрузить RFRemix</span>
+                    </a>
+                </p>
+            </div>
+        </div>
+        <a class="nav-item">
+          <span class="icon"><i class="fa fa-github"></i></span>
+        </a>
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- End of Menubar -->
+{% endmacro %}
+
+{% macro slogan() %}
+<section class="hero is-info">
+  <div class="container is-medium is-white">
+    <div class="hero-body banner">
+      <h1 class="title is-white">{{ blog_title }}</h1>
+      <h2 class="subtitle is-white">{{ blog_description }}</h2>
+      {{ template_hooks['page_header']() }}
+    </div>
+  </div>
+</section>
+{% endmacro %}

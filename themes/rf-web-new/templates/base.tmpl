@@ -1,0 +1,60 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'base_helper.tmpl' as base with context %}
+{% import 'header_helper.tmpl' as header with context %}
+{% import 'annotation_helper.tmpl' as notes with context %}
+{{ set_locale(lang) }}
+{{ base.html_headstart() }}
+{% block extra_head %}
+{#  Leave this block alone. #}
+{% endblock %}
+{{ template_hooks['extra_head']() }}
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
+
+{{ header.menubar() }}
+{{ header.slogan() }}
+
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        {% block content %}{% endblock %}
+      </div>
+      <div class="column is-one-third is-hidden-mobile">
+        <h4 class="title is-4">Активность</h4>
+        {{ blog_sidebar }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="pre-footer"></div>
+<footer class="footer has-shadow">
+  <div class="container">
+    <div class="columns">
+      <div class="col">
+        {{ content_footer }}
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{ base.late_load_js() }}
+    <script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
+    <!-- fancy dates -->
+    <script>
+    moment.locale("{{ momentjs_locales[lang] }}");
+    fancydates({{ date_fanciness }}, {{ js_date_format }});
+    </script>
+    <!-- end fancy dates -->
+    {% block extra_js %}{% endblock %}
+    {% if annotations and post and not post.meta('noannotations') %}
+        {{ notes.code() }}
+    {% elif not annotations and post and post.meta('annotations') %}
+        {{ notes.code() }}
+    {% endif %}
+{{ body_end }}
+{{ template_hooks['body_end']() }}
+</body>
+</html>

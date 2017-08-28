@@ -1,0 +1,30 @@
+/*
+ * Blog posts
+ */
+
+.blog-post {
+  margin-bottom: 5px;
+  padding: 20px;
+  background-color: #efefef;
+}
+.blog-post-title {
+  margin-bottom: 5px;
+  font-size: 26px;
+}
+.blog-post-meta {
+  margin-bottom: 20px;
+  color: #999;
+}
+.metadata p:before,
+.postlist .listdate:after,
+.translationslist p:before {
+    content: " — ";
+}
+.metadata p,
+.translationslist p {
+    display: inline;
+}
+
+.tags {
+  margin: 5px;
+}
