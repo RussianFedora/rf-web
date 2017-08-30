@@ -10,5 +10,6 @@
 
 На LWN опубликовали `статистику разработчиков ядра версии 4.12 <https://lwn.net/Articles/726950/>`_. Пока в лидерах все те же компании.
 
-.. image:: /images/linux-4_12-affiliation.png
+.. image:: /images/contribution-linux-412.png
    :align: center
+   :target: https://lwn.net/Articles/726950/
