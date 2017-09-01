@@ -1,15 +1,12 @@
 .. title: Неожиданно отключили kdbus в Fedora
 .. slug: Неожиданно-отключили-kdbus-в-fedora
 .. date: 2015-10-30 14:25:12
-.. tags:
+.. tags: kdbus
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Прошло примерно три месяца с его появления в
 Fedora </content/kdbus-в-fedora-rawhide>`__, как неожиданно, без
@@ -22,9 +19,11 @@ kdbus <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/213235>`__.
 `обнаружили сомнительный с т.з. безопасности
 функционал </content/kdbus-включили-в-fedora-rawhide>`__.
 
-|image0|
-**Кажется что-то пошло не так.**
-
-.. |image0| image:: http://rack.1.mshcdn.com/media/ZgkyMDE0LzEwLzI5L2JlL2FudGFyZXNleHBsLjIyMzY5LmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/bee992ba/1c7/antares-explosion.jpg
+.. image:: http://rack.1.mshcdn.com/media/ZgkyMDE0LzEwLzI5L2JlL2FudGFyZXNleHBsLjIyMzY5LmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/bee992ba/1c7/antares-explosion.jpg
+   :align: center
    :width: 40.0%
    :target: http://mashable.com/2014/10/28/antares-rocket-explodes-nasa/
+
+.. class:: align-center
+
+**Кажется что-то пошло не так.**

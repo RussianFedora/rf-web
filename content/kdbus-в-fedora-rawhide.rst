@@ -1,15 +1,12 @@
 .. title: kdbus в Fedora Rawhide
 .. slug: kdbus-в-fedora-rawhide
 .. date: 2015-07-30 22:58:16
-.. tags:
+.. tags: kdbus
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 После `включения поддержки kdbus в сборках ядра для Fedora
 Rawhide </content/kdbus-включили-в-fedora-rawhide>`__, он `стал доступен

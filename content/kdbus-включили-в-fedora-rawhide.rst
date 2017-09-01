@@ -1,19 +1,15 @@
 .. title: kdbus включили в Fedora Rawhide!
 .. slug: kdbus-включили-в-fedora-rawhide
 .. date: 2015-07-10 16:59:51
-.. tags:
+.. tags: kdbus, security
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Наконец-то в Fedora Rawhide `включили поддержку
 kdbus <https://src.fedoraproject.org/cgit/kernel.git/commit/?id=8be4430>`__.
-
 Как обычно, мы предлагаем пользователям других дистрибутивов попробовать
 Fedora, и то, как интересные вам приложения будут работать. То, что
 включается в Fedora, то будет и в вашем дистрибутиве, но, как обычно, с
@@ -41,4 +37,3 @@ Smalley <http://www.internetsociety.org/who-we-are/speaker-biography/stephen-sma
 приложения с новой библиотекой для kdbus сделает необходимость в такой
 прослойке ненужной, но пересобрать все не получится, да и неизбежно
 вылезут проблемы. Придется плакать и колоться, но грызть.
-
