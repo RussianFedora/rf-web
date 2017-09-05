@@ -1,7 +1,7 @@
 .. title: Fedora MIPS Redux!
 .. slug: fedora-mips-redux
 .. date: 2015-06-07 18:54:52
-.. tags: imgtec, mips, импортозамещение
+.. tags: imgtec, mips, импортозамещение, т-платформы
 .. category:
 .. link:
 .. description:
