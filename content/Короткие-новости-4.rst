@@ -1,15 +1,12 @@
 .. title: Короткие новости
 .. slug: Короткие-новости-4
 .. date: 2013-03-30 15:29:11
-.. tags: redhat, патенты, legal, rackspace, centos, санкции
+.. tags: redhat, патенты, legal, rackspace, centos, санкции, т-платформы
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Red Hat
 `растоптала <http://www.rackspace.com/blog/mathematics-cannot-be-patented-case-dismissed/>`__
@@ -45,7 +42,7 @@ Red Hat и Rackspace, плюс это дело пустило глубокую �
 (например, `аналогичное решение от отечественных
 политиканов </content/Вступил-в-силу-новый-закон-о-государственной-измене>`__).
 
-.. image:: http://cdn.memegenerator.net/instances/400x/36831890.jpg
+.. image:: /images/replace-by-small-script.jpg
    :align: center
 
 Увидимся на `Red Hat Tour 2013 третьего апреля в
