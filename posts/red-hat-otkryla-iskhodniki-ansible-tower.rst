@@ -15,4 +15,5 @@ Red Hat официально `открыла исходники Ansible Tower
 Из `FAQ по проекту <https://www.ansible.com/awx-project-faq>`_:
 
         Q: Why is Red Hat doing this?
+
         A: Because this is what Red Hat does.
