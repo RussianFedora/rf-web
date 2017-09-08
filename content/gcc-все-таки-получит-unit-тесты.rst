@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Наш коллега, инженер Red Hat, `David Malcolm
 <https://fedoraproject.org/wiki/User:Dmalcolm>`__, не сдается и `опубликовал уже
 третью версию патчсета с unit-тестами для GCC
@@ -21,4 +18,3 @@
 Кстати, раз уж заговорили об инфраструктуре - `наконец-то и разработка
 Ocaml будет идти на
 GitHub <https://thread.gmane.org/gmane.comp.lang.caml.inria/63631>`__.
-

@@ -45,7 +45,7 @@ OpenStack <https://www.infoworld.com/article/3193605/private-cloud/serverless-co
 и VMware собрались и вложили аж почти 3 гигабакса
 <http://www.businessinsider.com/google-vmware-pivotal-team-up-for-kubernetes-service-2017-8>`_,
 чтобы реализовать облачное решение на базе именно Kubernetes. Альянс нацелен на
-противодействие Microsoft, Docker Inc. и Red Hat (Red Hat OpenShft). Планы
+противодействие Microsoft, Docker Inc. и Red Hat (Red Hat OpenShift). Планы
 амбициозные, но немного настораживает то, что Kubernetes требует 3 миллиардов
 долларов для доработки, поэтому еще непонятно, как и когда все заработает.
 
