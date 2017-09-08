@@ -246,6 +246,12 @@ h6, .h6 {
 .align-center {text-align: center;}
 
 /*
+ * Enable strikethrough text as proposed here:
+ * https://stackoverflow.com/questions/6518788/rest-strikethrough
+ */
+.strike {text-decoration: line-through;}
+
+/*
  * Footer
  */
 
