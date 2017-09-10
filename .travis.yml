@@ -4,11 +4,16 @@ addons:
     - sshpass
 
 language: python
-cache: pip
+cache:
+  - pip: true
+  - directories:
+    - state_data.json
 python:
   - "3.6"
 
-install: "pip install -r requirements.txt"
+install:
+  - pip install -r requirements.txt
+  - nikola plugin --install deploy_hooks
 
 script:
   - nikola build

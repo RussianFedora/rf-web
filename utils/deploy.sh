@@ -6,3 +6,6 @@ DEST=${TRAVIS_BRANCH:-test}
 echo "Publishing to ${DEST}"
 
 rsync -rav --delete --rsh="${RSH_STRING}" output/ russianfedora.pro:~/"${DEST}"
+
+# Run nikola's post deploy hooks
+nikola deploy
