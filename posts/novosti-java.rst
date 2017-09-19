@@ -12,7 +12,7 @@
 `Red Hat передала им свой Ceylon
 <https://www.opennet.ru/opennews/art.shtml?num=47059>`_, затем `в Oracle решили
 отдать их Java EE туда же
-<https://www.opennet.ru/opennews/art.shtml?num=47186`_, и вот теперь еще и `IBM
+<https://www.opennet.ru/opennews/art.shtml?num=47186>`_, и вот теперь еще и `IBM
 тоже передали их самодельный JVM под названием OpenJ9 в Eclipse
 <https://www.opennet.ru/opennews/art.shtml?num=47220>`_. Положительная динамика!
 
