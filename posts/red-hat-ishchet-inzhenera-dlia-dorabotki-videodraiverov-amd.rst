@@ -25,4 +25,5 @@ AMD
    :align: center
 
 .. class:: align-center
+
 **Разработчик Петр присоединяется к команде разработчиков Wayland**
