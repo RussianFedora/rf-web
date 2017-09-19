@@ -18,4 +18,5 @@
    :align: center
 
 .. class:: align-center
+
 **Менторы GSoC 2017 по странам**
