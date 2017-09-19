@@ -1,15 +1,12 @@
 .. title: Fedora ищет нового Program Manager
 .. slug: fedora-ищет-нового-program-manager
 .. date: 2012-04-20 15:04:32
-.. tags:
+.. tags: hr, fedora
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 После того, как `Robyn
 Bergeron <https://fedoraproject.org/wiki/User:Rbergero>`__ повысили до
