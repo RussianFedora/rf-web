@@ -2,16 +2,20 @@ addons:
   apt:
     packages:
     - sshpass
+    - aspell-ru
+    - enchant
 
 language: python
 cache: pip
 python:
   - "3.6"
 
-install: "pip install -r requirements.txt"
+install: 
+- pip install -r requirements.txt
+- nikola plugin -i spell_check
 
 script:
-  - nikola build
+- nikola build
 
 deploy:
   skip_cleanup: true
