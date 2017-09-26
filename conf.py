@@ -1266,3 +1266,37 @@ GLOBAL_CONTEXT = {
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+
+def post_to_twitter(entry):
+    import os.path
+    from twitter import Twitter, OAuth
+
+    CONSUMER_KEY = os.environ['TWITTER_CONSUMER_KEY']
+    CONSUMER_SECRET = os.environ['TWITTER_CONSUMER_SECRET']
+    OAUTH_TOKEN = os.environ['TWITTER_OAUTH_TOKEN']
+    OAUTH_TOKEN_SECRET = os.environ['TWITTER_OAUTH_TOKEN_SECRET']
+
+    twitter = Twitter(auth=OAuth(
+        OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUMER_SECRET))
+
+    tags = ' '.join(['#' + tag for tag in entry.tags])
+    url = entry.permalink(absolute=True)
+    status = 'New Post: %s %s %s' % (entry.title(), url, tags)
+    print("Tweeted: '%s'" % status)
+    twitter.statuses.update(status=status)
+
+
+DEPLOYED_HOOKS = [post_to_twitter]
+
+# Similar to the DEPLOYED_HOOKS variable, but the commands are run for each
+# new entry that has not been deployed either because it is a draft or a future
+# post.
+# For example, this can be used to setup a cron/at job to deploy the site,
+# after the time at which the post is scheduled.
+UNDEPLOYED_HOOKS = []
+
+# Set this to false, if you want the hooks to run on deployment after a clean.
+# If you set this to false, the hooks will essentially run on all the posts in
+# the site.
+NO_HOOKS_ON_CLEAN = True
