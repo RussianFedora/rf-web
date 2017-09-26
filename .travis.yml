@@ -7,7 +7,7 @@ language: python
 cache:
   - pip: true
   - directories:
-    - cache/lastdeploy
+    - cache
 python:
   - "3.6"
 
