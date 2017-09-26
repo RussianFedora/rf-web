@@ -1282,7 +1282,7 @@ def post_to_twitter(entry):
 
     tags = ' '.join(['#' + tag for tag in entry.tags])
     url = entry.permalink(absolute=True)
-    status = 'New Post: %s %s %s' % (entry.title(), url, tags)
+    status = '%s %s %s' % (entry.title(), url, tags)
     print("Tweeted: '%s'" % status)
     twitter.statuses.update(status=status)
 
