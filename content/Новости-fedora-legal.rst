@@ -1,15 +1,12 @@
 .. title: Новости Fedora Legal
 .. slug: Новости-fedora-legal
 .. date: 2013-01-21 12:28:13
-.. tags: патенты, legal, oin, oracle, gnu
+.. tags: патенты, legal, oin, oracle, gnu, s3tc, hr
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Fedora Legal недавно
 `одобрила <https://bugzilla.redhat.com/892270#c4>`__ использование
