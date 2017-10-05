@@ -1,7 +1,7 @@
 .. title: Новые патентные обязательства от Red Hat
 .. slug: novye-patentnye-obiazatelstva-ot-red-hat
 .. date: 2017-09-22 16:33:13 UTC+03:00
-.. tags: patents, redhat, legal
+.. tags: патенты, redhat, legal
 .. category: 
 .. link: 
 .. description: 
