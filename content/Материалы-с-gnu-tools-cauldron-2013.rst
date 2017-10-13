@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Недавно, в калифорнийском офисе Google прошла конференция `GNU Tools
 Cauldron 2013 <http://gcc.gnu.org/wiki/cauldron2013>`__. Участники
 Fedora разумеется там присутствовали. Среди выступлений можно отметить
@@ -24,4 +21,3 @@ GCC <http://dmalcolm.fedorapeople.org/gcc/global-state/>`__. На самом
 деле, этими выступлениями интересные не исчерпываются - пожалуйста,
 `ознакомьтесь со всем
 списком <http://gcc.gnu.org/wiki/cauldron2013#Presentations>`__.
-
