@@ -31,3 +31,5 @@ OpenLDAP, но, к счастью, для нее есть замена, `libmdbx
 
 .. vimeo:: 235962287
    :align: center
+   :height: 320
+   :width: 480
