@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Несмотря на то, что Firefox начиная с 14й версии умеет использовать
 gstreamer для проигрывания кодеков, находящихся в патентном рабстве у
 `MPEG LA <http://www.mpegla.com/>`__, пользователи Fedora для просмотра
@@ -34,4 +31,3 @@ builds" <https://bugzilla.mozilla.org/794282>`__**. Сейчас в Fedora
 (**`#806917 - "support GStreamer
 1.0" <https://bugzilla.mozilla.org/806917>`__**), т.к. gstreamer-0.10
 признан устаревшим.
-
