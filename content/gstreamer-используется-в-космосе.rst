@@ -1,7 +1,7 @@
 .. title: GStreamer используется в космосе!
 .. slug: gstreamer-используется-в-космосе
 .. date: 2014-09-04 18:07:33
-.. tags: gstreamer
+.. tags: gstreamer, космос, buildbot, jenkins, collabora, hr
 .. category:
 .. link:
 .. description:
@@ -10,11 +10,11 @@
 
 С удовольствием узнали, что `GStreamer используется в одном из проектов
 European Space
-Agency <https://thread.gmane.org/gmane.comp.video.gstreamer.devel/52220>`__.
+Agency <https://thread.gmane.org/gmane.comp.video.gstreamer.devel/52220>`__. Планируется развертывание на МКС в 2015 году.
 
-Планируется развертывание на МКС в 2015 году. Мы очень рады за
-разработчиков этого фреймворка, который получил такое неожиданное
-признание!
+Мы очень рады за разработчиков этого фреймворка, который получил такое
+неожиданное признание!
+
 В последнее время особенно важной становится тема Continuous
 Integration, unit-testing, и GStreamer один из хороших примеров того,
 как надо управлять проектом. Его тестировали уже тогда, когда и слова
