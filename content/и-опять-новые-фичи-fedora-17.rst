@@ -1,15 +1,12 @@
 .. title: И опять новые "фичи" Fedora 17
 .. slug: и-опять-новые-фичи-fedora-17
 .. date: 2012-02-01 00:42:25
-.. tags:
-.. category:
+.. tags: cups, cloudstack, eucaliptus, jboss, networkmanager, xen, openvswitch, openstack, qemu, firewalld
+.. category: Fedora Changes
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 На собрании FESCo, прошедшем 30 января 2012 года, `были
 одобрены <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/158842/focus=158866>`__
@@ -37,6 +34,7 @@
 -  `Включение в дистрибутив
    Eucaliptus <https://fedoraproject.org/wiki/Features/Eucalyptus>`__,
    еще одной платформы для облачных вычислений
+
 -  `Включение в дистрибутив JBoss Application Server
    7 <https://fedoraproject.org/wiki/Features/JBossAS7>`__, широко
    известного в узких кругах Java EE сервера приложений
@@ -103,4 +101,3 @@
 мэйнтейнеры максимум осиливают написание "рецепта" сборки приложения,
 или тратят время на перекраску обоев и перенос кнопок из одного угла в
 другой.
-

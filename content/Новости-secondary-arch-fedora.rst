@@ -1,15 +1,12 @@
 .. title: Новости secondary arch Fedora
 .. slug: Новости-secondary-arch-fedora
 .. date: 2012-06-16 00:19:40
-.. tags: ocaml, linaro, kernel
+.. tags: ocaml, linaro, kernel, powerpc, arm
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Richard W.M. Jones <http://people.redhat.com/~rjones/>`__ завершил
 портирование Ocaml на архитектуру PPC64. Результат доступен в `git-репозитории

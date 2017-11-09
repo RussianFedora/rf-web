@@ -1,15 +1,12 @@
 .. title: Итоги OpenStack User Survey
 .. slug: Итоги-openstack-user-survey
 .. date: 2014-11-17 11:18:55
-.. tags:
+.. tags: openstack, statistics, debian, политика, qemu, vmware, ceph, glusterfs, chef, puppet
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Подведены итоги очередного опроса пользователей
 OpenStack <http://superuser.openstack.org/articles/openstack-user-survey-insights-november-2014>`__.
@@ -19,7 +16,10 @@ OpenStack <http://superuser.openstack.org/articles/openstack-user-survey-insight
 интересных фактов очень много, и остановимся лишь на самых важных.
 
 Начнем с того, на базе какого дистрибутива строятся решения:
-|image0|
+
+.. image:: http://a4.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414983251/txytwdgmtwla8jrxnlbk.png
+   :align: center
+
 Увы, но наши и дружественные нам дистрибутивы не в лидерах. Сказывается
 шумная самореклама людей, практически не участвующих в проекте, и тяга
 начинающих к привычному. Но наши коллеги постепенно перехватывают
@@ -38,8 +38,11 @@ OpenStack <http://superuser.openstack.org/articles/openstack-user-survey-insight
 отказа от участия в проекте еще одного
 разработчика <http://err.no/personal/blog/tech/Debian/2014-11-16-23-55_resigning_from_pkg-systemd.html>`__.
 
-|image1|
+.. image:: http://vothouse.ru/img/films/20100528/01.jpg
+   :align: center
+
 **Любители юниксвэя изгоняют из Debian очередного участника**
+
 Интересно, но даже Windows обогнал Debian. `Несмотря на юридическую
 опасность использования Windows в
 облаках </content/Новости-виртуализации>`__, когда без консультации
@@ -48,14 +51,15 @@ OpenStack <http://superuser.openstack.org/articles/openstack-user-survey-insight
 значительных количествах.
 
 Увы, но в список не попали новые игроки на рынке - CoreOS, OSv и прочие.
-
 Видимо пока народ опасается экспериментировать очень уж по-серьезному.
-
 Ну посмотрим - идея тонкой системы для контейнеров довольно популярна.
 
 Интересна разбивка по странам, в которую впервые заскочила и наша
 Россия:
-|image2|
+
+.. image:: http://a5.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414982834/ijcldrh7cmqh9con52ja.png
+   :align: center
+
 Мы пока уступаем таким развитым технологическим державам, как Бразилия и
 Голландия, но в целом, учитывая количество специалистов, можно ожидать
 продолжения подъема России в рейтинге. Если, конечно, не примут
@@ -65,7 +69,10 @@ OpenStack <http://superuser.openstack.org/articles/openstack-user-survey-insight
 было бы интереснее, но порой надо учитывать латентность каналов.
 
 Переходим к виртуализационным решениям:
-|image3|
+
+.. image:: http://a4.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414999436/sncxc7trfp6ayan7dqes.png
+   :align: center
+
 Ничего необычного - доминирует Qemu/KVM. Вторым, что интересно, идет
 VMware, и обратите внимание на лесенку
 экспериментируем-тестируем-продакшен. Это либо разочарование в
@@ -77,7 +84,9 @@ VMware, и обратите внимание на лесенку
 
 Далее хранилища.
 
-|image4|
+.. image:: http://a1.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414983220/z3vn1zndif6v7q2u08w1.png
+   :align: center
+
 С прошлого опроса LVM сильно сдал в пользу Ceph и даже GlusterFS. Пока
 не сбывается предсказание, что `*"any distributed filesystem like
 GlusterFS or Ceph that tries to preserve the POSIX API will go the way
@@ -86,9 +95,15 @@ bird"* </content/Поздравляем-openstack-с-третьей-годовщ
 
 Сетевая подсистема, в отличие от блочных устройств, радует разнообразием
 вариантов:
-|image5|
+
+.. image:: http://a2.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414983233/rdeafcckwphqhhjhbtt3.png
+   :align: center
+
 Способов развертывания тоже много:
-|image6|
+
+.. image:: http://a3.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414983604/i6cbkmbhnq0mpqnqh6y5.png
+   :align: center
+
 Опять непонятно, что выбирать - Chef или Puppet. Понятно, что
 развертывание облачной системы, это как раз проще заменяемая штука, чем,
 например, блочное устройство, и тут экспериментирует народ смелее.
@@ -96,13 +111,3 @@ bird"* </content/Поздравляем-openstack-с-третьей-годовщ
 В результатах опроса еще много чего интересного - сходите по ссылке и
 посмотрите. Да, опрос будет постоянно открыт, и его итоги опять подведут
 в следующем году, весной, так что поучаствуйте сами.
-
-
-.. |image0| image:: http://a4.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414983251/txytwdgmtwla8jrxnlbk.png
-.. |image1| image:: http://vothouse.ru/img/films/20100528/01.jpg
-.. |image2| image:: http://a5.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414982834/ijcldrh7cmqh9con52ja.png
-.. |image3| image:: http://a4.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414999436/sncxc7trfp6ayan7dqes.png
-.. |image4| image:: http://a1.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414983220/z3vn1zndif6v7q2u08w1.png
-.. |image5| image:: http://a2.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414983233/rdeafcckwphqhhjhbtt3.png
-.. |image6| image:: http://a3.res.cloudinary.com/hqq9ey1mh/image/upload/c_limit,w_793/v1414983604/i6cbkmbhnq0mpqnqh6y5.png
-

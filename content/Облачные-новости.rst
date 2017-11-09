@@ -1,180 +1,166 @@
 .. title: Облачные новости
 .. slug: Облачные-новости
 .. date: 2013-10-18 16:24:29
-.. tags:
+.. tags: openstack, redhat, mirantis, vmware, paypal, xen, qemu, f5, sdn, lxc, docker, bitergia, statistics
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
+`Вышел новый релиз OpenStack под кодовым именем "Havana"
+<https://thread.gmane.org/gmane.comp.cloud.openstack.announce/38>`__.  Новость
+уже обсуждается на `OpenNET.ru
+<https://www.opennet.ru/opennews/art.shtml?num=38198>`__.
 
+Среди изменений cразу хочется выделить включение двух новых компонентов, Heat и
+Ceilometer, которые впервые широкой общественности были представлены в `Fedora
+19 <https://fedoraproject.org/wiki/Features/OpenStack_Grizzly>`__ и `Fedora 18
+<https://fedoraproject.org/wiki/Features/Heat>`__. Релиз Havana будет полностью
+доступен в Fedora 20.
 
-| `Вышел новый релиз OpenStack под кодовым именем
-  "Havana" <https://thread.gmane.org/gmane.comp.cloud.openstack.announce/38>`__.
+Одновременно были объявлены `результаты выборов
+<https://thread.gmane.org/gmane.comp.cloud.openstack.announce/39>`__ в
+Технический Комитет OpenStack. Поздравляем наших коллег по коммьюнити Fedora -
+инженера Red Hat и участника проектов Fedora и Asterisk, `Russel Bryant
+<https://www.openhub.net/accounts/russellb>`__ и участника Fedora и уже
+бывалого участника технического комитета OpenStack, `Mark McLoughlin
+<https://www.openhub.net/accounts/markmc>`__. К сожалению, в совет не были
+выбраны кандидаты из Mirantis - разработчик из Саратова, `Sergey Lukjanov
+<https://www.openhub.net/accounts/Frostman>`__, и `Boris Pavlovic
+<https://launchpad.net/~boris-42>`__. Ничего, народ, не горюйте, а просто в
+следующий раз пробуйте снова! По виду, конечно, они и не думают огорчаться -
+Boris Pavlovic `официально анонсировал
+<https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6397>`__ систему
+нагрузочного тестирования для OpenStack, `Rally
+<https://wiki.openstack.org/wiki/Rally>`__, а Sergey Lukjanov `объявил о
+доработке <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6484>`__
+OpenStack Data Processing (“Savanna”) до полной совместимости с Havana.
 
-  Новость уже обсуждается на
-  `OpenNET.ru <https://www.opennet.ru/opennews/art.shtml?num=38198>`__.
+.. role:: strike
 
-  Среди изменений cразу хочется выделить включение двух новых
-  компонентов, Heat и Ceilometer, которые впервые широкой общественности
-  были представлены в `Fedora
-  19 <https://fedoraproject.org/wiki/Features/OpenStack_Grizzly>`__ и
-  `Fedora 18 <https://fedoraproject.org/wiki/Features/Heat>`__. Релиз
-  Havana будет полностью доступен в Fedora 20.
+Почти сразу, с появлением открытых Cloud-технологий, :strike:`кое у кого
+припекло <http://www.vmware.com/getthefacts>`__` в прессе начали всерьез
+сравнивать проприетарные аналоги от ряда вендоров, и открытые.
 
-| Одновременно были объявлены `результаты
-  выборов <https://thread.gmane.org/gmane.comp.cloud.openstack.announce/39>`__
-  в Технический Комитет OpenStack. Поздравляем наших коллег по
-  коммьюнити Fedora - инженера Red Hat и участника проектов Fedora и
-  Asterisk, `Russel Bryant <https://www.openhub.net/accounts/russellb>`__
-  и участника Fedora и уже бывалого участника технического комитета
-  OpenStack, `Mark
-  McLoughlin <https://www.openhub.net/accounts/markmc>`__. К сожалению, в
-  совет не были выбраны кандидаты из Mirantis - разработчик из Саратова,
-  `Sergey Lukjanov <https://www.openhub.net/accounts/Frostman>`__, и
-  `Boris Pavlovic <https://launchpad.net/~boris-42>`__. Ничего, народ,
-  не горюйте, а просто в следующий раз пробуйте снова! По виду, конечно,
-  они и не думают огорчаться - Boris Pavlovic `официально
-  анонсировал <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6397>`__
-  систему нагрузочного тестирования для OpenStack,
-  `Rally <https://wiki.openstack.org/wiki/Rally>`__, а Sergey Lukjanov
-  `объявил о
-  доработке <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6484>`__
-  OpenStack Data Processing (“Savanna”) до полной совместимости с
-  Havana.
+Ну т.е. это вообще очень тупо получается, особенно если тратишь свои деньги, а
+не своего работодателя - есть молодые но по фичам очень амбициозные проекты, а
+есть старый дорогостоящий мусор, скорость добавления фич (не свистелок) в
+который известно какая. Люди просыпались по ночам в холодном поту, с тревогой
+спрашивая себя, а правильно ли они поступили, что пошли на поводу у маркетинга,
+и выбрали не открытое решение? `Сравнение VMware c OpenStack
+<https://www.mirantis.com/company/news/vmware_vs_openstack/>`__ стало
+популярным вопросом на оффлайновых ивентах. А уж потом, как начались страшные
+новости про `перевод PayPal десятков тысяч машин с проприетарных систем на
+OpenStack </content/Короткие-новости-3>`__, то проприетарщиков уже всерьез
+зашатало. Зашатало, надо сказать, буквально - в один и тот же день, один
+высокопоставленный бюрократ VMware уничижительно отзывался об OpenStack
+(`VMware CEO: OpenStack is not for the enterprise
+<http://www.networkworld.com/news/2013/081413-vmware-ceo-openstack-is-not-272867.html>`__),
+в то время, как его более шустро соображающий коллега по кабинету сдержанно
+хвалил OpenStack (`VMware: OpenStack an opportunity for us
+<http://www.zdnet.com/vmware-openstack-an-opportunity-for-us-7000019405/>`__).
 
-| Почти сразу, с появлением открытых Cloud-технологий, [STRIKEOUT:`кое у
-  кого припекло <http://www.vmware.com/getthefacts>`__] в прессе начали
-  всерьез сравнивать проприетарные аналоги от ряда вендоров, и открытые.
+В конце концов, оказалось, что `PayPal не будет сносить решения от VMware и
+засыпать датацентры, в которых они были установлены, солью
+<http://www.informationweek.com/cloud-computing/infrastructure/paypal-openstack-wont-replace-vmware-in/240161637>`__,
+а будет дополнять устаревающие, дорогостоящие, труднонастраиваемые и
+трудноподдерживаемые проприетарные решения прекрасным открытым OpenStack, но
+урон уже был нанесен (`минус 2 гигабакса
+<http://www.forbes.com/sites/reuvencohen/2013/03/26/vmware-loses-more-than-2-billion-in-market-cap-on-paypal-ebay-rumors/>`__).
 
-  Ну т.е. это вообще очень тупо получается, особенно если тратишь свои
-  деньги, а не своего работодателя - есть молодые но по фичам очень
-  амбициозные проекты, а есть старый дорогостоящий мусор, скорость
-  добавления фич (не свистелок) в который известно какая. Люди
-  просыпались по ночам в холодном поту, с тревогой спрашивая себя, а
-  правильно ли они поступили, что пошли на поводу у маркетинга, и
-  выбрали не открытое решение? `Сравнение VMware c
-  OpenStack <https://www.mirantis.com/company/news/vmware_vs_openstack/>`__
-  стало популярным вопросом на оффлайновых ивентах. А уж потом, как
-  начались страшные новости про `перевод PayPal десятков тысяч машин с
-  проприетарных систем на OpenStack </content/Короткие-новости-3>`__, то
-  проприетарщиков уже всерьез зашатало. Зашатало, надо сказать,
-  буквально - в один и тот же день, один высокопоставленный бюрократ
-  VMware уничижительно отзывался об OpenStack (`VMware CEO: OpenStack is
-  not for the
-  enterprise <http://www.networkworld.com/news/2013/081413-vmware-ceo-openstack-is-not-272867.html>`__),
-  в то время, как его более шустро соображающий коллега по кабинету
-  сдержанно хвалил OpenStack (`VMware: OpenStack an opportunity for
-  us <http://www.zdnet.com/vmware-openstack-an-opportunity-for-us-7000019405/>`__).
+Судорожные и растерянные метания VMware были видны `не только нам
+<http://www.eweek.com/blogs/first-read/vmwares-love-hate-relationship-with-openstack.html>`__,
+так что можно только представлять, как себя чувствовали крупные кастомеры видя
+такое. Главное, непонятно, почему такая проблема вообще имеет место? Ведь всего
+то надо, выкинуть свое проприетарное и несовершенное решение, и перейти на
+перспективное и открытое, т.е.  OpenStack. Мы, конечно, прекрасно понимаем, что
+`личные интересы самых разных людей в пищевой пирамиде VMware идут вразрез с
+интересами компании <https://lurkmore.to/Откат>`__, но надо же принимать и
+непопулярные, но правильные решения. К счастью, похоже в компании встали на
+путь исправления - `VMware всерьез взялось за разработку OpenStack
+<http://www.eweek.com/cloud/vmware-doubles-down-on-openstack-havana-cloud.html>`__.
 
-  В конце концов, оказалось, что `PayPal не будет сносить решения от
-  VMware и засыпать датацентры, в которых они были установлены,
-  солью <http://www.informationweek.com/cloud-computing/infrastructure/paypal-openstack-wont-replace-vmware-in/240161637>`__,
-  а будет дополнять устаревающие, дорогостоящие, труднонастраиваемые и
-  трудноподдерживаемые проприетарные решения прекрасным открытым
-  OpenStack, но урон уже был нанесен (`минус 2
-  гигабакса <http://www.forbes.com/sites/reuvencohen/2013/03/26/vmware-loses-more-than-2-billion-in-market-cap-on-paypal-ebay-rumors/>`__).
+Взялось, оно уже довольно давно, но, `судя по метрике
+<http://stackalytics.com/?release=all&company=vmware>`__, в одно время с
+новостью о переходе PayPal на OpenStack, в VMware что-то прорвало, и с тех пор
+их участие только растет. И их сотрудничество с коммьюнити уже приносит первые
+плоды - `Russel Bryant анонсировал
+<https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6444>`__, что
+благодаря все большей открытости процесса разработки компании бэкенд для VMware
+перешел из группы C ("наверное иногда работает") в группу B ("почти всегда
+работает"), присоединившись к Xen. В группе A ("точно работает") пока лишь
+единственный участник - libvirt и Qemu/kvm. Поздравляем инженеров VMware! Если
+кто намеревается посетить `VMware Tour / Виртуальная Россия
+<http://www.vtrussia.ru/programme/>`__ 30 октября, то передайте им, наши
+поздравления. Вкладывая ресурсы компании в разработку и продвижение OpenStack
+они не прогадают, пусть не сомневаются.
 
-| Судорожные и растерянные метания VMware были видны `не только
-  нам <http://www.eweek.com/blogs/first-read/vmwares-love-hate-relationship-with-openstack.html>`__,
-  так что можно только представлять, как себя чувствовали крупные
-  кастомеры видя такое. Главное, непонятно, почему такая проблема вообще
-  имеет место? Ведь всего то надо, выкинуть свое проприетарное и
-  несовершенное решение, и перейти на перспективное и открытое, т.е.
-  OpenStack. Мы, конечно, прекрасно понимаем, что `личные интересы самых
-  разных людей в пищевой пирамиде VMware идут вразрез с интересами
-  компании <https://lurkmore.to/Откат>`__, но надо же принимать и
-  непопулярные, но правильные решения. К счастью, похоже в компании
-  встали на путь исправления - `VMware всерьез взялось за разработку
-  OpenStack <http://www.eweek.com/cloud/vmware-doubles-down-on-openstack-havana-cloud.html>`__.
+Вообще, численность компаний в коммьюнити OpenStack растет и растет.  Вот,
+совсем недавно `присоединилась F5 Networks
+<http://www.f5.com/about/news/press/2013/20131015a/>`__. Если удастся
+продраться сквозь маркетинговую шелуху пресс-релиза, можно сообразить, что
+компания собирается сесть на очень горячую тематику, только начинающую набирать
+обороты - `SDN
+<https://ru.wikipedia.org/wiki/Программно-конфигурируемая_сеть>`__ в открытых
+облачных решениях (и в частности OpenStack).
 
-  Взялось, оно уже довольно давно, но, `судя по
-  метрике <http://stackalytics.com/?release=all&company=vmware>`__, в
-  одно время с новостью о переходе PayPal на OpenStack, в VMware что-то
-  прорвало, и с тех пор их участие только растет. И их сотрудничество с
-  коммьюнити уже приносит первые плоды - `Russel Bryant
-  анонсировал <https://thread.gmane.org/gmane.comp.cloud.openstack.devel/6444>`__,
-  что благодаря все большей открытости процесса разработки компании
-  бэкенд для VMware перешел из группы C ("наверное иногда работает") в
-  группу B ("почти всегда работает"), присоединившись к Xen. В группе A
-  ("точно работает") пока лишь единственный участник - libvirt и
-  Qemu/kvm. Поздравляем инженеров VMware! Если кто намеревается посетить
-  `VMware Tour / Виртуальная
-  Россия <http://www.vtrussia.ru/programme/>`__ 30 октября, то передайте
-  им, наши поздравления. Вкладывая ресурсы компании в разработку и
-  продвижение OpenStack они не прогадают, пусть не сомневаются.
+Ситуация с SDN действительно только начинает развиваться, и самоназванные
+специалисты по SDN в РФ на оффлайновых ивентах не могут ответить на вопросы из
+зала, где это применить инженеру (мы не будем указывать персоналии, чтоб не
+издеваться над горящими энтузиазмом новичками, изо всех сил стремящихся
+поделиться своим настроем с другими). Однако мы думаем, что пора бы с
+технологией начинать знакомиться не только по учебникам и теоретическим
+материалам, но и с практической стороны, и у наших друзей из Mirantis уже есть
+идеи на следующий Cloud-ивент, только дайте им время! Что касается SDN в
+Fedora, то сейчас ситуация довольно полосатая. С одной стороны, `Ryu вот уже
+какой релиз никак не может попасть в Fedora
+<https://fedoraproject.org/wiki/Changes/Ryu>`__, зато `Open vSwitch уже в
+Fedora <http://rbergero.fedorapeople.org/slides/SDN.html>`__, что позволяет уже
+начать эксперименты с SDN на базе OpenStack Quantum, `доступного начиная с
+Fedorа 17 <https://fedoraproject.org/wiki/Features/OpenStack_Quantum>`__.
 
-| Вообще, численность компаний в коммьюнити OpenStack растет и растет.
-
-  Вот, совсем недавно `присоединилась F5
-  Networks <http://www.f5.com/about/news/press/2013/20131015a/>`__. Если
-  удастся продраться сквозь маркетинговую шелуху пресс-релиза, можно
-  сообразить, что компания собирается сесть на очень горячую тематику,
-  только начинающую набирать обороты -
-  `SDN <https://ru.wikipedia.org/wiki/Программно-конфигурируемая_сеть>`__
-  в открытых облачных решениях (и в частности OpenStack). Ситуация с SDN
-  действительно только начинает развиваться, и самоназванные специалисты
-  по SDN в РФ на оффлайновых ивентах не могут ответить на вопросы из
-  зала, где это применить инженеру (мы не будем указывать персоналии,
-  чтоб не издеваться над горящими энтузиазмом новичками, изо всех сил
-  стремящихся поделиться своим настроем с другими). Однако мы думаем,
-  что пора бы с технологией начинать знакомиться не только по учебникам
-  и теоретическим материалам, но и с практической стороны, и у наших
-  друзей из Mirantis уже есть идеи на следующий Cloud-ивент, только
-  дайте им время! Что касается SDN в Fedora, то сейчас ситуация довольно
-  полосатая. С одной стороны, `Ryu вот уже какой релиз никак не может
-  попасть в Fedora <https://fedoraproject.org/wiki/Changes/Ryu>`__, зато
-  `Open vSwitch уже в
-  Fedora <http://rbergero.fedorapeople.org/slides/SDN.html>`__, что
-  позволяет уже начать эксперименты с SDN на базе OpenStack Quantum,
-  `доступного начиная с Fedorа
-  17 <https://fedoraproject.org/wiki/Features/OpenStack_Quantum>`__.
-
-| Возвращаясь к OpenStack Havana, одной из важных фич этого релиза
-  является поддержка контейнеров LXC с помощью Docker, о чем `мы вам уже
-  рассказывали </content/Короткие-новости-12>`__. Удивительно, но
-  кое-кто называет виртуализацию с помощью Docker -
-  `bare-metal <https://ru.wikipedia.org/wiki/Bare_metal>`__! Например
-  Randy Bias, CEO компании Cloudscaling `произнес перед наивными
-  журналистами <https://www.theregister.co.uk/2013/10/18/openstack_havana/>`__
-  следующее:
+Возвращаясь к OpenStack Havana, одной из важных фич этого релиза является
+поддержка контейнеров LXC с помощью Docker, о чем `мы вам уже рассказывали
+</content/Короткие-новости-12>`__. Удивительно, но кое-кто называет
+виртуализацию с помощью Docker - `bare-metal
+<https://ru.wikipedia.org/wiki/Bare_metal>`__! Например Randy Bias, CEO
+компании Cloudscaling `произнес перед наивными журналистами
+<https://www.theregister.co.uk/2013/10/18/openstack_havana/>`__ следующее:
 
     *"We see Docker as a very clean way to provide a **bare-metal**
     capability and allow some of those platform-as-a-service tools to do
     some deeper integration with OpenStack."*
 
-| 
-| Это, конечно, не bare metal, т.к. требует операционной системы Linux,
-  ну да не будем придираться. С контейнерами действительно очень тонко
-  получается, спасибо разработчикам Parallels!
-| Docker, кстати, тоже сильно выиграл от сотрудничества с Red Hat, о
-  `котором мы уже говорили </content/red-hat-и-docker>`__. Изначально он
-  разрабатывался на базе технологий, доступных в Ubuntu, т.е. AuFS. Но
-  уже понятно, что AuFS не только не будет включена в ядро, но и будет
-  вскоре удалена из Ubuntu, и почему авторы изначально заложились на
-  нее, а не на LVM2 или device-mapper - непонятно ([STRIKEOUT:хипстерам
-  с golang наперевес стоит почаще отрываться от макбуков и фэйсбуков и
-  читать новости Fedora, чтоб быть в курсе тенденций]).
-  Разработчик-озорник `Alexander
-  Larsson <https://www.openhub.net/accounts/alexl>`__, в свое время
-  `напугавший любителей юникс-вэя предложением переписать Unix
-  pipes </content/Предложены-радикальные-изменения-в-работу-unix-pipes>`__,
-  `рассказывает <https://blogs.gnome.org/alexl/2013/10/15/adventures-in-docker-land/>`__
-  о том, как Red Hat протянула руку помощи зашедшему в технологический
-  тупик проекту, переведя его на thin provisioning на основе device
-  mapper (`фича Fedora
-  17 <https://fedoraproject.org/wiki/Features/ThinProvisioning>`__), и
-  почему было выбрано именно это решение, а не, например, btrfs.
+Это, конечно, не bare metal, т.к. требует операционной системы Linux, ну да не
+будем придираться. С контейнерами действительно очень тонко получается, спасибо
+разработчикам Parallels!
 
-| И напоследок - у OpenStack теперь доступна `полноценная
-  статистика <http://stackalytics.com/>`__! Можно ознакомиться с вкладом
-  компаний и частных лиц, не дожидаясь регулярных отчетов от Bitergia.
+Docker, кстати, тоже сильно выиграл от сотрудничества с Red Hat, о `котором мы
+уже говорили </content/red-hat-и-docker>`__. Изначально он разрабатывался на
+базе технологий, доступных в Ubuntu, т.е. AuFS. Но уже понятно, что AuFS не
+только не будет включена в ядро, но и будет вскоре удалена из Ubuntu, и почему
+авторы изначально заложились на нее, а не на LVM2 или device-mapper - непонятно
+(:strike:`хипстерам с golang наперевес стоит почаще отрываться от макбуков и
+фэйсбуков и читать новости Fedora, чтоб быть в курсе тенденций`).
+ 
+Разработчик-озорник `Alexander Larsson
+<https://www.openhub.net/accounts/alexl>`__, в свое время `напугавший любителей
+юникс-вэя предложением переписать Unix pipes
+</content/Предложены-радикальные-изменения-в-работу-unix-pipes>`__,
+`рассказывает
+<https://blogs.gnome.org/alexl/2013/10/15/adventures-in-docker-land/>`__ о том,
+как Red Hat протянула руку помощи зашедшему в технологический тупик проекту,
+переведя его на thin provisioning на основе device mapper (`фича Fedora 17
+<https://fedoraproject.org/wiki/Features/ThinProvisioning>`__), и почему было
+выбрано именно это решение, а не, например, btrfs.
 
-  Кстати, Bitergia представили свежий отчет, `по
-  Havana <http://blog.bitergia.com/2013/10/17/the-openstack-havana-release/>`__
-  - поздравляем соотечественников из Mirantis, с местом в пятерке
-  лидеров разработчиков, сразу после Red Hat, Rackspace, HP и IBM.
+И напоследок - у OpenStack теперь доступна `полноценная статистика
+<http://stackalytics.com/>`__! Можно ознакомиться с вкладом компаний и частных
+лиц, не дожидаясь регулярных отчетов от Bitergia.
 
-  Гордимся соотечественниками!
+Кстати, Bitergia представили свежий отчет, `по Havana
+<http://blog.bitergia.com/2013/10/17/the-openstack-havana-release/>`__ -
+поздравляем соотечественников из Mirantis, с местом в пятерке лидеров
+разработчиков, сразу после Red Hat, Rackspace, HP и IBM. Гордимся
+соотечественниками!
