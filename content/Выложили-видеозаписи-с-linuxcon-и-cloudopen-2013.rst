@@ -1,29 +1,25 @@
 .. title: Выложили видеозаписи с LinuxCon и CloudOpen 2013
 .. slug: Выложили-видеозаписи-с-linuxcon-и-cloudopen-2013
 .. date: 2013-10-15 10:59:04
-.. tags:
-.. category:
+.. tags: criu, parallels, openstack, redhat, coreos, qemu, xen, ibm, rackspace, 
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
+В YouTube-аккаунте `The Linux Foundation
+<https://www.youtube.com/user/TheLinuxFoundation/about>`__ выложили видеоролики
+с LinuxCon и CloudOpen 2013. К сожалению, ни в плэйлист, ни по категориям там
+ничего не рассортировали, поэтому надо делать так - `презентации брать здесь
+<http://events.linuxfoundation.org/events/archive/2013/linuxcon-north-america>`__,
+`программу брать тут <http://linuxconcloudopenna2013.sched.org/>`__, а `видео
+смотреть на YouTube
+<https://www.youtube.com/user/TheLinuxFoundation/videos>`__.
 
-
-| В YouTube-аккаунте `The Linux
-  Foundation <https://www.youtube.com/user/TheLinuxFoundation/about>`__
-  выложили видеоролики с LinuxCon и CloudOpen 2013. К сожалению, ни в
-  плэйлист, ни по категориям там ничего не рассортировали, поэтому надо
-  делать так - `презентации брать
-  здесь <http://events.linuxfoundation.org/events/archive/2013/linuxcon-north-america>`__,
-  `программу брать тут <http://linuxconcloudopenna2013.sched.org/>`__, а
-  `видео смотреть на
-  YouTube <https://www.youtube.com/user/TheLinuxFoundation/videos>`__.
-
-| Хороших презентации там очень много, и перечислять толком не
-  получится. Укажем лишь несколько, от участников Fedora, наших друзей и
-  дружественных нам компаний:
+Хороших презентации там очень много, и перечислять толком не получится. Укажем
+лишь несколько, от участников Fedora, наших друзей и дружественных нам
+компаний:
 
 -  `CRIU: Time and Space Travel Service for Linux Applications - Pavel
    Emelyanov, Parallels <https://www.youtube.com/watch?v=R2Net9eItBc>`__
@@ -56,7 +52,4 @@
 -  `Converged Infrastrucure with Open Source - Theron Conrey, Red
    Hat <https://www.youtube.com/watch?v=OF9RrYWEypg>`__
 
-| 
-| И там еще много чего. В общем смотрите сами, ставьте лайки и делайте
-  репосты.
-
+И там еще много чего. В общем смотрите сами, ставьте лайки и делайте репосты.

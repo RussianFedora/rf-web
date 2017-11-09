@@ -1,15 +1,12 @@
 .. title: Конференция «Дорога в облака», посвященная OpenStack & Big Data
 .. slug: Конференция-«Дорога-в-облака»-посвященная-openstack-big-data
 .. date: 2014-04-10 13:24:59
-.. tags:
-.. category:
+.. tags: yandex, openstack, redhat, mirantis, epam
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 29 апреля в московском офисе Яндекса пройдет очередная конференция
 `«Дорога в
