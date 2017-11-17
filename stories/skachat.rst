@@ -36,6 +36,36 @@ Fedora
 RFRemix
 =======
 
+RFRemix 27
+----------
+
+Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, LXQT, XFCE, MATE и Cinnamon. DVD и netinstall образ RFRemix Server и netinstall образ RFRemix Workstation, образы Cloud и Docker.
+
+* RFRemix Server [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Server/x86_64/iso/>`__
+  ]
+
+* RFRemix Workstation [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Workstation/x86_64/iso/>`__
+  ]
+
+* Прочие образы Live [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Spins/x86_64/>`__
+  ]
+
+* Образы для Cloud [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/CloudImages/x86_64/images/>`__
+  ]
+
+* Docker [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Docker/x86_64/images/>`__
+  ]
+
+* Торренты [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Torrents/x86_64/>`__
+  ]
+
+
 RFRemix 26
 ----------
 
