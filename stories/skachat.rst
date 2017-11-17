@@ -10,9 +10,11 @@
 Общая информация
 ================
 
-* `Инструкция по созданию и использованию LiveUSB <http://fedoraproject.org/wiki/How_to_create_and_use_Live_USB/ru>`__
+* `Инструкция по созданию и использованию LiveUSB <https://fedoraproject.org/wiki/How_to_create_and_use_Live_USB/ru>`__
 
-* `Полное руководство по установке Fedora (на английском языке) <https://docs.fedoraproject.org/en-US/Fedora/24/html/Installation_Guide/index.html>`__
+* `Обновлённая инструкция по созданию загрузочной USB флешки <https://www.easycoding.org/2017/07/12/sozdayom-fedora-liveusb.html>`__
+
+* `Полное руководство по установке Fedora (на английском языке) <https://docs.fedoraproject.org/en-US/Fedora/26/html/Installation_Guide/index.html>`__
 
 
 Для Windows:
@@ -36,70 +38,67 @@ Fedora
 RFRemix
 =======
 
+RFRemix 27
+----------
+
+Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, LXQT, XFCE, MATE и Cinnamon, netinstall образ RFRemix Workstation, образы Cloud и Docker.
+
+* RFRemix Workstation [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Workstation/x86_64/iso/>`__
+  ]
+
+* Прочие образы Live [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Spins/x86_64/>`__
+  ]
+
+* Образы для Cloud [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/CloudImages/x86_64/images/>`__
+  ]
+
+* Docker [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Docker/x86_64/images/>`__
+  ]
+
+* Торренты [ `x86_64
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/27/Torrents/x86_64/>`__
+  ]
+
+
 RFRemix 26
 ----------
 
 Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, LXQT, XFCE, MATE и Cinnamon. DVD и netinstall образ RFRemix Server и netinstall образ RFRemix Workstation, образы Cloud и Docker.
 
 * RFRemix Server [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Server/i386/iso/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Server/i386/iso/>`__
   ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Server/x86_64/iso/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Server/x86_64/iso/>`__
   ]
 
 * RFRemix Workstation [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Workstation/i386/iso/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Workstation/i386/iso/>`__
   ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Workstation/x86_64/iso/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Workstation/x86_64/iso/>`__
   ]
 
 * Прочие образы Live [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Spins/i686/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Spins/i686/>`__
   ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Spins/x86_64/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Spins/x86_64/>`__
   ]
 
 * Образы для Cloud [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/CloudImages/i386/images/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/CloudImages/i386/images/>`__
   ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/CloudImages/x86_64/images/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/CloudImages/x86_64/images/>`__
   ]
 
 * Docker [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Docker/x86_64/images/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Docker/x86_64/images/>`__
   ]
 
 * Торренты [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Torrents/i386/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Torrents/i386/>`__
   ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Torrents/x86_64/>`__
-  ]
-
-RFRemix 25
-----------
-
-Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, XFCE, MATE и Cinnamon. DVD и netinstall образ RFRemix Server и netinstall образ RFRemix Workstation.
-
-* RFRemix Server [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Server/i386/iso/>`__
-  ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Server/x86_64/iso/>`__
-  ]
-
-* RFRemix Workstation [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Workstation/i386/iso/>`__
-  ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Workstation/x86_64/iso/>`__
-  ]
-
-* Прочие образы Live [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Spins/i386/>`__
-  ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Spins/x86_64/>`__
-  ]
-
-* Торренты [ `i686
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Torrents/i386/>`__
-  ] [ `x86_64
-  <http://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/25/Torrents/x86_64/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/26/Torrents/x86_64/>`__
   ]
