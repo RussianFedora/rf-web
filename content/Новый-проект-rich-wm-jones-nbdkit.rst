@@ -1,15 +1,12 @@
 .. title: Новый проект Rich W.M. Jones - nbdkit
 .. slug: Новый-проект-rich-wm-jones-nbdkit
 .. date: 2013-06-24 14:57:38
-.. tags:
+.. tags: nbdkit, nbd
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Rich W.M. Jones <http://people.redhat.com/~rjones/>`__ анонсировал
 `очередную свою

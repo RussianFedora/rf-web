@@ -1,7 +1,7 @@
 .. title: 5 лет libguestfs
 .. slug: 5-лет-libguestfs
 .. date: 2014-03-05 14:44:58
-.. tags: libguestfs, nbd
+.. tags: libguestfs, nbdkit
 .. category:
 .. link:
 .. description:
@@ -25,4 +25,3 @@ libguestfs <https://rwmj.wordpress.com/2014/03/03/libguestfs-is-5-years-old-toda
 физическими секторами. Про функциональность nbdkit, позволяющую его запускать
 как связанное приложение, вы `уже могли слышать
 </content/Новости-виртуализации-0>`__.
-
