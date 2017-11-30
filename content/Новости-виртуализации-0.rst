@@ -1,15 +1,12 @@
 .. title: Новости виртуализации
 .. slug: Новости-виртуализации-0
 .. date: 2014-02-17 15:03:52
-.. tags:
-.. category:
+.. tags: yandex, nbdkit, glustefs, ceph, 
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Отгремел второй `Moscow Virtualization
 Meetup <http://tech.yandex.ru/events/yagosti/msk-feb-2014/>`__ (первый
@@ -52,4 +49,3 @@ Robinson <https://fedoraproject.org/wiki/User:Crobinso>`__ объявил о
 раз <http://redhatstorage.redhat.com/2013/11/07/red-hat-storage-outperforms-ceph-by-more-than-3x-for-openstack-cloud-environments/>`__,
 хотя, конечно, `у Ceph есть свои
 use-case <https://www.mirantis.com/blog/ceph-mirantis-openstack/>`__.
-

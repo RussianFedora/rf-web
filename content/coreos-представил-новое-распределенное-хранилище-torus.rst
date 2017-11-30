@@ -1,7 +1,7 @@
 .. title: CoreOS представил новое распределенное хранилище - Torus
 .. slug: coreos-представил-новое-распределенное-хранилище-torus
 .. date: 2016-06-13 23:59:45
-.. tags: coreos, torus, dds, etcd, nbd, golang, kubernetes, ceph, gluster, posix
+.. tags: coreos, torus, dds, etcd, nbd, nbdkit, golang, kubernetes, ceph, gluster, posix
 .. category:
 .. link:
 .. description:
