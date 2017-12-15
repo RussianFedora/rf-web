@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 За последнее время было не так много новостей о systemd, и даже `выходы
 новой версии <https://www.opennet.ru/opennews/art.shtml?num=43862>`__
 больше не ошеломляют. Дело в том, что самые большие новости о systemd в
