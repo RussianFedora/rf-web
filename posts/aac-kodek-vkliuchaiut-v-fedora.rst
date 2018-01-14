@@ -1,7 +1,7 @@
 .. title: AAC кодек включают в Fedora
 .. slug: aac-kodek-vkliuchaiut-v-fedora
 .. date: 2017-10-12 21:04:32 UTC+03:00
-.. tags: aac, патенты, legal, gstreamer 
+.. tags: aac, codec, патенты, legal, gstreamer 
 .. category: 
 .. link: 
 .. description: 
