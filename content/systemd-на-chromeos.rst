@@ -1,15 +1,12 @@
 .. title: systemd на ChromeOS
 .. slug: systemd-на-chromeos
 .. date: 2016-07-22 16:54:53
-.. tags:
+.. tags: google, android, chromeos, selinux, pulseaudio, wayland, upstart, systemd, coreos, intel
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Потихоньку идет процесс перевода операционок от Google на современные
 компоненты. Несмотря на то, что Chrome OS и Android не будут сливаться в
