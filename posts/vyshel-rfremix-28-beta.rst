@@ -1,5 +1,5 @@
 .. title: Вышел RFRemix 28 Beta
-.. slug: vyshel-rfremix-27
+.. slug: vyshel-rfremix-28-beta
 .. date: 2018-04-03 21:55:10 UTC+03:00
 .. tags: rfremix
 .. category: RFRemix
