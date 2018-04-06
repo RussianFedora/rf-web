@@ -12,6 +12,7 @@
 
 .. image:: https://rpm-software-management.github.io/img/performance_libdnf_0.9.1_to_0.13.0.svg
    :align: center
+   :width: 90.0%
 
 Библиотека libdnf будет переведена на другой язык, c ANSI C на C++. До этого
 Yum переводили с Python на ANSI C, когда выносили часть функционала в сторонние

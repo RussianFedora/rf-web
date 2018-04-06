@@ -1,24 +1,21 @@
 .. title: Очередной meetup от DevOps Moscow - про Ansible
 .. slug: Очередной-meetup-от-devops-moscow-про-ansible
 .. date: 2015-04-09 13:44:28
-.. tags:
-.. category:
+.. tags: badoo, ansible
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
+`16 апреля в столице состоится очередной митап сообщества DevOps Moscow
+<https://www.meetup.com/DevOps-Moscow-in-Russian/events/221350616/>`__.
 
-
-| `16 апреля в столице состоится очередной митап сообщества DevOps
-  Moscow <https://www.meetup.com/DevOps-Moscow-in-Russian/events/221350616/>`__.
-
-  В этот раз он будет посвящен Ansible. Состоится он в офисе Badoo на
-  Цветном бульваре.
-
+В этот раз он будет посвящен Ansible. Состоится он в офисе Badoo на Цветном
+бульваре.
 
     **Митап про Ansible**
+
     Thursday, April 16, 2015, 6:00 PM
     `офис Badoo, БЦ "Легенды Цветного", сразу напротив метро Трубная.
 
@@ -39,5 +36,4 @@
     Вход будет строго по регистрации, каждому выдадут бейджик, так что
     регистрация обязательна!
 
-| 
-| Мы придем!
+Мы придем!
