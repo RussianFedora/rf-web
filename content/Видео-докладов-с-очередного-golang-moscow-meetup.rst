@@ -1,54 +1,19 @@
 .. title: Видео докладов с очередного Golang Moscow Meetup
 .. slug: Видео-докладов-с-очередного-golang-moscow-meetup
 .. date: 2015-06-10 13:43:52
-.. tags:
-.. category:
+.. tags: golang
+.. category: мероприятия
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Выложили видеозаписи и слайды с `недавно прошедшей встречи московского
 Golang-сообщества </content/Очередная-встреча-московского-golang-сообщества-23-апреля-2015го>`__:
 
-.. raw:: html
-
-   <div style="margin-bottom:5px">
-
-**`Доклад Антона Поварова "Go in Badoo" с Golang
-Meetup <//www.slideshare.net/BadooDev/ss-47345590>`__** from **`Badoo
-Development <//www.slideshare.net/BadooDev>`__**
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div style="margin-bottom:5px">
-
-**`Go meetup smotri+
-23.04.2015 <//www.slideshare.net/MikhailSalosin1/go-meetup-smotri-23042015>`__**
-from **`Mikhail Salosin <//www.slideshare.net/MikhailSalosin1>`__**
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div style="margin-bottom:5px">
-
-**`Go meetup 2015
-04-23 <//www.slideshare.net/MaximDementyev/go-meetup-2015-0423>`__**
-from **`Maxim Dementyev <//www.slideshare.net/MaximDementyev>`__**
-
-.. raw:: html
-
-   </div>
+* `Доклад Антона Поварова "Go in Badoo" с Golang Meetup <//www.slideshare.net/BadooDev/ss-47345590>`_ from `Badoo Development <//www.slideshare.net/BadooDev>`_
+* `Go meetup smotri+ 23.04.2015 <//www.slideshare.net/MikhailSalosin1/go-meetup-smotri-23042015>`_ from  `Mikhail Salosin <//www.slideshare.net/MikhailSalosin1>`_
+* `Go meetup 2015 04-23 <//www.slideshare.net/MaximDementyev/go-meetup-2015-0423>`_ from `Maxim Dementyev <//www.slideshare.net/MaximDementyev>`_
 
 Раз уж заговорили, то стоит сказать, что народ протрезвел немного, и
 воспринимает Golang не так уж и радостно, как сначала. Например,
