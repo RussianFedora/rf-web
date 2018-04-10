@@ -22,12 +22,12 @@ gstreamer для проигрывания кодеков, находящихся
 на новый gstreamer1.
 
 Бэкграунд этой печальной истории можно попытаться проследить по
-**`#422540 - "GStreamer backend for HTML5 video
-element" <https://bugzilla.mozilla.org/422540>`__** (5-летнему багу в
-багзилле MoFo в 300+ комментариев), и в тикете **`#794282 - "Enable
+`5-летнему багу в
+багзилле MoFo в 300+ комментариев - "GStreamer backend for HTML5 video
+element" <https://bugzilla.mozilla.org/422540>`_, и в тикете `#794282 - "Enable
 GStreamer in official
-builds" <https://bugzilla.mozilla.org/794282>`__**. Сейчас в Fedora
+builds" <https://bugzilla.mozilla.org/794282>`_. Сейчас в Fedora
 ситуация такова - мы ждем окончания портирования на gstreamer1
-(**`#806917 - "support GStreamer
-1.0" <https://bugzilla.mozilla.org/806917>`__**), т.к. gstreamer-0.10
+(`#806917 - "support GStreamer
+1.0" <https://bugzilla.mozilla.org/806917>`_), т.к. gstreamer-0.10
 признан устаревшим.

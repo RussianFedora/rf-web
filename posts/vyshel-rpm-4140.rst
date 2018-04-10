@@ -1,7 +1,7 @@
 .. title: Вышел RPM 4.14.0
 .. slug: vyshel-rpm-4140
 .. date: 2017-10-13 15:06:02 UTC+03:00
-.. tags: rpm, lmdb
+.. tags: rpm, lmdb, riscv
 .. category: 
 .. link: 
 .. description: 
