@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 `VMware уже просто кричит о
 контейнерах <http://www.zdnet.com/article/vmware-goes-container-crazy-with-vsphere-integrated-containers/>`__
 в своем продукте. Популярность OpenStack пошла им на пользу, как мы
@@ -53,6 +50,8 @@ ZeroMQ <https://www.facebook.com/oleg.i.tsarev/posts/10206505560627604>`__.
    :align: center
    :width: 400px
    :height: 300px
+
+.. class:: align-center
 
 **Коллеги узнали, что ты решил использовать ZeroMQ**
 

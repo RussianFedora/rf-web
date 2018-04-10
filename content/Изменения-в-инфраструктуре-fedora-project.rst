@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 Прямо сейчас происходят серьезные изменения в инфраструктуре Fedora
 Project. Во-1 `Kevin
 Frenzi <https://plus.google.com/116710523470818417285/about>`__ объявил,

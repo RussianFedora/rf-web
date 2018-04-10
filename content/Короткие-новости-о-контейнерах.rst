@@ -23,7 +23,7 @@ GNOME предлагает запускать в контейнерах граф
 <https://www.opennet.ru/opennews/art.shtml?num=41514>`__.
 
 
-.. image:: https://hsto.org/getpro/habr/comment_images/ae7/a02/a05/ae7a02a059319a7a85cddf73b67a593c.jpg
+.. image:: /images/no_need_to_change_anything.jpg
    :align: center
 
 .. class:: align-center
