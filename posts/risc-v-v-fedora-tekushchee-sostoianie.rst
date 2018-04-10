@@ -20,7 +20,7 @@ RISC-V
 
 Самое время, потому что и `Debian тоже добавил поддержку этой архитектуры
 <https://groups.google.com/a/groups.riscv.org/forum/#!topic/sw-dev/u4VcUtB9r94>`_.
-Собственно, все рванулись как раз после FOSDEM, `когда нам сказали <>https://fosdem.org/2018/schedule/event/riscv/`_, что все,
+Собственно, все рванулись как раз после FOSDEM, `когда нам сказали <https://fosdem.org/2018/schedule/event/riscv/>`_, что все,
 надо работать над дистрибутивами Linux. Теперь это можно, потому что вся важная
 часть уже в upstream (Linux, Binutils, GCC, Glibc).
 
