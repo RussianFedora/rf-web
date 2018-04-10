@@ -1,15 +1,12 @@
 .. title: Новости secondary arch в Fedora
 .. slug: Новости-secondary-arch-в-fedora
 .. date: 2016-08-24 17:59:27
-.. tags:
+.. tags: fedora-infra, riscv, arm, powerpc, s390
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Довольно горячее обсуждение вызвала `публикация о переосмыслении
 разделения процессорных архитектур, для которых собираются пакеты в Koji
@@ -54,4 +51,3 @@ RPM <https://github.com/rpm-software-management/rpm/pull/81>`__. Так что
 опасения народа довольно понятны.
 
 Мы будем следить за развитием событий.
-

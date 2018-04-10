@@ -1,7 +1,7 @@
 .. title: Новости RISC-V
 .. slug: novosti-risc-v
 .. date: 2017-01-19 18:26:43 UTC+03:00
-.. tags: riscv, fedora, gcc
+.. tags: riscv, fedora, gcc, legal
 .. category: 
 .. link: 
 .. description: 
