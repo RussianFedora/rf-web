@@ -48,6 +48,9 @@
 Обновление
 ==========
 
-Для обновления с предыдущих версий RFRemix нужно отдать команду:::
+Для обновления с предыдущих версий RFRemix нужно открыть терминал и выполнить:::
 
-        dnf --releasever=28 distro-sync --nogpgcheck
+        sudo dnf upgrade --refresh 
+        sudo dnf install dnf-plugin-system-upgrade
+        sudo dnf system-upgrade download --releasever=28
+        sudo dnf system-upgrade reboot
