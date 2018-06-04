@@ -1,15 +1,12 @@
 .. title: Отключение Google Code ударит больнее, чем прогнозировалось
 .. slug: Отключение-google-code-ударит-больнее-чем-прогнозировалось
 .. date: 2015-03-13 15:54:07
-.. tags:
+.. tags: google code, gitlab, gitorious
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наш коллега, `Patrick Uiterwijk <https://github.com/puiterwijk>`__,
 решил прикинуть, сколько вообще пакетов затронуты `закрытием Google

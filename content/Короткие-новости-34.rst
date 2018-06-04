@@ -8,9 +8,6 @@
 .. type: text
 .. author: Peter Lemenkov
 
-**Это архивная статья**
-
-
 `Jim Meyering <https://www.openhub.net/accounts/meyering>`__ выпустил
 `grep версии
 2.21 <https://savannah.gnu.org/forum/forum.php?forum_id=8152>`__.
@@ -125,4 +122,3 @@ Google полностью отказываются от
 OpenID <https://support.google.com/accounts/answer/6135882?hl=ru>`__.
 
 Еще один открытый стандарт медленно бредет на свалку истории.
-
