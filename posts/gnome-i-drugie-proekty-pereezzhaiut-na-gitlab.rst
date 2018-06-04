@@ -22,7 +22,7 @@
 <https://lists.freedesktop.org/archives/mesa-dev/2018-May/195634.html>`_.
 
 Проект GIMP `тоже наконец-то решился перейти на GitLab
-<https://www.gimp.org/news/2018/05/31/gimp-has-moved-to-gitlab/>_`. Будем
+<https://www.gimp.org/news/2018/05/31/gimp-has-moved-to-gitlab/>`_. Будем
 надеяться, что переход на современную платформу улучшит ситуацию с
 прозрачностью всего процесса разработки.
 
@@ -34,7 +34,7 @@ GitLab <https://salsa.debian.org/public>`_.
 самостоятельно. В Fedora GitLab включить так и не получилось, `хотя пытались
 <https://fedoraproject.org/wiki/GitLab>`_. Наши коллеги, окончательно
 отчаявшись разбраться с его кодовой базой, даже написали свой Git-хостинг, `Pagure
-<https://pagure.io>_`.
+<https://pagure.io>`_.
 
 Но посмотрим. Возможно с ростом популярности, кодовая база GitLab
 стабилизируется, и техподдержка упростится. Строго говоря, основной конкурент -
