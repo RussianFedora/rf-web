@@ -1,15 +1,12 @@
 .. title: IAmA-сессия от Lennart Poettering
 .. slug: iama-сессия-от-lennart-poettering
 .. date: 2014-12-02 21:40:20
-.. tags:
+.. tags: github, gitlab
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 `Cразу после Greg KH </content/iama-сессия-от-greg-kroah-hartman>`__
 собрался на допрос и Lennart Poettering. Если пропустили, то `вот его
