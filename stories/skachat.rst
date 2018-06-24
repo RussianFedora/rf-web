@@ -17,16 +17,12 @@
 * `Полное руководство по установке Fedora (на английском языке) <https://docs.fedoraproject.org/en-US/Fedora/26/html/Installation_Guide/index.html>`__
 
 
-Для Windows:
+Для Windows и MacOS:
 ------------
 
-* `Russian Fedora Live USB Creator
-  <http://russianfedora.pro/sites/default/files/RF-liveusb-creator-3.11.8-setup.exe>`__ -
-  небольшая графическая утилита для записи iso-образов на флешку.
-  Отличается от `Fedora LiveUSB Creator
-  <https://fedorahosted.org/liveusb-creator>`_ тем, что умеет
-  автоматически скачивать образы RFRemix из интернета, в остальном
-  функционал идентичен.
+* `Fedora Media Writer
+  <https://github.com/FedoraQt/MediaWriter/releases/latest>`__ -
+  небольшая графическая утилита для записи ISO-образов на флешку.
 
 Fedora
 ======
