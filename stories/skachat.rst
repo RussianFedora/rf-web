@@ -18,7 +18,7 @@
 
 
 Для Windows и MacOS:
-------------
+-------------------------
 
 * `Fedora Media Writer
   <https://github.com/FedoraQt/MediaWriter/releases/latest>`__ -
