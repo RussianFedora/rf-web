@@ -40,11 +40,11 @@ RFRemix 28
 Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, LXQT, XFCE, MATE, Cinnamon, а также netinstall образ RFRemix Workstation и особые образы Cloud и Docker.
 
 * RFRemix Workstation [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28/Workstation/x86_64/iso/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28.1/Workstation/x86_64/iso/>`__
   ]
 
 * Прочие образы Live [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28/Spins/x86_64/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28.1/Spins/x86_64/>`__
   ]
 
 * Образы для Cloud [ `x86_64
@@ -56,7 +56,7 @@ RFRemix 28
   ]
 
 * Торренты [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28/Torrents/x86_64/>`__
+  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28.1/Torrents/x86_64/>`__
   ]
 
 
