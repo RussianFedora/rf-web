@@ -1,2 +1,2 @@
-Nikola[extras]
+Nikola[extras]==7.8.15
 twitter
