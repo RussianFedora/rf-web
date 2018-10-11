@@ -12,7 +12,7 @@
 <https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/>`_,
 что Microsoft присоединяется к `Open Invention Network
 <https://www.openinventionnetwork.com>`_, проекту про кросс-лицензированию
-патентов с целью защиты от т.н.  "патентных троллей" (сейчас принято
+патентов с целью защиты от т.н. "патентных троллей" (сейчас принято
 использовать политкорректное наименование "non-practicing entity").
 
 Теоретически, это значит, что MS больше не будет, т.к. не сможет, использовать
