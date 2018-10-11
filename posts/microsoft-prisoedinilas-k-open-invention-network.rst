@@ -11,7 +11,7 @@
 `Официально было объявлено
 <https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/>`_,
 что Microsoft присоединяется к `Open Invention Network
-<https://www.openinventionnetwork.com>`_, проекту про кросс-лицензированию
+<https://www.openinventionnetwork.com>`_, проекту по кросс-лицензированию
 патентов с целью защиты от т.н. "патентных троллей" (сейчас принято
 использовать политкорректное наименование "non-practicing entity").
 
