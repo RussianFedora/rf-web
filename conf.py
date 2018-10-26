@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
         ("/categories/", "Тэги"),
         ("/rss.xml", "RSS лента"),
         ("http://wiki.russianfedora.pro/", "Вики"),
+        ("https://russianfedora.github.io/FAQ/", "FAQ"),
     ),
 }
 
