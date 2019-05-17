@@ -8,8 +8,10 @@
 .. type: text
 
  
-Сообщество Fedora Ru(+fedora-ru:matrix.org)
-+++++++++++++++++++++++++++++++++++++++++++
+Сообщество Russian Fedora в Matrix
+++++++++++++++++++++++++++++++++++
+
+**Сообщество:** `Fedora Ru (+fedora-ru:matrix.org) <https://riot.im/app/#/group/+fedora-ru:matrix.org>`_
 
 Общие правила
 =============
