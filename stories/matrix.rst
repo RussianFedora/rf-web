@@ -11,7 +11,7 @@
 Сообщество Russian Fedora в Matrix
 ++++++++++++++++++++++++++++++++++
 
-**Сообщество:** `Fedora Ru (+fedora-ru:matrix.org) <https://riot.im/app/#/group/+fedora-ru:matrix.org>`_
+**Сообщество:** `Fedora Ru (+fedora-ru:matrix.org) <https://matrix.to/#/+fedora-ru:matrix.org>`_
 
 Общие правила
 =============
@@ -31,7 +31,7 @@
 Russian Fedora
 --------------
 
-`#russianfedora:matrix.org <https://riot.im/app/#/room/#russianfedora:matrix.org>`_
+`#russianfedora:matrix.org <https://matrix.to/#/#russianfedora:matrix.org>`_
 
 Общий чат для обсуждения новостей, решения проблем и дискуссий о Fedora и Linux.
 
@@ -42,7 +42,7 @@ Russian Fedora
 Fedora RPM packaging Ru
 -----------------------
 
-`#fedora-rpm-ru:matrix.org <https://riot.im/app/#/room/#fedora-rpm-ru:matrix.org>`_
+`#fedora-rpm-ru:matrix.org <https://matrix.to/#/#fedora-rpm-ru:matrix.org>`_
 
 Технические вопросы по пакетированию rpm в Fedora.
 
@@ -53,14 +53,14 @@ Fedora RPM packaging Ru
 Rust RPM packaging Ru
 ---------------------
 
-`#rust-rpm-ru:matrix.org <https://riot.im/app/#/room/#rust-rpm-ru:matrix.org>`_
+`#rust-rpm-ru:matrix.org <https://matrix.to/#/#rust-rpm-ru:matrix.org>`_
 
 Пакетирование Rust.
 
 Fedora Ru Org
 -------------
 
-`#fedora-ru-org:matrix.org <https://riot.im/app/#/room/#fedora-ru-org:matrix.org>`_
+`#fedora-ru-org:matrix.org <https://matrix.to/#/#fedora-ru-org:matrix.org>`_
 
 Обсуждение организации Matrix-сообщества, правил,
 оффтоп-листа. Жалобы, предложения по улучшению, созданию
