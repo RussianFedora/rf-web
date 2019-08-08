@@ -19,6 +19,3 @@ Red Hat официально `присоединилась к RISC-V Foundation
 .. image:: /images/fedora_riscv_station.jpeg
    :align: center
    :width: 50.0%
-   :target: https://abopen.com/news/building-a-risc-v-pc/
-
-
