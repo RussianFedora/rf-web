@@ -134,9 +134,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Пульс"),
         ("/stories/matrix/", "Matrix-чаты"),
-        ("/stories/rfremix/", "RFRemix"),
-        ("/stories/repository/", "Репозиторий"),
         ("/stories/download/", "Скачать"),
+        ("/posts/rfremix-retired/", "RFRemix"),
         ("/archive.html", "Архив"),
         ("/categories/", "Тэги"),
         ("/rss.xml", "RSS лента"),
