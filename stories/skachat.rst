@@ -8,13 +8,11 @@
 .. type: text
 
 Общая информация
-================
+==================
 
-* `Инструкция по созданию и использованию LiveUSB <https://fedoraproject.org/wiki/How_to_create_and_use_Live_USB/ru>`__
+* `Инструкция по созданию загрузочной USB флешки <https://www.easycoding.org/2017/07/12/sozdayom-fedora-liveusb.html>`__
 
-* `Обновлённая инструкция по созданию загрузочной USB флешки <https://www.easycoding.org/2017/07/12/sozdayom-fedora-liveusb.html>`__
-
-* `Полное руководство по установке Fedora (на английском языке) <https://docs.fedoraproject.org/en-US/Fedora/26/html/Installation_Guide/index.html>`__
+* `Полное руководство по установке Fedora (на английском языке) <https://docs.fedoraproject.org/en-US/fedora/f31/install-guide/>`__
 
 
 Для Windows и MacOS:
@@ -25,59 +23,64 @@
   небольшая графическая утилита для записи ISO-образов на флешку.
 
 Fedora
-======
+========
 
-Вся информация о том, где и как можно получить оригинальную Fedora,
-доступна на основном сайте `https://getfedora.org
-<https://getfedora.org/ru/>`_
+Fedora 31
+-----------
 
-RFRemix
-=======
+Для загрузки доступны Live образы Workstation (Gnome 3), KDE (Plasma 5), LXDE, LXQT, XFCE, MATE, Cinnamon, а также netinstall образ Fedora Workstation.
 
-RFRemix 29
-----------
-
-Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, LXQT, XFCE, MATE, Cinnamon, а также netinstall образ RFRemix Workstation и особые образы Cloud и Docker.
-
-* RFRemix Workstation [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/29/Workstation/x86_64/>`__
+* Fedora Workstation [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Workstation/x86_64/iso/>`__
   ]
 
-* Прочие образы Live [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/29/Spins/x86_64/>`__
+* Образы Live с иными DE [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Spins/x86_64/iso/>`__
   ]
 
-* RFRemix Server [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/29/Server/x86_64/iso/>`__
+* Fedora Everything netinstall [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/iso/>`__
   ]
 
-* Торренты [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/29/Torrents/x86_64/>`__
+* Fedora Server [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Server/x86_64/iso/>`__
   ]
 
-
-RFRemix 28
-----------
-
-Для загрузки доступны Live образы Workstation, KDE (Plasma 5), LXDE, LXQT, XFCE, MATE, Cinnamon, а также netinstall образ RFRemix Workstation и особые образы Cloud и Docker.
-
-* RFRemix Workstation [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28.1/Workstation/x86_64/iso/>`__
-  ]
-
-* Прочие образы Live [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28.1/Spins/x86_64/>`__
-  ]
-
-* Образы для Cloud [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28/CloudImages/x86_64/images/>`__
-  ]
-
-* Docker [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28/Docker/x86_64/images/>`__
+* Fedora Silverblue [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Silverblue/x86_64/iso/>`__
   ]
 
 * Торренты [ `x86_64
-  <https://mirror.yandex.ru/fedora/russianfedora/releases/RFRemix/28.1/Torrents/x86_64/>`__
+  <https://torrent.fedoraproject.org/>`__
+  ]
+
+
+Fedora 30
+-----------
+
+Для загрузки доступны Live образы Workstation (Gnome 3), KDE (Plasma 5), LXDE, LXQT, XFCE, MATE, Cinnamon, а также netinstall образ Fedora Workstation.
+
+* Fedora Workstation [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Workstation/x86_64/iso/>`__
+  ]
+
+* Образы Live с иными DE [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Spins/x86_64/iso/>`__
+  ]
+
+* Fedora Everything netinstall [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Everything/x86_64/iso/>`__
+  ]
+
+* Fedora Server [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Server/x86_64/iso/>`__
+  ]
+
+* Fedora Silverblue [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Silverblue/x86_64/iso/>`__
+  ]
+
+* Торренты [ `x86_64
+  <https://torrent.fedoraproject.org/>`__
   ]
 
