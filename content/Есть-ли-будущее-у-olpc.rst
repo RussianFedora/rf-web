@@ -1,15 +1,12 @@
 .. title: Есть ли будущее у OLPC?
 .. slug: Есть-ли-будущее-у-olpc
 .. date: 2014-03-13 11:12:00
-.. tags:
+.. tags: olpc
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Над проектом
 `OLPC <https://ru.wikipedia.org/wiki/One_Laptop_Per_Child>`__ сгущаются

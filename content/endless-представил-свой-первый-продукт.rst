@@ -1,15 +1,12 @@
 .. title: Endless представил свой первый продукт!
 .. slug: endless-представил-свой-первый-продукт
 .. date: 2015-04-18 11:26:18
-.. tags:
+.. tags: endlessm olpc, gnome, политика, санкции
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Наш коллега, `Jasper St. Pierre <https://github.com/magcius>`__,
 разработчик Wayland, `бывший инженер Red
