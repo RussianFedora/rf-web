@@ -1,15 +1,12 @@
 .. title: Одобрены новые "фичи" Fedora 17
 .. slug: одобрены-новые-фичи-fedora-17
 .. date: 2012-01-17 11:40:45
-.. tags:
-.. category:
+.. tags: kde, opennebula, olpc
+.. category: Fedora Changes
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 На прошедшем 16 января 2012 года FESCo были
 `одобрены <https://thread.gmane.org/gmane.linux.redhat.fedora.devel/158203>`__

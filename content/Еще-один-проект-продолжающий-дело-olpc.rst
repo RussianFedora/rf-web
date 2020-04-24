@@ -1,15 +1,12 @@
 .. title: Еще один проект, продолжающий дело OLPC 
 .. slug: Еще-один-проект-продолжающий-дело-olpc
 .. date: 2015-08-21 09:54:36
-.. tags:
+.. tags: olpc, endless
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Дружественная нам организация, `One Laptop Per
 Child <http://one.laptop.org/>`__, благодаря которой Fedora одно время

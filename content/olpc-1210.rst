@@ -1,15 +1,12 @@
 .. title: OLPC 12.1.0
 .. slug: olpc-1210
 .. date: 2012-09-05 12:13:05
-.. tags:
+.. tags: olpc, fedora
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: Peter Lemenkov
-
-**Это архивная статья**
-
 
 Эта новость немного запоздала, но все же - наши друзья из проекта OLPC
 `выпустили обновление для 12й версии своей
