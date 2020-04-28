@@ -25,6 +25,36 @@
 Fedora
 ========
 
+Fedora 32
+-----------
+
+Для загрузки доступны Live образы Workstation (Gnome 3), KDE (Plasma 5), LXDE, LXQT, XFCE, MATE, Cinnamon, а также netinstall образ Fedora Workstation.
+
+* Fedora Workstation [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/32/Workstation/x86_64/iso/>`__
+  ]
+
+* Образы Live с иными DE [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/32/Spins/x86_64/iso/>`__
+  ]
+
+* Fedora Everything netinstall [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/32/Everything/x86_64/iso/>`__
+  ]
+
+* Fedora Server [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/32/Server/x86_64/iso/>`__
+  ]
+
+* Fedora Silverblue [ `x86_64
+  <https://dl.fedoraproject.org/pub/fedora/linux/releases/32/Silverblue/x86_64/iso/>`__
+  ]
+
+* Торренты [ `x86_64
+  <https://torrent.fedoraproject.org/>`__
+  ]
+
+
 Fedora 31
 -----------
 
@@ -48,36 +78,6 @@ Fedora 31
 
 * Fedora Silverblue [ `x86_64
   <https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Silverblue/x86_64/iso/>`__
-  ]
-
-* Торренты [ `x86_64
-  <https://torrent.fedoraproject.org/>`__
-  ]
-
-
-Fedora 30
------------
-
-Для загрузки доступны Live образы Workstation (Gnome 3), KDE (Plasma 5), LXDE, LXQT, XFCE, MATE, Cinnamon, а также netinstall образ Fedora Workstation.
-
-* Fedora Workstation [ `x86_64
-  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Workstation/x86_64/iso/>`__
-  ]
-
-* Образы Live с иными DE [ `x86_64
-  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Spins/x86_64/iso/>`__
-  ]
-
-* Fedora Everything netinstall [ `x86_64
-  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Everything/x86_64/iso/>`__
-  ]
-
-* Fedora Server [ `x86_64
-  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Server/x86_64/iso/>`__
-  ]
-
-* Fedora Silverblue [ `x86_64
-  <https://dl.fedoraproject.org/pub/fedora/linux/releases/30/Silverblue/x86_64/iso/>`__
   ]
 
 * Торренты [ `x86_64
