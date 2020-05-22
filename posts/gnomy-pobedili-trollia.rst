@@ -1,7 +1,7 @@
 .. title: Гномы победили тролля!
 .. slug: gnomy-pobedili-trollia
 .. date: 2020-05-22 20:16:14 UTC+03:00
-.. tags: gnome, патенты
+.. tags: gnome, патенты, legal
 .. category: 
 .. link: 
 .. description: 
