@@ -1,7 +1,7 @@
 .. title: Будущее Btrfs
 .. slug: budushchee-btrfs
 .. date: 2017-08-15 15:59:34 UTC+03:00
-.. tags: xfs, btrfs, eol
+.. tags: stratis, xfs, btrfs, eol
 .. category: 
 .. link: 
 .. description: 
