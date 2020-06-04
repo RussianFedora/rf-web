@@ -1,7 +1,7 @@
 .. title: Bundled libraries - немного статистики и комментариев к ней
 .. slug: bundled-libraries-немного-статистики-и-комментариев-к-ней
 .. date: 2012-04-07 01:11:29
-.. tags: security
+.. tags: security, bundled libs
 .. category: начинающим
 .. link:
 .. description:
