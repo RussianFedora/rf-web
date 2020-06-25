@@ -9,7 +9,7 @@
 .. author: Peter Lemenkov
 
 Хорошая новость! В `последнем списке Top500 СуперЭВМ
-<https://www.top500.org/list/2018/06/>`_, машины на `первом
+<https://www.top500.org/lists/top500/2018/06/>`_, машины на `первом
 <https://www.top500.org/system/179397>`_ и `третьем
 <https://www.top500.org/system/179398>`_ местах управляются RHEL. Мы бы,
 конечно, установили Fedora 28, но тоже хорошо.
