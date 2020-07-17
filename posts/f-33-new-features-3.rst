@@ -18,7 +18,7 @@
 - Отключить `активацию dmraid при первом запуске системы <https://fedoraproject.org/wiki/Changes/DisableDmraidOnFirstRun>`_. Сейчас она копируется прямо с LiveCD. Заодно `удалить device-mapper-multipath с LiveCD <https://fedoraproject.org/wiki/Changes/RemoveDeviceMapperMultipathFromWorkstationLiveCD>`_. Если вам надо, то ставьте сами.
 - Обновление `GHC до версии 8.8 <https://fedoraproject.org/wiki/Changes/GHC_8.8_and_LTS16>`_, `Glibc до версии 2.32 <https://fedoraproject.org/wiki/Changes/GLIBC232>`_, `LLVM до версии 11 <https://fedoraproject.org/wiki/Changes/LLVM-11>`_, `LXQt до версии 0.15.0 <https://fedoraproject.org/wiki/Changes/LXQt_0.15.0>`_, `Node.js до версии 14 <https://fedoraproject.org/wiki/Changes/Nodejs14x>`_.
 - `Обновление IBus до версии 1.5.23 <https://fedoraproject.org/wiki/Changes/IBus_1.5.23>`_. Это изменение поможет тем, кто пока еще почему-то не использует GNOME, так как там лучше интеграция с xcb.
-- `Включение EralyOOM в версии для KDE <https://fedoraproject.org/wiki/Changes/KDEEarlyOOM>`_. Наверное, KDE в этом нуждается.
+- `Включение EarlyOOM в версии для KDE <https://fedoraproject.org/wiki/Changes/KDEEarlyOOM>`_. Наверное, KDE в этом нуждается.
 - `Настройки модульных репозиториев будут поставляться в отдельном пакете <https://fedoraproject.org/wiki/Changes/ModularReposSubpackage>`_.
 - `Переход на другой формат записей для NetworkManager <https://fedoraproject.org/wiki/Changes/NetworkManager_keyfile_instead_of_ifcfg_rh>`_.
 - `Полный запрет на прекомпилированный байткод для питона <https://fedoraproject.org/wiki/Changes/No_more_automagic_Python_bytecompilation_phase_3>`_.
